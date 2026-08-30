@@ -132,3 +132,30 @@ oavsett om ett dokument har ett eller flera värden.
 
 Om möjligt länka gärna till källor, detta för att man ska kunna gå tillbaka och verifiera, ändra eller lägga till information. Lägg källan som en egen not under
 `källor/` och länka till den från de sidor som bygger på den, i stället för att upprepa hänvisningen.
+
+## Automatiska verktyg (valfritt)
+
+För att snygga till texten automatiskt och upptäcka eventuella felaktigheter finns linters och textformaterare.
+
+* [mise](mise.jdx.dev) (en place) är ett verktyg för att kunna installera olika versioner av samma program på samma maskin.
+
+* [hk](hk.jdx.dev) är framtaget av samma utvecklare och är ett verktyg för att automatiskt validera text innan commit eller push.
+
+* [rumdl](https://rumdl.dev/) används för att linta och formattera Markdownfiler. Går att installera direkt genom mise och har inbyggt stöd i hk.
+
+### Installationsinstruktioner
+
+>[!WARNING]
+> Det är viktigt att kunna förstå vad man gör när man håller på att konfigurera saker på sin maskin. Generellt tips är att inte följa instruktioner om du inte förstår vad som händer.
+
+>[!NOTE]
+> Om man vill installera så lite som möjligt på Windows går det att hämta hem via `winget` som är förinstallerat.
+
+1. [Installera mise]([https://mise.jdx.dev/installing-mise.html#installing-mise]). Det finns för Windows, Mac, och Linux.
+2. Öppna en terminal i samma mapp som projektet
+   1. Läs först filen `mise.toml` förstå vad den gör.
+      1. Installerar hk och rumdl
+      2. Konfigurerar git hooks för projektet med hk.
+   2. Kör `mise.trust` om du litar på vad som står i filen
+   3. Kör sedan `mise install` så kommer alla verktyg som behövs installeras och konfigureras
+3. Vid en commit eller push kommer hk att köra rumdl för att validera filerna som har ändrats.
