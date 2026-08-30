@@ -1,0 +1,33 @@
+amends "package://github.com/jdx/hk/releases/download/v1.56.1/hk@1.56.1#/Config.pkl"
+import "package://github.com/jdx/hk/releases/download/v1.56.1/hk@1.56.1#/Builtins.pkl"
+// Using a coding agent? See https://hk.jdx.dev/agents
+
+local linters = new Mapping<String, Step> {
+    ["rumdl"] = Builtins.rumdl
+    ["rumdl_format"] = Builtins.rumdl_format
+    // ...other linters
+}
+
+hooks {
+    ["pre-commit"] {
+        fix = true
+        stash = "git"
+        steps = linters
+    }
+    ["fix"] {
+        fix = true
+        steps = linters
+    }
+    ["check"] {
+        steps = linters
+    }
+    ["pre-push"] {
+        steps {
+            ["rumdl"] = Builtins.rumdl
+            ["rumdl-links"] {
+                condition = "false"  // TODO: re-enable once rumdl fixes MD057 parenthesis in filename bug
+                check = "rumdl check --enable MD051,MD057 ."
+            }
+        }
+    }
+}

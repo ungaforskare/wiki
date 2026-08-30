@@ -1,0 +1,9 @@
+[tools]
+hk = "latest"
+rumdl = "latest"
+
+[env]
+HK_MISE = 1
+
+[hooks]
+postinstall = "hk install --mise"
