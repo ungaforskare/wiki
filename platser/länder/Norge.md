@@ -1,0 +1,5 @@
+---
+kategorier:
+  - land
+  - plats
+---

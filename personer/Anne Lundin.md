@@ -1,0 +1,3 @@
+---
+kategorier: person
+---
