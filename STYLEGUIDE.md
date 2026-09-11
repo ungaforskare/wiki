@@ -137,9 +137,9 @@ Om möjligt länka gärna till källor, detta för att man ska kunna gå tillbak
 
 För att snygga till texten automatiskt och upptäcka eventuella felaktigheter finns linters och textformaterare.
 
-* [mise](mise.jdx.dev) (en place) är ett verktyg för att kunna installera olika versioner av samma program på samma maskin.
+* [mise](https://mise.jdx.dev) (en place) är ett verktyg för att kunna installera olika versioner av samma program på samma maskin.
 
-* [hk](hk.jdx.dev) är framtaget av samma utvecklare och är ett verktyg för att automatiskt validera text innan commit eller push.
+* [hk](https://hk.jdx.dev) är framtaget av samma utvecklare och är ett verktyg för att automatiskt validera text innan commit eller push.
 
 * [rumdl](https://rumdl.dev/) används för att linta och formattera Markdownfiler. Går att installera direkt genom mise och har inbyggt stöd i hk.
 
@@ -151,7 +151,7 @@ För att snygga till texten automatiskt och upptäcka eventuella felaktigheter f
 >[!NOTE]
 > Om man vill installera så lite som möjligt på Windows går det att hämta hem via `winget` som är förinstallerat.
 
-1. [Installera mise]([https://mise.jdx.dev/installing-mise.html#installing-mise]). Det finns för Windows, Mac, och Linux.
+1. [Installera mise](https://mise.jdx.dev/installing-mise.html#installing-mise). Det finns för Windows, Mac, och Linux.
 2. Öppna en terminal i samma mapp som projektet
    1. Läs först filen `mise.toml` förstå vad den gör.
       1. Installerar hk och rumdl
