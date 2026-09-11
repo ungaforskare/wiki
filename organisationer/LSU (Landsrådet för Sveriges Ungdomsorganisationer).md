@@ -1,0 +1,6 @@
+---
+aliases:
+  - LSU
+kategorier:
+  - extern
+---
