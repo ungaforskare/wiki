@@ -6,8 +6,7 @@
 # Global configuration options
 [global]
 # List of rules to disable (uncomment and modify as needed)
-# TODO: re-enable MD057 once rumdl fix the parenthesis in filename bug
-disable = ["MD013","MD041","MD057"]
+disable = ["MD013","MD041"]
 
 # List of rules to enable exclusively (replaces defaults; only these rules will run)
 # enable = ["MD001", "MD003", "MD004"]
