@@ -26,7 +26,7 @@ Ref: [Lovis](../../organisationer/Lovis.md)
 
 Ansvarig: [Linda Svensson](../../personer/Linda%20Svensson.md)
 
-Förbundet Unga Forskare samarbetade under året med [[../../organisationer/Fältbiologerna]], [Studiefrämjandet](../../organisationer/SFR%20(Studiefrämjandet).md) och [SIDA](../../organisationer/SIDA.md) i projektet Lovis. [Lovis](../../organisationer/Lovis.md) är ett tyskt segelfartyg som hyste 30 ungdomar frän sju olika länder som gränsar till Östersjön. Båten besökte under sommaren en stad i vart och ett av deltagarnas hemländer. Två personer frản Unga Forskare var med som deltagare under resan.
+Förbundet Unga Forskare samarbetade under året med [[../../organisationer/Fältbiologerna]], [Studiefrämjandet](../../organisationer/SFR%20(Studiefrämjandet).md) och [SIDA](../../organisationer/SIDA.md) i projektet Lovis. [Lovis](../../organisationer/Lovis.md) är ett tyskt segelfartyg som hyste 30 ungdomar frän sju olika länder som gränsar till Östersjön. Båten besökte under sommaren en stad i vart och ett av deltagarnas hemländer. Två personer från Unga Forskare var med som deltagare under resan.
 
 [Studiefrämjandet](../../organisationer/SFR%20(Studiefrämjandet).md) anställde en konsult som anordnade en del trevliga aktiviteter för deltagarna ombord när de väl kom till [Kalmar](../../platser/orter/Kalmar.md), som var den officiella svenska hamnen som besöktes.
 
