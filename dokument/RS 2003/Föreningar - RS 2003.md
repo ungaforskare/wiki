@@ -1,71 +1,71 @@
 
 ## Avregistrerade föreningar 2002
 
-### UFB
+### UFB; Unga Forskare Bergslagen
 
-Naturvetenskapliga Föreningen Dum Sprio Spero (NVFDSS)
-Ak Pak Unga Forskare (VIP)
+- [[Naturvetenskapliga Föreningen Dum Sprio Spero]] (NVFDSS)
+- [[Ak Pak Unga Forskare]] (VIP)
 
-### UFV
+### UFV; Unga Forskare Väst
 
-Rattmuff (RATTMUFF)
-Lillän Unga Forskare Förening (LUFF)
-CPU 2.0 (CPU 2.0)
-Scyssta Klubben Unga Forskare (SKUF)
-Masslösa bosonerna (MaBo)
-Udda Forskare (krfsm)
+- [[Rattmuff]] (RATTMUFF)
+- [[Lillän Unga Forskare Förening]] (LUFF)
+- [[CPU 2.0]] (CPU 2.0)
+- [[Scyssta Klubben Unga Forskare]] (SKUF)
+- [[Masslösa bosonerna]] (MaBo)
+- [[Udda Forskare]] (krfsm)
 
-### UFNN
+### UFNN; Unga Forskare Nedre Norrland
 
-Millenium-Sundsvalls IT Förening (MISIT)
+- [[Millenium-Sundsvalls IT Förening]] (MISIT)
 
-### UFS
+### UFS; Unga Forskare Stockholm
 
-Spằnga Unga Forskare (SPUF)
-Danderyds Unga Forskare (DUF)
+- [[Spằnga Unga Forskare]] (SPUF)
+- [[Danderyds Unga Forskare]] (DUF)
 
-### UFSk
+### UFSk; Unga Forskare Skåne
 
-Malmö Astronomi och RymdfartsSällskap (mars)
+- [[Malmö Astronomi och RymdfartsSällskap]] (mars)
 
-### UFÖS
+### UFÖS; Unga Forskare Östergötland Småland
 
-Herkules Amatörastronomiska Sällskap (HAAS)
-Psientists (Psi)
-Codex Unga Forskare (CODEX)
-Puh (Puh)
-Gislaveds Unga Forskare (GUF)
+- [[Herkules Amatörastronomiska Sällskap]] (HAAS)
+- [[Psientists]] (Psi)
+- [[Codex Unga Forskare]] (CODEX)
+- [[Puh]] (Puh)
+- [[Gislaveds Unga Forskare]] (GUF)
 
-## UFÖN
+### UFÖN; Unga Forskare Övre Norrland
 
-Pitea Young Scientists (PYS)
-Dataklubben Orion (ORION)
+- [[Pitea Young Scientists]] (PYS)
+- [[Dataklubben Orion]] (ORION)
 
 ## Antagna föreningar 2002
 
-### UFV
+### UFV; Unga Forskare Väst
 
-Västsveriges Unga Naturvetare (VUN)
-KringLAN (Kringl)
-Gasterix (gasterix)
+- [[Västsveriges Unga Naturvetare]] (VUN)
+- [[KringLAN]] (Kringl)
+- [[Gasterix]] (gasterix)
 
-### UFNN
+### UFNN; Unga Forskare Nedre Norrland
 
-Sundsvalls Molekylförening (SMF)
-Miljönissarnas Unga Forskare Förening (MNUFF)
+- [[Sundsvalls Molekylförening]] (SMF)
+- [[Miljönissarnas Unga Forskare Förening]] (MNUFF)
 
-### UFS
+### UFS; Unga Forskare Stockholm
 
-Utställningsgruppen och Utställarna (UGUUF)
-Data & Elektronikföreningen Stockholm (DEF)
-Onlajn (Onlajn)
-Datorföreningen Andromeda (M31)
+- [[Utställningsgruppen och Utställarna]] (UGUUF)
+- [[Data & Elektronikföreningen Stockholm]] (DEF)
+- [[Onlajn]] (Onlajn)
+- [[Datorföreningen Andromeda]] (M31)
 
-### UFÖS
+### UFÖS; Unga Forskare Östergötland Småland
 
-Föreningen Unga Forskare Östra Götaland (FUFÖS)
-Xenon - Jönköpings Unga Forskare (XENON)
+- [[Föreningen Unga Forskare Östra Götaland]] (FUFÖS)
+- [[Xenon - Jönköpings Unga Forskare]] (XENON)
 
-### UFÖN
+### UFÖN; Unga Forskare Övre Norrland
 
-Strömbacka Dataförening (SDF)
+- [[Strömbacka Dataförening]] (SDF)
