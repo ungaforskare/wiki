@@ -11,7 +11,7 @@ Vi behöver ett manifest!
 
 Motion till Förbundet Unga Forskares riksstämma 2001, 24-27 maj
 
-Motionär: Distriktsstyrelsen i Östergörland-Småland
+Motionär: Distriktsstyrelsen i Östergötland-Småland
 
 Som det ser ut idag så är Unga Forskare generellt relativt okänt och "luddigt i kanten". En
 vanlig formulering, och tillika oftast det starkaste som står att finna i stadgar, på hemsidor etc.
