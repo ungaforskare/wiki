@@ -1,80 +1,39 @@
+## Röstlängd
 
-## **Namn**
+1. [[Amira Roula]] ([UFS](../../distrikt/UFS%20(Unga%20Forskare%20Stockholm).md))
 
-1. Amira Roula
+2. [[Andrea Westerdahl]] ([[UGUFF]])
 
-2. Andrea Westerdahl
+3. [[Andreas Rocén]] ([Pirog](../../föreningar/Unga%20Forskare%20Föreningen%20Pirog%20i%20Tranås.md))
 
-3. Andreas Rocén
+4. [[Ann Du]] ([[Xenon]])
 
-4. Ann Du
+5. [[Anna-Maria Wiberg]] ([[UGUFF]])
 
-5. Anna-Maria Wiberg
+6. [[Erik Bengtsson]] ([UFCX](../../distrikt/UFCX%20(Unga%20Forskare%20Uppsala%20Gävleborg).md))
 
-6. Erik Bengtsson
+7. [[Erik Frick]] ([[Gasterix]])
 
-7. Erik Frick
+8. [[Johanna Rogval]] ([[Xenon]])
 
-8. Johanna Rogval
+9. [[Johannes Z Wolff]] ([[MNF]])
 
-9. Johannes Z Wolff
+10. [[Laura Tarnawski]] ([[LEGO]])
 
-10. Laura Tarnawski
+11. [[Marcus Andersson]] ([[FUFÖS]])
 
-11. Marcus Andersson
+12. [[Samuel Tylstedt]] ([[VUF]])
 
-12. Samuel Tylstedt
+13. [[Sarah Warsi]] ([[LEGO]])
 
-13. Sarah Warsi
+14. [[Valentina Chapovalova]] ([[Alef Noll]])
 
-14. Valentina Chapovalova
+15. [[Robert Jacobsson]] ([UFÖS](../../distrikt/UFÖS%20(Unga%20Forskare%20Östergötland%20Småland).md))
 
-15. Robert Jacobsson
+16. [[Yovana Wärner]] ([[ARS]])
 
-16. Yovana Wärner
+17. [[Love Forsberg]] ([[Alef Noll]])
 
-17. Love Forsberg
+18. [[Johannes Edström]] ([[MNF]])
 
-18. Johannes Edström
-
-19. Petter Blomberg
-
-## Röstade för Föreningen / Distriktet
-
-### UFS
-
-#### UGUFF
-
-Pirog
-
-Xenon
-
-UGUFF
-
-UFCX
-
-Gasterix
-
-Xenon
-
-MNF
-
-LEGO
-
-FUFÖS
-
-VUF
-
-LEGO
-
-Alef Noll
-
-UFÖS
-
-ARS
-
-Alef Noll
-
-MNF
-
-Onlajn
+19. [[Petter Blomberg]] ([[Onlajn]])
