@@ -31,33 +31,33 @@ kategorier:
   - "[[protokoll]]"
 ---
 
-## §1 **Stämmans öppnande**
+## §1 Stämmans öppnande
 
 > Förbundsordförande [[Tobias Bladini]] hälsar alla välkomna och förklarar
 > Förbundet Unga Forskares Riksstämma 2005 öppnad.
 
-## §2 **Val av mötesordförande och mötessekreterare**
+## §2 Val av mötesordförande och mötessekreterare
 
 > Till mötesordförande väljs [[Lage Rahm]].
 >
 > Till mötessekreterare väljs [[Lana Bublik]].
 
-## §3 **Val av två justerare, tillika rösträknare**
+## §3 Val av två justerare, tillika rösträknare
 
 > Till justerare, tillika rösträknare, väljs [[Elin Einarson]] och
 > [[Robert Jacobsson]].
 
-## §4 **Fråga om stämman är stadgeenligt kallad**
+## §4 Fråga om stämman är stadgeenligt kallad
 
 > Stämman finner att mötet är stadgeenligt kallat.
 
-## §5 **Justering av röstlängden**
+## §5 Justering av röstlängden
 
 > Röstlängden justeras enligt **bilaga 1**.
 
-## §6 **Övrig formalia**
+## §6 Övrig formalia
 
-### §6a **Fastställande av arbetsformer**
+### §6a Fastställande av arbetsformer
 
 > [[Hanna Modin]] informerar om påverkanstorgets förfarande angående
 > förslag och kommentarer. Alla får lov att lägga yttranden på
@@ -71,7 +71,7 @@ kategorier:
 > att anta förslag till arbetsformer för Påverkanstorg och
 > inflytandepunkter under förbundsstämman år 2005.
 
-### §6b **Fastställande av dagordningen**
+### §6b Fastställande av dagordningen
 
 > [[Hanna Modin]] presenterar förbundsstyrelsens förslag på dagordning.
 
@@ -80,7 +80,7 @@ kategorier:
 >
 > att anta dagordningsförslaget
 
-### §6c **Fastställande av inflytandepunkter**
+### §6c Fastställande av inflytandepunkter
 
 > Förbundsstyrelsen förelägger stämman följande förslag till
 > inflytandepunkter:
@@ -101,7 +101,7 @@ kategorier:
 > att anta förslaget om inflytandepunkter med Robert Jacobssons yrkande
 > om ändring
 
-### §6d **Val av inflytandepunktsansvariga**
+### §6d Val av inflytandepunktsansvariga
 
 > Förbundsstyrelsen förelägger stämman följande förslag till
 > inflytandepunktsansvariga (IFPA):
@@ -133,7 +133,7 @@ Inflytandepunktsansvariga presenterar sig kort.
 >
 > att anta förslaget om inflytandepunktsansvariga
 
-### §6e **Val av redaktionsutskott**
+### §6e Val av redaktionsutskott
 
 >[!yrkande]
 > Förbundsstyrelsen föreslår
@@ -147,7 +147,7 @@ Inflytandepunktsansvariga presenterar sig kort.
 >
 > att till redaktionsutskott utse ovanstående personer
 
-## §7 **Antagande av mötesregler för riksstämmans pleniförhandlingar**
+## §7 Antagande av mötesregler för riksstämmans pleniförhandlingar
 
 > [[Lage Rahm]] föredrag förslag på mötesregler för stämman:
 >
@@ -163,7 +163,7 @@ Inflytandepunktsansvariga presenterar sig kort.
 >
 > att anta förslaget om mötesregler för riksstämman
 
-## §8 **Valberedningen har ordet**
+## §8 Valberedningen har ordet
 
 > [[Andreas Rocén]] föredrar [valberedningens](../../verksamheter/Valberedningen.md)
 > förslag för stämman.
@@ -216,14 +216,14 @@ Ideell: [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
 > [[Andreas Rocén]] informerar om att ny valberedning ska väljas samt
 > att det ännu finns möjlighet att lägga fler förslag/byta ut föreslagna
 
-## §9 **Presentation av verksamhetsplan**
+## §9 Presentation av verksamhetsplan
 
 > [[Hanna Modin]] föredrar förbundsstyrelsens förslag på verksamhetsplan
 > för stämman.
 
 *Mötet ajourneras från 10.05 till 09.00 nästföljande dag.*
 
-## §10 **Det gångna året**
+## §10 Det gångna året
 
 > *Verksamhetsberättelse, resultaträkning, balansräkning och
 > revisionsberättelse för FUF 2004 samt verksamhetsberättelse,
@@ -232,7 +232,7 @@ Ideell: [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
 > 2004 har under stämman varit presenterad via utställning av skärmar i
 > enlighet med det material som sänts ut med stämmohandlingarna.*
 
-### §10a **Styrelsens verksamhetsberättelse för FUF 2004** (bilaga 3)
+### §10a Styrelsens verksamhetsberättelse för FUF 2004 (bilaga 3)
 
 >[!yrkande]
 > Inflytandepunktens huvudyrkande angående verksamhetsberättelse:
@@ -245,7 +245,7 @@ Ideell: [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
 >
 > att bifalla ovanstående yrkande.
 
-### §10b **Resultaträkning** (bilaga 4) **och balansräkning** (bilaga 5) **för FUF 2004**
+### §10b Resultaträkning (bilaga 4) och balansräkning (bilaga 5) för FUF 2004
 
 >[!yrkande]
 > Inflytandepunktens huvudyrkande angående resultaträkning och
@@ -259,7 +259,7 @@ Ideell: [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
 >
 > att bifalla ovanstående yrkande.
 
-### §10c **Revisorernas berättelse för FUF 2004** (bilaga 6)
+### §10c Revisorernas berättelse för FUF 2004 (bilaga 6)
 
 >[!yrkande]
 > Inflytandepunktens huvudyrkande angående revisorernas berättelse:
@@ -271,7 +271,7 @@ Ideell: [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
 >
 > att bifalla ovanstående yrkande.
 
-### §10d **Styrelsens verksamhetsberättelse för GCB, Gundel Cornelias Stipendiefond för Unga, 2004** (bilaga 7)
+### §10d Styrelsens verksamhetsberättelse för GCB, Gundel Cornelias Stipendiefond för Unga, 2004 (bilaga 7)
 
 >[!yrkande]
 > Inflytandepunktens huvudyrkande angående styrelsens
@@ -285,7 +285,7 @@ Ideell: [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
 >
 > att bifalla ovanstående yrkande.
 
-### §10e **Resultaträkning och balansräkning för GCB 2004** (bilaga 8)
+### §10e Resultaträkning och balansräkning för GCB 2004 (bilaga 8)
 
 >[!yrkande]
 > Inflytandepunktens huvudyrkande angående resultaträkning och
@@ -299,7 +299,7 @@ Ideell: [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
 >
 > att bifalla ovanstående yrkande.
 
-### §10f **Revisorernas berättelse för GCB 2004** (bilaga 9)
+### §10f Revisorernas berättelse för GCB 2004 (bilaga 9)
 
 >[!yrkande]
 > Inflytandepunktens huvudyrkande angående revisorernas berättelse för
@@ -312,7 +312,7 @@ Ideell: [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
 >
 > att bifalla ovanstående yrkande.
 
-## §11 **Fråga om ansvarsfrihet för förbundsstyrelsen**
+## §11 Fråga om ansvarsfrihet för förbundsstyrelsen
 
 >[!yrkande]
 > Inflytandepunktens huvudyrkande angående ansvarsfrihet för
@@ -325,7 +325,7 @@ Ideell: [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
 >
 > att enhälligt bifalla ovanstående yrkande.
 
-## §12 **Avregistrering av föreningar, samt rapport om föreningar antagna sedan RS 2004** (bilaga 11)
+## §12 Avregistrering av föreningar, samt rapport om föreningar antagna sedan RS 2004 (bilaga 11)
 
 >[!warning]
 >OBS: rubrikens hänvisning till "bilaga 11" stämmer inte helt med bilagelistan i slutet av protokollet, som avregistreringsunderlaget istället lägger under bilaga 9. Avvikelsen fanns redan i källdokumentet och har inte rättats här - värt att dubbelkolla mot originalhandlingen.
@@ -353,9 +353,9 @@ Ideell: [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
 >
 > att bifalla yrkande 12 b -- 12 c och avslå 12 a
 
-## §13 **Motioner och propositioner** (bilaga 12)
+## §13 Motioner och propositioner (bilaga 12)
 
-### §13 I **Introduktionskurs**
+### §13 I Introduktionskurs
 
 >[!yrkande]
 > Inflytandepunktens huvudyrkande angående motionen Introduktionskurs:
@@ -378,7 +378,7 @@ Ideell: [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
 >
 > att bifalla ovanstående yrkanden
 
-## §14 **Fastställande av verksamhetsplan för 2005** (bilaga 15)
+## §14 Fastställande av verksamhetsplan för 2005 (bilaga 15)
 
 >[!yrkande]
 > Inflytandepunktens huvudyrkanden angående verksamhetsplan 2005:
@@ -418,7 +418,7 @@ Ideell: [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
 >
 > att bifalla yrkande 14 a - e
 
-## §15 **Fastställande av medlemsavgift för 2005**
+## §15 Fastställande av medlemsavgift för 2005
 
 > [[Hanna Modin]], [[Karolina Åseby]] och [[Anna Alfredsson]] föredrar
 > för stämman den matematiska funktionen för bestämmandet av FUFs
@@ -434,7 +434,7 @@ Ideell: [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
 >
 > att bifalla ovanstående yrkande
 
-## §16 **Fastställande av budget för 2005** (bilaga 16)
+## §16 Fastställande av budget för 2005 (bilaga 16)
 
 >[!yrkande]
 > Inflytandepunktens huvudyrkande angående budget för 2005:
@@ -449,7 +449,7 @@ Ideell: [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
 >
 > att bifalla ovanstående yrkande
 
-## §17 **Val av förbundsordförande**
+## §17 Val av förbundsordförande
 
 >[!yrkande]
 > Inflytandepunktens huvudyrkande angående förbundsordförande för 2005:
@@ -461,7 +461,7 @@ Ideell: [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
 >
 > att enhälligt bifalla ovanstående yrkande.
 
-## §18 **Fastställande av styrelsens storlek**
+## §18 Fastställande av styrelsens storlek
 
 >[!yrkande]
 > Inflytandepunktens huvudyrkande angående styrelsens storlek:
@@ -474,7 +474,7 @@ Ideell: [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
 >
 > att bifalla 18a
 
-## §19 **Val av styrelseledamöter**
+## §19 Val av styrelseledamöter
 
 >[!yrkande]
 > Inflytandepunktens huvudyrkande angående styrelseledamöter
@@ -487,7 +487,7 @@ Ideell: [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
 >
 > att bifalla ovanstående yrkande
 
-## §20 **Val av två revisorer samt två revisorssuppleanter**
+## §20 Val av två revisorer samt två revisorssuppleanter
 
 >[!yrkande]
 > Inflytandepunktens huvudyrkande angående revisorer och
@@ -500,7 +500,7 @@ Ideell: [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
 >
 > att bifalla ovanstående yrkande
 
-## §21 **Val av valberedning**
+## §21 Val av valberedning
 
 >[!yrkande]
 > Inflytandepunktens huvudyrkande angående valberedning:
@@ -519,12 +519,12 @@ Ideell: [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
 >
 > att bifalla 21 a och avslå 21 b
 
-## §22 **Övriga frågor**
+## §22 Övriga frågor
 
 > [[Lage Rahm]] informerar om att beslut under Övriga Frågor måste
 > fattas med 2/3 majoritet.
 
-### §22 I **Föreningsrekrytering**
+### §22 I Föreningsrekrytering
 
 >[!yrkande]
 > **22 I a** att Riksstämman uppdrar åt förslagsvis [[Kontaktgruppen]]
@@ -536,7 +536,7 @@ Ideell: [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
 >
 > att bifalla 22 I a
 
-### §22 II **Namnändring**
+### §22 II Namnändring
 
 >[!yrkande]
 > **22 II a** att Riksstämman ska ge i uppdrag åt styrelsen att
@@ -547,7 +547,7 @@ Ideell: [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
 >
 > att avslå 22 II a
 
-## §23 **Stämmans avslutande**
+## §23 Stämmans avslutande
 
 > Förbundsordförande [[Tobias Bladini]] förklarar 2005 års riksstämma
 > avslutad.
