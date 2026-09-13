@@ -1,114 +1,63 @@
-O Förbundet Föreningsrapport 2007 RS 08 Bilaga 14
-Unga Forskare sida
-28 (45)
+## Nyanslutna föreningar 2007
 
-Föreningsrapport 2007
+### UFB; Unga Forskare Bergslagen
 
-Nyanslutna föreningar 2007.
+- [[TEND UFB]]
+- [[Unga forskare i Kumla och Hallsberg]]
 
-UFB
+### UFCX; Unga Forskare Uppsala Gävleborg
 
-267 TEND UFB
+- [[Rosendals unga forskare]]
+- [[Uppsala naturvetenskapliga förening]]
+- [[TEND CX]]
+- [[Projekt REN]]
+- [[Forskare Utan Framsteg]]
+- [[Naturvetenskapliga föreningen vid Sandvikens gymnasieskola]]
 
-268 Unga forskare i Kumla och Hallsberg
+### UFV; Unga Forskare Väst
 
-UFCX
+- [[NUFF]]
+- [[FIKA]]
+- [[LUFF]]
+- [[LUFS]]
+- [[TEND UFV]]
+- [[URAN]]
+- [[Projekt: Emaljprismornas struktur]]
+- [[Projekt: TEND Nathalie och Amra]]
+- [[GÖTT]]
+- [[Projekt: Science in action]]
+- [[Projekt: GBG vetenskapsforum]]
+- [[URK]]
+- [[T.N.T]]
 
-377 Rosendals unga forskare
+### UFS; Unga Forskare Stockholm
 
-378 Uppsala naturvetenskapliga förening
+- [[FONCIBrISCH]]
+- [[Fuffar i Österåker]]
+- [[TEND UFS]]
+- [[Tyresös kemiska förening]]
+- [[Holistiska utvecklingsföreningen]]
+- [[Experimentalis docktina]]
+- [[Södra Latins språksällskap]]
+- [[Svenska lingoolympiadföreningen]]
+- [[Flopsy]]
 
-379 TEND CX
+### UFSk; Unga Forskare Skåne
 
-380 Projekt REN
+- [[Lunds brandförening]]
+- [[TEND UFSk]]
+- [[Pi]]
+- [[Projekt: Show tb]]
+- [[Malmö latinskolas unga forskare förening]]
 
-381 Forskare Utan Framsteg
+### UFÖS; Unga Forskare Östergötland Småland
 
-382 Naturvetenskapliga föreningen vid Sandvikens gymnasieskola
+- [[Epsilon]]
+- [[Kebab]]
+- [[TEND UFÖS]]
+- [[Leka lagligt med 3-fas el]]
 
-UFV
+### UFNN; Unga Forskare Nedre Norrland
 
-469 NUFF
-
-470 FIKA
-
-471 LUFF
-
-472 LUFS
-
-473 TEND UFV
-
-474 URAN
-
-475 Projekt: Emaljprismornas struktur
-
-476 Projekt: TEND Nathalie och Amra
-
-477 GÖTT
-
-478 Projekt: Science in action
-
-479 Projekt: GBG vetenskapsforum
-
-480 URK
-
-481 T.N.T
-
-UFS
-
-1120 FONCIBrISCH
-
-1121 Fuffar i Österåker
-
-1122 TEND UFS
-
-1123 Tyresös kemiska förening
-
-1124 Holistiska utvecklingsföreningen
-
-1125 Experimentalis docktina
-
-1126 Södra Latins språksällskap
-
-1127 Svenska lingoolympiadföreningen
-
-1128 Flopsy
-
-UFSk
-
-792 Lunds brandförening
-
-793 TEND UFSk
-
-194 Pi
-
-795 Projekt: Show tb
-
-796 Malmö latinskolas unga forskare förening
-
-Sekreterare Sign. Justerare 1 Sign.
-
-Irma Ortega 0 Linnéa Nilebäck Fr
-
-Justerare 2 Sign.
-Erika Wiberg
-
-<!-- Page 29 -->
-
-O Förbundet Föreningsrapport 2007 RS 08 Bilaga 14
-Unga Forskare sida
-29 (45)
-UFÖS
-897 Epsilon
-898 Kebab
-899 TEND UFÖS
-1800 Leka lagligt med 3-fas el
-UFNN
-929 Astrogruppen RAGGE
-923 Projekt: Sköna gröna hus
-Sekreterare Sign. Justerare 1 Sign.
-Irma Ortega Linnéa Nilebäck a
-Justerare 2 Sign.
-Erika Wiberg a
-
-<!-- Page 30 -->
+- [[Astrogruppen RAGGE]]
+- [[Projekt: Sköna gröna hus]]
