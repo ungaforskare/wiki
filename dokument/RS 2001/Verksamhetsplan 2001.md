@@ -226,8 +226,6 @@ Förslag till beslut: uppdra åt gruppen att genomföra planerad verksamhet inom
 
 Kontaktperson: Niclas Berg
 
-<!-- Page 42 -->
-
 Målet med [UUF](../../verksamheter/UUF%20(Utställningen%20Unga%20Forskare).md) är att ungdomar skall ställa ut sina projekt och på så
 sätt stimuleras till fortsatt verksamhet inom det naturvetenskapliga och tekniska området.
 Under 2001 skall gruppen marknadsföra utställningen så att fler företag och skolor skall inse

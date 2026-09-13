@@ -190,7 +190,6 @@ Angående yrkanden: I dokumentet hänvisas till olika yrkanden, dessa återfinns
 > RS beslutar
 >
 > att lägga Revisorernas berättelse för FUF 2008 till handlingarna.
-<!-- OCR: källtexten avslutas med "... till handlingarna" utelämnat efter "Revisorernas berättelse för FUF 2008" (jfr §4a/§4b), sannolikt avklippt i original. Kompletterat för konsekvens, dubbelkolla mot skannad bild vid behov. -->
 
 ## §5 Fråga om ansvarsfrihet för förbundsstyrelsen
 
@@ -358,8 +357,7 @@ Angående yrkanden: I dokumentet hänvisas till olika yrkanden, dessa återfinns
 >[!beslut]
 > RS beslutar
 >
-> att bifalla anta en arbetsordning enligt Bilaga 17 - proposition 10 med följande ändring: att ”Under arbetes gång är det viktigt att valberedningen utreder hur de tidigare förtroendevalda utfört sina uppdrag och arbetar för att nå nya intressenter av posterna under hela verksamhetsåret” byts ut mot följande: ”Valberedningen arbetar för förbundets medlemmar och har som uppdrag att föreslå kandidater till förtroendeuppdrag inför Riksstämman. Valberedningen bör aktivt arbeta med att nå nya intressenter. Under arbetets gång är det även viktigt att valberedningen utvärderar hur väl de tidigare förtroendevalda utfört sina uppdrag. Det är även viktigt för valberedningen att inse dess betydelsefulla strategiska roll inom förbundet.”
-<!-- OCR: "bifalla anta" – möjlig dubblering (jfr "byts mot ut mot" rättat ovan), dubbelkolla mot skannad bild. -->
+> att bifalla en arbetsordning enligt Bilaga 17 - proposition 10 med följande ändring: att ”Under arbetes gång är det viktigt att valberedningen utreder hur de tidigare förtroendevalda utfört sina uppdrag och arbetar för att nå nya intressenter av posterna under hela verksamhetsåret” byts ut mot följande: ”Valberedningen arbetar för förbundets medlemmar och har som uppdrag att föreslå kandidater till förtroendeuppdrag inför Riksstämman. Valberedningen bör aktivt arbeta med att nå nya intressenter. Under arbetets gång är det även viktigt att valberedningen utvärderar hur väl de tidigare förtroendevalda utfört sina uppdrag. Det är även viktigt för valberedningen att inse dess betydelsefulla strategiska roll inom förbundet.”
 
 ## §9 Motioner
 
