@@ -552,7 +552,7 @@ Ideell: [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
 > Förbundsordförande [[Tobias Bladini]] förklarar 2005 års riksstämma
 > avslutad.
 
-**BILAGOR TILL PROTOKOLLET:**
+## BILAGOR TILL PROTOKOLLET
 
 1. Närvarolista och röstlängd
 
