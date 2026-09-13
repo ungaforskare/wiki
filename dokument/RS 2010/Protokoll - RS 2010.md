@@ -361,8 +361,6 @@ kategorier:
 >
 > att enhälligt välja [[Guncha Welsapar]] till förbundsordförande
 
-<!-- OCR: namnet stavas "Guncha Walsapar" resp. "Guncha Welsapar" på olika ställen i källdokumentet (jfr §12) — "Welsapar" använt konsekvent här, dubbelkolla mot originalhandlingen. -->
-
 ### §10b Fastställande av styrelsens storlek
 
 >[!beslut]
