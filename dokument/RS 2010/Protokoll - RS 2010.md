@@ -1,371 +1,455 @@
-<!-- Page 1 -->
+---
+start: 2010-03-19
+end: 2010-03-21
+mötesordförande:
+  - "[[Hanna Modin]]"
+mötessekreterare:
+  - "[[Louise Wallin]]"
+platser:
+  - "[[Polhemskolan]]"
+orter:
+  - "[[Lund]]"
+justerare:
+  - "[[Fredrik Elofsson]]"
+  - "[[John Åkerhielm]]"
+rösträknare:
+  - "[[Fredrik Elofsson]]"
+  - "[[John Åkerhielm]]"
+inflytandepunktsansvariga:
+  - "[[Jens Roat Kultima]]"
+  - "[[Hanna Modin]]"
+  - "[[Helene Eriksson]]"
+  - "[[Hanna Palmqvist]]"
+  - "[[Theresia Silander Hagström]]"
+redaktionsutskott:
+  - "[[Alexander Sehlström]]"
+  - "[[Hanna Modin]]"
+  - "[[Louise Wallin]]"
+kategorier:
+  - "[[RS (Riksstämman)|Riksstämman]]"
+  - "[[protokoll]]"
+---
 
-Oo Förbundet Riksstämman 2010 - Protokoll
-Unga Forskare Sida
-19)
-Riksstämman 2010 - Protokoll :
-Tid
-2010-03-19 — 2010-03-21
-Plats
-Polhemskolan, Lund
-Om protokollet
-I protokollet står vilka beslut som togs av Riksstämman.
-För att ge en helhetsbild av diskussionerna som fördes och hur besluten ser ut finns
-bilagor, i antagen form om inte annat ges i protokollet, och beslutsunderlaget som
-användes under Riksstämman.
-$1 Riksstämmans öppnande
-Förbundsordförande Anders Lundberg förklarade mötet öppnat.
-S2 Mötesformalia
-2.a) Val av mötesordförande och mötessekreterare
-Riksstämman beslutade
-Att välja Hanna Modin till mötesordförande
-Att välja Louise Wallin till mötessekreterare.
-2.b) — Valav två protokolljusterare tillika rösträknare
-Riksstämman beslutade
-Att välja Fredrik Elofsson och John Åkerhielm till protokolljusterare tillika rösträknare.
-2.c) Beslut om mötets stadgeenliga utlysande
-Riksstämman beslutade
-Att fastställa att Riksstämman 2010 är stadgeenligt utlyst.
-2.d) Fastställande av röstlängden
-Riksstämman beslutade
-Att justera röstlängden enligt Bilaga Röstlängd.
-Mötesordförande Sign. Vid Sekreterare Sign. NV
-Hanna Modin Louise Wallin AM
-Justerare I Sign. + Justerare 2 Sign. J
-Fredrik Elofsson John Åkerhielm Je
+## §1 Riksstämmans öppnande
 
-<!-- Page 2 -->
+> Förbundsordförande [[Anders Lundberg]] förklarade mötet öppnat.
 
-fm Förbundet Riksstämman 2010 - Protokoll
-Unga Forskare Sida
-219)
-2.e) Fastställande av dagordning
-Riksstämman beslutade
-Att fastställa dagordningen enligt Bilaga Dagordning.
-S3 Mötesregler och arbetsform
-3.a) Fastställande av mötesregler och arbetsform för Riksstämmans pleniförhandlingar
-Riksstämman beslutade
-Att använda de mötesregler och de arbetsformer som är beskrivna i Bilaga Arbetsordning
-för Förbundet Unga Forskares Riksstämma.
-3.b) Val av valutskott
-Riksstämman beslutade
-Att utse Daniel Langkinde, David Andersson, Karl Larsson och Johan Billman vill
-valutskott.
-3.c) Beslut kring påverkanstorget
-Riksstämman beslutade
-Att välja följande inflytelsepunkter och respektive inflytandepunktsansvariga:
-Året som gick Jens Roat Kultima
+## §2 Mötesformalia
+
+### §2a Val av mötesordförande och mötessekreterare
+
+>[!beslut]
+> RS beslutar
+>
+> att välja [[Hanna Modin]] till mötesordförande
+>
+> att välja [[Louise Wallin]] till mötessekreterare
+
+### §2b Val av två protokolljusterare tillika rösträknare
+
+>[!beslut]
+> RS beslutar
+>
+> att välja [[Fredrik Elofsson]] och [[John Åkerhielm]] till protokolljusterare tillika rösträknare
+
+### §2c Beslut om mötets stadgeenliga utlysande
+
+>[!beslut]
+> RS beslutar
+>
+> att fastställa att Riksstämman 2010 är stadgeenligt utlyst
+
+### §2d Fastställande av röstlängden
+
+>[!beslut]
+> RS beslutar
+>
+> att justera röstlängden enligt Bilaga Röstlängd
+
+### §2e Fastställande av dagordning
+
+>[!beslut]
+> RS beslutar
+>
+> att fastställa dagordningen enligt Bilaga Dagordning
+
+## §3 Mötesregler och arbetsform
+
+### §3a Fastställande av mötesregler och arbetsform för Riksstämmans pleniförhandlingar
+
+>[!beslut]
+> RS beslutar
+>
+> att använda de mötesregler och de arbetsformer som är beskrivna i Bilaga Arbetsordning för Förbundet Unga Forskares Riksstämma
+
+### §3b Val av valutskott
+
+>[!beslut]
+> RS beslutar
+>
+> att utse [[Daniel Langkilde]], [[David Andersson]], [[Karl Larsson]] och [[Johan Billman]] till valutskott
+
+### §3c Beslut kring påverkanstorget
+
+>[!beslut]
+> RS beslutar
+>
+> att välja följande inflytandepunkter och respektive inflytandepunktsansvariga:
+
+*Året som gick:* [[Jens Roat Kultima]]
 
 - Verksamhetsberättelse
 - Bokslut
-= Revisionsberättelse
+- Revisionsberättelse
 - Fråga om ansvarsfrihet för avgående förbundsstyrelse
-Året som kommer Hanna Modin
+
+*Året som kommer:* [[Hanna Modin]]
+
 - Verksamhetsplansproposition
 - Budgetproposition
 - Valberedningens förslag
-Motioner del I Helene Eriksson
-= Distriktsutbildning
+
+*Motioner del I:* [[Helene Eriksson]]
+
+- Distriktsutbildning
 - Nytt hemsidesystem
 - Organisationsstöd till distrikten
 - Nytt medlemsregister
 - Jämställdhet och Mångfald inom Förbundet Unga Forskare
-Motioner del II Hanna Palmqvist
+
+*Motioner del II:* [[Hanna Palmqvist]]
+
 - Alfred Nobel
-= Förbundets syfte
+- Förbundets syfte
 - Medlemmar
 - Stadgejustering
-Propositioner del I: Stadgeändringar Jens Roat Kultima
+
+*Propositioner del I: Stadgeändringar:* [[Jens Roat Kultima]]
+
 - Riksstämman på hösten
 - Demokratisk organisation
 - Kvalificerad revisor
-Propositioner del II: Övriga propositioner Theresia Silander Hagstörm
+
+*Propositioner del II: Övriga propositioner:* [[Theresia Silander Hagström]]
+
 - Vision
-Mötesordförande Sign. Sekreterare Sign. )
-Hanna Modin Louise Wallin w
-Justerare I Sign. JT Justerare 2 Sign. 6
-Fredrik Elofsson John Åkerhielm AN
+- Åsiktsprofil
 
-<!-- Page 3 -->
+>[!beslut]
+> RS beslutar
+>
+> att fastställa yrkandestoppet efter påverkanstorget till kl 16.40 2010-03-20
+>
+> att utse [[Alexander Sehlström]], [[Hanna Modin]] och [[Louise Wallin]] till redaktionsutskott
+>
+> att låta alla punkter som ska behandlas på påverkanstorget föredras av ansvarig under två minuter, med undantag av Verksamhetsberättelsen och Årsbokslutet som tilldelas fem minuter vardera
 
-O Förbundet Riksstämman 2010 - Protokoll
-Unga Forskare Sida
-39)
-= Åsiktsprofil
-Att fastställa yrkandestoppet efter påverkanstorget till kl 16.40 2010-03-20
-Att utse Alexander Sehlström, Hanna Modin och Louise Wallin till redaktionsutskott.
-Att låta alla punkter som ska behandlas på påverkanstorget föredras av ansvarig under två
-minuter med undantag av Verksamhetsbestättelsen och Årsbokslutet som tilldelas fem
-minuter vardera.
-Riksstämman ajourneras till söndag 2010-03-21 KI 9:00
-Riksstämman återupptogs 2010-03-21 kl 9:40
-Röstlängden justeras enligt Bilaga Röstlängd
-54 Det gångna året
-4.a) Verksamhetsberättelse för Förbundet Unga Forskare 2009
-Riksstämman beslutade
-Att lägga till följande text i verksamhetsberättelsen:
-UNDER 2009 ARBETA FÖR ATT SYNLIGGÖRA FUF OCH UPPMUNTRA TILL
-SAMARBETE MELLAN FUF OCH ANDRA VERKSAMHETER UTANFÖR
-FÖRBUNDET SOM ARBETAR FÖR ATT FRÄMJA INTRESSET FÖR
-NATURVETENSKAP OCH TEKNIK BLAND UNGA” (Intern organisation och
-utveckling)
-Vi har under året satsat stora resurser på att värva och stötta
-Vetenskapssportföreningarna. Då dessa föreningar arrangerar verksamhet som starkt
-främjar ungas intresse för naturvetenskap och teknik, är vi glada för att föreningarna
-gått med i förbundet och hoppas på att under kommande år fortsätta och utveckla vårt
-samarbete med och stöd till dem. Stödet har bl.a. bestått i omfattande administrativt
-stöd, hjälp med grundläggande föreningsinfrastruktur samt rådgivning. Genom
-förbundets informationskanaler har föreningarna fått mycket reklam och därigenom
-rekryterat fler aktiva. Under året har vi även deltagit i arbetet med regeringens
-Teknikdelegation och kampanjen "Den breda linjen”, samt samarbetat med Kungliga
-Vetenskapsakademin och Vetenskap och Allmänhet, två organisationer som på två
-olika sätt arbetar med naturvetenskap och teknik. Vidare har flera verksamheter, bl.a.
-Utställningen Unga Forskare, Projektbanken och Stockholm International Youth
-Science Seminar, samverkat med svenska universitet och högskolor
-Se även punkterna om samarbetet med företagspartners och Sommarforskarskolan,
-under rubriken Projektarbetet.
-Se även punkterna om Unga Forskare i Finland under Intern organisation och
-utveckling.
-Se även punkterna om samarbete med Landsrådet = för Sveriges
-Ungdomsorganisationer och Studiefrämjandet under Medlemsnytta.
-Att lägga Bilaga Verksamhetsberättelse 2009 med tillägg till handlingarna.
-Mötesordförande Sign. HY Sekreterare Sign. 1 JA
-Hanna Modin NA Louise Wallin MO
-Justerare I Sign. Justerare 2 Sign. 4
-Fredrik Elofsson Fd John Åkerhielm
+> Riksstämman ajournerades till söndag 2010-03-21 kl 9:00.
+>
+> Riksstämman återupptogs 2010-03-21 kl 9:40.
+>
+> Röstlängden justerades enligt Bilaga Röstlängd.
 
-<!-- Page 4 -->
+## §4 Det gångna året
 
-O Förbundet Riksstämman 2010 - Protokoll
-Unga Forskare Sida
-4(9)
-4.b) Årsbokslut för Förbundet Unga Forskare 2009
-Riksstämman beslutade:
-Att lägga Bilaga Årsbokslut för Förbundet Unga Forskare 2009 till handlingarna
-Att fastställa resultaträkningen och balansräkningen för förbundet för räkenskapsåret
-2009
-4.c) Revisorernas berättelse för Förbundet Unga Forskare 2009
-Riksstämman beslutade
-Att lägga Bilaga Revisorernas berättelse för Förbundet Unga Forskare 2009 till
-handlingarna.
-S5 Fråga om ansvarsfrihet för förbundsstyrelsen
-Riksstämman beslutade
-Att bevilja 2009års Förbundsstyrelse ansvarsfrihet för räkenskapsåret 2009
-S$ 6 Avregistrering av föreningar
-Riksstämman beslutade
-Att avregistrera föreningar enligt bilaga Föreningar för avregistrering
-Daniel Langkilde föredrar valutskottets förslag.
-De rekommenderar Tove Verner-Carlssons, sammankallande, Aleksander Lundqvist, Therese de Haan och Sebastian Bundajev
-$7 Fastställande av medlemsavgift för år 2010
-Riksstämman beslutade
-Att fastställa medlemsavgiften till O kr
-$8 Propositioner
-8.a) Verksamhetsplan för år 2010
-Riksstämman beslutade
-Att anta Verksamhetsplan 2010 med ändringar
-8.b) Budget för år 2010
-Riksstämman beslutade
-Att anta Rambudgetpropositionen 2010
-id . MN N
-Mötesordförande Sign. Ul | Sekreterare Sign. |
-Hanna Modin Louise Wallin AM
-Justerare I Sign. Justerare 2 Sign. -
-Fredrik Elofsson John Åkerhielm
+### §4a Verksamhetsberättelse för Förbundet Unga Forskare 2009
 
-<!-- Page 5 -->
+>[!beslut]
+> RS beslutar
+>
+> att lägga till följande text i verksamhetsberättelsen, under rubriken "Intern organisation och utveckling":
+>
+> "Under 2009 arbeta för att synliggöra FUF och uppmuntra till samarbete mellan FUF och andra verksamheter utanför förbundet som arbetar för att främja intresset för naturvetenskap och teknik bland unga."
+>
+> Vi har under året satsat stora resurser på att värva och stötta Vetenskapssportföreningarna. Då dessa föreningar arrangerar verksamhet som starkt främjar ungas intresse för naturvetenskap och teknik, är vi glada för att föreningarna gått med i förbundet och hoppas på att under kommande år fortsätta och utveckla vårt samarbete med och stöd till dem. Stödet har bl.a. bestått i omfattande administrativt stöd, hjälp med grundläggande föreningsinfrastruktur samt rådgivning. Genom förbundets informationskanaler har föreningarna fått mycket reklam och därigenom rekryterat fler aktiva. Under året har vi även deltagit i arbetet med regeringens Teknikdelegation och kampanjen "Den breda linjen", samt samarbetat med Kungliga Vetenskapsakademin och Vetenskap och Allmänhet, två organisationer som på två olika sätt arbetar med naturvetenskap och teknik. Vidare har flera verksamheter, bl.a. Utställningen Unga Forskare, Projektbanken och Stockholm International Youth Science Seminar, samverkat med svenska universitet och högskolor.
+>
+> Se även punkterna om samarbetet med företagspartners och Sommarforskarskolan, under rubriken Projektarbetet.
+>
+> Se även punkterna om Unga Forskare i Finland under Intern organisation och utveckling.
+>
+> Se även punkterna om samarbete med Landsrådet för Sveriges Ungdomsorganisationer och Studiefrämjandet under Medlemsnytta.
+>
+> att lägga Bilaga Verksamhetsberättelse 2009 med tillägg till handlingarna
 
-O Förbundet Riksstämman 2010 - Protokoll
-Unga Forskare Sida
-5 (9)
-8.c) Stadgeändring: Demokratisk organisation
-Riksstämman Beslutade
-Att anta Stadgeändring: Demokratisk organisation
-8.d) Stadgeändring: Ändrat datum för Riksstämman
-Riksstämman beslutade
-Att ändra stadgeändringen från ”Ordinarie Riksstämma skall hållas varje år tidigast
-femtonde (15) oktober och senast tjugonde (20) december” till ”Ordinarie
-Riksstämma skall hållas varje år tidigast femtonde (15) oktober och senast tionde
-(10) december”
-Att stadgeändringen träder i kraft per 2012-01-01
-Att anta Stadgeändring: Ändrat datum för Riksstämman
-8.e) — Åsiktsprofil
-Riksstämman beslutade
-Att anta Förbundet Unga Forskares Åsiktsprofil
-Att under $ 4.7 i Förbundet Unga Forskares stadgar, där ärenden som ska behandlas på
-Riksstämman anges, lägga till ”Fastställande av Åsiktsprofil”
-8.f) Vision
-Riksstämman beslutade
-Att Förbundsstyrelsen får i uppdrag att till 2011 presentera en väl förankrad vision för
-Förbundet Unga Forskare
-8.g) Stadgeändring: Kvalificerad revisor
-Riksstämman beslutade
-Att anta Stadgeändring: Kvalificerad revisor
-59 Motioner
-9.a) — Distriktsutbildning
-Harald Carlstrand drar tillbaka sin motionerade att-sats.
-Riksstämman beslutade
-Att Förbundsstyrelsen ansvarar för att erbjuda kvalitativ, relevant och välanpassad
-utbildning för distriktsstyrelsen
-9.b) Nytt hemsidesystem
-Riksstämman beslutade
-Mötesordförande Sign. HY Sekreterare Sign. ./
-Hanna Modin Louise Wallin Ul Z
-Justerare I Sign. VA Justerare 2 Sign.
-Fredrik Elofsson oe John Åkerhielm
+### §4b Årsbokslut för Förbundet Unga Forskare 2009
 
-<!-- Page 6 -->
+>[!beslut]
+> RS beslutar
+>
+> att lägga Bilaga Årsbokslut för Förbundet Unga Forskare 2009 till handlingarna
+>
+> att fastställa resultaträkningen och balansräkningen för förbundet för räkenskapsåret 2009
 
-O Förbundet Riksstämman 2010 - Protokoll
-Unga Forskare Sida
-6 (9)
-Att Förbundsstyrelsen skall utreda hur förbundet skall använda IT i enighet med
-förbundets syfte
-9.c) Organisationsstöd till distrikten
-Riksstämman beslutade
-Att anta första delen av motionen Organisationsstöd till distrikten. ”Ett organisationsstöd
-på 10.000 kr delas ut till varje aktivt distrikt för att användas direkt till styrelsearbete
-eller andra organisationsadministiva kostnader under 2010.”
-9.d) Nytt medlemsregister
-Riksstämman beslutade
-Att efter votering avslå förslaget om att medlemsregistret ska släppas som öppen källkod
-så att intresserade, medlemmar och andra, kan utöka och uppdatera det.
-Att lyfta Haralds förslag att Förbundsstyrelsen ansvarar för att tillhandahålla ett
-användarvänligt medlemsregister för medlemmar, distrikt och personal.
-Att Förbundsstyrelsen ansvarar för att tillhandahålla ett användarvänligt medlemsregister
-för medlemmar, distrikt och personal.
-9.e) — Alfred Nobel
-Riksstämman beslutade
-Att avslå motionen
-9.f) — Förbundets syfte
-David Borg drar tillbaka sitt förslag om att ändra ”samt deras roll i samhället” till”
-deras, dvs. naturvetenskapens och teknikens, roll i samhället”
-Riksstämman beslutade
-Att avslå förslaget om att ändra första halvan av $ 1.2 i Förbundet Unga Forskares
-stadgar från ”... genom organiserad fritidsverksamhet...” till ”... i huvudsak genom
-organiserad fritidsverksamhet...”
-Att förbundsstyrelsen under 2010 får i uppdrag att i samråd med medlemmarna se över
-stadgarna med hänsyn till förbundets verksamhet idag och i framtiden.
-Att förslag på eventuella omformuleringar och ändringar i stadgarna ska behandlas på
-Riksstämman 2011.
-9.g) Medlemmar
-Riksstämman beslutade
-Mötesordförande Sign. KH / Sekreterare Sign. — (
-Hanna Modin Louise Wallin BUN
-Justerare I Sign. Justerare 2 Sign. 7
-Fredrik Elofsson John Åkerhielm — A
+### §4c Revisorernas berättelse för Förbundet Unga Forskare 2009
 
-<!-- Page 7 -->
+>[!beslut]
+> RS beslutar
+>
+> att lägga Bilaga Revisorernas berättelse för Förbundet Unga Forskare 2009 till handlingarna
 
-O Förbundet Riksstämman 2010 - Protokoll
-Unga Forskare Sida
-709)
-Att bifalla stadgeändring: Medlemmar enligt följande
-$2.5 ändras från "Medlemmar i till förbundet anslutna föreningar är också
-medlemmar i förbundet.” till "Medlemmar i till förbundet anslutna föreningar är
-också medlemmar i förbundet, så länge de är fysiska personer."
-9.h) Stadgejustering
-Riksstämman beslutade
-Att anta den första motionerade att-satsen, nämligen att lägga till en ny punkt ”$1.3.2
-Förbundet ställer samma krav på obundenhet på samtliga medlemsorganisationer, så
-som föreningar och distrikt, som på sig självt."
-Att avslå den andra motionerade att-satsen.
-Att riva upp yrkandestoppet
-Att anta förslag från Tobias Nilsson om att lägga gill en ny punkt stadgarna enligt
-följande:
-”$3.4.1 Samtliga till förbundet tillhörande föreningar som har säte i ett av förbundets
-distrikt blir automatiskt medlemmar i distriktet.”
-Att återuppta yrkandestopp
-9.1) — Jämställdhet och mångfald
-Riksstämman beslutade
-Att anta motionen enligt Motion - Jämställdhet och Mångfald inom Förbundet Unga
-Forskare
-$S 10 Val av förtroendeposter
-10.a) Val av förbundsordförande
-Riksstämman beslutade
-Att enhälligt välja Guncha Walsapar till förbundsordförande
-10.b) Fastställande av styrelsens storlek
-Riksstämman beslutade
-Att lyfta Johan Billmans förslag om sju (7) ledamöter
-Att fastställa antalet ledamöter i Förbundsstyrelsen till åtta (8)
-10.c) Val styrelseledamöter
-Riksstämman beslutade
-Mötesordförande Sign. MJ Sekreterare Sign. ZM '
-Hanna Modin få Louise Wallin WW
-Justerare I Sign. Justerare 2 Sign.
-Fredrik Elofsson FÅ John Åkerhielm Ö "JÄ
+## §5 Fråga om ansvarsfrihet för förbundsstyrelsen
 
-<!-- Page 8 -->
+>[!beslut]
+> RS beslutar
+>
+> att bevilja 2009 års [Förbundsstyrelse](../../verksamheter/FS%20(Förbundsstyrelsen).md) ansvarsfrihet för räkenskapsåret 2009
 
-O Förbundet Riksstämman 2010 - Protokoll
-Unga Forskare Sida
-809)
-Att Välja Rikard Ahrgren, David Ebbevi, Sanna Holm, Sara Magnusson, Robert Piehl-
-Fridqvist, Andreas Svensson, Yi-Hua Zhang och Johannes Zeltner Wolff till
-förbundsstyrelseledamöter
-10.d) Val av två revisorer samt två revisorssuppleanter
-Riksstämman beslutade
-Att välja Sune Johnson (auktoriserad) samt Alexander Sehlström (ideell) till ordinarie
-revisorer,
-Att välja Johan Rönnkvist (auktoriserad) samt Johan Andréasson (ideell) till
-revisorsuppleanter.
-10.e) Val av valberedning
-Riksstämman beslutade
-Att Välja Tove Verner Carlsson, Aleksander Lundqvist, Therese de Haan och Sebastian
-Bundajev till valberedning enligt valutskottets förslag.
-S 11 Övriga frågor
-Riksstämman beslutade
-Att riva upp yrkandestoppet samt godkännandet av dagordning.
-Att lägga till punkt 11.a) Demokratiundersökning: Rösträtt samt 11.) Utredning om
-målbaserad verksamhetsplan under $ 11 Övriga frågor i dagordningen.
-11.a) Demokratiundersökning: Rösträtt
-Under Riksstämman har diskuterats huruvida icke bidragsgrundande medlemmar,
-medlemmar äldre än tjugofem (25) eller yngre än sju (7), ska ha rösträtt på
-Riksstämman eller lite. Man har funderat över vad ”Unga för unga” har för betydelse
-och vilket utrymme det får i vårt förbund samt hur andra ungdomsförbund ser på
-frågan rösträtt i förhållande till ålder.
-Riksstämman beslutade
-Att avslå förslaget om att ge Förbundsstyrelsen i uppdrag att utreda konceptet
-”Ungdomsorganisation” samt konceptet ”Unga för unga” med fokus på erfarenhet
-kontra ålder ur ett demokratiskt perspektiv.
-11.b) Utredning om målbaserad verksamhetsplan
-Riksstämman beslutade
-Att enligt Tobias Nilssons förslag, lägga följande kommentarer till protokollet:
-Riksstämman är av åsikten att trots att Förbundsstyrelsen fullgjort det uppdragde tilldelats var utredningen
-bristfällig då den saknade tydliga utgångspunkter och frågeställningar
-Riksstämmans mening är att förbundsstyrelsen ska fortsätta jobba med utformningen av verksamhetsplanen.
-5 12 Stämmans avslutande
-'Guncha Welsapar, nyvald förbundsordförande, avslutar Riksstämman 2010.
-Mötesordförande Sign. H f Sekreterare Sign. A w
-Hanna Modin Louise Wallin
-Justerare I Sign. FÅ Justerare 2 Sign.
-Fredrik Elofsson John Åkerhielm oo
+## §6 Avregistrering av föreningar
 
-<!-- Page 9 -->
+>[!beslut]
+> RS beslutar
+>
+> att avregistrera föreningar enligt Bilaga Föreningar för avregistrering
 
-O Förbundet Riksstämman 2010 - Protokoll
-Unga Forskare Sida
-9209)
-Bilagor
-Bilaga Röstlängd
-Bilaga Dagordning
-Bilaga Arbetsordning
-Bilaga Åsiktsprofil
-Bilaga Årsbokslut för Förbundet Unga Forskare 2009
-Bilaga Revisorernas berättelse för Förbundet Unga Forskare 2009
-Bilaga Föreningar för avregistrering
-Bilaga Rambudget 2010
-Bilaga Stadgeändring - Kvalificerad revisor
-Bilaga Verksamhetsberättelse 2009
-Bilaga Verksamhetsplan 2010
-Bilaga Stadgeändring - Ändrat datum för Riksstämman
-Bilaga Stadgeändring - Demokratisk organisation
-Bilaga Motion — Distriktsutbildning
-Bilaga Motion - Organisationsstöd till distrikten
-Bilaga Motion - Nytt medlemsregister
-Bilaga Motion - Nytt hemsidesystem
-Bilaga Motion - Förbundets syfte
-Bilaga Motion - Medlemmar
-Bilaga Motion - Alfred Nobel
-Bilaga Motion - Jämställdhet och Mångfald inom Förbundet Unga Forskare
-Bilaga Motion - Stadgejustering
-Bilaga Beslutsunderlag av Redaktionsutskottet
+> [[Daniel Langkilde]] föredrog valutskottets förslag. De rekommenderade [[Tove Verner Carlsson]] (sammankallande), [[Aleksander Lundqvist]], [[Therese de Haan]] och [[Sebastian Bundajev]].
+
+## §7 Fastställande av medlemsavgift för år 2010
+
+>[!beslut]
+> RS beslutar
+>
+> att fastställa medlemsavgiften till 0 kr
+
+## §8 Propositioner
+
+### §8a Verksamhetsplan för år 2010
+
+>[!beslut]
+> RS beslutar
+>
+> att anta Verksamhetsplan 2010 med ändringar
+
+### §8b Budget för år 2010
+
+>[!beslut]
+> RS beslutar
+>
+> att anta Rambudgetpropositionen 2010
+
+### §8c Stadgeändring: Demokratisk organisation
+
+>[!beslut]
+> RS beslutar
+>
+> att anta Stadgeändring: Demokratisk organisation
+
+### §8d Stadgeändring: Ändrat datum för Riksstämman
+
+>[!beslut]
+> RS beslutar
+>
+> att ändra stadgeändringen från "Ordinarie Riksstämma skall hållas varje år tidigast femtonde (15) oktober och senast tjugonde (20) december" till "Ordinarie Riksstämma skall hållas varje år tidigast femtonde (15) oktober och senast tionde (10) december"
+>
+> att stadgeändringen träder i kraft per 2012-01-01
+>
+> att anta Stadgeändring: Ändrat datum för Riksstämman
+
+### §8e Åsiktsprofil
+
+>[!beslut]
+> RS beslutar
+>
+> att anta Förbundet Unga Forskares Åsiktsprofil
+>
+> att under § 4.7 i Förbundet Unga Forskares stadgar, där ärenden som ska behandlas på Riksstämman anges, lägga till "Fastställande av Åsiktsprofil"
+
+### §8f Vision
+
+>[!beslut]
+> RS beslutar
+>
+> att [Förbundsstyrelsen](../../verksamheter/FS%20(Förbundsstyrelsen).md) får i uppdrag att till 2011 presentera en väl förankrad vision för Förbundet Unga Forskare
+
+### §8g Stadgeändring: Kvalificerad revisor
+
+>[!beslut]
+> RS beslutar
+>
+> att anta Stadgeändring: Kvalificerad revisor
+
+## §9 Motioner
+
+### §9a Distriktsutbildning
+
+> [[Harald Carlstrand]] drog tillbaka sin motionerade att-sats.
+
+>[!beslut]
+> RS beslutar
+>
+> att [Förbundsstyrelsen](../../verksamheter/FS%20(Förbundsstyrelsen).md) ansvarar för att erbjuda kvalitativ, relevant och välanpassad utbildning för distriktsstyrelsen
+
+### §9b Nytt hemsidesystem
+
+>[!beslut]
+> RS beslutar
+>
+> att Förbundsstyrelsen skall utreda hur förbundet skall använda IT i enlighet med förbundets syfte
+
+### §9c Organisationsstöd till distrikten
+
+>[!beslut]
+> RS beslutar
+>
+> att anta första delen av motionen Organisationsstöd till distrikten: "Ett organisationsstöd på 10 000 kr delas ut till varje aktivt distrikt för att användas direkt till styrelsearbete eller andra organisationsadministrativa kostnader under 2010."
+
+### §9d Nytt medlemsregister
+
+>[!beslut]
+> RS beslutar
+>
+> att efter votering avslå förslaget om att medlemsregistret ska släppas som öppen källkod, så att intresserade, medlemmar och andra, kan utöka och uppdatera det
+>
+> att lyfta [[Harald Carlstrand]]s förslag att Förbundsstyrelsen ansvarar för att tillhandahålla ett användarvänligt medlemsregister för medlemmar, distrikt och personal
+>
+> att Förbundsstyrelsen ansvarar för att tillhandahålla ett användarvänligt medlemsregister för medlemmar, distrikt och personal
+
+### §9e Alfred Nobel
+
+>[!beslut]
+> RS beslutar
+>
+> att avslå motionen
+
+### §9f Förbundets syfte
+
+> [[David Borg]] drog tillbaka sitt förslag om att ändra "samt deras roll i samhället" till "deras, dvs. naturvetenskapens och teknikens, roll i samhället".
+
+>[!beslut]
+> RS beslutar
+>
+> att avslå förslaget om att ändra första halvan av § 1.2 i Förbundet Unga Forskares stadgar från "... genom organiserad fritidsverksamhet..." till "... i huvudsak genom organiserad fritidsverksamhet..."
+>
+> att Förbundsstyrelsen under 2010 får i uppdrag att i samråd med medlemmarna se över stadgarna med hänsyn till förbundets verksamhet idag och i framtiden
+>
+> att förslag på eventuella omformuleringar och ändringar i stadgarna ska behandlas på Riksstämman 2011
+
+### §9g Medlemmar
+
+>[!beslut]
+> RS beslutar
+>
+> att bifalla stadgeändring: Medlemmar, enligt följande: § 2.5 ändras från "Medlemmar i till förbundet anslutna föreningar är också medlemmar i förbundet." till "Medlemmar i till förbundet anslutna föreningar är också medlemmar i förbundet, så länge de är fysiska personer."
+
+### §9h Stadgejustering
+
+>[!beslut]
+> RS beslutar
+>
+> att anta den första motionerade att-satsen, nämligen att lägga till en ny punkt "§ 1.3.2 Förbundet ställer samma krav på obundenhet på samtliga medlemsorganisationer, så som föreningar och distrikt, som på sig självt."
+>
+> att avslå den andra motionerade att-satsen
+>
+> att riva upp yrkandestoppet
+>
+> att anta förslag från [[Tobias Nilsson]] om att lägga till en ny punkt i stadgarna enligt följande: "§ 3.4.1 Samtliga till förbundet tillhörande föreningar som har säte i ett av förbundets distrikt blir automatiskt medlemmar i distriktet."
+>
+> att återuppta yrkandestoppet
+
+### §9i Jämställdhet och mångfald
+
+>[!beslut]
+> RS beslutar
+>
+> att anta motionen enligt Motion - Jämställdhet och Mångfald inom Förbundet Unga Forskare
+
+## §10 Val av förtroendeposter
+
+### §10a Val av förbundsordförande
+
+>[!beslut]
+> RS beslutar
+>
+> att enhälligt välja [[Guncha Welsapar]] till förbundsordförande
+
+<!-- OCR: namnet stavas "Guncha Walsapar" resp. "Guncha Welsapar" på olika ställen i källdokumentet (jfr §12) — "Welsapar" använt konsekvent här, dubbelkolla mot originalhandlingen. -->
+
+### §10b Fastställande av styrelsens storlek
+
+>[!beslut]
+> RS beslutar
+>
+> att lyfta [[Johan Billman]]s förslag om sju (7) ledamöter
+>
+> att fastställa antalet ledamöter i [Förbundsstyrelsen](../../verksamheter/FS%20(Förbundsstyrelsen).md) till åtta (8)
+
+### §10c Val av styrelseledamöter
+
+>[!beslut]
+> RS beslutar
+>
+> att välja [[Rikard Ahrgren]], [[David Ebbevi]], [[Sanna Holm]], [[Sara Magnusson]], [[Robert Piehl-Fridqvist]], [[Andreas Svensson]], [[Yi-Hua Zhang]] och [[Johannes Zeltner Wolff]] till förbundsstyrelseledamöter
+
+### §10d Val av två revisorer samt två revisorssuppleanter
+
+>[!beslut]
+> RS beslutar
+>
+> att välja [[Sune Johnson]] (auktoriserad) samt [[Alexander Sehlström]] (ideell) till ordinarie revisorer
+>
+> att välja [[Johan Rönnkvist]] (auktoriserad) samt [[Johan Andréasson]] (ideell) till revisorsuppleanter
+
+### §10e Val av valberedning
+
+>[!beslut]
+> RS beslutar
+>
+> att välja [[Tove Verner Carlsson]], [[Aleksander Lundqvist]], [[Therese de Haan]] och [[Sebastian Bundajev]] till valberedning enligt valutskottets förslag
+
+## §11 Övriga frågor
+
+>[!beslut]
+> RS beslutar
+>
+> att riva upp yrkandestoppet samt godkännandet av dagordningen
+>
+> att lägga till punkt 11.a) Demokratiundersökning: Rösträtt samt 11.b) Utredning om målbaserad verksamhetsplan under § 11 Övriga frågor i dagordningen
+
+### §11a Demokratiundersökning: Rösträtt
+
+> Under Riksstämman diskuterades huruvida icke bidragsgrundande medlemmar, medlemmar äldre än tjugofem (25) eller yngre än sju (7), ska ha rösträtt på Riksstämman eller ej. Man funderade över vad "Unga för unga" har för betydelse och vilket utrymme det får i vårt förbund, samt hur andra ungdomsförbund ser på frågan om rösträtt i förhållande till ålder.
+
+>[!beslut]
+> RS beslutar
+>
+> att avslå förslaget om att ge Förbundsstyrelsen i uppdrag att utreda konceptet "Ungdomsorganisation" samt konceptet "Unga för unga" med fokus på erfarenhet kontra ålder ur ett demokratiskt perspektiv
+
+### §11b Utredning om målbaserad verksamhetsplan
+
+>[!beslut]
+> RS beslutar
+>
+> att enligt [[Tobias Nilsson]]s förslag lägga följande kommentarer till protokollet:
+>
+> Riksstämman är av åsikten att, trots att Förbundsstyrelsen fullgjort det uppdrag de tilldelats, var utredningen bristfällig då den saknade tydliga utgångspunkter och frågeställningar.
+>
+> Riksstämmans mening är att Förbundsstyrelsen ska fortsätta jobba med utformningen av verksamhetsplanen.
+
+## §12 Stämmans avslutande
+
+> Nyvald förbundsordförande [[Guncha Welsapar]] avslutade Riksstämman 2010.
+
+## BILAGOR TILL PROTOKOLLET
+
+1. Röstlängd
+2. Dagordning
+3. Arbetsordning
+4. Åsiktsprofil
+5. Årsbokslut för Förbundet Unga Forskare 2009
+6. Revisorernas berättelse för Förbundet Unga Forskare 2009
+7. Föreningar för avregistrering
+8. Rambudget 2010
+9. Stadgeändring - Kvalificerad revisor
+10. Verksamhetsberättelse 2009
+11. Verksamhetsplan 2010
+12. Stadgeändring - Ändrat datum för Riksstämman
+13. Stadgeändring - Demokratisk organisation
+14. Motion - Distriktsutbildning
+15. Motion - Organisationsstöd till distrikten
+16. Motion - Nytt medlemsregister
+17. Motion - Nytt hemsidesystem
+18. Motion - Förbundets syfte
+19. Motion - Medlemmar
+20. Motion - Alfred Nobel
+21. Motion - Jämställdhet och Mångfald inom Förbundet Unga Forskare
+22. Motion - Stadgejustering
+23. Beslutsunderlag av Redaktionsutskottet
