@@ -19,8 +19,7 @@ Se [STYLEGUIDE](STYLEGUIDE.md) för hur filer namnges och struktureras
 
 ## Git och Github
 
-* [Microsoft Learn - Introduktion till Github](https://learn.microsoft.com/sv-se/training/modules/introduction-to-github/)
-  
+- [Microsoft Learn - Introduktion till Github](https://learn.microsoft.com/sv-se/training/modules/introduction-to-github/)
 
 ### Issues
 
@@ -28,7 +27,7 @@ För att minska risken att flera personer arbetar på samma sak eller något som
 
 ### Pull request
 
-* [Github Docs -  Creating a pull request from a fork](https://docs.github.com/en/pull-requests/how-tos/create-pull-requests/creating-a-pull-request-from-a-fork)
+- [Github Docs - Creating a pull request from a fork](https://docs.github.com/en/pull-requests/how-tos/create-pull-requests/creating-a-pull-request-from-a-fork)
 
 För att det ska bli enkelt att granska och föra in ändringen, låt pullrequesten handla om en sammanhängande ändring.
 Det är möjligt att ha en PR som bygger på en annan PR (se [Stacked PRs](https://github.github.com/gh-stack/))

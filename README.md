@@ -17,4 +17,3 @@ felformaterad not än att återskapa en uppgift ingen skrivit ner.
 
 Se [CONTRIBUTING.md](CONTRIBUTING.md) för mer information kring hur du kan bidra.
 Se [STYLEGUIDE.md](STYLEGUIDE.md) för konventioner kring hur filer organiseras och struktureras.
-
