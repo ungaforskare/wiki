@@ -1,395 +1,347 @@
 ---
 start: 2001-05-26
 end: 2001-05-26
+mötesordförande:
+  - "[Magnus Kårén](../../personer/Magnus%20Kårén.md)"
+mötessekreterare:
+  - "[[Linda Johansson]]"
 platser:
-  - "[[../../skolor/Ljungskile Folkhögskola]]"
+  - "[[Ljungskile Folkhögskola]]"
 orter:
-  - "[[../../platser/orter/Ljungskile]]"
-bilagor:
-  - "[[Verksamhetsberättelse 2000]]"
-  - "[[2001 - motion - Vi behöver ett mainfest]]"
-  - "[[2001 - motion - Angånende rösträtt på riksstämman]]"
-  - "[[Verksamhetsplan 2001]]"
+  - "[[Ljungskile]]"
+justerare:
+  - "[Tobias Bladini](../../personer/Tobias%20Bladini.md)"
+  - "[Elisabet Nilebäck](../../personer/Elisabet%20Nilebäck.md)"
+rösträknare:
+  - "[Tobias Bladini](../../personer/Tobias%20Bladini.md)"
+  - "[Elisabet Nilebäck](../../personer/Elisabet%20Nilebäck.md)"
 kategorier:
   - "[[RS (Riksstämman)|Riksstämman]]"
   - "[[protokoll]]"
-  - dokument
-mötesordförande:
-  - "[[../../personer/Magnus Kårén]]"
-mötessekreterare:
-  - "[[Linda Johansson]]"
-justerare:
-  - "[[Tobias Bladini]]"
-  - "[[../../personer/Elisabet Nilebäck]]"
-rösträknare:
-  - "[[Tobias Bladini]]"
-  - "[[../../personer/Elisabet Nilebäck]]"
 ---
 
-# Förbundet Unga Forskares Riksstämma 2001
+<!-- Källan anger tid 26 maj 2001, 09.30-13.00, 14.15-20.00. Personernas hemorter efter namnen är borttagna (inga personuppgifter utöver namn, se CONTRIBUTING.md). -->
 
-## § 1 Stämmans öppnande
+## §1 Stämmans öppnande
 
-Förbundsordförande [Kristofer Hallén](../../personer/Kristofer%20Hallén.md) hälsar alla välkomna och förklarar Förbundet Unga Forskares Riksstämma 2001 öppnad.
+> Förbundsordförande [Kristofer Hallén](../../personer/Kristofer%20Hallén.md) hälsar alla välkomna och förklarar Förbundet Unga Forskares Riksstämma 2001 öppnad.
 
 ## §2 Val av mötesordförande och mötessekreterare
 
-[Magnus Kårén](../../personer/Magnus%20Kårén.md) väljs till mötesordförande och [[Linda Johansson]] , väljs till mötessekreterare.
+> [Magnus Kårén](../../personer/Magnus%20Kårén.md) väljs till mötesordförande och [[Linda Johansson]] väljs till mötessekreterare.
 
 ## §3 Val av två justerare, tillika rösträknare
 
-[Tobias Bladini](../../personer/Tobias%20Bladini.md) och [Elisabet Nilebäck](../../personer/Elisabet%20Nilebäck.md), väljs till justerare, tillika rösträknare.
+> [Tobias Bladini](../../personer/Tobias%20Bladini.md) och [Elisabet Nilebäck](../../personer/Elisabet%20Nilebäck.md) väljs till justerare, tillika rösträknare.
 
 ## §4 Fastställande av dagordningen
 
-Dagordningen fastställs. Beslutas att övriga frågor anmäls i samband med § 26.
+> Dagordningen fastställs.
 
-## § 5 Fråga om stämman är stadgeenligt kallad
+>[!beslut]
+> Beslutas att övriga frågor anmäls i samband med § 26.
 
-## § 6 Justering av röstlängden
+## §5 Fråga om stämman är stadgeenligt kallad
 
-Beslutas att fastställa röstlängden vid en eventuell votering.
+> Fastställs att stämman är kallad i enlighet med förbundsstadgan.
 
-## § 7 Styrelsens verksamhetsberättelse för FUF 2000
+## §6 Justering av röstlängden
 
-Förbundsordförande [Kristofer Hallén](../../personer/Kristofer%20Hallén.md) och förbundsstyrelseledamot [Linda Svenson](../../personer/Linda%20Svenson.md) presenterar förbundets verksamhetsberättelse för ar 2000.
+>[!beslut]
+> Beslutas att fastställa röstlängden vid en eventuell votering.
 
-> [!Beslut]+
-> 
-> **Beslutas att** lägga verksamhetsberättelsen för Förbundet Unga Forskare år 2000 till handlingarna (se bilaga 2).
+## §7 Styrelsens verksamhetsberättelse för FUF 2000
 
-## § 8 Resultaträkning och balansräkning för FUF 2000
+> Förbundsordförande [Kristofer Hallén](../../personer/Kristofer%20Hallén.md) och förbundsstyrelseledamot [Linda Svenson](../../personer/Linda%20Svenson.md) presenterar förbundets verksamhetsberättelse för år 2000.
 
-Förbundsordförande [Kristofer Hallén](../../personer/Kristofer%20Hallén.md) och förbundsstyrelseledamot [Linda Svenson](../../personer/Linda%20Svenson.md) presenterar resultat- och balansräkning för FUF år 2000.
+>[!beslut]
+> Beslutas att lägga verksamhetsberättelsen för Förbundet Unga Forskare år 2000 till handlingarna (se bilaga 2).
 
->[!beslut]+
->
->Beslutas att lägga resultaträkningen för Förbundet Unga Forskare år 2000 till handlingarna (se bilaga 3).
+## §8 Resultaträkning och balansräkning för FUF 2000
 
-## § 9 Revisorernas berättelse för FUF 2000
+> Förbundsordförande [Kristofer Hallén](../../personer/Kristofer%20Hallén.md) och förbundsstyrelseledamot [Björn Sällström](../../personer/Björn%20Sällström.md) presenterar resultat- och balansräkning för FUF år 2000.
 
-Förbundsordförande [Kristofer Hallén](../../personer/Kristofer%20Hallén.md) föredrar revisorernas berättelse för
-Förbundet Unga Forskare ar 2000.
+>[!beslut]
+> Beslutas att lägga resultaträkningen för Förbundet Unga Forskare år 2000 till handlingarna (se bilaga 3).
 
->[!beslut]+
->Beslutas att lägga revisorernas berättelse för Förbundet Unga Forskare år 2000 till handlingarna (se bilaga 4).
+## §9 Revisorernas berättelse för FUF 2000
 
-## § 11 Fastställande av balansräkning per 31 december 2000 för FUF
+> Förbundsordförande [Kristofer Hallén](../../personer/Kristofer%20Hallén.md) föredrar revisorernas berättelse för Förbundet Unga Forskare år 2000.
 
->[!beslut]+
->Beslutas att fastställa balansräkningen per 2000-12-31 för Förbundet Unga Forskare (se bilaga 5).
+>[!beslut]
+> Beslutas att lägga revisorernas berättelse för Förbundet Unga Forskare år 2000 till handlingarna (se bilaga 4).
 
-## § 11 Styrelsens verksamhetsberättelse för GCB 2000
+## §10 Fastställande av balansräkning per 31 december 2000 för FUF
 
-Förbundsordförande [Kristofer Hallén](../../personer/Kristofer%20Hallén.md) och förbundsstyrelseledamot [Björn Sällström](../../personer/Björn%20Sällström.md) presenterar verksamhetsberättelsen för Stiftelsen [Gundel Cornelia Babs stipendiefond](../../verksamheter/GCB%20(Gundel%20Cornelia%20Babs%20stipendiefond).md) för Unga Forskare år 2000.
+>[!beslut]
+> Beslutas att fastställa balansräkningen per 2000-12-31 för Förbundet Unga Forskare (se bilaga 5).
 
->[!beslut]+
->Beslutas att lägga verksamhetsberättelsen för Stiftelsen Gundel Cornelias stipendiefond för Unga Forskare år 2000 till handlingarna (se bilaga 6).
+## §11 Styrelsens verksamhetsberättelse för GCB 2000
 
-## § 12 Resultaträkning och balansräkning för Stiftelsen Gundel Cornelias Stipendiefond för Unga Forskare 2000
+> Förbundsordförande [Kristofer Hallén](../../personer/Kristofer%20Hallén.md) och förbundsstyrelseledamot [Björn Sällström](../../personer/Björn%20Sällström.md) presenterar verksamhetsberättelsen för Stiftelsen [Gundel Cornelias Stipendiefond för Unga Forskare](../../verksamheter/GCB%20(Gundel%20Cornelia%20Babs%20stipendiefond).md) år 2000.
 
-Förbundsordförande [Kristofer Hallén](../../personer/Kristofer%20Hallén.md) och förbundsstyrelseledamot [Björn Sällström](../../personer/Björn%20Sällström.md) presenterar resultat- och balansräkning för Stiftelsen [Gundel Cornelia Babs stipendiefond](../../verksamheter/GCB%20(Gundel%20Cornelia%20Babs%20stipendiefond).md) för Unga Forskare år 2000.
+>[!beslut]
+> Beslutas att lägga verksamhetsberättelsen för Stiftelsen Gundel Cornelias Stipendiefond för Unga Forskare år 2000 till handlingarna (se bilaga 6).
 
->[!beslut]+
->Beslutas att lägga resultaträkningen för Stiftelsen Gundel Cornelias stipendiefond för Unga Forskare ar 2000 till handlingarna (se bilaga 7).
+## §12 Resultaträkning och balansräkning för Stiftelsen Gundel Cornelias Stipendiefond för Unga Forskare 2000
 
-## § 13 Revisorernas berättelse för GCB 2000
+> Förbundsordförande [Kristofer Hallén](../../personer/Kristofer%20Hallén.md) och förbundsstyrelseledamot [Björn Sällström](../../personer/Björn%20Sällström.md) presenterar resultat- och balansräkning för Stiftelsen [Gundel Cornelias Stipendiefond för Unga Forskare](../../verksamheter/GCB%20(Gundel%20Cornelia%20Babs%20stipendiefond).md) år 2000.
 
-Förbundsordförande [Kristofer Hallén](../../personer/Kristofer%20Hallén.md) föredrar revisorernas berättelse för
-Stiftelsen [Gundel Cornelia Babs stipendiefond](../../verksamheter/GCB%20(Gundel%20Cornelia%20Babs%20stipendiefond).md) för Unga Forskare år 2000.
+>[!beslut]
+> Beslutas att lägga resultaträkningen för Stiftelsen Gundel Cornelias Stipendiefond för Unga Forskare år 2000 till handlingarna (se bilaga 7).
 
->[!beslut]+
->Beslutas att lägga revisorernas berättelse för Stiftelsen Gundel Cornelias Stipendiefond för Unga Forskare år 2000 till handlingarna (se bilaga 8).
+## §13 Revisorernas berättelse för GCB 2000
 
-## § 14 Fastställande av balansräkning per 31 december 2000 för GCB
+> Förbundsordförande [Kristofer Hallén](../../personer/Kristofer%20Hallén.md) föredrar revisorernas berättelse för Stiftelsen [Gundel Cornelias Stipendiefond för Unga Forskare](../../verksamheter/GCB%20(Gundel%20Cornelia%20Babs%20stipendiefond).md) år 2000.
 
-> [!beslut]+
->Beslutas att fastställa balansräkningen per 2000-12-31 för Stiftelsen Gundel Cornelias Stipendiefond för Unga Forskare (se bilaga 7).
+>[!beslut]
+> Beslutas att lägga revisorernas berättelse för Stiftelsen Gundel Cornelias Stipendiefond för Unga Forskare år 2000 till handlingarna (se bilaga 8).
 
-## § 15 Fråga om ansvarsfrihet för styrelsen
+## §14 Fastställande av balansräkning per 31 december 2000 för GCB
 
->[!beslut]+
+>[!beslut]
+> Beslutas att fastställa balansräkningen per 2000-12-31 för Stiftelsen Gundel Cornelias Stipendiefond för Unga Forskare (se bilaga 7).
+
+## §15 Fråga om ansvarsfrihet för styrelsen
+
+>[!beslut]
 > Beslutas att bevilja förbundets styrelse ansvarsfrihet för år 2000.
 
-## § 16 Avregistrering av föreningar samt rapport om föreningar anslutna sedan 2000
+## §16 Avregistrering av föreningar samt rapport om föreningar anslutna sedan 2000
 
->[!beslut]+
->Beslutas att följande föreningar ska avregistreras:
+>[!beslut]
+> Beslutas att följande föreningar ska avregistreras:
+>
+> - 213 [Teknis Radioklubb](../../föreningar/Teknis%20Radioklubb.md)
+> - 215 [Cosmoz](../../föreningar/Cosmoz.md)
+> - 236 [[HiSci]]
+> - 237 [[Datoranvändare i ovan Siljan]]
+> - 238 [[Rino]]
+> - 325 [[Bollnäs Datorförening]]
+> - 340 [[Naturvetenskapliga Föreningen Delta]]
+> - 344 [[Datoranvändarföreningen i Gävle]]
+> - 347 [[Ainstains Lärjungar]]
+> - 364 [[Unix Computing Society]]
+> - 425 [[Alingsås Unga Forskare]]
+> - 436 [Bertils Brutala Biologer](../../föreningar/Bertils%20Brutala%20Biologer.md)
+> - 441 [Kattegattgymnasiets Unga Forskare](../../föreningar/Kattegattgymnasiets%20Unga%20Forskare.md)
+> - 444 [[Logarithmica]]
+> - 526 [Timrå Unga Forskare](../../föreningar/Timrå%20Unga%20Forskare.md)
+> - 532 [Lycksele Unga Forskare](../../föreningar/Lycksele%20Unga%20Forskare.md)
+> - 542 [[Unga ForskareFöreningen Huga]]
+> - 543 [Föreningen Överblivna Norrlänningar](../../föreningar/FÖN%20(Föreningen%20Överblivna%20Norrlänningar).md)
+> - 545 [[Vilhelmina Entropi]]
+> - 610 [[Järfälla Unga Forskare]]
+> - 643 [[Nacka Unga Forskare]]
+> - 669 [Täby Unga Forskare](../../föreningar/Täby%20Unga%20Forskare.md)
+> - 671 [[Naturvetarföreningen PSI]]
+> - 677 [[Valhall Unga Forskare]]
+> - 680 [Unga Forskare Kärrtorp](../../föreningar/Unga%20Forskare%20Kärrtorp.md)
+> - 684 [[Föreningen Chemologer I Tiden]]
+> - 685 [Sollentunas Unga Forskare](../../föreningar/Sollentunas%20Unga%20Forskare.md)
+> - 686 [[Queritatures Insatiabiles]]
+> - 689 [[Xplorers - Södertälje Unga Forskare]]
+> - 1101 [Derivatan](../../föreningar/Derivatan.md) <!-- Numret och placeringen mellan 689 och 717 är kontrollerade mot pdf:en. -->
+> - 717 [Svalövs Astronomiklubb](../../föreningar/Svalövs%20Astronomiklubb.md)
+> - 726 [Gullstrandsskolans Naturvetarförening](../../föreningar/Gullstrandsskolans%20Naturvetarförening.md)
+> - 738 [[Vellinge Data Förening]]
+> - 753 [[Sigma]]
+> - 763 [Cercatores](../../föreningar/Cercatores.md)
+> - 769 [[Internat Interactive Communication Society]]
+> - 773 [[Pi]] <!-- OCR: "173", rättat efter pdf:en. -->
+> - 775 [[Latins Forskare]] <!-- OCR: "17175", rättat efter pdf:en. -->
+> - 858 [[Norrköpings Dator Förening]]
+> - 912 [Furuheds Ungdomar Laborerar](../../föreningar/Furuheds%20Ungdomar%20Laborerar.md)
+> - 920 [[D95B]]
 
-### Distrikt 2XX
+> Sedan Riksstämman 2000 har följande föreningar anslutits till Förbundet Unga Forskare:
+>
+> - 259 [[Rinmans Unga Forskare]], Eskilstuna
+> - 260 [Föreningen Newtons Lärljungar](../../föreningar/Föreningen%20Newtons%20Lärljungar.md), Mariefred
+> - 370 [[Amiga Computer Group - Gävleborg]], Gävle
+> - 371 [[Star Wars Föreningen]], Uppsala
+> - 372 [Utarmade Rollspelare från Atomkraftens Narnia](../../föreningar/Utarmade%20Rollspelare%20frän%20Atomkraftens%20Narnia.md), Forsmark
+> - 455 [Blandade Unga Forskares Förening Frölunda](../../föreningar/Blandade%20Unga%20Forskares%20Förening%20Frölunda.md), V:a Frölunda
+> - 456 [[Antika Helgalna Akademiker]], Mölnlycke
+> - 457 [Göteborgs Vetenskapsintresserade Studenter](../../föreningar/Göteborgs%20Vetenskapsintresserade%20Studenter.md), Göteborg
+> - 786 [Syntax Society](../../föreningar/Syntax%20Society.md), Landskrona
+> - 871 [[Klintes Intelligenta Forskar Förening]], Klintehamn
+> - 872 [Unga Forskare Föreningen Pirog i Tranås](../../föreningar/Unga%20Forskare%20Föreningen%20Pirog%20i%20Tranås.md), Tranås
+> - 873 [Teknik För Alla](../../föreningar/Teknik%20För%20Alla.md), Linköping
+> - 874 [[In science we trust]], Tingsryd
+> - 875 [[Salamandra]], Vimmerby
+> - 549 [[Krang Organization]], Sundsvall
+>
+> Ovanstående föreningar hälsas av stämman välkomna med en applåd.
 
-* [Teknis Radioklubb](../../föreningar/Teknis%20Radioklubb.md)
-* [[../../föreningar/Cosmoz]]
-* [[HiSci]]
-* [[Datoranvändare i ovan Siljan]]
-* [[Rino]]
+## §17 Motioner
 
-### Distrikt 3XX
+> Till Riksstämman 2001 har två motioner inkommit (se bilaga 9 och bilaga 10).
 
-* [[Bollnäs Datorförening]]
-* [[Naturvetenskapliga Föreningen Delta]]
-* [[Datoranvändarföreningen i Gävle]]
-* [[Ainstains Lärjungar]]
-* [[Unix Computing Society]]
+### Vi behöver ett manifest
 
-### Distrikt 4XX
+> [Martin Lennartsson](../../personer/Martin%20Lennartsson.md), [UFÖS](../../distrikt/UFÖS%20(Unga%20Forskare%20Östergötland%20Småland).md), presenterar motionen. Förbundsstyrelsen yrkar avslag.
+>
+> [[Carl-Johan Svenningsson]] presenterar ett motyrkande (se bilaga 11).
+>
+> [Linda Eriksson](../../personer/Linda%20Eriksson.md) redogör för resultatet av tidigare plenumförberedande diskussioner.
+>
+> [[Carl-Johan Svenningsson]] yrkar att förbundsstyrelsen tillsätter en grupp som utreder frågan (se bilaga 12).
 
-* [[Alingsas Unga Forskare]]
-* [[../../föreningar/Bertils Brutala Biologer]]
-* [[../../föreningar/Kattegattgymnasiets Unga Forskare]]
-* [[Logarithmica]]
+>[!beslut]
+> Beslutas att avslå motionen.
+>
+> Beslutas att bifalla Carl-Johan Svenningssons yrkande att förbundsstyrelsen ska tillsätta en grupp som utreder frågan.
+>
+> Beslutas att inte behandla Carl-Johan Svenningssons motyrkande.
 
-### Distrikt 5XX
+### Angående rösträtt på riksstämman
 
-* [[../../föreningar/Timrå Unga Forskare]]
-* [[../../föreningar/Lycksele Unga Forskare]]
-* [[Unga ForskareFöreningen Huga]]
-* [[Föreningen Överblivna Norrlänningar]]
-* [[Vilhelmina Entropi]]
+> [Ulrik Franke](../../personer/Ulrik%20Franke.md) presenterar motionen. Förbundsstyrelsen yrkar avslag.
+>
+> [Sara Karlsson](../../personer/Sara%20Karlsson.md) och [Martin Olsson](../../personer/Martin%20Olsson.md), förbundsstyrelsen, redogör för resultatet av tidigare plenumförberedande diskussioner.
 
-### Distrikt 6XX
+>[!beslut]
+> Beslutas att avslå motionen.
 
-* [[Järfälla Unga Forskare ]]
-* [[Nacka Unga Forskare]]
-* [[../../föreningar/Täby Unga Forskare]]
-* [[Naturvetarföreningen PSI]]
-* [[Valhall Unga Forskare]]
-* [[../../föreningar/Unga Forskare Kärrtorp]]
-* [[Föreningen Chemologer I Tiden]]
-* [[../../föreningar/Sollentunas Unga Forskare]]
-* [[Queritatures Insatiabiles]]
-* [[Xplorers - Södertälje Unga Forskare]]
+## §18 Fastställande av verksamhetsplan för 2001
 
-### Distrikt 11XX
+> Förbundsstyrelseledamot [Linda Svenson](../../personer/Linda%20Svenson.md) presenterar förbundsstyrelsens förslag på verksamhetsplan för år 2001.
 
-* [[../../föreningar/Derivatan]]
+>[!beslut]
+> Beslutas att fastställa verksamhetsplanen för Förbundet Unga Forskare med tillägg enligt bilaga 13 (slutgiltig verksamhetsplan: bilaga 14).
 
-### Distrikt 7XX
+## §19 Fastställande av budget för 2001
 
-* [[../../föreningar/Svalövs Astronomiklubb]]
-* [[../../föreningar/Gullstrandsskolans Naturvetarförening]]
-* [[Vellinge Data Förening]]
-* [[Sigma]]
-* [[../../föreningar/Cercatores]]
-* [[Internat Interactive Communication Society]]
-* [[Pi]]
-* [[Latins Forskare]]
+> Förbundsordförande [Kristofer Hallén](../../personer/Kristofer%20Hallén.md) presenterar styrelsens förslag till budget för Förbundet Unga Forskare år 2001 (se bilaga 15).
 
-### Distrikt 8XX
+>[!beslut]
+> Beslutas att anta styrelsens förslag till budget för år 2001.
 
-* [[Norrköpings Dator Förening]]
+## §20 Fastställande av medlemsavgift för 2001
 
-### Distrikt 9XX
+> Ledamot [José-Gabriel Sato Folatre](../../personer/José-Gabriel%20Sato%20Folatre.md) presenterar styrelsens förslag att ingen medlemsavgift skall tas ut av föreningarna under år 2001.
 
-* [[../../föreningar/Furuheds Ungdomar Laborerar]]
-* [[D95B]]
-
-## Nyanslutna föreningar
-
-Sedan Riksstämman 2000 har följande föreningar anslutits till Förbundet Unga Forskare:
-
-Nedanstående föreningar hälsas av stämman välkomna med en applåd.
-
-### Distrikt 2XX
-
-[[Rinmans Unga Forskare]], Eskilstuna
-[[../../föreningar/Föreningen Newtons Lärljungar]] Mariefred  
-
-## Distrikt 3XX
-
-[[Amiga Computer Group - Gävleborg]], Gävle
-[[Star Wars Föreningen]], Uppsala
-[[../../föreningar/Utarmade Rollspelare frän Atomkraftens Narnia]], Forsmark
-
-## Distrikt 4XX
-
-[[../../föreningar/Blandade Unga Forskares Förening Frölunda]], V:a Frölunda
-[[Antika Helgalna Akademiker]], Mölnlycke
-[[../../föreningar/Göteborgs Vetenskapsintresserade Studenter]] Göteborg
-
-## Distrikt 5XX
-
-[[Krang Organization]], Sundsvall
-
-## Distrikt 7XX
-
-[[../../föreningar/Syntax Society]] Landskrona
-
-## Distrikt 8XX
-
-[[Klintes Intelligenta Forskar Förening]], Klintehamn
-[[../../föreningar/Unga Forskare Föreningen Pirog i Tranås]], Tranas  
-[[../../föreningar/Teknik För Alla]], Linköping
-[[In science we trust]] Tingsryd
-[[Salamandra]], Vimmerby
-
-## § 17 Motioner
-
-Till Riksstämman 2001 har två motioner inkommit (se bilaga 9 och bilaga 10).
-
-### Motion: Vi behöver ett manifest
-
-[Martin Lennartsson](../../personer/Martin%20Lennartsson.md), presenterar motionen. Förbundsstyrelsen yrkar avslag.
-[[Carl-Johan Svenningsson]], presenterar ett motyrkande (se bilaga 11).
-[Linda Eriksson](../../personer/Linda%20Eriksson.md), redogör för resultatet av tidigare plenumförberedande diskussioner.
-[[Carl-Johan Svenningsson]] yrkar att förbundsstyrelsen tillsätter en grupp som utreder frågan (se bilaga 12).
-
->[!beslut]+
->Beslutas att avslå motionen.
-
->[!beslut]+
->Beslutas att bifalla [[Carl-Johan Svenningsson]]s yrkande att förbundsstyrelsen ska tillsätta en grupp som utreder frågan.
-
->[!beslut]+
->Beslutas att inte behandla [[Carl-Johan Svenningsson]]s motyrkande.
-
-### Motion: Angående rösträtt på riksstämman
-
-[Ulrik Franke](../../personer/Ulrik%20Franke.md), presenterar motionen. Förbundsstyrelsen yrkar avslag.
-
-[Sara Karlsson](../../personer/Sara%20Karlsson.md) och [Martin Olsson](../../personer/Martin%20Olsson.md), förbundsstyrelsen, redogör för resultatet av tidigare plenumförberedande diskussioner.
-
->[!beslut]+
->Beslutas att avslå motionen.
-
-## § 18 Fastställande av verksamhetsplan för 2001
-
- Förbundsstyrelseledamot [Linda Svenson](../../personer/Linda%20Svenson.md) presenterar förbundsstyrelsens förslag pả verksamhetsplan för ảr 2001.
-
->[!beslut]+
->Beslutas att fastställa verksamhetsplanen för Förbundet Unga Forskare med tillägg enligt bilaga 13 (slutgiltig verksamhetsplan: bilaga 13)
-
-## § 19 Fastställande av budget för 2001
-
-Förbundsordförande [Kristofer Hallén](../../personer/Kristofer%20Hallén.md) presenterar styrelsens förslag till budget för Förbundet Unga Forskare år 2001 (se bilaga 15).
-
->[!beslut]+
->Beslutas att anta styrelsens förslag till budget för ảr 2001.
-
-Fastställande av budget för 2001
-
-Förbundsordförande [Kristofer Hallén](../../personer/Kristofer%20Hallén.md) presenterar styrelsens förslag till budget för Förbundet Unga Forskare ảr 2001 (se bilaga 15).
-
-Beslutas att anta styrelsens förslag till budget för år 2001.
-
-## § 20 Fastställande av medlemsavgift för 2001
-
-Ledamot [José-Gabriel Sato Folatre](../../personer/José-Gabriel%20Sato%20Folatre.md) presenterar styrelsens förslag att ingen medlemsavgift skall tas ut av föreningarna under år 2001.
-
->[!beslut]+
->Beslutas att Förbundet Unga Forskares medlemsavgift skall vara noll (0) kronor.
+>[!beslut]
+> Beslutas att Förbundet Unga Forskares medlemsavgift skall vara noll (0) kronor.
 
 ## §21 Val av förbundsordförande
 
-Valberedningen presenterar sitt förslag på förbundsordförande: sittande ordförande [Kristofer Hallén](../../personer/Kristofer%20Hallén.md). Inga ytterligare förslag presenteras.
-[Kristofer Hallén](../../personer/Kristofer%20Hallén.md) väljs till förbundsordförande i Förbundet Unga Forskare.
+> [Valberedningen](../../verksamheter/Valberedningen.md) presenterar sitt förslag på förbundsordförande: sittande ordförande [Kristofer Hallén](../../personer/Kristofer%20Hallén.md). Inga ytterligare förslag presenteras.
+>
+> Kristofer Hallén väljs till förbundsordförande i Förbundet Unga Forskare.
 
 ## §22 Fastställande av styrelsens storlek
 
-Valberedningen presenterar sitt förslag att styrelsen skall bestå av elva (11) ledamöter.
-Beslutas att förbundsstyrelsen skall bestå av elva (11) ledamöter.
+> [Valberedningen](../../verksamheter/Valberedningen.md) presenterar sitt förslag att styrelsen skall bestå av elva (11) ledamöter.
+
+>[!beslut]
+> Beslutas att förbundsstyrelsen skall bestå av elva (11) ledamöter.
 
 ## §23 Val av styrelseledamöter
 
-Valberedningen presenterar sitt förslag på styrelseledamöter. Inga ytterligare förslag presenteras.
+> [Valberedningen](../../verksamheter/Valberedningen.md) presenterar sitt förslag på styrelseledamöter. Inga ytterligare förslag presenteras.
 
->[!beslut]+
->Beslutas att anta valberedningens förslag.
+>[!beslut]
+> Beslutas att anta valberedningens förslag.
 
-Följande personer väljs till styrelseledamöter i Förbundet Unga Forskare:
-
-* [Lisa Hagqvist](../../personer/Lisa%20Hagqvist.md) (omval)
-* [Martin Olsson](../../personer/Martin%20Olsson.md) (omval)
-* [Anders Sahlman](../../personer/Anders%20Sahlman.md)(omval)
-* [Linda Svenson](../../personer/Linda%20Svenson.md)(omval)
-* [Anna Alfredsson](../../personer/Anna%20Alfredsson.md) (nyval)
-* [Per Bengtsson](../../personer/Per%20Bengtsson.md) (nyval)
-* [Hanna Modin](../../personer/Hanna%20Modin.md) (nyval)
-* [Daniel Nilebäck](../../personer/Daniel%20Nilebäck.md) (nyval)
-* [Lina Sundberg](../../personer/Lina%20Sundberg.md)(nyvall)
-* [[Karonlina Åseby]](nyval)
+> Följande personer väljs till styrelseledamöter i Förbundet Unga Forskare:
+>
+> - [Lisa Hagqvist](../../personer/Lisa%20Hagqvist.md), omval
+> - [Martin Olsson](../../personer/Martin%20Olsson.md), omval
+> - [Anders Sahlman](../../personer/Anders%20Sahlman.md), omval
+> - [Linda Svenson](../../personer/Linda%20Svenson.md), omval
+> - [Anna Alfredsson](../../personer/Anna%20Alfredsson.md), nyval
+> - [Per Bengtsson](../../personer/Per%20Bengtsson.md), nyval
+> - [Hanna Modin](../../personer/Hanna%20Modin.md), nyval
+> - [Daniel Nilebäck](../../personer/Daniel%20Nilebäck.md), nyval
+> - [Lina Sundberg](../../personer/Lina%20Sundberg.md), nyval
+> - [Karolina Åseby](../../personer/Karolina%20Åseby.md), nyval
 
 ## §24 Val av två revisorer samt två revisorssuppleanter
 
-Valberedningen föreslår omval av revisorer och revisorsuppleanter. Inga ytterligare förslag presenteras.
-
-Sune Johnson, Öhrlings Price WaterHouse Coopers, samt Sune Hilstad, Svenska Ingenjörssamfundet, väljs till revisorer för Förbundet Unga Forskare år 2001.
-
->[!beslut]+
->Sune Johnson, Öhrlings PriceWaterHouse Coopers , samt Sune Hilstad, väljs till revisorssuppleanter för Förbundet Unga Forskare år 2001.
+> [Valberedningen](../../verksamheter/Valberedningen.md) föreslår omval av revisorer och revisorsuppleanter. Inga ytterligare förslag presenteras.
+>
+> [Sune Johnson](../../personer/Sune%20Johnson.md), [[Öhrlings PricewaterhouseCoopers|Öhrlings PriceWaterHouse Coopers]], samt [Sune Hilstad](../../personer/Sune%20Hilstad.md), [[Svenska Ingenjörssamfundet]], väljs till revisorer för Förbundet Unga Forskare år 2001.
+>
+> [[Anders Winqvist]], [[Öhrlings PricewaterhouseCoopers|ÖhrlingsPriceWaterHouse Coopers]], samt [Björn Sällström](../../personer/Björn%20Sällström.md) väljs till revisorssuppleanter för Förbundet Unga Forskare år 2001.
 
 ## §25 Val av valberedning
 
-[José-Gabriel Sato Folatre](../../personer/José-Gabriel%20Sato%20Folatre.md), [[Joakim Ekh]], [Martin Lennartsson](../../personer/Martin%20Lennartsson.md), [Pererik Andreasson](../../personer/Pererik%20Andreasson.md), och [[Linda Johansson]], föreslås till ny valberedning.
-
->[!beslut]+
->[José-Gabriel Sato Folatre](../../personer/José-Gabriel%20Sato%20Folatre.md) (sammankallande), [[Joakim Ekh]], [Martin Lennartsson](../../personer/Martin%20Lennartsson.md), [Pererik Andreasson](../../personer/Pererik%20Andreasson.md) och [[Linda Johansson]] väljs till valberedning inför Riksstämman år 2002.
+> [José-Gabriel Sato Folatre](../../personer/José-Gabriel%20Sato%20Folatre.md), [[Joakim Ekh]], [Martin Lennartsson](../../personer/Martin%20Lennartsson.md), [Pererik Andreasson](../../personer/Pererik%20Andreasson.md) och [[Linda Johansson]] föreslås till ny [valberedning](../../verksamheter/Valberedningen.md).
+>
+> José-Gabriel Sato Folatre (sammankallande), Joakim Ekh, Martin Lennartsson, Pererik Andreasson och Linda Johansson väljs till valberedning inför Riksstämman år 2002.
 
 ## §26 Övriga frågor
 
-Sju övriga frågor anmäls (se nedan).
+> Sju övriga frågor anmäls (se nedan).
 
 ### Statsbidrag
 
-[Linus Gustavsson](../../personer/Linus%20Gustafsson.md), [UFÖS](../../distrikt/UFÖS%20(Unga%20Forskare%20Östergötland%20Småland).md), föreslår att ålägga förbundsstyrelsen att utreda konsekvenserna av att förbundet ej är statsbidragsberättigat för förbundet, distrikten och föreningarna.
+> [Linus Gustafsson](../../personer/Linus%20Gustafsson.md), [Unga Forskare Östergötland Smålandsdistriktet](../../distrikt/UFÖS%20(Unga%20Forskare%20Östergötland%20Småland).md), föreslår att ålägga förbundsstyrelsen att utreda konsekvenserna av att förbundet ej är statsbidragsberättigat för förbundet, distrikten och föreningarna.
 
->[!belslut]+
->Beslutas att ålägga FS att utreda konsekvenserna av att förbundet ej är statsbidragsberättigat för förbundet, distrikten och föreningarna.
+<!-- Källan stavar "Linus Gustavsson". -->
 
-### Tillägg till stadgan $38
+>[!beslut]
+> Beslutas att ålägga FS att utreda konsekvenserna av att förbundet ej är statsbidragsberättigat för förbundet, distrikten och föreningarna.
 
-[Lisa Hagqvist](../../personer/Lisa%20Hagqvist.md), förbundsstyrelsen, presenterar förslag till stadgeändring av stadgan $38 (se bilaga 16).
+### Tillägg till stadgan §38
 
-Beslutas att genomföra stadgeändringen.
+> [Lisa Hagqvist](../../personer/Lisa%20Hagqvist.md), förbundsstyrelsen, presenterar förslag till stadgeändring av stadgan §38 (se bilaga 16).
 
-### Tillägg till stadgan $24
+>[!beslut]
+> Beslutas att genomföra stadgeändringen.
 
-[Ulrik Franke](../../personer/Ulrik%20Franke.md), [[Gotlands Unga Forskare]] och [Martin Lennartsson](../../personer/Martin%20Lennartsson.md), [UFÖS](../../distrikt/UFÖS%20(Unga%20Forskare%20Östergötland%20Småland).md), presenterar förslag till stadgeändring av stadgan $24 (se bilaga 17).
+### Tillägg till stadgan §24
 
->[!beslut]+
->Beslutas att genomföra stadgeändringen.
+> [Ulrik Franke](../../personer/Ulrik%20Franke.md), [[Gotlands Unga Forskare]], och [Martin Lennartsson](../../personer/Martin%20Lennartsson.md), [Unga Forskare Östergötland Smålandsdistriktet](../../distrikt/UFÖS%20(Unga%20Forskare%20Östergötland%20Småland).md), presenterar förslag till stadgeändring av stadgan §24 (se bilaga 17).
 
-### Tillägg till stadgan $23 -1
+>[!beslut]
+> Beslutas att genomföra stadgeändringen.
 
-[Robert Jakobsson](../../personer/Robert%20Jacobsson.md), presenterar förslag till stadgeändring av stadgan §23 (se bilaga 18).
+### Tillägg till stadgan §23 - 1
 
->[!beslut]+
->Beslutas att avslå förslaget.
+> [Robert Jacobsson](../../personer/Robert%20Jacobsson.md) presenterar förslag till stadgeändring av stadgan §23 (se bilaga 18).
+
+<!-- Källan stavar "Robert Jakobsson" (även i följande stycken). -->
+
+>[!beslut]
+> Beslutas att avslå förslaget.
 
 ### Tillägg till Stadgan §23 - 2
 
-[[Britt-Marie Halvarsson]] , och [[Johan Persson]], presenterar förslag till stadgeändring av stadgan §23 (se bilaga 19).
+> [[Britt-Marie Halvarsson]] och [[Johan Persson]] presenterar förslag till stadgeändring av stadgan §23 (se bilaga 19).
 
 >[!beslut]
->Beslutas att avslå förslaget.
+> Beslutas att avslå förslaget.
 
-### Tillägg till stadgan $23 -3
+### Tillägg till stadgan §23 - 3
 
-[Robert Jakobsson](../../personer/Robert%20Jacobsson.md), presenterar ytterligare ett förslag till stadgeändring av stadgan §23 (se bilaga 20).
+> [Robert Jacobsson](../../personer/Robert%20Jacobsson.md) presenterar ytterligare ett förslag till stadgeändring av stadgan §23 (se bilaga 20).
 
->[!beslut]+
->Beslutas att avslå förslaget.
+>[!beslut]
+> Beslutas att avslå förslaget.
 
 ### Revision av förbundsstadgan
 
-Föreslås att uppdra åt förbundsstyrelsen att se över förbundsstadgan.
+> Föreslås att uppdra åt förbundsstyrelsen att se över förbundsstadgan.
 
->[!beslut]+ Beslutas att förbundsstyrelsen ska se över förbundsstadgan. Översynen skall behandla följande frägor:
+>[!beslut]
+> Beslutas att förbundsstyrelsen ska se över förbundsstadgan. Översynen skall behandla följande frågor:
 >
->* Rösträtt för verksamhetsgrupper
->* Tolkning av stadgan
->* Rösträtt för nyanslutna föreningar
-
->[!beslut]+
->Beslutas att översynen av förbundsstadgan inte skall behandla fråga om rösträtt för förbundsstyrelsen.
+> - Rösträtt för verksamhetsgrupper
+> - Tolkning av stadgan
+> - Rösträtt för nyanslutna föreningar
+>
+> Beslutas att översynen av förbundsstadgan inte skall behandla fråga om rösträtt för förbundsstyrelsen.
 
 ## §27 Stämmans avslutande
 
-Förbundsordförande [Kristofer Hallén](../../personer/Kristofer%20Hallén.md) förklarar Riksstämman 2001 för avslutad.
+> Förbundsordförande [Kristofer Hallén](../../personer/Kristofer%20Hallén.md) förklarar Riksstämman 2001 för avslutad.
+>
+> Avgående styrelseledamöter, valberedning, RS-grupp, mötesfunktionärer och mötesdeltagare tackas för sitt engagemang.
 
-Avgående styrelseledamöter, valberedning, RS-grupp, mötesfunktionärer och mötesdeltagare tackas för sitt engagemang.
-
-## Bilagor till protokollet
+## BILAGOR TILL PROTOKOLLET
 
 1. Närvarolista
 2. Verksamhetsberättelse för Förbundet Unga Forskare 2000
@@ -412,6 +364,21 @@ Avgående styrelseledamöter, valberedning, RS-grupp, mötesfunktionärer och m�
 19. Övrig fråga: Tillägg till stadgan § 23 (2)
 20. Övrig fråga: Tillägg till stadgan § 23 (3)
 
-## Stämmohandlingar RS 2001
+>[!warning]
+> Källan innehåller stämmohandlingarna (förslag till dagordning, verksamhetsberättelse, ekonomiska rapporter, motioner, verksamhetsplan och budget), inte bilagorna i den form de har i listan ovan. Bilaga 1 och 11–13 samt 16–20 saknas i källan. Ekonomiska bilagor och budget konverteras inte. Motyrkandena i bilaga 11 och 12 avser enligt §17 motionen "Vi behöver ett manifest", som är bilaga 9, inte bilaga 10. Verksamhetsplanen nedan är förbundsstyrelsens förslag ur stämmohandlingarna, inte den slutgiltiga verksamhetsplanen (bilaga 14) med tillägg enligt bilaga 13.
 
-[Stämmohandlingar - RS 2001](Stämmohandlingar%20-%20RS%202001.md)
+### Verksamhetsberättelse 2000
+
+Se [Verksamhetsberättelse 2000](Verksamhetsberättelse%202000.md).
+
+### Motion: Vi behöver ett manifest
+
+Se [Motion - Vi behöver ett manifest - RS 2001](Motion%20-%20Vi%20behöver%20ett%20manifest%20-%20RS%202001.md).
+
+### Motion: Angående rösträtt på riksstämman
+
+Se [Motion - Angående rösträtt på Riksstämman - RS 2001](Motion%20-%20Angående%20rösträtt%20på%20Riksstämman%20-%20RS%202001.md).
+
+### Verksamhetsplan 2001
+
+Se [Verksamhetsplan 2001](Verksamhetsplan%202001.md).
