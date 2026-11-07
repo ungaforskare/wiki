@@ -296,7 +296,7 @@ Lokala projekt kring:
 
 - [[Naturvetenskapliga Föreningen]]
 - [[Calmare Naturvetenskapliga Studentförening]]
-- [[CodeQLTH]]
+- [[Code@LTH]] <!-- OCR: "CodeQLTH"; rättat till "Code@LTH" (kontrollerat mot pdf:en). -->
 - [[Ekosystemtekniksektionen inom TLTH]]
 - [[F-teknologsektionen inom TLTH]]
 - [[Hållbart Universitet]]

@@ -19,7 +19,7 @@ kategorier:
 5. [[Deimante Kasparaviciute]] ([[Biologiska Ämnesrådet]])
 6. [[Klara Pettersson]] ([[Biologiska Ämnesrådet]])
 7. [[Sofia Henriksson]] ([[Biologiska Ämnesrådet]])
-8. [[Benjamin Scott]] ([[Fysikums kamratförening]])
+8. [[Benjamin Scott]] ([[Fysikums Kamratförening|Fysikums kamratförening]])
 9. [[Humaira Afrin]] ([[Alumniföreningen Utställningen Unga Forskare|AUUF]])
 10. [[Filip Jädersten]] ([[Alumniföreningen Utställningen Unga Forskare|AUUF]])
 11. [[Leonard Bengtsson]] ([[Alumniföreningen Utställningen Unga Forskare|AUUF]])

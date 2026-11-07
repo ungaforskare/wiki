@@ -129,7 +129,7 @@ Nedan är några exempel på saker som föreningarna har genomfört under året.
 
 ### Anslutna föreningar under året
 
-<!-- Listan har 39 föreningar, fast texten anger 46 anslutna medlemsföreningar; listan står så i källan (kontrollerat mot pdf:en). "Kristanstads", "CodeQLTH" (OCR i RS2023.txt: "CodeGLTH") och "LiU IGEM" står så i källan. -->
+<!-- Listan har 39 föreningar, fast texten anger 46 anslutna medlemsföreningar; listan står så i källan (kontrollerat mot pdf:en). "Kristanstads" och "LiU IGEM" står så i källan. OCR: "CodeQLTH" (i RS2023.txt "CodeGLTH"); rättat till "Code@LTH" (kontrollerat mot pdf:en). -->
 
 - [[Europaskolan för vetenskap|Europaskolan för Vetenskap]]
 - [[We Are W-Engineers]]
@@ -162,7 +162,7 @@ Nedan är några exempel på saker som föreningarna har genomfört under året.
 - [[Molekulföreningen]]
 - [[Malmös Akademiska Förening]]
 - [[Intresseföreningen Uppsala Akademiska Kemister]]
-- [[CodeQLTH]]
+- [[Code@LTH]]
 - [[Kodsport Sverige]]
 - [[Biologiska Ämnesrådet]]
 - [[LiU IGEM]]
