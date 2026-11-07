@@ -11,13 +11,16 @@ distrikt:
 aliases:
   - UFÖS verksamhetsberättelse 1994
 ---
+
 UFÖS verksamhetsberättelse för 1994, publicerad på distriktets webbplats på [Lysator](Lysator%20(Unga%20Forskares%20webbplats%201995-1998).md) och hämtad ur Internet Archive (Wayback-ögonblicksbild 14 januari 2001). Sidan var kodad i ISO-8859-1. Berättelsen täcker åren närmast före den period då [Scientium](../verksamheter/Scientium.md) låg nere (1997–1999) och är en del av den enda löpande verksamhetsdokumentationen i materialet före år 2000.
 
 ## Nyckeltal
+
 - 1 februari 1994: **911 medlemmar** i **30 föreningar** i Östergötland och Småland. Inrapporteringen var inte avslutad; siffran låg vid berättelsens författande på 850.
 - Tolv arrangemang under året (utöver riksstämman), åtta styrelsemöten.
 
 ## Händelser
+
 - **14–16 januari:** Gränsträff i Älmhult, samarbetskurs med [Skånedistriktet](../distrikt/UFSk%20(Unga%20Forskare%20Skåne).md). Omkring 30 deltagare på tre kurser: digitalteknik, geologi och itererade funktioner. Distriktskamp på lördagskvällen.
 - **4–6 februari:** Föreningsledarkurs (FLK) på Teknikum i Växjö med 14 deltagare, om föreningens poster, årsmöten och kursarrangemang.
 - **25–27 mars:** Distriktsstämma i Gislaved. Föredrag om genteknik av Carsten Roat följt av framodling av en resistent agrobakteriestam, studiebesök på Gnosjö Lasercentrum, föreläsning om teknikhistoria av Göte Rosell och tävling i raketbygge. Plenum på lördagen med 24 deltagare.
@@ -32,10 +35,12 @@ UFÖS verksamhetsberättelse för 1994, publicerad på distriktets webbplats på
 - **27–30 december:** Julhack i Linköping med 38 deltagare. Ämnen: Unix, Emacs, smarta kort, UF-net, hackologi, fri programvara, Internet, WWW och kryptologi.
 
 ## Styrelse 1994
+
 Ordförande **Magnus Ossiansson**, vice ordförande **Jesper Friis**, sekreterare **Per Kangru**, vice sekreterare **Roberth Karman**, kassör **Kent Engström**, vice kassör **Gilbert Rosenkranz**, bidragsansvarig **Dennis Rören**, PR-man **Jens Ekengren**, ledamöter **Anna Petersson** och **Eva Olsson**.
 
 Revisorer: **Ola Knutsson**, **Ragnar Borys**. Suppleanter: **Kent Rudolfsson**, **Vilhelm Persson**. Valberedning: **Daniel Thunborg** (sammankallande), **Jonas Buensoz**.
 
 ## Att observera
+
 - **Hans Sundkvist**, kursledare i elmiljö vid riksstämman, anges i källan som en av UFÖS grundare. Distriktets grundningsår framgår inte av berättelsen.
 - Sommarslapp anges vara det fjärde i ordningen, vilket ger arrangemangets start till 1991.
