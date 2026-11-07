@@ -231,7 +231,7 @@ Till Riksstämman 2001 har två motioner inkommit (se bilaga 9 och bilaga 10).
 
 [Martin Lennartsson](../../personer/Martin%20Lennartsson.md), presenterar motionen. Förbundsstyrelsen yrkar avslag.
 [[Carl-Johan Svenningsson]], presenterar ett motyrkande (se bilaga 11).
-[[Linda Eriksson]], redogör för resultatet av tidigare plenumförberedande diskussioner.
+[Linda Eriksson](../../personer/Linda%20Eriksson.md), redogör för resultatet av tidigare plenumförberedande diskussioner.
 [[Carl-Johan Svenningsson]] yrkar att förbundsstyrelsen tillsätter en grupp som utreder frågan (se bilaga 12).
 
 >[!beslut]+
@@ -247,7 +247,7 @@ Till Riksstämman 2001 har två motioner inkommit (se bilaga 9 och bilaga 10).
 
 [Ulrik Franke](../../personer/Ulrik%20Franke.md), presenterar motionen. Förbundsstyrelsen yrkar avslag.
 
-[[Sara Karlsson]] och [Martin Olsson](../../personer/Martin%20Olsson.md), förbundsstyrelsen, redogör för resultatet av tidigare plenumförberedande diskussioner.
+[Sara Karlsson](../../personer/Sara%20Karlsson.md) och [Martin Olsson](../../personer/Martin%20Olsson.md), förbundsstyrelsen, redogör för resultatet av tidigare plenumförberedande diskussioner.
 
 >[!beslut]+
 >Beslutas att avslå motionen.

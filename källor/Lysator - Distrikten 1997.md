@@ -17,7 +17,7 @@ distrikt:
   - "[[UFÖN (Unga Forskare Övre Norrland)]]"
 ---
 
-Distriktens översiktssida på [Lysator-webben](Lysator%20(Unga%20Forskares%20webbplats%201995-1998).md), senast ändrad i december 1997 av [[Joakim Karlsson]] (ögonblicksbild 14 februari 1998).
+Distriktens översiktssida på [Lysator-webben](Lysator%20(Unga%20Forskares%20webbplats%201995-1998).md), senast ändrad i december 1997 av [Joakim Karlsson](../personer/Joakim%20Karlsson.md) (ögonblicksbild 14 februari 1998).
 
 De åtta distrikten står för mycket av aktiviteten inom Unga Forskare. Intressanta och spännande helgkurser är distriktens specialitet.
 

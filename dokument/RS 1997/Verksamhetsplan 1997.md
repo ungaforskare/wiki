@@ -78,7 +78,7 @@ Under senhösten kommer [[Frukthelgen]], en utbildningshelg för aktiva inom dis
 
 Förbundets lilla bibliotek kommer att ses över under året och kompletteras med litteratur om förenings- och förbundskunskap.
 
-Kontaktperson: [[Linda Eriksson]]
+Kontaktperson: [Linda Eriksson](../../personer/Linda%20Eriksson.md)
 
 >[!NOTE]
 >
@@ -90,7 +90,7 @@ Kontaktperson: [[Linda Eriksson]]
 
 En viktig uppgift i det internationella arbetet är att göra Förbundet Unga Forskare mer känt utanför landets gränser. Mera kraft skall även läggas på att ge större utbyte av de internationella kontakterna för förbundets medlemmar. De internationella kontakter som olika verksamhetsgrupper har skall samordnas för att förenkla arbetet och ge en mera samlad bild av Förbundet Unga Forskare. Som ett led i att samordna kontakterna kommer ett register över andra intressanta organisationer att skrivas.
 
-Kontaktperson: [[Kristina Svensson]]
+Kontaktperson: [Kristina Svensson](../../personer/Kristina%20Svensson.md)
 
 >[!NOTE]
 >
@@ -118,7 +118,7 @@ Ref: [UUF](../../verksamheter/UUF%20(Utställningen%20Unga%20Forskare).md)
 
 Utställningsgruppens mål för 1998 är att lägga ännu mera kraft vid sponsorarbetet för att kunna erbjuda en ännu bättre utställning. Kontakten med företag och stiftelser skall förbättras för att kunna erbjuda flera stipendier.
 
-Kontaktperson: [[Magnus Viström]]
+Kontaktperson: [Magnus Viström](../../personer/Magnus%20Viström.md)
 
 >[!NOTE]
 >
@@ -146,7 +146,7 @@ Ref: [SIYSS](../../verksamheter/SIYSS%20(Stockholm%20International%20Youth%20Sci
 
 SIYSS-gruppen skall under det kommande året inleda ett mera långsiktigt sponsorarbete för att förbättra utbytet mellan gruppen och deras sponsorer. De kommer även att söka nya samarbetspartners för sin verksamhet. Gruppen kommer att sträva efter ett bättre samarbete med förbundet i kontakten med sina sponsorer.
 
-Kontaktperson: [[Björn Holm]]
+Kontaktperson: [Björn Holm](../../personer/Björn%20Holm.md)
 
 >[!NOTE]
 >
@@ -190,7 +190,7 @@ Ref: [Skolturnén](../../verksamheter/Skolturnén.md)
 
 Skolturnén kommer 1997 att besöka Unga Forskare [Uppsala-Gävleborgs](../../distrikt/UFCX%20(Unga%20Forskare%20Uppsala%20Gävleborg).md) och [Skånedistrikt](../../distrikt/UFSk%20(Unga%20Forskare%20Skåne).md). Målsättningen är att visa ungdomar att naturvetenskap och teknik är både roligt och intressant. En insats skall göras för att förbättra och förnya det material som används till de olika experimenten som visas.
 
-Kontaktperson: [[Anna Karlsson]]
+Kontaktperson: [Anna Karlsson](../../personer/Anna%20Karlsson.md)
 
 >[!NOTE]
 >
@@ -204,7 +204,7 @@ Kontaktperson: [[Anna Karlsson]]
 
 Förbundsstyrelsen vill förenkla förbundets hantering av och förbättra servicen till de föreningar som är anslutna till Förbundet Unga Forskare. En strävan är även att under kommande år få flera aktiva medlemmar att ansluta sig till Förbundet Unga Forskare.
 
-Kontaktperson: [[Rikard Gothäll]]
+Kontaktperson: [Rikard Gothäll](../../personer/Rikard%20Gothäll.md)
 
 ### Förbundsstyrelsen
 
@@ -212,16 +212,16 @@ Ref: [FS (Förbundsstyrelsen)](../../verksamheter/FS%20(Förbundsstyrelsen).md)
 
 Förbundsstyrelsen kommer att förvalta och utveckla Förbundet Unga Forskare enligt de riktlinjer som stämman ger dem. Ett mål för 1997 är att bättre klargöra de målgrupper Förbundet Unga Forskare bör inrikta sig på i sin verksamhet.
 
-Kontaktperson: [[Patrik Jonasson]]
+Kontaktperson: [Patrik Jonasson](../../personer/Patrik%20Jonasson.md)
 
 ### Verksamhetsgrupper
 
 Antalet verksamhetsgrupper har under föregående år minskat. En förhoppning är att även kommande år i allt större grad utse en ansvarig i stället för en hel grupp. Kontakten mellan olika delar av förbundets verksamhet skall förbättras.
 
-Kontaktperson: [[Anders Lindström]]
+Kontaktperson: [Anders Lindström](../../personer/Anders%20Lindström.md)
 
 ### Förbundskansliet
 
 En lång period av omorganisation är över. Kansliet har utvecklats mycket och dess roll i förbundet förändrats. Under det kommande året kommer kraft att läggas vid att öka kvaliteten på den service kansliet ger den övriga verksamheten. En målsättning är även att förenkla möjligheten för kontakt med kansliet via e-post.
 
-Kontaktperson: [[Patrik Jonasson]]
+Kontaktperson: [Patrik Jonasson](../../personer/Patrik%20Jonasson.md)

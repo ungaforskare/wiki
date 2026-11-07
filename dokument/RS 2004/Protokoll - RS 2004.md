@@ -209,7 +209,7 @@ Förbundsstyrelsen föreslår stämman:
 
 [Marcus Andersson](../../personer/Marcus%20Andersson.md)
 
-[[Anna-Maria Wiberg]]
+[Anna-Maria Wiberg](../../personer/Anna-Maria%20Wiberg.md)
 
 [[Kristoffer Elfstrand]]
 

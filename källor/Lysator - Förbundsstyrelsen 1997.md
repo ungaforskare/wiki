@@ -16,15 +16,15 @@ Förbundsstyrelsens sida på [Lysator-webben](Lysator%20(Unga%20Forskares%20webb
 
 | Funktion | Namn |
 | --- | --- |
-| Ordförande | [[Anders Lindström]] |
-| Vice ordförande | [[Patrik Jonasson]] |
+| Ordförande | [Anders Lindström](../personer/Anders%20Lindström.md) |
+| Vice ordförande | [Patrik Jonasson](../personer/Patrik%20Jonasson.md) |
 | Kassör | [[Ronnie Andersson]] |
 | Sekreterare | [[Caroline Larsson]] |
-| Ledamot | [[Linda Eriksson]] |
-| Ledamot | [[Rikard Gothäll]] |
-| Ledamot | [[Raffael Dessi]] |
+| Ledamot | [Linda Eriksson](../personer/Linda%20Eriksson.md) |
+| Ledamot | [Rikard Gothäll](../personer/Rikard%20Gothäll.md) |
+| Ledamot | [Raffael Dessi](../personer/Raffael%20Dessi.md) |
 | Ledamot | [Torbjörn Blixt](../personer/Torbjörn%20Blixt.md) |
-| Ledamot | [[Joakim Karlsson]] |
+| Ledamot | [Joakim Karlsson](../personer/Joakim%20Karlsson.md) |
 | Ledamot | [José-Gabriel Sato Folatre](../personer/José-Gabriel%20Sato%20Folatre.md) |
 | Ledamot | [[Eva Olsson]] |
 

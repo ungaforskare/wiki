@@ -56,7 +56,7 @@ Under en helg i slutet av september hölls förbundets årliga utbildningskonfer
 
 ### Internationell verksamhet
 
-Vårt samarbete med internationella kollegor sker framförallt genom Utställningen Unga Forskare och [Stockholm International Youth Science Seminar, SIYSS](../../verksamheter/SIYSS%20(Stockholm%20International%20Youth%20Science%20Seminar).md). Under utställningen väljs varje år ett antal stipendiater som representerar Förbundet Unga Forskare och Sverige på internationella utställningar och läger. Som motprestation tar Unga Forskare emot stipendiater till SIYSS. Till några tävlingar medföljer eskorter som möjliggör en kontinuerlig personlig kontakt mellan de olika organisationerna. De internationella mötena är utmärkta tillfällen att utbyta erfarenheter och få inspiration till det fortsatta arbetet på hemmaplan. I detta syfte deltog [[Mats Lundin]] i [International Science and Engineering Fair, ISEF](../../organisationer/Intel%20ISEF.md), som i år förlades till Louisville, USA, av Science Service. På den tyska miljöutställningen Young Europeans' Environmental Research, YEER, som arrangeras av Stiftung Jugend Forscht och Deutsche Bank representerades förbundet av utställningschef [[Magnus Viström]]. [[Kristina Svensson]] besökte [EU Contest for Young Scientists](../../organisationer/EU%20Contest.md) som i år arrangerades av Federazione delle Associazioni Scientifiche e Techniche i Milano.
+Vårt samarbete med internationella kollegor sker framförallt genom Utställningen Unga Forskare och [Stockholm International Youth Science Seminar, SIYSS](../../verksamheter/SIYSS%20(Stockholm%20International%20Youth%20Science%20Seminar).md). Under utställningen väljs varje år ett antal stipendiater som representerar Förbundet Unga Forskare och Sverige på internationella utställningar och läger. Som motprestation tar Unga Forskare emot stipendiater till SIYSS. Till några tävlingar medföljer eskorter som möjliggör en kontinuerlig personlig kontakt mellan de olika organisationerna. De internationella mötena är utmärkta tillfällen att utbyta erfarenheter och få inspiration till det fortsatta arbetet på hemmaplan. I detta syfte deltog [[Mats Lundin]] i [International Science and Engineering Fair, ISEF](../../organisationer/Intel%20ISEF.md), som i år förlades till Louisville, USA, av Science Service. På den tyska miljöutställningen Young Europeans' Environmental Research, YEER, som arrangeras av Stiftung Jugend Forscht och Deutsche Bank representerades förbundet av utställningschef [Magnus Viström](../../personer/Magnus%20Viström.md). [Kristina Svensson](../../personer/Kristina%20Svensson.md) besökte [EU Contest for Young Scientists](../../organisationer/EU%20Contest.md) som i år arrangerades av Federazione delle Associazioni Scientifiche e Techniche i Milano.
 
 Ett annat sätt att utbyta erfarenheter är att bjuda in internationella kollegor. Under utställningen gästades förbundet i år av [[John McGrath]], ordförande för Youth Science Ireland och representant för [the European Youth Science Network](../../organisationer/EURYSN%20(European%20Youth%20Science%20Network).md). Besöket blev mycket lyckat och vi kommer fortsätta bjuda in internationella representanter till förbundet under kommande år. Under året har arbete lagts ner på att göra de ihopsamlade internationella erfarenheterna tillgängliga för intresserade medlemmar i ett kontaktregister.
 
@@ -174,17 +174,17 @@ Förbundets rikstäckande verksamhet bedrivs i huvudsak av verksamhetsgrupper. V
 
 * [Scientium](../../verksamheter/Scientium.md), [[Hans Lindqvist]]
 * Infogruppen, [[Markus Ahlstrand]]
-* Almanackan, [[Patrik Jonasson]]
+* Almanackan, [Patrik Jonasson](../../personer/Patrik%20Jonasson.md)
 * [SpecialarbetsNätverket](../../verksamheter/SAN%20(SpecialarbetsNätverket).md), [[Åsa Thulin]]
-* Utbildningsansvarig, [[Linda Eriksson]]
-* Internationell sekreterare, [[Kristina Svensson]]
-* IT-ansvarig, [[Joakim Karlsson]]
+* Utbildningsansvarig, [Linda Eriksson](../../personer/Linda%20Eriksson.md)
+* Internationell sekreterare, [Kristina Svensson](../../personer/Kristina%20Svensson.md)
+* IT-ansvarig, [Joakim Karlsson](../../personer/Joakim%20Karlsson.md)
 * NT-projektet, [Torbjörn Blixt](../../personer/Torbjörn%20Blixt.md)
-* [Skolturnén](../../verksamheter/Skolturnén.md), [[Anna Karlsson]]
-* [Utställningen Unga Forskare](../../verksamheter/UUF%20(Utställningen%20Unga%20Forskare).md), [[Magnus Viström]]
+* [Skolturnén](../../verksamheter/Skolturnén.md), [Anna Karlsson](../../personer/Anna%20Karlsson.md)
+* [Utställningen Unga Forskare](../../verksamheter/UUF%20(Utställningen%20Unga%20Forskare).md), [Magnus Viström](../../personer/Magnus%20Viström.md)
 * [Riksstämman](../../verksamheter/RS%20(Riksstämman).md), [[Hans Lindqvist]]
 * [Nordiska Naturvetenskapliga Ungdomsveckan](../../verksamheter/NORNA%20(Nordiska%20naturvetenskapliga%20ungdomsveckan).md), [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
-* [Stockholm International Youth Science Seminar](../../verksamheter/SIYSS%20(Stockholm%20International%20Youth%20Science%20Seminar).md), [[Björn Holm]]
+* [Stockholm International Youth Science Seminar](../../verksamheter/SIYSS%20(Stockholm%20International%20Youth%20Science%20Seminar).md), [Björn Holm](../../personer/Björn%20Holm.md)
 
 ### Medlemskap
 
@@ -205,28 +205,28 @@ Förbundsstyrelsen bestod 1997 av 11 ungdomar, jämngamla med eller något äldr
 
 #### Ordförande
 
-* [[Anders Lindström]], ledamot sedan 1995, ordförande sedan 1997.
+* [Anders Lindström](../../personer/Anders%20Lindström.md), ledamot sedan 1995, ordförande sedan 1997.
 
 #### Ledamöter
 
 * [[Ronnie Andersson]], förbundskassör, ledamot sedan 1997.
 * [Torbjörn Blixt](../../personer/Torbjörn%20Blixt.md), ledamot sedan 1996.
-* [[Raffael Dessi]], vice förbundskassör, ledamot sedan 1996.
-* [[Linda Eriksson]], ledamot sedan 1993.
-* [[Rikard Gothäll]], ledamot sedan 1996.
-* [[Patrik Jonasson]], vice ordförande, ledamot sedan 1995.
-* [[Joakim Karlsson]], ledamot sedan 1997.
+* [Raffael Dessi](../../personer/Raffael%20Dessi.md), vice förbundskassör, ledamot sedan 1996.
+* [Linda Eriksson](../../personer/Linda%20Eriksson.md), ledamot sedan 1993.
+* [Rikard Gothäll](../../personer/Rikard%20Gothäll.md), ledamot sedan 1996.
+* [Patrik Jonasson](../../personer/Patrik%20Jonasson.md), vice ordförande, ledamot sedan 1995.
+* [Joakim Karlsson](../../personer/Joakim%20Karlsson.md), ledamot sedan 1997.
 * [[Caroline Larsson]], sekreterare, ledamot sedan 1996.
 * [[Eva Olsson]], ledamot sedan 1997.
 * [José-Gabriel Sato Folatre](../../personer/José-Gabriel%20Sato%20Folatre.md), ledamot sedan 1997.
 
 ### Revisorer
 
-Förbundets revisorer har under året varit [[Sune Johnson]], Öhrlings Coopers & Lybrand AB, och [[Sune Hilstad]], Ingenjörssamfundet. Revisorssuppleanter var [[Anders Wingvist]], Öhrlings Coopers & Lybrand AB, och [[Anna Grahn]].
+Förbundets revisorer har under året varit [Sune Johnson](../../personer/Sune%20Johnson.md), Öhrlings Coopers & Lybrand AB, och [Sune Hilstad](../../personer/Sune%20Hilstad.md), Ingenjörssamfundet. Revisorssuppleanter var [[Anders Wingvist]], Öhrlings Coopers & Lybrand AB, och [[Anna Grahn]].
 
 ### Förbundskansliet
 
-Första halvåret 1997 minskades personalstyrkan på kansliet. Förbundsadministratör [[Lotta Strand]] gick över till Specialarbetsnätverket och förbundsadministratör [[Cecilia Åkerfeldt]] var under andra halvåret barnledig. Under hösten sköttes kansliet av ideella. Efter riksstämman ersatte [[Rikard Gothäll]] [[Patrik Johansson]] som kanslichef.
+Första halvåret 1997 minskades personalstyrkan på kansliet. Förbundsadministratör [[Lotta Strand]] gick över till Specialarbetsnätverket och förbundsadministratör [[Cecilia Åkerfeldt]] var under andra halvåret barnledig. Under hösten sköttes kansliet av ideella. Efter riksstämman ersatte [Rikard Gothäll](../../personer/Rikard%20Gothäll.md) [[Patrik Johansson]] som kanslichef.
 
 ## Slutord
 

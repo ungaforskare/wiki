@@ -155,7 +155,7 @@ Närvarande: Se bilaga 1
 
 [Hanna Palmquist](../../personer/Hanna%20Palmqvist.md)
 
-[[Anna-Maria Wiberg]]
+[Anna-Maria Wiberg](../../personer/Anna-Maria%20Wiberg.md)
 
 *Förslag till nyval till förbundsstyrelsen:*
 

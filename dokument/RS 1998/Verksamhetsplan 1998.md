@@ -59,7 +59,7 @@ Ref: [SAN](../../verksamheter/SAN%20(SpecialarbetsNätverket).md)
 
 Nätverket är inne i en fas av stora förändringar. Åsa som varit projektansvarig sedan start kommer att sluta och ny personal rekryteras. Under året kommer vikt läggas vid att nätverket bättre skall stödja elever och lärare i arbetsprocessen att göra ett specialarbete. En tävling för specialarbeten skall genomföras där en jury bedömer de inskickade arbetena efter kriterier liknande de vid [Utställningen Unga Forskare](../../verksamheter/UUF%20(Utställningen%20Unga%20Forskare).md).
 
-Kontaktperson: [[Rikard Gothäll]]
+Kontaktperson: [Rikard Gothäll](../../personer/Rikard%20Gothäll.md)
 
 >[!NOTE]
 >
@@ -71,7 +71,7 @@ Kontaktperson: [[Rikard Gothäll]]
 
 Extra kraft skall läggas vid att göra Förbundet Unga Forskare mer känt utanför landets gränser. Vårt samarbete med internationella kollegor kommer att ske framförallt genom Utställningen Unga Forskares och [SIYSS](../../verksamheter/SIYSS%20(Stockholm%20International%20Youth%20Science%20Seminar).md) försorg. Förbundets utbyte av stipendiater och eskorter möjliggör en kontinuerlig personlig kontakt med våra systerorganisationer.
 
-Kontaktperson: [[Kristina Svensson]]
+Kontaktperson: [Kristina Svensson](../../personer/Kristina%20Svensson.md)
 
 >[!NOTE]
 >
@@ -83,7 +83,7 @@ Kontaktperson: [[Kristina Svensson]]
 
 Under året kommer förbundets nyttjande av Internet samordnas. Man strävar även efter att hålla förbundets www-sidor uppdaterade och aktuella, samt att alla föreningar och distrikt som önskar, ska få möjlighet att lägga upp en egen hemsida och få tillgång till e-post.
 
-Kontaktperson: [[Joakim Karlsson]]
+Kontaktperson: [Joakim Karlsson](../../personer/Joakim%20Karlsson.md)
 
 >[!NOTE]
 >
@@ -97,7 +97,7 @@ Ref: [Utbildningsgruppen](../../verksamheter/Utbildningsgruppen.md)
 
 Aktiva på förbundsnivå skall utbildas i ekonomi samt förbundets administrativa rutiner. Alla arbetsgrupper kommer erbjudas utbildning i att arbeta i projektform samt hur de når ut i media. Under Riksstämman kommer deltagarna erbjudas utbildning i föreningsekonomi, förbundskunskap samt projektarbete samt en kurs-kurs.
 
-Kontaktperson: [[Linda Eriksson]]
+Kontaktperson: [Linda Eriksson](../../personer/Linda%20Eriksson.md)
 
 >[!NOTE]
 >
@@ -125,7 +125,7 @@ Ref: [Skolturnén](../../verksamheter/Skolturnén.md)
 
 Skolturnén kommer 1998 besöka Unga Forskare [Stockholms](../../distrikt/UFS%20(Unga%20Forskare%20Stockholm).md) och [Uppsala-Gävleborgs](../../distrikt/UFCX%20(Unga%20Forskare%20Uppsala%20Gävleborg).md) distrikt. Målsättningen är att främja intresset för naturvetenskap och teknik i de skolor som besöks. Uppföljningsarbetet och gruppens materiel som finns med ut till skolorna kommer att förbättras.
 
-Kontaktperson: [[Anna Karlsson]]
+Kontaktperson: [Anna Karlsson](../../personer/Anna%20Karlsson.md)
 
 >[!NOTE]
 >
@@ -141,7 +141,7 @@ Ref: [UUF](../../verksamheter/UUF%20(Utställningen%20Unga%20Forskare).md)
 
 Målsättningen för gruppen är att erbjuda de som kommer till Utställningen Unga Forskare en stimulerande diskussion kring hur deras projekt kan utvecklas samt att presentera förbundets verksamhet för dem.
 
-Kontaktperson: [[Magnus Viström]]
+Kontaktperson: [Magnus Viström](../../personer/Magnus%20Viström.md)
 
 >[!NOTE]
 >
@@ -155,7 +155,7 @@ Ref: [RS (Riksstämman)](../../verksamheter/RS%20(Riksstämman).md)
 
 [Unga Forskare Stockholmsdistriktet](../../distrikt/UFS%20(Unga%20Forskare%20Stockholm).md) har ansökt om att få arrangera Riksstämman 1999.
 
-Kontaktperson: [[Raffael Dessi]]
+Kontaktperson: [Raffael Dessi](../../personer/Raffael%20Dessi.md)
 
 >[!NOTE]
 >
@@ -183,7 +183,7 @@ Ref: [SIYSS](../../verksamheter/SIYSS%20(Stockholm%20International%20Youth%20Sci
 
 SIYSS-gruppen ska verka för ett utökat internationellt utbyte mellan unga som är tekniskt och naturvetenskapligt intresserade genom att bjuda in utländska ungdomar till SIYSS under Nobelveckan. Deltagarna kommer utöver Nobelevenemangen att besöka svenska företag och institutioner. Gruppen strävar även efter ett bättre samarbete med förbundet i kontakten med sina sponsorer.
 
-Kontaktperson: [[Björn Holm]]
+Kontaktperson: [Björn Holm](../../personer/Björn%20Holm.md)
 
 >[!NOTE]
 >
@@ -199,7 +199,7 @@ Förbundet är organiserat i åtta olika distrikt. Distrikten är fristående oc
 
 Förbundsstyrelsen vill förenkla förbundets hantering av och förbättra servicen till de föreningar som är anslutna till Förbundet Unga Forskare. En strävan är även att under kommande år få fler aktiva medlemmar att ansluta sig till Förbundet Unga Forskare. Arbete kommer även att läggas på att förenkla för föreningar att ansluta sig till förbundet.
 
-Kontaktperson: [[Linda Eriksson]]
+Kontaktperson: [Linda Eriksson](../../personer/Linda%20Eriksson.md)
 
 ### Distrikt
 
@@ -215,10 +215,10 @@ Ref: [FS (Förbundsstyrelsen)](../../verksamheter/FS%20(Förbundsstyrelsen).md)
 
 Förbundsstyrelsen kommer att förvalta och utveckla Förbundet Unga Forskare enligt de riktlinjer som stämman ger. En målsättning inför 1998 är att hitta nya former för nya arrangemang och medlemsfrämjande verksamhet.
 
-Kontaktperson: [[Anders Lindström]]
+Kontaktperson: [Anders Lindström](../../personer/Anders%20Lindström.md)
 
 ### Förbundskansliet
 
 Kansliet har under det gångna året genomgått en lång rad förändringar. Under kommande år kommer kraft att läggas vid att göra kansliet mera självgående. Kansliets service till distrikten och föreningar vad gäller ansökningar om bidrag skall förbättras.
 
-Kontaktperson: [[Rikard Gothäll]]
+Kontaktperson: [Rikard Gothäll](../../personer/Rikard%20Gothäll.md)

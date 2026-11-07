@@ -16,7 +16,7 @@ Förbundet var också respekterat på [[Vetenskapsfestivalen]] i Göteborg i maj
 
 ## Internationell verksamhet
 
-Ansvarig: [[Kristina Svensson]]
+Ansvarig: [Kristina Svensson](../../personer/Kristina%20Svensson.md)
 
 Förbundet har under året utökat sitt samarbete med systerorganisationerna i [Norge](../../platser/länder/Norge.md) och [Danmark](../../platser/länder/Danmark.md). Dessutom har våra goda kontakter med andra systerorganisationer bibehållits.
 
@@ -64,7 +64,7 @@ Gruppen arbetade ocksả med att tydliggöra samarbetet med våra företagspartn
 
 Ref: [UUF](../../verksamheter/UUF%20(Utställningen%20Unga%20Forskare).md)
 
-Ansvarig: [[Magnus Viström]] och Cecilia Warrol ([IVA](../../organisationer/IVA%20(Kungliga%20Ingenjörsakademien).md))
+Ansvarig: [Magnus Viström](../../personer/Magnus%20Viström.md) och Cecilia Warrol ([IVA](../../organisationer/IVA%20(Kungliga%20Ingenjörsakademien).md))
 
 Förbundet Unga Forskare och [Kungliga Ingenjörsakademien](../../organisationer/IVA%20(Kungliga%20Ingenjörsakademien).md)
  påbörjade 1998 ett samarbete för att skapa förutsättningar för regionala Unga Forskare-utställningar i Sverige, enligt förebilder från bland annat [Tyskland](../../platser/länder/Tyskland.md) och [[USA]]. Projektet har haft en projektledare sedan hösten 1999. Våren 2000 genomfördes regionala utställningar i [Linköping](../../platser/orter/Linköping.md) [Fenomenmagasinet](../../organisationer/Fenomenmagasinet.md), [[Örnsköldsvik]] [[Mitthögskolan]], [[Södertälje]] [Tom Tits Experiment](../../organisationer/Tom%20Tits%20Experiment.md)
@@ -76,7 +76,7 @@ Under året marknadsfördes konceptet mot potentiella utställningsarrangörer, 
 ## Riksstämman (RS)
 
 [[Riksstämman 2000]]
-Ansvarig: [[Jens Ekengren]]
+Ansvarig: [Jens Ekengren](../../personer/Jens%20Ekengren.md)
 
 Pä Riksstämman, det högsta beslutande organet för förbundet, väljer medlemmarna den styrelse som under året ska förvalta och leda förbundet. Riksstämman är ett bra tillfälle att påverka förbundets verksamhet och att träffa andra unga forskare frän hela Sverige.
 
@@ -202,8 +202,8 @@ Förbundsstyrelsen bestod 2000 av tretton ungdomar, jämngamla med eller något 
 * [[Karl Berglind]]. Ledamot sedan 2000.
 * [Torbjörn Blixt](../../personer/Torbjörn%20Blixt.md). Ledamot sedan 1996.
 * [Lisa Hagqvist](../../personer/Lisa%20Hagqvist.md). Ledamot sedan 1998.
-* [[Sara Karlsson]] (sekreterare). Ledamot sedan 1999.
-* [[Joakim Karlsson]]. Ledamot sedan 1997.
+* [Sara Karlsson](../../personer/Sara%20Karlsson.md) (sekreterare). Ledamot sedan 1999.
+* [Joakim Karlsson](../../personer/Joakim%20Karlsson.md). Ledamot sedan 1997.
 * [Martin Olsson](../../personer/Martin%20Olsson.md). Ledamot sedan 2000.
 * [[Helena Persson]] (kassör). Ledamot sedan 2000.
 * [Anders Sahlman](../../personer/Anders%20Sahlman.md). Ledamot sedan 2000.

@@ -44,15 +44,15 @@ Webbplatsens meny länkade dessutom till föreningarna AUGS, GRUFF, GUF och Admi
 
 ## Styrelse 1997/98
 
-* [[Jens Ekengren]], ordförande
-* [[Sara Karlsson]], vice ordförande, invald på distriktsstämman i Nässjö
+* [Jens Ekengren](../personer/Jens%20Ekengren.md), ordförande
+* [Sara Karlsson](../personer/Sara%20Karlsson.md), vice ordförande, invald på distriktsstämman i Nässjö
 * [[Johan Stigwall]], sekreterare, webmaster, postmottagare och bidragsansvarig
 * [[Joacim Jonsson]], kassör
 * [[Philip Engström]], vice kassör
 * [[Annie Nyander]], vice sekreterare
 * [[Karl Berglind]], PR-ansvarig
 * [[Peter Åstrand]], ansvarig för utrustning och materiel
-* [[Joakim Karlsson]], ledamot, invald på distriktsstämman i Skövde
+* [Joakim Karlsson](../personer/Joakim%20Karlsson.md), ledamot, invald på distriktsstämman i Skövde
 * [[Annelie Stalebrant]], ledamot, andra året i styrelsen
 * [[Elin Petersson]], ledamot
 
@@ -62,7 +62,7 @@ Några av styrelseledamöterna beskriver hur de kom med:
 
 * [[Annelie Stalebrant]] började med [[TQ (TetraQurs)|TQ-95]] och startandet av föreningen [WOUFF](../föreningar/WOUFF.md).
 * [[Johan Stigwall]] kom in via WOUFF i Västervik, som han var med och återupplivade.
-* [[Joakim Karlsson]] var ordförande i WOUFF på [Västerviks gymnasium](../skolor/Västerviks%20gymnasium.md) och gick sedan vidare till Fossilia och Lysator.
+* [Joakim Karlsson](../personer/Joakim%20Karlsson.md) var ordförande i WOUFF på [Västerviks gymnasium](../skolor/Västerviks%20gymnasium.md) och gick sedan vidare till Fossilia och Lysator.
 * [[Annie Nyander]] blev medlem i [Ataraxi](../föreningar/Ataraxi.md) på [Brinellgymnasiet](../skolor/Brinellgymnasiet.md) under sitt sista gymnasieår.
 * [[Karl Berglind]] hade varit ordförande i GUF i ett år.
-* [[Sara Karlsson]] var kassör i Haga Unga Forskare i Norrköping.
+* [Sara Karlsson](../personer/Sara%20Karlsson.md) var kassör i Haga Unga Forskare i Norrköping.

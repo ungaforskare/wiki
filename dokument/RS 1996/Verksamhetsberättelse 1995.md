@@ -9,7 +9,7 @@ kategorier:
   - "[[verksamhetsberättelse]]"
 ---
 
-Förbundets verksamhetsberättelse för 1995, presenterad på riksstämman 1996. Webbversionen producerades 1996-11-13 av [[Anders Lindström]].
+Förbundets verksamhetsberättelse för 1995, presenterad på riksstämman 1996. Webbversionen producerades 1996-11-13 av [Anders Lindström](../../personer/Anders%20Lindström.md).
 
 Berättelsen hade åtta kapitel: Ordförande har ordet, Verksamhet, Arrangemang, Rekrytering, Struktur, Ekonomi, Styrelsens tack och Bidragsgivare. Endast det sista kapitlet finns bevarat i Internet Archive (ögonblicksbilder 28 oktober och 18 december 2000). PDF-versionen med ekonomisk redovisning och revisorsrapport är inte arkiverad.
 

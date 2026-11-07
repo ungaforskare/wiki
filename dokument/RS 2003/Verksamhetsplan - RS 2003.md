@@ -7,7 +7,7 @@ Förbundet Unga Forskare har av EU-kommissionen blivit erbjudna värdskapet för
 
 ## Internationell verksamhet
 
-Kontaktperson: [[Anders Lindström]]
+Kontaktperson: [Anders Lindström](../../personer/Anders%20Lindström.md)
 Det internationella arbetet kommer 2003 att fokuseras pà att ge mera information och bättre stöd till dem som tilldelats nägot av UUF:s resestipendium. Detta är viktigt dã de i mänga fall själva reser som representanter för förbundet. Vissa av stipendierna innebär även att det egna projektet skall visas upp vid någon form av tävling eller utställning och vi hoppas då kunna bidra till att ytterligare förbättra projektpresentation och om sả behövs hjälpa till med översättningsarbete av materialet till engelska.
 För att bättre nå ut med information om förbundet till organisationer i andra länder skall en engelsk presentation av FUF läggas til våra hemsidor. En samling med länkar och korta presentationer av de andra europeiska organisationerna skall även skapas för att kunna användas av våra medlemmar.
 
@@ -47,7 +47,7 @@ Distriktet bör också anordna en längre, gemensam aktivitet, tillsammans med a
 
 ## Stipendier
 
-Kontaktperson: [[Anna-Maria Wiberg]]
+Kontaktperson: [Anna-Maria Wiberg](../../personer/Anna-Maria%20Wiberg.md)
 Målet är att till sä mänga som möjligt av Utställningen Unga Forskares deltagare dela ut stipendier som alla är inriktade mot naturvetenskap eller teknik och därför verkar för att befästa intresset för dessa ämnesområden hos stipendiemottagarna. Att det delas ut ett stort antal stipendier, varav mänga stipendieresor, gör också att det blir lättare att locka deltagare till utställningen.
 Dắ det vid UUF 2003 ser ut att bli ett ovanligt stort deltagarantal hoppas vi kunna dela ut extra många stipendier, bland annat genom att låta fler personer delta vid de olika nordiska lägren, vilket även bidrar till att öka det nordiska utbytet. Vär förhoppning att kunna sända fler deltagare till dessa läger tillsammans med det faktum att nagra av stiftelserna dragit in sitt stöd, gör att vi i ar mäste satsa extra mycket pà att söka sponsorer till stipendierna.
 Vi kommer inte att sända stipendiater till The Dr. Bessie F. Lawrence International Summer Science Institute i Israel i ăr på grund av situationen där. Däremot hoppas vi kunna skicka stipendiater till Intel International Science and Engineering Fair i USA, Canada Wide Science Fair, International Wildlife Research Week i Schweiz, EU Contest i Ungern, London Youth Science Forum, Bio Med Camp i Norge, Space Camp i Norge, Cyber Camp i Norge, Bio Tech Camp i Danmark och NORNA i Sverige. Antalet platser vid dessa olika stipendieresor anpassas i förhållande till hur mycket pengar vi får in. Vi kommer också att dela ut olika sakstipendier som kan vara bokpaket, abonnemang på Nationalencyklopedins internetupplaga och tidningsprenumerationer.

@@ -193,7 +193,7 @@ redaktionsutskottet.
 
 [Martin Lennartsson](../../personer/Martin%20Lennartsson.md)
 
-[[Anna-Maria Wiberg]]
+[Anna-Maria Wiberg](../../personer/Anna-Maria%20Wiberg.md)
 
 [Maja Söderkvist](../../personer/Maja%20Söderkvist.md)
 

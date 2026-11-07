@@ -20,7 +20,7 @@ Först genom Lysator men sen på FUF 1999
 
 ## Omkring 1997–1998
 
-Cirka 800 medlemmar i ett trettiotal föreningar, distriktsbladet [[Uppblåst]] och ett nätverk av "fossiler", tidigare aktiva som fanns kvar och gav råd. Ordförande 1997/98 [[Jens Ekengren]]. ([Lysator - UFÖS 1997-1998](../källor/Lysator%20-%20UFÖS%201997-1998.md))
+Cirka 800 medlemmar i ett trettiotal föreningar, distriktsbladet [[Uppblåst]] och ett nätverk av "fossiler", tidigare aktiva som fanns kvar och gav råd. Ordförande 1997/98 [Jens Ekengren](../personer/Jens%20Ekengren.md). ([Lysator - UFÖS 1997-1998](../källor/Lysator%20-%20UFÖS%201997-1998.md))
 
 ## Historik 1994–1997
 

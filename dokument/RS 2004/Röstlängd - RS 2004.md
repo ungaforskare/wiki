@@ -8,7 +8,7 @@
 
 4. [[Ann Du]] ([[Xenon]])
 
-5. [[Anna-Maria Wiberg]] ([[UGUFF]])
+5. [Anna-Maria Wiberg](../../personer/Anna-Maria%20Wiberg.md) ([[UGUFF]])
 
 6. [[Erik Bengtsson]] ([UFCX](../../distrikt/UFCX%20(Unga%20Forskare%20Uppsala%20Gävleborg).md))
 

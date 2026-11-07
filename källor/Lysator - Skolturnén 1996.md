@@ -16,7 +16,7 @@ distrikt:
   - "[[UFÖS (Unga Forskare Östergötland Småland)]]"
 ---
 
-Skolturnéns sidor på [Lysator-webben](Lysator%20(Unga%20Forskares%20webbplats%201995-1998).md): en projektpresentation av turnén 1996, turnéschemat, föreningarna som turnén träffade och två sidor för den som ville söka till turnén 1997. Huvudsidorna ändrades senast i augusti 1997 av [[Anna Karlsson]]. Telefonnummer och skoladresser är borttagna.
+Skolturnéns sidor på [Lysator-webben](Lysator%20(Unga%20Forskares%20webbplats%201995-1998).md): en projektpresentation av turnén 1996, turnéschemat, föreningarna som turnén träffade och två sidor för den som ville söka till turnén 1997. Huvudsidorna ändrades senast i augusti 1997 av [Anna Karlsson](../personer/Anna%20Karlsson.md). Telefonnummer och skoladresser är borttagna.
 
 ## Om turnén
 
@@ -28,7 +28,7 @@ Turnén beskrivs som förbundets största projekt både i tid och pengar. 1996 k
 
 ## Turnén 1996
 
-Turnégruppen: [[Anna Karlsson]], [[Emil Rolandson]] och [[David Wärn]]. Turnéchef: [[Mats Lundin]]. Turnéområde: Jönköpings, Kronobergs, Kalmar och Östergötlands län i [UFÖS](../distrikt/UFÖS%20(Unga%20Forskare%20Östergötland%20Småland).md).
+Turnégruppen: [Anna Karlsson](../personer/Anna%20Karlsson.md), [[Emil Rolandson]] och [[David Wärn]]. Turnéchef: [[Mats Lundin]]. Turnéområde: Jönköpings, Kronobergs, Kalmar och Östergötlands län i [UFÖS](../distrikt/UFÖS%20(Unga%20Forskare%20Östergötland%20Småland).md).
 
 ### Schema
 
@@ -70,4 +70,4 @@ Sammanlagt 15 skolor och 28 shower.
 
 ## Turnén 1997
 
-Turnéchef 1997 var [[Anna Karlsson]].
+Turnéchef 1997 var [Anna Karlsson](../personer/Anna%20Karlsson.md).

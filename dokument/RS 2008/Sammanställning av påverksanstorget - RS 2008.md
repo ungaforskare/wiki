@@ -81,7 +81,7 @@
 > att FS ska verka för att komma på och deltaga på alla förenings- och distriktsarrangemang och att det ska prioriteras lika högt som verksamhetsgruppernas och övriga nationella arrangemang.
 
 **Bifall:** [Johanna Rogvall](../../personer/Johanna%20Rogvall.md), [[Johannes Edström]], [Sara Magnusson](../../personer/Sara%20Magnusson.md), [Erika Wiberg](../../personer/Erika%20Wiberg.md), [[Samuel Z Wolff]]
-**Avslag:** [Sarah Warsi](../../personer/Sarah%20Warsi.md), [[Andreas Andersson]], [[Anna-Maria Wiberg]], [Johan Andréasson](../../personer/Johan%20Andréasson.md), [[Linnéa Bengtsson]], m.fl.
+**Avslag:** [Sarah Warsi](../../personer/Sarah%20Warsi.md), [[Andreas Andersson]], [Anna-Maria Wiberg](../../personer/Anna-Maria%20Wiberg.md), [Johan Andréasson](../../personer/Johan%20Andréasson.md), [[Linnéa Bengtsson]], m.fl.
 
 **Kommentarer:**
 
@@ -119,7 +119,7 @@ Nationella arrangemang:
 
 Det bör noteras att under utställningen pågår flera olika arrangemang såsom Lärardag och Skolprogram och att FS-ledamöterna deltog vid detta tillfälle på grund av anknytning till dessa verksamheter.
 
-[Johan Andréasson](../../personer/Johan%20Andréasson.md), [[Anna-Maria Wiberg]], [Anders Lundberg](../../personer/Anders%20Lundberg.md), [Tobias Bladini](../../personer/Tobias%20Bladini.md), [Guncha Welsapar](../../personer/Guncha%20Welsapar.md), m.fl.
+[Johan Andréasson](../../personer/Johan%20Andréasson.md), [Anna-Maria Wiberg](../../personer/Anna-Maria%20Wiberg.md), [Anders Lundberg](../../personer/Anders%20Lundberg.md), [Tobias Bladini](../../personer/Tobias%20Bladini.md), [Guncha Welsapar](../../personer/Guncha%20Welsapar.md), m.fl.
 
 **Kommentar 2:**
 
@@ -150,7 +150,7 @@ Jag håller med om att FS ska försöka synas på fler arrangemang (vilket de re
 
 **Kommentar:** Förbundsstyrelsen arbetar redan i dagsläget för att vara representerade på så många arrangemang och tillställningar som möjligt varför det är onödigt att ta upp detta i verksamhetsplanen. Dessutom är ett tillägg som detta alldeles för detaljstyrande för att tas upp i en verksamhetsplan som är målstyrande.
 
-[Alexander Sehlström](../../personer/Alexander%20Sehlström.md), [[Anna-Maria Wiberg]], [Johan Andréasson](../../personer/Johan%20Andréasson.md), [Anders Lundberg](../../personer/Anders%20Lundberg.md)
+[Alexander Sehlström](../../personer/Alexander%20Sehlström.md), [Anna-Maria Wiberg](../../personer/Anna-Maria%20Wiberg.md), [Johan Andréasson](../../personer/Johan%20Andréasson.md), [Anders Lundberg](../../personer/Anders%20Lundberg.md)
 
 #### Nationellt medlemsarrangemang
 
@@ -171,7 +171,7 @@ Jag håller med om att FS ska försöka synas på fler arrangemang (vilket de re
 
 1. Vi måste lära oss av tidigare erfarenheter! Vi delar förslagsskrivarens önskemål om fler aktiviteter riktade till förbundets medlemmar och detta är något som vi och andra lyft såväl före som under RS. Dock ställer vi oss mycket frågande till om ett nationellt arrangemang för enbart medlemmar är det bästa organisationen kan ge sina medlemmar! Organisationen gjorde ett mycket seriöst och väl planerat försök till ovanstående hösten 2006: FUF-konventet. Tanken var att 200 av FUFs medlemmar skulle träffas i Göteborg och lära sig mer om förbundet, varandra och ha roligt tillsammans. Totalt anmälde sig knappt 60 personer. Förutom att vi var tvungna att ställa in många av de aktiviteter vi lagt ned omfattande tid på att planera blev konventet en ekonomisk börda för förbundet. Med detta vill jag visa att förbundet inte motsätter sig aktiviteter för medlemmar, men att det är viktigt att vi bara gör det medlemmarna vill ha. En nationell träff är, bevisligen, inte något som nödvändigtvis tilltalar en majoritet av våra medlemmar. En högst personlig anmärkning är att ett mer långsiktigt sätt att gynna organisationens medlemmar vore att upprätta en utvecklingsfond för Unga Forskare (se yrkande under "Budgetproposition 2008"). Utvecklingsfondens överskott skulle kunna användas till aktiviteter riktade till medlemmar, år efter år efter år. Om vi väljer att lägga pengar på ett nationellt arrangemang under 2008 har vi inte samma möjligheter att upprätta en fond redan i år. Vad väljer vi helst: ett arrangemang i år eller många bra arrangemang i framtiden!
 
-   [Anders Lundberg](../../personer/Anders%20Lundberg.md), [Alexander Sehlström](../../personer/Alexander%20Sehlström.md), [Johan Andréasson](../../personer/Johan%20Andréasson.md), [Maja Söderkvist](../../personer/Maja%20Söderkvist.md), [Guncha Welsapar](../../personer/Guncha%20Welsapar.md), [[Anna-Maria Wiberg]]
+   [Anders Lundberg](../../personer/Anders%20Lundberg.md), [Alexander Sehlström](../../personer/Alexander%20Sehlström.md), [Johan Andréasson](../../personer/Johan%20Andréasson.md), [Maja Söderkvist](../../personer/Maja%20Söderkvist.md), [Guncha Welsapar](../../personer/Guncha%20Welsapar.md), [Anna-Maria Wiberg](../../personer/Anna-Maria%20Wiberg.md)
 
 2. Jag tror det är bra med fler riksarrangemang riktade till medlemmarna. Nästan nödvändigt, faktiskt. Men jag tror inte det är rimligt att ålägga FS detta, utan mer planering och förberedelse finns varken tid eller pengar. Kanske ett mer utarbetat förslag till RS09?
 
@@ -234,7 +234,7 @@ IT-gruppen genom [Alexander Sehlström](../../personer/Alexander%20Sehlström.md
 
 **Kommentar:** Idén är god och det skulle kunna bli ett mycket bra resultat om man lägger tid och engagemang bakom tjänsten. Om inte så kommer besökarna att tappa intresse. Vidare kan man fråga sig om det är FUF:s uppgift att bedriva en plattform som denna. Det finns idag redan ett stort antal liknande hemsidor och forum på Internet och för att konkurrera med dem behöver vi lägga mycket energi på detta. Sist ställer jag mig frågande till vem som skall göra denna tjänst. Är det föreslagsnämnaren själv som tänker sig göra detta? Möjlighet och utrymme på webben är inga problem att ordna i så fall.
 
-[Alexander Sehlström](../../personer/Alexander%20Sehlström.md), [[Anna-Maria Wiberg]], [Karl Larsson](../../personer/Karl%20Larsson.md)
+[Alexander Sehlström](../../personer/Alexander%20Sehlström.md), [Anna-Maria Wiberg](../../personer/Anna-Maria%20Wiberg.md), [Karl Larsson](../../personer/Karl%20Larsson.md)
 
 #### Färre cirkelresonemang
 
@@ -512,7 +512,7 @@ PS. Jag har ett detaljerat förslag på policy som jag vill överlämna till IT-
 
 **Kommentar:** Varför tar ni inte initiativ själv? Alla saker behöver inte börja med att man uppmanar FS att ta tag i saken. Exempelvis vore väl Astronomiåret en gyllene chans för både distrikt och föreningar att få ett bra tema som deras verksamhet kan baseras på!
 
-[Johan Andréasson](../../personer/Johan%20Andréasson.md), [Maja Söderkvist](../../personer/Maja%20Söderkvist.md), [Alexander Sehlström](../../personer/Alexander%20Sehlström.md), [[Anna-Maria Wiberg]], [Joel Salholm](../../personer/Joel%20Salholm.md), [Anders Lundberg](../../personer/Anders%20Lundberg.md), [Antonia Papadopoulou](../../personer/Antonia%20Papadopoulou.md)
+[Johan Andréasson](../../personer/Johan%20Andréasson.md), [Maja Söderkvist](../../personer/Maja%20Söderkvist.md), [Alexander Sehlström](../../personer/Alexander%20Sehlström.md), [Anna-Maria Wiberg](../../personer/Anna-Maria%20Wiberg.md), [Joel Salholm](../../personer/Joel%20Salholm.md), [Anders Lundberg](../../personer/Anders%20Lundberg.md), [Antonia Papadopoulou](../../personer/Antonia%20Papadopoulou.md)
 
 **Vad gör FUF under Astronomiåret 2009, Revision 2:**
 

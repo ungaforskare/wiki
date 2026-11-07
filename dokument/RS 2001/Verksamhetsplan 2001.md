@@ -19,7 +19,7 @@ Förslag till beslut: uppdra åt gruppen att genomföra planerad verksamhet inom
 
 ## Internationell verksamhet
 
-Kontaktperson: [[Anders Lindström]]
+Kontaktperson: [Anders Lindström](../../personer/Anders%20Lindström.md)
 Den internationella sekreteraren kommer under året att fortsätta med att underhålla och
 samordna förbundets internationella kontakter, med bland annat våra systerorganisationer. De
 verksamheter inom förbundet som innefattar internationella kontakter, skall kontinuerligt få
@@ -99,7 +99,7 @@ Förslag till beslut: uppdra åt gruppen att genomföra planerad verksamhet inom
 
 Ref: [UUF](../../verksamheter/UUF%20(Utställningen%20Unga%20Forskare).md)
 
-Kontaktperson: [[Magnus Viström]]
+Kontaktperson: [Magnus Viström](../../personer/Magnus%20Viström.md)
 
 Förbundet Unga Forskare och [IVA](../../organisationer/IVA%20(Kungliga%20Ingenjörsakademien).md) påbörjade
 1998 ett samarbete för att skapa förutsättningar för regionala Unga Forskare-utställningar i

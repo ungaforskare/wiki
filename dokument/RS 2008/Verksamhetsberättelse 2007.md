@@ -10,7 +10,7 @@ På riksstämman 2007 valdes följande personer till förbundsstyrelsen:
 
 ### Ledamöter
 
-* [[Anna-Maria Wiberg]], vice förbundsordförande.
+* [Anna-Maria Wiberg](../../personer/Anna-Maria%20Wiberg.md), vice förbundsordförande.
 * [Guncha Welsapar](../../personer/Guncha%20Welsapar.md), andre vice förbundsordförande.
 * [Johan Andréasson](../../personer/Johan%20Andréasson.md), förbundskassör.
 * [Anders Lundberg](../../personer/Anders%20Lundberg.md), ledamot.

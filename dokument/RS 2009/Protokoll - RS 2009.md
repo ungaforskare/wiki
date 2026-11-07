@@ -138,7 +138,7 @@ Angående yrkanden: I dokumentet hänvisas till olika yrkanden, dessa återfinns
 >
 > att välja följande inflytandepunkter: året som gick, verksamhetsplan, budget, övriga propositioner, motioner, valberedningens förslag,
 >
-> att välja [Maja Söderkvist](../../personer/Maja%20Söderkvist.md), [[Anna-Maria Wiberg]], [Linnéa Nilebäck](../../personer/Linnéa%20Nilebäck.md) och [Helene Eriksson](../../personer/Helene%20Eriksson.md) till inflytandepunktsansvariga,
+> att välja [Maja Söderkvist](../../personer/Maja%20Söderkvist.md), [Anna-Maria Wiberg](../../personer/Anna-Maria%20Wiberg.md), [Linnéa Nilebäck](../../personer/Linnéa%20Nilebäck.md) och [Helene Eriksson](../../personer/Helene%20Eriksson.md) till inflytandepunktsansvariga,
 >
 > att utse [Martin Lennartsson](../../personer/Martin%20Lennartsson.md), [Andreas Svensson](../../personer/Andreas%20Svensson.md) och [Anders Lundberg](../../personer/Anders%20Lundberg.md) till redaktionsutskott.
 
