@@ -1,0 +1,78 @@
+---
+år: 2024
+kategorier:
+  - "[[RS (Riksstämman)|Riksstämman]]"
+  - "[[röstlängd]]"
+---
+
+## Röstlängd
+
+>[!warning]
+> Listan är avskriven från skärmdumpar av originalet, eftersom OCR-texten av tabellen delvis var oläslig. Källan har inga röstkortsnummer; numreringen nedan är redaktionens och följer källans ordning, som är sorterad efter förening. Källans närvarokolumner för lördag och söndag återges inte.
+
+<!-- Bilaga A2 till RS 2024, "Röstlängd", dokumentansvarig Mötespresidiet, 2024-11-17, rev "Slutgiltig". Föreningsnamnen är enhetliga: varje förening skrivs på ett sätt genom hela listan, med samma länkmål som i RS 2023 och Verksamhetsberättelse 2023. Källan stavar samma förening på flera sätt, t.ex. "AUUF- Unga Forskare"/"AUUF", "C.A.S.E Chalmers Autonomous systems And Electronics."/"CASE"/"CASE, Chalmers Autonomous Systems and Electronics"/"C.A.S.E Association", "Föreningen Energisystemteknologerna"/"Föreningen Energisystem Teknologerna"/"Föreningen energisystemteknologer", "Fyskam"/"FysKam", "Geovetenskapliga rådet för Uppsalastudenter (GRUS)"/"Geovetenskapliga rådet för Uppsala studenter", "Hjernverket"/"Hjernverket Science Club", "IUPAK, Intresseföreningen Uppsala Akademiska Kemister"/"IUPAK", "Kungsholmens young scientist's society"/"Kungsholmen's Young Scientists' Society"/"Kungsholme's Young Society of Science"/"Kungsholmens Young scientist's society", "We Are W-Engineers"/"We are W-engineers (Wawe)", samt "Sektionen för teknisk biologi"/"Sektionen för Teknisk och Kemisk Biologi"/"Sektionen för teknisk biologi, Linköpings universitet" (samma sektion vid LiU, bekräftat av användaren). "Rasmsu Wallin", "Amanda-linn Bodin" och "Kevin Ridell Tangsuphuti" står så i källan. -->
+
+1. [[Svante Brohagen]] ([[Alef Noll]])
+2. [[Ellen Hytti]] ([[Alef Noll]])
+3. [[Tencie Spoormaker]] ([[Arkimedes]])
+4. [[Haneen Alkazzaz]] ([[Alumniföreningen Utställningen Unga Forskare|AUUF]])
+5. [[Aron Stålnacke]] ([[Alumniföreningen Utställningen Unga Forskare|AUUF]])
+6. [[Filip Jädersten]] ([[Alumniföreningen Utställningen Unga Forskare|AUUF]])
+7. [[Leonard Bengtsson]] ([[Alumniföreningen Utställningen Unga Forskare|AUUF]])
+8. [[Elisa Carnö]] ([[Alumniföreningen Utställningen Unga Forskare|AUUF]])
+9. [[Embla Andersson]] ([[Biologiska Ämnesrådet]])
+10. [[Elsa Wittholt]] ([[Biologiska Ämnesrådet]])
+11. [[Simon Eckerbom]] ([[Biologiska Ämnesrådet]])
+12. [[Amanda-Linn Bodin|Amanda-linn Bodin]] ([[Biologiska Ämnesrådet]])
+13. [[Viggo Hjalmarsson]] ([[Cathedralis Scientia]])
+14. [[Theo Milos]] ([[Cathedralis Scientia]])
+15. [[Tim Leffler]] ([[Chalmers Autonomous|CASE]])
+16. [[Edith Aniés Heinemann]] ([[Chalmers Autonomous|CASE]])
+17. [[Griffin Hiscoke]] ([[Chalmers Autonomous|CASE]])
+18. [[Gustav Bardun]] ([[Chalmers Autonomous|CASE]])
+19. [[Jens Kollberg]] ([[Chalmers Coding Club]])
+20. [[Annie Svensson]] ([[CNaS]])
+21. [[Meera Parmar]] ([[CNaS]])
+22. [[Rula Alkarkhi]] ([[CNaS]])
+23. [[Rasmus Wallin|Rasmsu Wallin]] ([[FIA (Föreningen för intelligenta autonoma system)|FIA]])
+24. [[Tilda Mårtensson]] ([[FET (Föreningen Energisystemteknologerna)|Föreningen Energisystemteknologerna]])
+25. [[Anton Flodin]] ([[FET (Föreningen Energisystemteknologerna)|Föreningen Energisystemteknologerna]])
+26. [[Jakob Dahlberg]] ([[FET (Föreningen Energisystemteknologerna)|Föreningen Energisystemteknologerna]])
+27. [[Ludvig Lindfeldt]] ([[FET (Föreningen Energisystemteknologerna)|Föreningen Energisystemteknologerna]])
+28. [[Minna Palmgren Thun]] ([[Fysikums Kamratförening|Fyskam]])
+29. [[Mathilda Turtola]] ([[Fysikums Kamratförening|Fyskam]])
+30. [[Sebastian Lindblad]] ([[Fysikums Kamratförening|Fyskam]])
+31. [[Benjamin Scott]] ([[Fysikums Kamratförening|Fyskam]])
+32. [[Matilda Lundström]] ([[Fysikums Kamratförening|Fyskam]])
+33. [[Linnéa Holm Borgström]] ([[Geovetenskapliga Rådet för Uppsala Studenter|GRUS]])
+34. [[Edith Lundqvist Svendsen]] ([[Geovetenskapliga Rådet för Uppsala Studenter|GRUS]])
+35. [[Felicia Wrande]] ([[Geovetenskapliga Rådet för Uppsala Studenter|GRUS]])
+36. [[Humaira Afrin]] ([[Girls in STEM]])
+37. [[Jonas Sunklodas]] ([[Hjernverket Science Club]])
+38. [[Simon Brandberg]] ([[Hjernverket Science Club]])
+39. [[Mishka Davani]] ([[Hjernverket Science Club]])
+40. [[Dianna Zeleskov]] ([[iGEM Uppsala]])
+41. [[Noemi Andras]] ([[Intresseföreningen Uppsala Akademiska Kemister|IUPAK]])
+42. [[Lovisa Linander]] ([[Intresseföreningen Uppsala Akademiska Kemister|IUPAK]])
+43. [[Emric Furberg]] ([[Intresseföreningen Uppsala Akademiska Kemister|IUPAK]])
+44. [[Sofia Zhang]] ([[KYSS]])
+45. [[Dante Uhlén]] ([[KYSS]])
+46. [[Diana Wu]] ([[KYSS]])
+47. [[Oskar Hallensjö]] ([[KYSS]])
+48. [[Wega Hyytiäinen]] ([[KYSS]])
+49. [[Felicia Wedlund]] ([[LiU IGEM|LiU iGEM]])
+50. [[Meliksah Kaplan]] ([[Malmös Akademiska Förening]])
+51. [[Emanuel Andreasson]] ([[Molekulföreningen]])
+52. [[Julia Mårtensson]] ([[Research Academy for Young Scientists|Rays]])
+53. [[Markus Dupont]] ([[Science Club Lysekil]])
+54. [[Kevin Ridell Tangsuphuti]] ([[TBI-sektionen]])
+55. [[Ludvig Ekstedt]] ([[TBI-sektionen]])
+56. [[Zacharias Veem]] ([[TBI-sektionen]])
+57. [[Fredrik Torstensson]] ([[TBI-sektionen]])
+58. [[Max Andersson]] ([[TBI-sektionen]])
+59. [[Christine Der Danielian]] ([[SIYSS-föreningen]])
+60. [[Tove Werner]] ([[St Eskil's young scientists]])
+61. [[Charlize Rosenblad]] ([[We Are W-Engineers]])
+62. [[Tom Ysu]] ([[We Are W-Engineers]])
+63. [[Amanda Grejs]] ([[We Are W-Engineers]])
+64. [[Aida Gazerzadeh]] ([[TBI-sektionen]])
