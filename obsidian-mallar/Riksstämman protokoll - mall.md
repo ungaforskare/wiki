@@ -1,10 +1,15 @@
 ---
 start:
 end:
+mötesordförande:
+mötessekreterare:
 platser:
 orter:
-bilagor:
+justerare:
+rösträknare:
+inflytandepunktsansvariga:
+redaktionsutskott:
 kategorier:
-  - riksstämman
-  - protokoll
+  - "[[RS (Riksstämman)|Riksstämman]]"
+  - "[[protokoll]]"
 ---

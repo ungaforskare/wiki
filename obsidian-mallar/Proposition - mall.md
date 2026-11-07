@@ -1,0 +1,6 @@
+---
+kategorier:
+  - proposition
+år:
+namn:
+---
