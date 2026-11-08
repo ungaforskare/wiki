@@ -137,7 +137,7 @@ Nedan är några exempel på saker som föreningarna har genomfört under året.
 - [[FET (Föreningen Energisystemteknologerna)|Föreningen Energisystemteknologerna]]
 - [[iGEM Uppsala]]
 - [[Föreningen Stockholms Amatörastronomer]]
-- [[Alef Noll]]
+- [Alef Noll](../../föreningar/Alef%20Noll.md)
 - [[W-sektionen inom Teknologkåren vid Lunds Tekniska Högskola]]
 - [[Hållbart Universitet]] - Lund Students for Sustainability
 - [[Naturvetenskapliga Sällskapet]]

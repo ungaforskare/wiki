@@ -16,7 +16,7 @@ Ref: [UFV](../../distrikt/UFV%20(Unga%20Forskare%20Väst).md)
 
 - [[Västsveriges Unga Naturvetare]] (VUN)
 - [[KringLAN]] (Kring!) <!-- Förkortningen läses "Kringl" i RS 2002. -->
-- [[Gasterix]] (gasterix) <!-- OCR: distrikt "UFY", tolkat som UFV (samma läsning som för Masslösa Bosonerna i Göteborg). -->
+- [Gasterix](../../föreningar/Gasterix.md) (gasterix) <!-- OCR: distrikt "UFY", tolkat som UFV (samma läsning som för Masslösa Bosonerna i Göteborg). -->
 
 ### UFNN
 
@@ -29,17 +29,17 @@ Ref: [UFNN](../../distrikt/UFNN%20(Unga%20Forskare%20Nedre%20Norrland).md)
 
 Ref: [UFS](../../distrikt/UFS%20(Unga%20Forskare%20Stockholm).md)
 
-- [[Utställningsgruppen och Utställarna]] (UGUUF)
+- [Utställningsgruppen och Utställarna](../../föreningar/UGUUF%20(Utställningsgruppen%20och%20Utställarna).md) (UGUUF)
 - [[Data & Elektronikföreningen Stockholm]] (DEF)
-- [[Onlajn]] (Onlajn)
+- [Onlajn](../../föreningar/Onlajn.md) (Onlajn)
 - [[Datorföreningen Andromeda]] (M31)
 
 ### UFÖS
 
 Ref: [UFÖS](../../distrikt/UFÖS%20(Unga%20Forskare%20Östergötland%20Småland).md)
 
-- [[Föreningen Unga Forskare Östra Götaland]] (FUFÖS)
-- [[Xenon - Jönköpings Unga Forskare]] (XENON)
+- [Föreningen Unga Forskare Östra Götaland](../../föreningar/FUFÖS%20(Föreningen%20Unga%20Forskare%20Östra%20Götaland).md) (FUFÖS)
+- [Xenon - Jönköpings Unga Forskare](../../föreningar/Xenon.md) (XENON)
 
 ### UFÖN
 

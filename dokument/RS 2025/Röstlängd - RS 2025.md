@@ -12,8 +12,8 @@ kategorier:
 
 <!-- Bilaga A2 till RS 2025, "Röstlängd". Föreningsnamnen är enhetliga: varje förening skrivs på ett sätt genom hela listan, med samma länkmål som i RS 2024. Källan stavar samma förening på flera sätt, t.ex. "Biologiska ämnesrådet"/"Biologiska Ämnesrådet" och "Fysikums Kamratförening"/"Fysikums kamratförening". Källans "Föreningen Energisystem Teknologerna", "IGEM Chalmers Gothenburg", "Girls in stem", "K.Y.S.S.", "Malmös Akademiska förening", "Rays", "SIYSS föreningen", "S:t Eskils Young Scientists", "TBi sektionen", "Ung Datatjej" och "WAWE" har länkats till samma noter som tidigare år. "Kemisektionen KTH" har länkats till THS - Kemisektionen, och "SGEM" till Stockholm Genetically Engineered Machines (som föreningen heter i Verksamhetsberättelse 2024). -->
 
-1. [[Svante Brohagen]] ([[Alef Noll]])
-2. [[Arvid Brännvall]] ([[Alef Noll]])
+1. [[Svante Brohagen]] ([Alef Noll](../../föreningar/Alef%20Noll.md))
+2. [[Arvid Brännvall]] ([Alef Noll](../../föreningar/Alef%20Noll.md))
 3. [[Hanna Alkazzaz]] ([[Alumniföreningen Utställningen Unga Forskare|AUUF]])
 4. [[Huy Nguyen]] ([[Alumniföreningen Utställningen Unga Forskare|AUUF]])
 5. [[Leonard Bengtsson]] ([[Alumniföreningen Utställningen Unga Forskare|AUUF]])

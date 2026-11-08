@@ -137,7 +137,7 @@ Närvarande: Se bilaga 1
 >
 > att till redaktionsutskott utse [Johan Andréasson](../../personer/Johan%20Andréasson.md).
 
-[[Tobias Lönnell]], [[Eva-Brita Åkerlund]] och [[Erik Bengtsson]] kandiderar till
+[[Tobias Lönnell]], [[Eva-Brita Åkerlund]] och [Erik Bengtsson](../../personer/Erik%20Bengtsson.md) kandiderar till
 redaktionsutskottet.
 
 > [!warning]
@@ -210,9 +210,9 @@ redaktionsutskottet.
 
 *Förslag på revisorer:*
 
-Auktoriserad: [Magnus Backlund](../../personer/Magnus%20Backlund.md), [[Öhrlings PricewaterhouseCoopers]]
+Auktoriserad: [Magnus Backlund](../../personer/Magnus%20Backlund.md), [Öhrlings PricewaterhouseCoopers](../../organisationer/Öhrlings%20PricewaterhouseCoopers.md)
 
-Ideell: [Sune Hilstad](../../personer/Sune%20Hilstad.md), [[Ingenjörssamfundet]]
+Ideell: [Sune Hilstad](../../personer/Sune%20Hilstad.md), [Ingenjörssamfundet](../../organisationer/Ingenjörssamfundet.md)
 
 *Förslag på revisorssuppleanter:*
 

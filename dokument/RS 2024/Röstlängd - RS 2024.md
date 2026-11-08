@@ -12,8 +12,8 @@ kategorier:
 
 <!-- Bilaga A2 till RS 2024, "Röstlängd", dokumentansvarig Mötespresidiet, 2024-11-17, rev "Slutgiltig". Föreningsnamnen är enhetliga: varje förening skrivs på ett sätt genom hela listan, med samma länkmål som i RS 2023 och Verksamhetsberättelse 2023. Källan stavar samma förening på flera sätt, t.ex. "AUUF- Unga Forskare"/"AUUF", "C.A.S.E Chalmers Autonomous systems And Electronics."/"CASE"/"CASE, Chalmers Autonomous Systems and Electronics"/"C.A.S.E Association", "Föreningen Energisystemteknologerna"/"Föreningen Energisystem Teknologerna"/"Föreningen energisystemteknologer", "Fyskam"/"FysKam", "Geovetenskapliga rådet för Uppsalastudenter (GRUS)"/"Geovetenskapliga rådet för Uppsala studenter", "Hjernverket"/"Hjernverket Science Club", "IUPAK, Intresseföreningen Uppsala Akademiska Kemister"/"IUPAK", "Kungsholmens young scientist's society"/"Kungsholmen's Young Scientists' Society"/"Kungsholme's Young Society of Science"/"Kungsholmens Young scientist's society", "We Are W-Engineers"/"We are W-engineers (Wawe)", samt "Sektionen för teknisk biologi"/"Sektionen för Teknisk och Kemisk Biologi"/"Sektionen för teknisk biologi, Linköpings universitet" (samma sektion vid LiU, bekräftat av användaren). "Rasmsu Wallin", "Amanda-linn Bodin" och "Kevin Ridell Tangsuphuti" står så i källan. -->
 
-1. [[Svante Brohagen]] ([[Alef Noll]])
-2. [[Ellen Hytti]] ([[Alef Noll]])
+1. [[Svante Brohagen]] ([Alef Noll](../../föreningar/Alef%20Noll.md))
+2. [[Ellen Hytti]] ([Alef Noll](../../föreningar/Alef%20Noll.md))
 3. [[Tencie Spoormaker]] ([[Arkimedes]])
 4. [[Haneen Alkazzaz]] ([[Alumniföreningen Utställningen Unga Forskare|AUUF]])
 5. [[Aron Stålnacke]] ([[Alumniföreningen Utställningen Unga Forskare|AUUF]])

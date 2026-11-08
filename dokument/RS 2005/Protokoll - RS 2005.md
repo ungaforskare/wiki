@@ -196,13 +196,13 @@ Inflytandepunktsansvariga presenterar sig kort.
 
 *Förslag på revisorer:*
 
-> Auktoriserad*:* [Sune Johnsson](../../personer/Sune%20Johnson.md), [[Öhrlings PricewaterhouseCoopers]]
+> Auktoriserad*:* [Sune Johnsson](../../personer/Sune%20Johnson.md), [Öhrlings PricewaterhouseCoopers](../../organisationer/Öhrlings%20PricewaterhouseCoopers.md)
 
-Ideell: [Sune Hilstad](../../personer/Sune%20Hilstad.md), [[Ingenjörssamfundet]].
+Ideell: [Sune Hilstad](../../personer/Sune%20Hilstad.md), [Ingenjörssamfundet](../../organisationer/Ingenjörssamfundet.md).
 
 *Förslag på revisorssuppleanter:*
 
-Auktoriserad: [Magnus Backlund](../../personer/Magnus%20Backlund.md), [[Öhrlings PricewaterhouseCoopers]]
+Auktoriserad: [Magnus Backlund](../../personer/Magnus%20Backlund.md), [Öhrlings PricewaterhouseCoopers](../../organisationer/Öhrlings%20PricewaterhouseCoopers.md)
 
 Ideell: [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
 
@@ -507,7 +507,7 @@ Ideell: [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
 >
 > **21 a** att välja [[Henric Fröberg]] till sammankallande ledamot och
 > [Hanna Modin](../../personer/Hanna%20Modin.md), [Samuel Tylstedt](../../personer/Samuel%20Tylstedt.md), [[Torbjörn Diderholm Korell]],
-> [[Viktor Johansson]] och [[Petter Blomberg]] till ledamöter i
+> [[Viktor Johansson]] och [Petter Blomberg](../../personer/Petter%20Blomberg.md) till ledamöter i
 > valberedningen
 
 >[!yrkande]

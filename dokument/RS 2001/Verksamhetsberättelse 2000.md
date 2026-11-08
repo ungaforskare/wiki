@@ -217,7 +217,7 @@ Det är glädjande att så många företag, högskolor, universitet, stiftelser 
 
 ## Revisorer
 
-Förbundets revisorer har under året varit [Sune Johnson](../../personer/Sune%20Johnson.md), [[Öhrlings PricewaterhouseCoopers|Öhrlings PriceWaterHouseCoopers]], Stockholm och [Sune Hilstad](../../personer/Sune%20Hilstad.md), [[Svenska Ingenjörssamfundet]], Stockholm. Revisorssuppleanter var [[Ronnie Andersson]], Stockholm och [[Anders Winqvist]], Öhrlings PriceWaterHouseCoopers, Stockholm
+Förbundets revisorer har under året varit [Sune Johnson](../../personer/Sune%20Johnson.md), [Öhrlings PriceWaterHouseCoopers](../../organisationer/Öhrlings%20PricewaterhouseCoopers.md), Stockholm och [Sune Hilstad](../../personer/Sune%20Hilstad.md), [[Svenska Ingenjörssamfundet]], Stockholm. Revisorssuppleanter var [[Ronnie Andersson]], Stockholm och [[Anders Winqvist]], Öhrlings PriceWaterHouseCoopers, Stockholm
 
 ## GCB-fonden
 
@@ -338,7 +338,7 @@ Stockholm den 9 maj 2001
 - [Gundel Cornelias Stipendiefond för Unga Forskare](../../verksamheter/GCB%20(Gundel%20Cornelia%20Babs%20stipendiefond).md)
 - [[IAR Systems]]
 - [[Industriförbundet]]
-- [[Ingenjörssamfundet]]
+- [Ingenjörssamfundet](../../organisationer/Ingenjörssamfundet.md)
 - [[International Data Group]]
 - [IVA](../../organisationer/IVA%20(Kungliga%20Ingenjörsakademien).md)
 - [[Ny Teknik|NyTeknik]]

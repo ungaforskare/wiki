@@ -28,7 +28,7 @@ kategorier:
 16. [[Victoria Runnäs]] ([[We Are W-Engineers]]) (A)
 17. [[Maya Bar-Am]] ([[We Are W-Engineers|We are w-engineers]]) (A)
 18. [[Edvin Söderberg]] ([[Naturvetenskapliga Föreningen Vasaskolan Gävle]]) (C)
-19. [[Hektor Einarsson]] ([[Alef Noll|Alef noll]]) (C)
+19. [[Hektor Einarsson]] ([Alef noll](../../föreningar/Alef%20Noll.md)) (C)
 20. [[Julia Reinius]] (B) <!-- Ingen förening angiven i källan. -->
 21. [[Jonna Halonen]] ([[Alumniföreningen Utställningen Unga Forskare]]) (C)
 22. [[Karin Cederberg]] ([[SIYSS-föreningen|SIYSS]]) (C)

@@ -4,13 +4,13 @@
 
 2. [[Emanuel Reich Åkerlund]] ([[Dynamit]])
 
-3. [Tobias Jonsson](../../personer/Tobias%20Jonsson.md) ([[UGUUF]])
+3. [Tobias Jonsson](../../personer/Tobias%20Jonsson.md) ([UGUUF](../../föreningar/UGUUF%20(Utställningsgruppen%20och%20Utställarna).md))
 
-4. [[Rickard Ahlgren]] ([[UGUUF]])
+4. [[Rickard Ahlgren]] ([UGUUF](../../föreningar/UGUUF%20(Utställningsgruppen%20och%20Utställarna).md))
 
-5. [[Rebecka Geijer Michaeli]] ([[Alef Noll]])
+5. [[Rebecka Geijer Michaeli]] ([Alef Noll](../../föreningar/Alef%20Noll.md))
 
-6. [[Andreas Källberg]] ([[Alef Noll]])
+6. [[Andreas Källberg]] ([Alef Noll](../../föreningar/Alef%20Noll.md))
 
 7. [Tobias Nilsson](../../personer/Tobias%20Nilsson.md) ([[Svenska Lingoolympiadföreningen]])
 
@@ -20,11 +20,11 @@
 
 10. [[Peter Eriksson]] ([[Proxxi]])
 
-11. [[Karin Andersson]] ([[MNF]])
+11. [[Karin Andersson]] ([MNF](../../föreningar/MNF.md))
 
-12. [Martin Norlin](../../personer/Martin%20Norlin.md) ([[MNF]])
+12. [Martin Norlin](../../personer/Martin%20Norlin.md) ([MNF](../../föreningar/MNF.md))
 
-13. [Aleksander Lundqvist](../../personer/Aleksander%20Lundqvist.md) ([[MNF]])
+13. [Aleksander Lundqvist](../../personer/Aleksander%20Lundqvist.md) ([MNF](../../föreningar/MNF.md))
 
 14. [[Ansari Haji Chefeh]] ([[Malmö Latinskolas Unga Forskare Förening]])
 
@@ -62,7 +62,7 @@
 
 31. [[Safi Naesae]] ([[Malmö latinskolas unga forskare förening]])  
 
-32. [Johanna Rogvall](../../personer/Johanna%20Rogvall.md) ([[Xenon]])
+32. [Johanna Rogvall](../../personer/Johanna%20Rogvall.md) ([Xenon](../../föreningar/Xenon.md))
 
 33. [[Nils Haulin]] ([UFCX](../../distrikt/UFCX%20(Unga%20Forskare%20Uppsala%20Gävleborg).md))
 

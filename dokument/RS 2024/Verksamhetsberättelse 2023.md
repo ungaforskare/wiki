@@ -163,7 +163,7 @@ Nedan är några exempel på saker som föreningarna har genomfört under året.
 - [[Malmös Akademiska Förening]]
 - [[Maskinsektionen inom TLTH]]
 - [[W-sektionen inom Teknologkåren vid Lunds Tekniska Högskola]]
-- [[Alef Noll]]
+- [Alef Noll](../../föreningar/Alef%20Noll.md)
 - [[Alumniföreningen Utställningen Unga Forskare]]
 - [[Engineering Students Exploring Research]]
 - [[Girls in STEM]]

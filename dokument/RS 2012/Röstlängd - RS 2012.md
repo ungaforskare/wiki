@@ -26,7 +26,7 @@ kategorier:
 12. [[Nils Anlind]] ([[Bananforskarna]])
 13. [[Dennis Alp]] ([[Biologi och geologiföreningen|Ämnesföreningen Biologi/Geologi]])
 14. [[Sebastian Bundajev]] ([[STUFF|Stuff]])
-15. [[Beatrice Bergström]] ([[UGUUF]])
+15. [[Beatrice Bergström]] ([UGUUF](../../föreningar/UGUUF%20(Utställningsgruppen%20och%20Utställarna).md))
 16. [[Maja Boström]] ([[Unga Forskares iPhone-förening]])
 17. [[Samuel Wolff]] ([[Bordläggarsällskapet]])
 18. [[Linda Rosendahl]] ([[Stockholms Amatörastronomer|Stockholms AmatörAstronomer (STAR)]])
@@ -34,7 +34,7 @@ kategorier:
 
 <!-- Röstkort 20 saknas i källan. -->
 
-21. [[Julia Andersson]] ([[MNF]])
+21. [[Julia Andersson]] ([MNF](../../föreningar/MNF.md))
 22. [[John Åkerhielm]] ([[Föreningen Unga Forskare Lidingö]])
 23. [[Therese de Haan]] ([UFCX](../../distrikt/UFCX%20(Unga%20Forskare%20Uppsala%20Gävleborg).md))
 24. [[Monika Thulin]] ([[Biokemi&bioteknikföreningen]])

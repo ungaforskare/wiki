@@ -169,9 +169,9 @@ Närvarande: Se bilaga 1
 
 *Förslag på revisorer:*
 
-Auktoriserad: [Magnus Backlund](../../personer/Magnus%20Backlund.md), [[Öhrlings PricewaterhouseCoopers]]
+Auktoriserad: [Magnus Backlund](../../personer/Magnus%20Backlund.md), [Öhrlings PricewaterhouseCoopers](../../organisationer/Öhrlings%20PricewaterhouseCoopers.md)
 
-Ideell: [Sune Hilstad](../../personer/Sune%20Hilstad.md), [[Ingenjörssamfundet]]
+Ideell: [Sune Hilstad](../../personer/Sune%20Hilstad.md), [Ingenjörssamfundet](../../organisationer/Ingenjörssamfundet.md)
 
 *Förslag på revisorssuppleanter:*
 

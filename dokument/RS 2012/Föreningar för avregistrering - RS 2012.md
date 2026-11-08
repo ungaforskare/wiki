@@ -41,7 +41,7 @@ Föreningar för avregistrering under Riksstämman 2012.
 - [[TEND CX]] (379)
 - [[TEND UFSk|TEND UFSK]] (793)
 - [[Kalmar Datorklubb]] (835)
-- [[Xenon - Jönköpings Unga Forskare]] (877)
+- [Xenon - Jönköpings Unga Forskare](../../föreningar/Xenon.md) (877)
 - [[Radikala Allvetare]] (1118)
 - [[Ambassadörerna]] (1140)
 - [[Föreningen Unga Forskare Lidingö]] (1145)

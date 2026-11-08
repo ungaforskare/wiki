@@ -571,12 +571,12 @@ Nyval:
 >
 > 25a
 >
-> att till revisorer välja [Sune Johnson](../../personer/Sune%20Johnson.md), [[Öhrlings PricewaterhouseCoopers]] och [Sune Hilstad](../../personer/Sune%20Hilstad.md), [[Ingenjörssamfundet]].
+> att till revisorer välja [Sune Johnson](../../personer/Sune%20Johnson.md), [Öhrlings PricewaterhouseCoopers](../../organisationer/Öhrlings%20PricewaterhouseCoopers.md) och [Sune Hilstad](../../personer/Sune%20Hilstad.md), [Ingenjörssamfundet](../../organisationer/Ingenjörssamfundet.md).
 
 >[!yrkande]
 > 25b
 >
-> att till revisorsuppleanter välja [[Anders Winqvist]], [[Öhrlings PricewaterhouseCoopers]] och [Kristofer Hallén](../../personer/Kristofer%20Hallén.md).
+> att till revisorsuppleanter välja [[Anders Winqvist]], [Öhrlings PricewaterhouseCoopers](../../organisationer/Öhrlings%20PricewaterhouseCoopers.md) och [Kristofer Hallén](../../personer/Kristofer%20Hallén.md).
 
 >[!beslut]
 > RS beslutar
@@ -608,7 +608,7 @@ Val av valberedning:
 >[!yrkande]
 > Inflytandepunktens huvudyrkande angående [valberedning](../../verksamheter/Valberedningen.md):
 >
-> att till valberedning välja [Robert Jacobsson](../../personer/Robert%20Jacobsson.md) ([UFÖS](../../distrikt/UFÖS%20(Unga%20Forskare%20Östergötland%20Småland).md)), [Linda Svenson](../../personer/Linda%20Svenson.md), [[Linnea Kjeldgård]] ([UFCX](../../distrikt/UFCX%20(Unga%20Forskare%20Uppsala%20Gävleborg).md)) och [[Jessica Wallén]] ([UFÖS](../../distrikt/UFÖS%20(Unga%20Forskare%20Östergötland%20Småland).md)).
+> att till valberedning välja [Robert Jacobsson](../../personer/Robert%20Jacobsson.md) ([UFÖS](../../distrikt/UFÖS%20(Unga%20Forskare%20Östergötland%20Småland).md)), [Linda Svenson](../../personer/Linda%20Svenson.md), [Linnea Kjeldgård](../../personer/Linnea%20Kjeldgård.md) ([UFCX](../../distrikt/UFCX%20(Unga%20Forskare%20Uppsala%20Gävleborg).md)) och [[Jessica Wallén]] ([UFÖS](../../distrikt/UFÖS%20(Unga%20Forskare%20Östergötland%20Småland).md)).
 
 >[!beslut]
 > RS beslutar

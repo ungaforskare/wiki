@@ -80,7 +80,7 @@
 >
 > att FS ska verka för att komma på och deltaga på alla förenings- och distriktsarrangemang och att det ska prioriteras lika högt som verksamhetsgruppernas och övriga nationella arrangemang.
 
-**Bifall:** [Johanna Rogvall](../../personer/Johanna%20Rogvall.md), [[Johannes Edström]], [Sara Magnusson](../../personer/Sara%20Magnusson.md), [Erika Wiberg](../../personer/Erika%20Wiberg.md), [[Samuel Z Wolff]]
+**Bifall:** [Johanna Rogvall](../../personer/Johanna%20Rogvall.md), [Johannes Edström](../../personer/Johannes%20Edström.md), [Sara Magnusson](../../personer/Sara%20Magnusson.md), [Erika Wiberg](../../personer/Erika%20Wiberg.md), [[Samuel Z Wolff]]
 **Avslag:** [Sarah Warsi](../../personer/Sarah%20Warsi.md), [[Andreas Andersson]], [Anna-Maria Wiberg](../../personer/Anna-Maria%20Wiberg.md), [Johan Andréasson](../../personer/Johan%20Andréasson.md), [[Linnéa Bengtsson]], m.fl.
 
 **Kommentarer:**
@@ -125,7 +125,7 @@ Det bör noteras att under utställningen pågår flera olika arrangemang såsom
 
 Bland dessa arrangemang finns endast tre öppna för "vanliga medlemmar". Det vi säger är inte att FS inte åker på arrangemang, utan att nu omprioriterar vilka ni åker på till förmån för mer medlemsinriktade =)
 
-[[Johannes Edström]], [Johanna Rogvall](../../personer/Johanna%20Rogvall.md)
+[Johannes Edström](../../personer/Johannes%20Edström.md), [Johanna Rogvall](../../personer/Johanna%20Rogvall.md)
 
 **Kommentar 3:**
 
@@ -146,7 +146,7 @@ Jag håller med om att FS ska försöka synas på fler arrangemang (vilket de re
 >
 > Uppdrag: Att synas och få personlig kontakt med så många medlemmar som möjligt. FS ska under år 2008 deltaga på så många medlemsinriktade arrangemang som möjligt för att medlemmarna ska få större insyn i hela Förbundet Unga Forskare och vad man kan göra i Förbundet. Särskild vikt ska läggas vid arrangemang där deltagarplatserna är sökbara för alla förbundets medlemmar och där majoriteten av deltagarna är medlemmar.
 
-[Johanna Rogvall](../../personer/Johanna%20Rogvall.md), [[Johannes Edström]]
+[Johanna Rogvall](../../personer/Johanna%20Rogvall.md), [Johannes Edström](../../personer/Johannes%20Edström.md)
 
 **Kommentar:** Förbundsstyrelsen arbetar redan i dagsläget för att vara representerade på så många arrangemang och tillställningar som möjligt varför det är onödigt att ta upp detta i verksamhetsplanen. Dessutom är ett tillägg som detta alldeles för detaljstyrande för att tas upp i en verksamhetsplan som är målstyrande.
 
@@ -175,7 +175,7 @@ Jag håller med om att FS ska försöka synas på fler arrangemang (vilket de re
 
 2. Jag tror det är bra med fler riksarrangemang riktade till medlemmarna. Nästan nödvändigt, faktiskt. Men jag tror inte det är rimligt att ålägga FS detta, utan mer planering och förberedelse finns varken tid eller pengar. Kanske ett mer utarbetat förslag till RS09?
 
-   [[Johannes Edström]]
+   [Johannes Edström](../../personer/Johannes%20Edström.md)
 
 3. Tanken är att detta ska vara en träff där föreningskontakter ska knytas (som det togs upp på open workspace), men inte bara för att träffas utan för att medlemmar ska lära sig mer om naturvetenskap. Det ska även vara en möjlighet för medlemmarna att få veta mer om Förbundet Unga Forskare och de aktiviteter som sker i förbundet. Jag tycker att det är viktigt att medlemmarna känner sig prioriterade och får möjlighet att träffas. Sponsring bör nog kunna sökas externt.
 
@@ -321,7 +321,7 @@ IT-gruppen genom [Alexander Sehlström](../../personer/Alexander%20Sehlström.md
 >
 > Att 10 000 kr tas ur budgeten från punkten föreningsstöd och läggs över till distriktsstöd för detta syfte.
 
-[[Mikael Sunde]], [Aleksander Lundqvist](../../personer/Aleksander%20Lundqvist.md), [[Mikaela Samuelsson]], [Erika Wiberg](../../personer/Erika%20Wiberg.md), [Johanna Rogvall](../../personer/Johanna%20Rogvall.md), [[Johannes Edström]], [[Jenny Nilsson]], [Johannes Z Wolff](../../personer/Johannes%20Zeltner%20Wolff.md), [[Safi Naesae]], [Samuel Tylstedt](../../personer/Samuel%20Tylstedt.md), [[Ruben Johnsson]], [Tobias Nilsson](../../personer/Tobias%20Nilsson.md), [[Pia Swartz]], [[Lillian Fung]], [[David Berg]], [[Helene Andersson]], [Martin Norlin](../../personer/Martin%20Norlin.md), [Louise Wallin](../../personer/Louise%20Wallin.md), [[Andreas Källberg]], [Antonia Papadopoulou](../../personer/Antonia%20Papadopoulou.md), [Sarah Warsi](../../personer/Sarah%20Warsi.md), [[Andreas Andersson]], [[Joakim Råman]], [[Marie Larsson]]
+[[Mikael Sunde]], [Aleksander Lundqvist](../../personer/Aleksander%20Lundqvist.md), [[Mikaela Samuelsson]], [Erika Wiberg](../../personer/Erika%20Wiberg.md), [Johanna Rogvall](../../personer/Johanna%20Rogvall.md), [Johannes Edström](../../personer/Johannes%20Edström.md), [[Jenny Nilsson]], [Johannes Z Wolff](../../personer/Johannes%20Zeltner%20Wolff.md), [[Safi Naesae]], [Samuel Tylstedt](../../personer/Samuel%20Tylstedt.md), [[Ruben Johnsson]], [Tobias Nilsson](../../personer/Tobias%20Nilsson.md), [[Pia Swartz]], [[Lillian Fung]], [[David Berg]], [[Helene Andersson]], [Martin Norlin](../../personer/Martin%20Norlin.md), [Louise Wallin](../../personer/Louise%20Wallin.md), [[Andreas Källberg]], [Antonia Papadopoulou](../../personer/Antonia%20Papadopoulou.md), [Sarah Warsi](../../personer/Sarah%20Warsi.md), [[Andreas Andersson]], [[Joakim Råman]], [[Marie Larsson]]
 
 **Kommentar:** Anledningen till att vi valde att pengarna ska tas från föreningsstödet är för att det där finns ett "budgeterat överskott" (eftersom förbundet antagligen kommer få fler föreningar än förra året). Därför borde det vara okej att flytta 10 000 kr av dessa till projektet (bara ett förtydligande eftersom vissa undrade).
 
@@ -446,7 +446,7 @@ Budgeten innehåller ungefär 1,584 miljoner SEK som står FS fritt att disponer
 >
 > Riksstämman ger [förbundsstyrelsen](../../verksamheter/FS%20(Förbundsstyrelsen).md) uppdraget att under kommande verksamhetsår utse en grupp som under kommande verksamhetsår skall utreda om föreningsbidraget bör förändras, så att bidraget står i annan proportion till antalet medlemmar i föreningen som söker bidrag, samt redovisa resultatet av utredningen på riksstämman 2009.
 
-[Martin Norlin](../../personer/Martin%20Norlin.md), [[Samuel Z Wolff]], [Helene Eriksson](../../personer/Helene%20Eriksson.md), [[Karin Andersson]], [[Jenny Nilsson]], [Erika Wiberg](../../personer/Erika%20Wiberg.md), [Johannes Z Wolff](../../personer/Johannes%20Zeltner%20Wolff.md), [[Johannes Edström]], [Karl Larsson](../../personer/Karl%20Larsson.md)
+[Martin Norlin](../../personer/Martin%20Norlin.md), [[Samuel Z Wolff]], [Helene Eriksson](../../personer/Helene%20Eriksson.md), [[Karin Andersson]], [[Jenny Nilsson]], [Erika Wiberg](../../personer/Erika%20Wiberg.md), [Johannes Z Wolff](../../personer/Johannes%20Zeltner%20Wolff.md), [Johannes Edström](../../personer/Johannes%20Edström.md), [Karl Larsson](../../personer/Karl%20Larsson.md)
 
 > Idag får varje förening med 5 medlemmar 2 000 kronor varje år som föreningsbidrag. En förening med 30 gånger fler medlemmar, 150, får ett endast 2,5 gånger större bidrag å 5 000 kronor. Dagens bidragssystem ger oproportionerligt lite pengar till större föreningar, och borde omarbetas.
 
@@ -508,7 +508,7 @@ PS. Jag har ett detaljerat förslag på policy som jag vill överlämna till IT-
 >[!yrkande]
 > Att FUF borde uppmärksamma astronomiåret 2009 och utreder möjligheten att genomföra ett astronomirelaterat arrangemang i samband med detta.
 
-[Andreas Svensson](../../personer/Andreas%20Svensson.md), [[Britta Svensson]], [Samuel Tylstedt](../../personer/Samuel%20Tylstedt.md), [Sarah Warsi](../../personer/Sarah%20Warsi.md), [[Naweed Meer]], [Rikard Ahgren](../../personer/Rikard%20Ahgren.md), [[Linnéa Bengtsson]], [[Karin Andersson]], [Linnéa Nilebäck](../../personer/Linnéa%20Nilebäck.md), [[Johannes Edström]], [Joakim Öfverholm](../../personer/Joakim%20Öfverholm.md), [Sara Magnusson](../../personer/Sara%20Magnusson.md), [[Emma Backlund]], [Erika Wiberg](../../personer/Erika%20Wiberg.md), [Helene Eriksson](../../personer/Helene%20Eriksson.md), [Martin Norlin](../../personer/Martin%20Norlin.md), [[Jenny Nilsson]]
+[Andreas Svensson](../../personer/Andreas%20Svensson.md), [[Britta Svensson]], [Samuel Tylstedt](../../personer/Samuel%20Tylstedt.md), [Sarah Warsi](../../personer/Sarah%20Warsi.md), [[Naweed Meer]], [Rikard Ahgren](../../personer/Rikard%20Ahgren.md), [[Linnéa Bengtsson]], [[Karin Andersson]], [Linnéa Nilebäck](../../personer/Linnéa%20Nilebäck.md), [Johannes Edström](../../personer/Johannes%20Edström.md), [Joakim Öfverholm](../../personer/Joakim%20Öfverholm.md), [Sara Magnusson](../../personer/Sara%20Magnusson.md), [[Emma Backlund]], [Erika Wiberg](../../personer/Erika%20Wiberg.md), [Helene Eriksson](../../personer/Helene%20Eriksson.md), [Martin Norlin](../../personer/Martin%20Norlin.md), [[Jenny Nilsson]]
 
 **Kommentar:** Varför tar ni inte initiativ själv? Alla saker behöver inte börja med att man uppmanar FS att ta tag i saken. Exempelvis vore väl Astronomiåret en gyllene chans för både distrikt och föreningar att få ett bra tema som deras verksamhet kan baseras på!
 

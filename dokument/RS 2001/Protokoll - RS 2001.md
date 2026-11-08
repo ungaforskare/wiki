@@ -262,9 +262,9 @@ kategorier:
 
 > [Valberedningen](../../verksamheter/Valberedningen.md) föreslår omval av revisorer och revisorsuppleanter. Inga ytterligare förslag presenteras.
 >
-> [Sune Johnson](../../personer/Sune%20Johnson.md), [[Öhrlings PricewaterhouseCoopers|Öhrlings PriceWaterHouse Coopers]], samt [Sune Hilstad](../../personer/Sune%20Hilstad.md), [[Svenska Ingenjörssamfundet]], väljs till revisorer för Förbundet Unga Forskare år 2001.
+> [Sune Johnson](../../personer/Sune%20Johnson.md), [Öhrlings PriceWaterHouse Coopers](../../organisationer/Öhrlings%20PricewaterhouseCoopers.md), samt [Sune Hilstad](../../personer/Sune%20Hilstad.md), [[Svenska Ingenjörssamfundet]], väljs till revisorer för Förbundet Unga Forskare år 2001.
 >
-> [[Anders Winqvist]], [[Öhrlings PricewaterhouseCoopers|ÖhrlingsPriceWaterHouse Coopers]], samt [Björn Sällström](../../personer/Björn%20Sällström.md) väljs till revisorssuppleanter för Förbundet Unga Forskare år 2001.
+> [[Anders Winqvist]], [ÖhrlingsPriceWaterHouse Coopers](../../organisationer/Öhrlings%20PricewaterhouseCoopers.md), samt [Björn Sällström](../../personer/Björn%20Sällström.md) väljs till revisorssuppleanter för Förbundet Unga Forskare år 2001.
 
 ## §25 Val av valberedning
 

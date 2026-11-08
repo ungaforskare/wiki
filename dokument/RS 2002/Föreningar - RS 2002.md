@@ -110,7 +110,7 @@ Ref: [UFS](../../distrikt/UFS%20(Unga%20Forskare%20Stockholm).md)
 - [Radio Unga Forskare Stockholm](../../föreningar/Radio%20UFS.md)
 - [[POFF Organiserad Forskar- Förening]]
 - [[Spånga Unga Forskare]] (Stockholm)
-- [[Alef Noll|Matematikföreningen Alef Noll]] (Danderyd)
+- [Matematikföreningen Alef Noll](../../föreningar/Alef%20Noll.md) (Danderyd)
 - verksam: [[Kungsholmens Young Scientists' Society]]
 
 ### UFSk; Unga Forskare Skåne

@@ -306,7 +306,7 @@ Lokala projekt kring:
 - [[Maskinsektionen inom TLTH]]
 - [[Ung Vetenskapssport Lund]]
 - [[Unga Forskare Helsingborg]]
-- [[Alef Noll]]
+- [Alef Noll](../../föreningar/Alef%20Noll.md)
 - [[Alumniföreningen Utställningen Unga Forskare]]
 - [[Kodsport Sverige]]
 - [[KYSS|Kungsholmen's Young Scientists' Society]]

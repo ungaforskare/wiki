@@ -103,7 +103,7 @@ Vi kunde under 2024 dela ut totalt 595 060 kr i bidrag till föreningarna.
 
 <!-- Listan har 56 föreningar, som texten anger. Den står i två spalter i källan (sid 49); här vänster spalt först. "Code@LTH" står som "CodeOLTH" i OCR-texten (snabel-a). Curt Nicolin Gymnasiets Tekniska Förening finns inte i listorna för 2022–2023, och CNG Science Club (Curt Nicolin Gymnasiet, Finspång), som finns i de listorna, saknas här. Det kan vara samma förening med nytt namn, men det är inte bekräftat; därför har de skilda länkmål. -->
 
-- [[Alef Noll]]
+- [Alef Noll](../../föreningar/Alef%20Noll.md)
 - [[Alumniföreningen Utställningen Unga Forskare]]
 - [[Arkimedes]]
 - [[Berzience Club]]
