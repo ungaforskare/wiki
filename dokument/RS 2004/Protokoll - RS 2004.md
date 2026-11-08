@@ -2,7 +2,7 @@
 start: 2004-03-27
 end: 2004-03-28
 mötesordförande:
-  - "[[Lage Rahm]]"
+  - "[Lage Rahm](../../personer/Lage%20Rahm.md)"
 mötessekreterare:
   - "[[Marina Sánchez Romaní]]"
 platser:
@@ -10,14 +10,14 @@ platser:
 orter:
   - "[[Forsmark]]"
 justerare:
-  - "[[Andreas Rocén]]"
-  - "[[Sarah Warsi]]"
+  - "[Andreas Rocén](../../personer/Andreas%20Rocén.md)"
+  - "[Sarah Warsi](../../personer/Sarah%20Warsi.md)"
 rösträknare:
-  - "[[Sarah Warsi]]"
-  - "[[Andreas Rocén]]"
+  - "[Andreas Rocén](../../personer/Andreas%20Rocén.md)"
+  - "[Sarah Warsi](../../personer/Sarah%20Warsi.md)"
 inflytandepunktsansvariga:
-  - "[[Lage Rahm]]"
-  - "[[Robert Jacobsson]]"
+  - "[Lage Rahm](../../personer/Lage%20Rahm.md)"
+  - "[Robert Jacobsson](../../personer/Robert%20Jacobsson.md)"
   - "[Martin Olsson](../../personer/Martin%20Olsson.md)"
   - "[Björn Sällström](../../personer/Björn%20Sällström.md)"
   - "[Pererik Andreasson](../../personer/Pererik%20Andreasson.md)"
@@ -25,39 +25,39 @@ redaktionsutskott:
   - "[Björn Sällström](../../personer/Björn%20Sällström.md)"
   - "[Martin Olsson](../../personer/Martin%20Olsson.md)"
   - "[Pererik Andreasson](../../personer/Pererik%20Andreasson.md)"
-  - "[[Johan Andréasson]]"
+  - "[Johan Andréasson](../../personer/Johan%20Andréasson.md)"
 kategorier:
   - "[[RS (Riksstämman)|Riksstämman]]"
   - "[[protokoll]]"
 ---
 
-## §1 **Stämmans öppnande**
+<!-- Källan anger tid 2004-03-27 9:00 till 2004-03-28 10.30 och närvarande "Se bilaga 1". Signaturblocken (initialer på varje sida, namnteckningar på sista sidan) är borttagna. OCR läser genomgående "§" som "$", "8" eller "$&". OCR läser mötessekreterarens namn som "Marina Sånchez Romani". -->
 
-> Förbundsordförande [Karolina Åseby](../../personer/Karolina%20Åseby.md) hälsar alla välkomna och förklarar
-> Förbundet Unga Forskares Riksstämma 2004 öppnad.
+## §1 Stämmans öppnande
 
-## §2 **Val av mötesordförande och mötessekreterare**
+> Förbundsordförande [Karolina Åseby](../../personer/Karolina%20Åseby.md) hälsar alla välkomna och förklarar Förbundet Unga Forskares Riksstämma 2004 öppnad.
+
+## §2 Val av mötesordförande och mötessekreterare
 
 > Till mötesordförande väljs [Lage Rahm](../../personer/Lage%20Rahm.md).
 >
 > Till mötessekreterare väljs [[Marina Sánchez Romaní]].
 
-## §3 **Val av två justerare, tillika rösträknare**
+## §3 Val av två justerare, tillika rösträknare
 
-> Till justerare, tillika rösträknare, väljs [Andreas Rocén](../../personer/Andreas%20Rocén.md) och
-> [Sarah Warsi](../../personer/Sarah%20Warsi.md).
+> Till justerare, tillika rösträknare, väljs [Andreas Rocén](../../personer/Andreas%20Rocén.md) och [Sarah Warsi](../../personer/Sarah%20Warsi.md).
 
-## §4 **Fråga om stämman är stadgeenligt kallad**
+## §4 Fråga om stämman är stadgeenligt kallad
 
 > Mötet finner att mötet är stadgeenligt kallat.
 
-## §5 **Justering av röstlängden**
+## §5 Justering av röstlängden
 
 > Röstlängden justeras enligt bilaga 2
 
-## §6 **Övrig formalia**
+## §6 Övrig formalia
 
-### §6a **Fastställande av arbetsformer**
+### §6a Fastställande av arbetsformer
 
 > [Anna Alfredsson](../../personer/Anna%20Alfredsson.md) informerar om påverkanstorg och svarar på frågor.
 >
@@ -66,37 +66,32 @@ kategorier:
 >[!beslut]
 > RS beslutar
 >
-> att anta förslag till arbetsformer för Påverkanstorg och
-> inflytandepunkter under förbundsstämman år 2004.
+> att anta förslag till arbetsformer för Påverkanstorg och inflytandepunkter under förbundsstämman år 2004.
 
-### §6b **Fastställande av dagordningen**
+### §6b Fastställande av dagordningen
 
 > [Hanna Modin](../../personer/Hanna%20Modin.md) informerar om att lördagens plenum slutar efter punkt 9.
 
 >[!beslut]
 > RS beslutar
+>
 > att anta dagordningsförslaget
 
-### §6c **Fastställande av inflytandepunkter**
+### §6c Fastställande av inflytandepunkter
 
-> *Fastställande inflytandepunkter*
->
-> Förbundsstyrelsen förelägger stämman följande förslag till
-> inflytandepunkter:
->
-> *Punkt:*
+Fastställande inflytandepunkter
+
+> [Förbundsstyrelsen](../../verksamheter/FS%20(Förbundsstyrelsen).md) förelägger stämman följande förslag till inflytandepunkter:
+
+Punkt:
 
 - Stadgeändringsförslag
-
 - Valberedningens förslag
-
-- Verksamhetsberättelse och ekonomisk berättelse
-
-> Verksamhetsplan och budget
-
+- Verksamhetsberättelse och ekonomisk berättelse Verksamhetsplan och budget
 - Lärarprojekt (Rapportpunkt)
-
 - Organisationsutveckling
+
+<!-- "Verksamhetsplan och budget" står på en egen rad utan listtecken i källan och hör till samma punkt som "Verksamhetsberättelse och ekonomisk berättelse", se §6d. -->
 
 >[!yrkande]
 > [Johan Andréasson](../../personer/Johan%20Andréasson.md) yrkar:
@@ -108,53 +103,35 @@ kategorier:
 >
 > att anta förslaget om inflytandepunkter med ovan yrkade tillägg.
 
-## §6d **Val av inflytandepunktsansvariga**
+### §6d Val av inflytandepunktsansvariga
 
-> *Fastställande inflytandepunkter*
+Fastställande inflytandepunkter
+
+> [Förbundsstyrelsen](../../verksamheter/FS%20(Förbundsstyrelsen).md) förelägger stämman följande förslag till inflytandepunktsansvariga:
+
+| Punkt | Inflytandeansvarig |
+|---|---|
+| Stadgeändringsförslag | [Lage Rahm](../../personer/Lage%20Rahm.md) |
+| Valberedningens förslag och Övriga frågor | [Robert Jacobsson](../../personer/Robert%20Jacobsson.md) |
+| Verksamhetsberättelse och ekonomisk berättelse Verksamhetsplan och budget | [Martin Olsson](../../personer/Martin%20Olsson.md) |
+| Lärarprojekt (Rapportpunkt) | [Björn Sällström](../../personer/Björn%20Sällström.md) |
+| Organisationsutveckling | [Pererik Andreasson](../../personer/Pererik%20Andreasson.md) |
+
+> [Anna Alfredsson](../../personer/Anna%20Alfredsson.md) föreslår att inflytandepunktsansvariga presenterar sig själva kort.
 >
-> Förbundsstyrelsen förelägger stämman följande förslag till
-> inflytandepunktsansvariga:
-
-*Punkt:* Stadgeändringsförslag
-
-*Inflytandeansvarig:* [Lage Rahm](../../personer/Lage%20Rahm.md)
-
-*Punkt:* Valberedningens förslag och Övriga frågor
-
-*Inflytandeansvarig:* [Robert Jacobsson](../../personer/Robert%20Jacobsson.md)
-
-*Punkt:* Verksamhetsberättelse och ekonomisk berättelse
-
-Verksamhetsplan och budget
-
-*Inflytandeansvarig:* [Martin Olsson](../../personer/Martin%20Olsson.md)
-
-*Punkt:* Lärarprojekt (Rapportpunkt)
-
-*Inflytandeansvarig:* [Björn Sällström](../../personer/Björn%20Sällström.md)
-
-*Punkt:* Organisationsutveckling
-
-*Inflytandeansvarig:* [Pererik Andreasson](../../personer/Pererik%20Andreasson.md)
-
-> [Anna Alfredsson](../../personer/Anna%20Alfredsson.md) föreslår att inflytandepunktsansvariga presenterar sig
-> själva kort.
-
-Inflytandepunktsansvariga presenterar sig kort
+> Inflytandepunktsansvariga presenterar sig kort
 
 >[!beslut]
 > RS beslutar
 >
 > att anta förslaget om inflytandepunktsansvariga
 
-### §6e **Val av redaktionsutskott**
+### §6e Val av redaktionsutskott
 
-> *Fastställande redaktionsutskott*
-
-Förbundsstyrelsen föreslår stämman:
+Fastställande redaktionsutskott
 
 >[!yrkande]
-> Förbundsstyrelsen föreslår
+> [Förbundsstyrelsen](../../verksamheter/FS%20(Förbundsstyrelsen).md) föreslår stämman:
 >
 > att till redaktionsutskottet utse [Björn Sällström](../../personer/Björn%20Sällström.md), [Martin Olsson](../../personer/Martin%20Olsson.md), [Pererik Andreasson](../../personer/Pererik%20Andreasson.md), [Johan Andréasson](../../personer/Johan%20Andréasson.md)
 
@@ -165,134 +142,109 @@ Förbundsstyrelsen föreslår stämman:
 
 ## §7 Antagande av mötesregler för riksstämmans pleniförhandlingar
 
-> *Mötesregler:*
->
-> Streck i debatten (kräver enkel majoritet)
->
-> Ordningsfråga (handlar om själva mötet, bl.a. om att riva upp streck i
-> debatten, talartid etc.)
->
-> Sakupplysning (får inte utrycka åsikt, bara sakupplysning)
->
-> Alla får lov att lägga yttranden på påverkansstorget.
+Mötesregler:
+
+- Streck i debatten (kräver enkel majoritet)
+- Ordningsfråga (handlar om själva mötet, bl.a. om att riva upp streck i debatten, talartid etc.)
+- Sakupplysning (får inte utrycka åsikt, bara sakupplysning)
+- Alla får lov att lägga yttranden på påverkansstorget.
 
 >[!beslut]
 > RS beslutar
 >
 > att anta förslaget om mötesregler för riksstämman
 
-## §8 **Valberedningen har ordet**
+## §8 Valberedningen har ordet
 
-> [Robert Jacobsson](../../personer/Robert%20Jacobsson.md) föredrar valberedningens förslag.
+> [Robert Jacobsson](../../personer/Robert%20Jacobsson.md) föredrar [valberedningens](../../verksamheter/Valberedningen.md) förslag.
 
-*Ordförande:*
+Ordförande:
 
-[Tobias Bladini](../../personer/Tobias%20Bladini.md) (nyval)
+- [Tobias Bladini](../../personer/Tobias%20Bladini.md) (nyval)
 
-*Förslag till Omval:*
+Förslag till Omval:
 
-[Anna Alfredsson](../../personer/Anna%20Alfredsson.md)
+- [Anna Alfredsson](../../personer/Anna%20Alfredsson.md)
+- [Johan Andréasson](../../personer/Johan%20Andréasson.md)
+- [Azra Habibovic](../../personer/Azra%20Habibovic.md)
+- [Lorena Grubisic](../../personer/Lorena%20Grubisic.md)
+- [Martin Lennartsson](../../personer/Martin%20Lennartsson.md)
+- [Hanna Modin](../../personer/Hanna%20Modin.md)
+- [Karolina Åseby](../../personer/Karolina%20Åseby.md)
 
-[Johan Andréasson](../../personer/Johan%20Andréasson.md)
+Nyval:
 
-[Azra Habibovic](../../personer/Azra%20Habibovic.md)
+- [Marcus Andersson](../../personer/Marcus%20Andersson.md)
+- [Anna-Maria Wiberg](../../personer/Anna-Maria%20Wiberg.md)
+- [[Kristoffer Elfstrand]]
 
-[Lorena Grubisic](../../personer/Lorena%20Grubisic.md)
+Förslag på revisorer:
 
-[Martin Lennartsson](../../personer/Martin%20Lennartsson.md)
+- [Sune Johnson](../../personer/Sune%20Johnson.md), [Öhrlings PricewaterhouseCoopers](../../organisationer/Öhrlings%20PricewaterhouseCoopers.md) <!-- Källan stavar "Sune Johnsson". -->
+- [Sune Hilstad](../../personer/Sune%20Hilstad.md), [Ingenjörssamfundet](../../organisationer/Ingenjörssamfundet.md).
 
-[Hanna Modin](../../personer/Hanna%20Modin.md)
+Förslag på revisorssuppleanter:
 
-[Karolina Åseby](../../personer/Karolina%20Åseby.md)
+- [Magnus Backlund](../../personer/Magnus%20Backlund.md), [Öhrlings PricewaterhouseCoopers](../../organisationer/Öhrlings%20PricewaterhouseCoopers.md)
+- [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
 
-*Nyval:*
-
-[Marcus Andersson](../../personer/Marcus%20Andersson.md)
-
-[Anna-Maria Wiberg](../../personer/Anna-Maria%20Wiberg.md)
-
-[[Kristoffer Elfstrand]]
-
-*Förslag på revisorer:*
-
-> [Sune Johnsson](../../personer/Sune%20Johnson.md), [[Öhrlings PricewaterhouseCoopers]]
-
-[Sune Hilstad](../../personer/Sune%20Hilstad.md), [[Ingenjörssamfundet]].
-
-*Förslag på revisorssuppleanter:*
-
-[Magnus Backlund](../../personer/Magnus%20Backlund.md), [[Öhrlings PricewaterhouseCoopers]]
-
-[Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
-
-> [Anna Alfredsson](../../personer/Anna%20Alfredsson.md) föreslår de närvarande föreslagna presenterar sig
-> själva kort.
-
-De föreslagna presenterar sig kort.
-
-[Hanna Modin](../../personer/Hanna%20Modin.md) informerar:
-
-att ny valberedning ska väljas
-
-[Tobias Bladini](../../personer/Tobias%20Bladini.md) informerar:
-
-att det finns ännu möjlighet att lägga fler förslag /byta ut föreslagna
-
-## §9 **Presentation av verksamhetsplan**
-
-> [Karolina Åseby](../../personer/Karolina%20Åseby.md) och [Johan Andréasson](../../personer/Johan%20Andréasson.md) föredrar FS förslag på
-> verksamhetsplan. [Hanna Modin](../../personer/Hanna%20Modin.md) och [Tobias Bladini](../../personer/Tobias%20Bladini.md) illustrerar den
-> genom dramatisering.
+> [Anna Alfredsson](../../personer/Anna%20Alfredsson.md) föreslår de närvarande föreslagna presenterar sig själva kort.
 >
-> [Karolina Åseby](../../personer/Karolina%20Åseby.md) presenterar, tillsammans med FS, inflytandepunkterna
-> inför påverkanstorget.
+> De föreslagna presenterar sig kort.
 >
-> [[Linnea Kjeldgård]] informerar om dagens tider.
+> [Hanna Modin](../../personer/Hanna%20Modin.md) informerar:
 >
-> [Lage Rahm](../../personer/Lage%20Rahm.md) informerar om att påverkanstorget börjar 5 minuter efter
-> dagens plenum och fortsätter efter dagens studiebesök fram till och
-> med 18.00.
+> att ny valberedning ska väljas
 >
-> [Anna Alfredsson](../../personer/Anna%20Alfredsson.md), [Hanna Modin](../../personer/Hanna%20Modin.md) och [Björn Sällström](../../personer/Björn%20Sällström.md)
-> informerar om påverkanstorgets förfarande angående förslag och
-> kommentarer.
+> [Tobias Bladini](../../personer/Tobias%20Bladini.md) informerar:
 >
-> *Mötet ajourneras från 09.59 till 09.00 nästföljande dag.*
+> att det finns ännu möjlighet att lägga fler förslag /byta ut föreslagna
 
-## §10 **Det gångna året**
+## §9 Presentation av verksamhetsplan
 
-### §10 a **Styrelsens verksamhetsberättelse för FUF 2003** (bilaga 3)
+> [Karolina Åseby](../../personer/Karolina%20Åseby.md) och [Johan Andréasson](../../personer/Johan%20Andréasson.md) föredrar [FS](../../verksamheter/FS%20(Förbundsstyrelsen).md) förslag på verksamhetsplan.
+>
+> [Hanna Modin](../../personer/Hanna%20Modin.md) och [Tobias Bladini](../../personer/Tobias%20Bladini.md) illustrerar den genom dramatisering.
+>
+> [Karolina Åseby](../../personer/Karolina%20Åseby.md) presenterar, tillsammans med FS, inflytandepunkterna inför påverkanstorget.
+>
+> [Linnea Kjeldgård](../../personer/Linnea%20Kjeldgård.md) informerar om dagens tider.
+>
+> [Lage Rahm](../../personer/Lage%20Rahm.md) informerar om att påverkanstorget börjar 5 minuter efter dagens plenum och fortsätter efter dagens studiebesök fram till och med 18.00.
+>
+> [Anna Alfredsson](../../personer/Anna%20Alfredsson.md), [Hanna Modin](../../personer/Hanna%20Modin.md) och [Björn Sällström](../../personer/Björn%20Sällström.md) informerar om påverkanstorgets förfarande angående förslag och kommentarer.
+>
+> Mötet ajourneras från 09.59 till 09.00 nästföljande dag.
 
-> *Verksamhetsberättelsen för FUF 2003 har under stämman varit
-> presenterad via utställning av skärmar i enlighet med det material som
-> sänts ut med stämmohandlingarna.*
+## §10 Det gångna året
+
+### §10a Styrelsens verksamhetsberättelse för FUF 2003 (bilaga 3)
+
+> Verksamhetsberättelsen för FUF 2003 har under stämman varit presenterad via utställning av skärmar i enlighet med det material som sänts ut med stämmohandlingarna.
 
 >[!yrkande]
 > Inflytandepunktens huvudyrkande angående verksamhetsberättelse:
 >
-> att lägga förbundsstyrelsens verksamhetsberättelse för FUF 2003 till
-> handlingarna
+> att lägga förbundsstyrelsens verksamhetsberättelse för FUF 2003 till handlingarna
 
 >[!beslut]
 > RS beslutar
 >
 > att bifalla ovanstående yrkande.
 
-### §10 b **Resultaträkning** (bilaga 4) **och balansräkning** (bilaga 5) för FUF 2003
+### §10b Resultaträkning (bilaga 4) och balansräkning (bilaga 5) för FUF 2003
 
 >[!yrkande]
-> Inflytandepunktens huvudyrkande angående resultaträkning och
-> balansräkning:
+> Inflytandepunktens huvudyrkande angående resultaträkning och balansräkning:
 >
-> att lägga resultaträkning för FUF 2003 till handlingarna samt att
-> fastställa balansräkningen för FUF 2003.
+> att lägga resultaträkning för FUF 2003 till handlingarna samt att fastställa balansräkningen för FUF 2003.
 
 >[!beslut]
 > RS beslutar
 >
 > att bifalla ovanstående yrkande.
 
-### §10c **Revisorernas berättelse för FUF 2003** (bilaga 6)
+### §10c Revisorernas berättelse för FUF 2003 (bilaga 6)
 
 >[!yrkande]
 > Inflytandepunktens huvudyrkande angående revisorernas berättelse:
@@ -304,39 +256,34 @@ att det finns ännu möjlighet att lägga fler förslag /byta ut föreslagna
 >
 > att bifalla ovanstående yrkande.
 
-### §10d **Styrelsens verksamhetsberättelse för GCB, Gundel Cornelias Stipendiefond för Unga, 2003** (bilaga 7)
+### §10d Styrelsens verksamhetsberättelse för GCB, Gundel Cornelias Stipendiefond för Unga, 2003 (bilaga 7)
 
 >[!yrkande]
-> Inflytandepunktens huvudyrkande angående styrelsens
-> verksamhetsberättelse för GCB 2003:
+> Inflytandepunktens huvudyrkande angående styrelsens verksamhetsberättelse för [GCB](../../verksamheter/GCB%20(Gundel%20Cornelia%20Babs%20stipendiefond).md) 2003:
 >
-> att lägga styrelsens verksamhetsberättelse för GCB 2003 till
-> handlingarna.
+> att lägga styrelsens verksamhetsberättelse för GCB 2003 till handlingarna.
 
 >[!beslut]
 > RS beslutar
 >
 > att bifalla ovanstående yrkande.
 
-### §10 e **Resultaträkning och balansräkning för GCB 2003** (bilaga 8)
+### §10e Resultaträkning och balansräkning för GCB 2003 (bilaga 8)
 
 >[!yrkande]
-> Inflytandepunktens huvudyrkande angående resultaträkning och
-> balansräkning för GCB 2003:
+> Inflytandepunktens huvudyrkande angående resultaträkning och balansräkning för GCB 2003:
 >
-> att lägga resultaträkning för GCB till handlingarna samt att
-> fastställa balansräkning för GCB 2003.
+> att lägga resultaträkning för GCB till handlingarna samt att fastställa balansräkning för GCB 2003.
 
 >[!beslut]
 > RS beslutar
 >
 > att bifalla ovanstående yrkande.
 
-### §10f **Revisorernas berättelse för GCB 2003** (bilaga 9)
+### §10f Revisorernas berättelse för GCB 2003 (bilaga 9)
 
 >[!yrkande]
-> Inflytandepunktens huvudyrkande angående revisorernas berättelse för
-> GCB 2003:
+> Inflytandepunktens huvudyrkande angående revisorernas berättelse för GCB 2003:
 >
 > att lägga till revisorernas berättelse för GCB 2003 handlingarna.
 
@@ -345,11 +292,10 @@ att det finns ännu möjlighet att lägga fler förslag /byta ut föreslagna
 >
 > att bifalla ovanstående yrkande.
 
-## §11 **Fråga om ansvarsfrihet för förbundsstyrelsen**
+## §11 Fråga om ansvarsfrihet för förbundsstyrelsen
 
 >[!yrkande]
-> Inflytandepunktens huvudyrkande angående ansvarsfrihet för
-> förbundsstyrelsen:
+> Inflytandepunktens huvudyrkande angående ansvarsfrihet för [förbundsstyrelsen](../../verksamheter/FS%20(Förbundsstyrelsen).md):
 >
 > att ge förbundsstyrelsen ansvarsfrihet för verksamhetsåret 2003.
 
@@ -358,20 +304,18 @@ att det finns ännu möjlighet att lägga fler förslag /byta ut föreslagna
 >
 > att enhälligt bifalla ovanstående yrkande.
 
-## §12 **Avregistrering av föreningar** (bilaga 10)**, samt rapport om föreningar antagna sedan RS 2003** (bilaga 11)
+## §12 Avregistrering av föreningar (bilaga 10), samt rapport om föreningar antagna sedan RS 2003 (bilaga 11)
 
-**Ordningsfråga:**
+Ordningsfråga:
 
 >[!yrkande]
 > Yrkar:
 >
-> att vi river upp beslutet om att det inte är tillåtet att lägga fler
-> förslag.
+> att vi river upp beslutet om att det inte är tillåtet att lägga fler förslag.
 >
 > att föreningar enligt bilaga 10 ska avregistreras.
 >
-> att vi återigen bifaller att det inte är tillåtet att lägga fler
-> förslag.
+> att vi återigen bifaller att det inte är tillåtet att lägga fler förslag.
 
 >[!beslut]
 > RS beslutar
@@ -380,39 +324,49 @@ att det finns ännu möjlighet att lägga fler förslag /byta ut föreslagna
 
 ## §13 Motioner och propositioner
 
-### §13 I Organisationsutveckling -- Föreningskontaktsgrupp (bilaga 12)
+<!-- OCR läser numren under §13 som "131a", "13I1b", "13 Ia", "13 Ib" och "13 Ice". Numren är rättade utifrån ordningen och besluten. Rubriken "II." läses av OCR som "+.". -->
 
+### I. Organisationsutveckling – Föreningskontaktsgrupp (bilaga 12)
+
+>[!yrkande]
 > Inflytandepunktens huvudyrkande angående föreningskontaktsgrupp:
+>
+> 13 I a
+>
+> att anta propositionen om föreningskontaktgruppen enligt förbundsstyrelsens förslag.
+
+Övriga yrkanden:
 
 >[!yrkande]
-> 13 I a att anta propositionen om föreningskontaktgruppen enligt
-> förbundsstyrelsens förslag.
-
-> Övriga yrkanden:
-
->[!yrkande]
-> 13 I b att projektet "Föreningskontaktgrupp" avslutas.
+> 13 I b
+>
+> att projektet "Föreningskontaktgrupp" avslutas.
 
 >[!beslut]
 > RS beslutar
 >
 > att 13 I a bifalles.
 
-II. **Stadgeändringsförslag** (bilaga 13 och 14)
-
-Inflytandepunktens huvudyrkande angående stadgeändringsförslaget:
+### II. Stadgeändringsförslag (bilaga 13 och 14)
 
 >[!yrkande]
-> 13 II a att anta förbundsstyrelsens förslag till ändring av stadgar.
+> Inflytandepunktens huvudyrkande angående stadgeändringsförslaget:
+>
+> 13 II a
+>
+> att anta förbundsstyrelsens förslag till ändring av stadgar.
 
 Övriga yrkanden:
 
 >[!yrkande]
-> 13 II b att anta förbundsstyrelsens förslag med ändring att i §5.4.1
-> ändra "ordföranden" till "förbundsordföranden".
+> 13 II b
+>
+> att anta förbundsstyrelsens förslag med ändring att i §5.4.1 ändra "ordföranden" till "förbundsordföranden".
 
 >[!yrkande]
-> 13 II c att §4.3 tas bort ur förslaget till nya stadgan.
+> 13 II c
+>
+> att §4.3 tas bort ur förslaget till nya stadgan.
 
 >[!beslut]
 > RS beslutar
@@ -426,106 +380,101 @@ Inflytandepunktens huvudyrkande angående stadgeändringsförslaget:
 >[!yrkande]
 > [Johan Andréasson](../../personer/Johan%20Andréasson.md) yrkar:
 >
-> **Omedelbar justering**
+> Omedelbar justering
 
 >[!beslut]
 > RS beslutar
 >
 > att bifalla ovanstående yrkande.
 
-## §14 **Fastställande av verksamhetsplan för 2004** (bilaga 15)
-
-> Inflytandepunktens huvudyrkande angående **verksamhetsplan 2004**
+## §14 Fastställande av verksamhetsplan för 2004 (bilaga 15)
 
 >[!yrkande]
-> 14 a att lägga till följande till Verksamhetsplanen för 2004:
+> Inflytandepunktens huvudyrkande angående verksamhetsplan 2004
+>
+> 14a
+>
+> att lägga till följande till Verksamhetsplanen för 2004:
 >
 > Information
 >
-> Kontaktperson: [Martin Lennartsson](../../personer/Martin%20Lennartsson.md)
+> Kontaktperson: Martin Lennartsson
 >
-> Gruppen skall under året verka för att sprida information om Förbundet
-> Unga Forskare, bland annat genom media och deltagande på mässor.
-> Gruppen är också ansvarig för uppdatering av förbundets
-> informationsmaterial.
+> Gruppen skall under året verka för att sprida information om Förbundet Unga Forskare, bland annat genom media och deltagande på mässor. Gruppen är också ansvarig för uppdatering av förbundets informationsmaterial.
 >
-> **Förslag till beslut:** uppdra åt gruppen att genomföra planerad
-> verksamhet inom budgetram.
+> Förslag till beslut: uppdra åt gruppen att genomföra planerad verksamhet inom budgetram.
 
-**Ordningsfråga:**
+Ordningsfråga:
 
 >[!yrkande]
 > Yrkar:
 >
-> att vi river upp beslutet om att det inte är tillåtet att lägga fler
-> förslag.
+> att vi river upp beslutet om att det inte är tillåtet att lägga fler förslag.
 >
 > att fastställa verksamhetsplanen med tillägg
 >
-> att vi återigen bifaller att det inte är tillåtet att lägga fler
-> förslag.
+> att vi återigen bifaller att det inte är tillåtet att lägga fler förslag.
 
-> Övriga yrkanden:
+Övriga yrkanden:
 
 >[!yrkande]
-> 14 b att uppmana FS:
+> 14b
 >
-> att pengar avsätts för att distrikten ska kunna söka dem till stora
-> kurser eller projekt
+> att uppmana FS:
+>
+> att pengar avsätts för att distrikten ska kunna söka dem till stora kurser eller projekt
 
 >[!beslut]
 > RS beslutar
 >
 > att bifalla ovanstående yrkanden.
 
-## §15 **Fastställande av medlemsavgift för 2004**
+## §15 Fastställande av medlemsavgift för 2004
 
-**Ordningsfråga:**
+Ordningsfråga:
 
 >[!yrkande]
 > Yrkar:
 >
-> att vi river upp beslutet om att det inte är tillåtet att lägga fler
-> förslag.
+> att vi river upp beslutet om att det inte är tillåtet att lägga fler förslag.
 >
 > att fastställa medlemsavgiften för 2004 till 0 (noll) kronor.
 >
-> att vi återigen bifaller att det inte är tillåtet att lägga fler
-> förslag.
+> att vi återigen bifaller att det inte är tillåtet att lägga fler förslag.
 
 >[!beslut]
 > RS beslutar
 >
 > att bifalla ovanstående yrkanden.
 
-## §16 **Fastställande av budget för 2004** (bilaga 16)
+## §16 Fastställande av budget för 2004 (bilaga 16)
 
 >[!yrkande]
 > Inflytandepunktens huvudyrkande angående budget för 2004:
 >
-> 16a att anta förbundsstyrelsens förslag till budget för 2004 med
-> ändringen att:
+> 16a
 >
-> -öka posten "försäljning av varor" under Info med 10000 kr och föra
-> över 10000 kr till föreningsstöd.
+> att anta förbundsstyrelsens förslag till budget för 2004 med ändringen att:
 >
-> -föra över 10000 kr från posten "överskott fr. Svenska Spel" under
-> FKG till föreningsstöd.
->
-> -att öronmärka 30000 kr från föreningsstöd att söka för distrikt till
-> arrangemang gällande distriktens fortlevnad alt. uppstartande.
+> - öka posten "försäljning av varor" under Info med 10000 kr och föra över 10000 kr till föreningsstöd.
+> - föra över 10000 kr från posten "överskott fr. Svenska Spel" under FKG till föreningsstöd.
+> - att öronmärka 30000 kr från föreningsstöd att söka för distrikt till arrangemang gällande distriktens fortlevnad alt. uppstartande.
 
-> Övriga yrkanden:
+<!-- Ny OCR saknar "att:" efter "med ändringen"; ordet finns i pdf:en (kontrollerat av användaren) och i den äldre OCR-läsningen. OCR: "dosten" för "posten". -->
+
+Övriga yrkanden:
 
 >[!yrkande]
-> 16b att anta förbundsstyrelsens förslag till budget för 2004.
+> 16b
+>
+> att anta förbundsstyrelsens förslag till budget för 2004.
 
 >[!beslut]
 > RS beslutar
 >
 > att bifalla 16a.
 
-## §17 **Val av förbundsordförande**
+## §17 Val av förbundsordförande
 
 >[!yrkande]
 > Inflytandepunktens huvudyrkande angående förbundsordförande för 2004:
@@ -537,63 +486,68 @@ Inflytandepunktens huvudyrkande angående stadgeändringsförslaget:
 >
 > att bifalla ovanstående yrkande.
 
-## §18 **Fastställande av styrelsens storlek**
+## §18 Fastställande av styrelsens storlek
 
 >[!yrkande]
 > Inflytandepunktens huvudyrkande angående styrelsens storlek:
 >
-> 18a att FS ska bestå av en ordförande och 10 st. ledamöter
+> 18a
+>
+> att [FS](../../verksamheter/FS%20(Förbundsstyrelsen).md) ska bestå av en ordförande och 10 st. ledamöter
 
-> Övriga yrkanden:
+Övriga yrkanden:
 
 >[!yrkande]
-> 18b att FS ska bestå av en ordförande och 12 st. ledamöter
+> 18b
+>
+> att FS ska bestå av en ordförande och 12 st. ledamöter
 
 >[!beslut]
 > RS beslutar
 >
 > att bifalla 18 b och därmed avslå 18 a.
 
-## §19 **Val av styrelseledamöter**
+## §19 Val av styrelseledamöter
 
 >[!yrkande]
 > Inflytandepunktens huvudyrkande angående styrelseledamöter
 >
-> 19 a att anta valberedningens förslag på styrelseledamöter för 2004.
+> 19a
+>
+> att anta [valberedningens](../../verksamheter/Valberedningen.md) förslag på styrelseledamöter för 2004.
 
 Övriga yrkanden:
 
 >[!yrkande]
-> 19 b att anta valberedningens förlag med tillägget [Maja Söderquist](../../personer/Maja%20Söderkvist.md)
-> (nyval) och [[Fredric Wolters]] (nyval).
+> 19b
+>
+> att anta valberedningens förlag med tillägget [Maja Söderkvist](../../personer/Maja%20Söderkvist.md) (nyval) och [[Fredric Wolters]] (nyval). <!-- Källan stavar "Maja Söderquist" och "förlag". -->
 
 >[!beslut]
 > RS beslutar
 >
 > att bifalla 19b
 
-## §20 **Val av två revisorer samt två revisorssuppleanter**
+## §20 Val av två revisorer samt två revisorssuppleanter
 
 >[!yrkande]
-> Inflytandepunktens huvudyrkande angående revisorer och
-> revisorssuppleanter
+> Inflytandepunktens huvudyrkande angående revisorer och revisorssuppleanter
 >
-> att anta valberedningens förslag på revisorer för 2004.
+> att anta [valberedningens](../../verksamheter/Valberedningen.md) förslag på revisorer för 2004.
 
 >[!beslut]
 > RS beslutar
 >
-> att bifalla ovanstående yttrande.
+> att bifalla ovanstående yttrande. <!-- Källan har "yttrande". -->
 
-## §21 **Val av valberedning**
+## §21 Val av valberedning
 
 >[!yrkande]
-> Inflytandepunktens huvudyrkande angående valberedning:
+> Inflytandepunktens huvudyrkande angående [valberedning](../../verksamheter/Valberedningen.md):
 >
-> a. att välja [Andreas Rocén](../../personer/Andreas%20Rocén.md) till sammankallande ledamot i
-> valberedningen.
+> a. att välja [Andreas Rocén](../../personer/Andreas%20Rocén.md) till sammankallande ledamot i valberedningen.
 >
-> b. att välja [[Linnea Kjeldgård]] till ledamot i valberedningen.
+> b. att välja [Linnea Kjeldgård](../../personer/Linnea%20Kjeldgård.md) till ledamot i valberedningen.
 >
 > c. att välja [Per Bengtsson](../../personer/Per%20Bengtsson.md) till ledamot i valberedningen.
 >
@@ -606,21 +560,19 @@ Inflytandepunktens huvudyrkande angående stadgeändringsförslaget:
 >
 > att bifalla ovanstående yrkanden.
 
-### §22 **Övriga frågor**
+## §22 Övriga frågor
 
-> **Övrig fråga 1. Sänka anmälningsavgiften:**
+### Övrig fråga 1. Sänka anmälningsavgiften
 
 >[!yrkande]
-> att sänka anmälningsavgiften för ombud på RS, och därför höja den för
-> övriga deltagare. Förhållanden mellan avgifterna skall ungefär vara
-> 3:5. Syftet är att få fler röstberättigade ombud att komma på RS.
+> att sänka anmälningsavgiften för ombud på RS, och därför höja den för övriga deltagare. Förhållanden mellan avgifterna skall ungefär vara 3:5. Syftet är att få fler röstberättigade ombud att komma på RS.
 
 >[!beslut]
 > RS beslutar
 >
 > att avslå ovanstående yrkande.
 
-> **Övrig fråga 2. En enhetlig grafisk profil för FUF.**
+### Övrig fråga 2. En enhetlig grafisk profil för FUF
 
 >[!yrkande]
 > att FS under året börjar arbeta fram en enhetlig grafisk profil för FUF.
@@ -630,48 +582,32 @@ Inflytandepunktens huvudyrkande angående stadgeändringsförslaget:
 >
 > att bifalla ovanstående yrkande.
 
-## §23 **Stämmans avslutande**
+## §23 Stämmans avslutande
 
-Förbundsordförande [Tobias Bladini](../../personer/Tobias%20Bladini.md) förklarar 2004 års riksstämma
-avslutad.
+> Förbundsordförande [Tobias Bladini](../../personer/Tobias%20Bladini.md) förklarar 2004 års riksstämma avslutad.
 
-BILAGOR TILL PROTOKOLLET:
+## BILAGOR TILL PROTOKOLLET
 
 1. Närvarolista
-
 2. Röstlängd
-
 3. Slutgiltig verksamhetsberättelse för Förbundet Unga Forskare 2003
-
 4. Resultaträkning för Förbundet Unga Forskare 2003
-
 5. Balansräkning för Förbundet Unga Forskare 2003
-
 6. Revisorernas berättelse för Förbundet Unga Forskare 2003
-
-7. Verksamhetsberättelse för Stiftelsen Gundel Cornelias Stipendiefond
-   för Unga Forskare 2003.
-
-8. Resultaträkning och balansräkning för Stiftelsen Gundel Cornelias
-   Stipendiefond för Unga Forskare 2003.
-
-9. Revisorernas berättelse för Stiftelsen Gundel Cornelias
-   Stipendiefond för Unga Forskare 2003.
-
+7. Verksamhetsberättelse för Stiftelsen Gundel Cornelias Stipendiefond för Unga Forskare 2003.
+8. Resultaträkning och balansräkning för Stiftelsen Gundel Cornelias Stipendiefond för Unga Forskare 2003.
+9. Revisorernas berättelse för Stiftelsen Gundel Cornelias Stipendiefond för Unga Forskare 2003.
 10. Avregistrerade föreningar under RS 2004
-
 11. Rapport om föreningar antagna sedan RS 2003
-
-12. Proposition till riksstämman 2204, "Föreningskontaktsgrupp"
-
+12. Proposition till riksstämman 2204, "Föreningskontaktsgrupp" <!-- "2204" står så i källan; avser 2004. -->
 13. Förslag till stadgar för Förbundet Unga Forskare
-
 14. Förbundsstyrelsens tilläggförslag till nya stadgar
-
 15. Verksamhetsplansförslag för Förbundet Unga Forskare 2004
-
 16. Budgetförslag för Förbundet Unga Forskare 2004.
 
-## Bilaga 2: Röstlängd
+>[!warning]
+> Källan innehåller bara bilaga 1 och 2. Bilaga 1 Närvarolista anger bara namn, utan föreningstillhörighet, och konverteras därför inte.
 
-Ref: [Röstlängd - RS 2004](Röstlängd%20-%20RS%202004.md)
+### Röstlängd
+
+Se [Röstlängd - RS 2004](Röstlängd%20-%20RS%202004.md).
