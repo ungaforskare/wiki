@@ -73,7 +73,7 @@ Våra stora verksamheter [Utställningen Unga Forskare](../../verksamheter/UUF%2
 
 Årets arrangörsgrupp av Utställningen (UG) bestod av 16 personer som jobbade under ledning av projektledare [[Jonathan Jilg]] och arrangörsgruppen (AG) för SIYSS bestod av 13 personer och leddes av projektledare [[Marika Mourujärvi]].
 
-Vi når cirka 7000 unga årligen som lyssnar, deltar och inspireras genom våra olika aktiviteter så som skolbesök, mässor eller seminarium eller är med i en förening. Under året medverkade vi exempelvis på [Vetenskapsfestivalens](../../organisationer/Vetenskapsfestivalen.md) skolprogram i [[Göteborg]] där vi i samarbete med [[AstraZeneca]] gjorde en kemilabb med klasser i högstadiet. Vi ställde även ut på [[Skolforum]], [[Saco-mässan]] i [[Malmö]], [[Berzeliusdagarna]], Sveriges största kemimöte för gymnasister.
+Vi når cirka 7000 unga årligen som lyssnar, deltar och inspireras genom våra olika aktiviteter så som skolbesök, mässor eller seminarium eller är med i en förening. Under året medverkade vi exempelvis på [Vetenskapsfestivalens](../../organisationer/Vetenskapsfestivalen.md) skolprogram i [[Göteborg]] där vi i samarbete med [[AstraZeneca]] gjorde en kemilabb med klasser i högstadiet. Vi ställde även ut på [[Skolforum]], [[Saco-mässan]] i [Malmö](../../platser/orter/Malmö.md), [[Berzeliusdagarna]], Sveriges största kemimöte för gymnasister.
 
 ## Vi väcker och fördjupar intresse
 

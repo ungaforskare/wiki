@@ -49,7 +49,7 @@ kategorier:
 35. [[Linda Kjellgård]]
 36. [[Kalle Leissner]] ([Fuffens](../../föreningar/FUFFENS.md))
 37. [Martin Lennartsson](../../personer/Martin%20Lennartsson.md) ([Unga Forskare Östra Götaland](../../distrikt/UFÖS%20(Unga%20Forskare%20Östergötland%20Småland).md))
-38. [[Gabriella Lindén]]
+38. [Gabriella Lindén](../../personer/Gabriella%20Lindén.md)
 39. [[Sebastian Lindqvist]]
 40. [[Martin Ljungström]]
 41. [[Jenny Lutman]]

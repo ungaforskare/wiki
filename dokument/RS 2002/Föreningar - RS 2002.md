@@ -34,7 +34,7 @@ Ref: [UFCX](../../distrikt/UFCX%20(Unga%20Forskare%20Uppsala%20Gävleborg).md)
 
 - [[Skrapans Naturvetenskapliga Förening]] (Uppsala)
 - [[Matematisk- Naturvetenskapliga Föreningen]] (Uppsala)
-- [[Celsius Naturvetenskapliga Förening]] (Uppsala)
+- [Celsius Naturvetenskapliga Förening](../../föreningar/Celsius%20Naturvetenskapliga%20Förening.md) (Uppsala)
 - [[Uppsala Amatörastronomer]]
 - verksam: [[Föreningen för Astronomi och Astronautik]] (Gävle)
 - [[Polhems Underground Technical Association]] (Gävle)

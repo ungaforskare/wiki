@@ -152,7 +152,7 @@ redaktionsutskottet.
 
 ## §7 Fastställande av medlemsavgift för 2006
 
-> [[Robert Henriksson]] föredrar för stämman en matematisk
+> [Robert Henriksson](../../personer/Robert%20Henriksson.md) föredrar för stämman en matematisk
 > funktion för bestämmandet av den medlemsavgift som föreningarna betalar till förbundet.
 
 >[!yrkande]
@@ -197,8 +197,8 @@ redaktionsutskottet.
 
 [Maja Söderkvist](../../personer/Maja%20Söderkvist.md)
 
-[[Robert Henriksson]]
-[[Gabriella Lindén]]
+[Robert Henriksson](../../personer/Robert%20Henriksson.md)
+[Gabriella Lindén](../../personer/Gabriella%20Lindén.md)
 
 *Förslag till nyval till förbundsstyrelsen:*
 
@@ -538,7 +538,7 @@ Inflytandepunktens huvudyrkande angående styrelseledamöter
 Inflytandepunktens huvudyrkande angående valberedning:
 
 >[!yrkande]
-> att välja [Hanna Modin](../../personer/Hanna%20Modin.md) (sammankallande), [[Henric Fröberg]], [[Tobias Lönnell]]
+> att välja [Hanna Modin](../../personer/Hanna%20Modin.md) (sammankallande), [Henric Fröberg](../../personer/Henric%20Fröberg.md), [[Tobias Lönnell]]
 > och [Johannes Zeltner Wolff](../../personer/Johannes%20Zeltner%20Wolff.md).
 
 >[!yrkande]

@@ -82,7 +82,7 @@ Under Nobelveckan samlades även knappt 50 svenska ungdomar för att lära sig m
 
 ## Stipendier
 
-Under verksamhetsåret 2007 har FUF:s medlemmar kunnat söka resestipendier till naturvetenskapliga evenemang utanför Sverige genom FUF-stipendier. I år sände FUF en stipendiat till [[International Summer Science Camp]] 2007 i [[Darmstadt]], [Tyskland](../../platser/länder/Tyskland.md). Två stipendiater har fått åka till [[National Youth Science Forum]] 2008 i [[Canberra]], [[Australien]]. Utöver resestipendierna har FUF även utlyst och föreslagit stipendiater till [[Anders Wall]]s stipendium för naturvetenskaplig forskning 2008. Stipendiet, som består av en summa pengar som kan uppgå till 100 000 Skr, utdelas av [[Anders Walls Stiftelse]] den 10 mars 2008.
+Under verksamhetsåret 2007 har FUF:s medlemmar kunnat söka resestipendier till naturvetenskapliga evenemang utanför Sverige genom FUF-stipendier. I år sände FUF en stipendiat till [[International Summer Science Camp]] 2007 i [[Darmstadt]], [Tyskland](../../platser/länder/Tyskland.md). Två stipendiater har fått åka till [[National Youth Science Forum]] 2008 i [[Canberra]], [Australien](../../platser/länder/Australien.md). Utöver resestipendierna har FUF även utlyst och föreslagit stipendiater till [[Anders Wall]]s stipendium för naturvetenskaplig forskning 2008. Stipendiet, som består av en summa pengar som kan uppgå till 100 000 Skr, utdelas av [[Anders Walls Stiftelse]] den 10 mars 2008.
 
 ## Lärarprojektet
 
