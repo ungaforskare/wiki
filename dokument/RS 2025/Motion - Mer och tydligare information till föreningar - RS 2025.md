@@ -1,6 +1,6 @@
 ---
 motionärer:
-  - "[[Molekulföreningen]]"
+  - "[Molekulföreningen](../../föreningar/Molekulföreningen.md)"
   - "[[St Eskil's young scientists]]"
 kategorier:
   - motion
@@ -26,4 +26,4 @@ Under riksstämmans medlemsdialog blev det tydligt att många ombud inte kände 
 
 [Linköping](../../platser/orter/Linköping.md), 8 november 2025
 
-[[Molekulföreningen]] & [[St Eskil's young scientists|St. Eskils Young Scientists]]
+[Molekulföreningen](../../föreningar/Molekulföreningen.md) & [[St Eskil's young scientists|St. Eskils Young Scientists]]

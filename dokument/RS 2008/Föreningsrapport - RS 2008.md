@@ -46,7 +46,7 @@
 
 - [[Lunds brandförening]]
 - [[TEND UFSk]]
-- [[Pi]]
+- [Pi](../../föreningar/Pi.md)
 - [[Projekt: Show tb]]
 - [[Malmö latinskolas unga forskare förening]]
 

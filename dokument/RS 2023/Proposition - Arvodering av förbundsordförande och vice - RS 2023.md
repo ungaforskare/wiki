@@ -10,13 +10,13 @@ namn: Arvodering av förbundsordförande och vice
 >[!warning]
 > Riksstämman antog propositionens att-satser (att 27–32, se §6e i [protokollet](Protokoll%20-%20RS%202023.md)). Dateringen "Stockholm, den DD månad 2023" står så i källan.
 
-Dokumentansvariga: [[Max Vinger]], [[Max Robertsson]], [[Hugo Backlund]], 2023-09-21
+Dokumentansvariga: [Max Vinger](../../personer/Max%20Vinger.md), [Max Robertsson](../../personer/Max%20Robertsson.md), [Hugo Backlund](../../personer/Hugo%20Backlund.md), 2023-09-21
 
 ## Proposition — Arvodering av förbundsordförande och vice
 
 Om hela eller delar av [förbundsstyrelsen](../../verksamheter/FS%20(Förbundsstyrelsen).md) borde arvoderas för sitt uppdrag är en fråga som inte diskuterats ordentligt. Åtminstone inte på 5-10 år. Detta trots att arvodering av andra ideella, främst projektledare, diskuterats många gånger under samma period. Förbundsstyrelsen beslutade därför att tillsammans med [valberedningen](../../verksamheter/Valberedningen.md) göra en ordentlig utredning av frågan.
 
-Under våren har en arbetsgrupp bestående av representanter från förbundsstyrelsen ([[Max Vinger]] och [[Max Robertsson]]) och valberedningen ([[Hugo Backlund]]) utrett frågan och tagit fram en utredningsrapport, förslagen i denna proposition och ett dokument med förslag på bestämmelser för arvodering. Dessa dokument är baserade på diskussioner och inhämtande av material externt och internt.
+Under våren har en arbetsgrupp bestående av representanter från förbundsstyrelsen ([Max Vinger](../../personer/Max%20Vinger.md) och [Max Robertsson](../../personer/Max%20Robertsson.md)) och valberedningen ([Hugo Backlund](../../personer/Hugo%20Backlund.md)) utrett frågan och tagit fram en utredningsrapport, förslagen i denna proposition och ett dokument med förslag på bestämmelser för arvodering. Dessa dokument är baserade på diskussioner och inhämtande av material externt och internt.
 
 Material har hämtats in inom Unga Forskare kring hur vi hanterar andra arvoderingar, i praktiken arvoderingen av ideella projektledare, samt vad som diskuterats i tidigare diskussioner och utredningar på detta tema. Externt har vi kollat på hur andra ungdomsorganisationer hanterar arvodering av sina styrelser. Dels genom [LSU](../../organisationer/LSU%20(Landsrådet%20för%20Sveriges%20Ungdomsorganisationer).md):s årliga rapport Ungdomsrörelsen i siffror (URIS), dels genom djupare kontroll av vissa organisationer.
 

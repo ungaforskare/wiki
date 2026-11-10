@@ -38,5 +38,5 @@ Avregistrering och uteslutning av föreningar i Unga Forskare regleras i stadgar
 På anledning av upprepad oredovisad verksamhet och/eller önskan om avregistrering till följd av upphörande av verksamhet, har [förbundsstyrelsen](../../verksamheter/FS%20(Förbundsstyrelsen).md) under 2025 avregistrerat följande föreningar.
 
 - [[Unga Forskare Värmland]]
-- [[Europaskolan för vetenskap|Europaskolan för Vetenskap]]
+- [Europaskolan för Vetenskap](../../föreningar/Europaskolan%20för%20vetenskap.md)
 - [[Östra Real Science Club]]

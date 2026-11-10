@@ -10,7 +10,7 @@ namn: Föreningsuppdraget 2020
 >[!warning]
 > Propositionen jämkades under påverkanstorget ihop med ett förslag om ett gemensamt mål: "föreningarna samarbetar för att sprida och lyfta för sin målgrupp relevanta evenemang i UF på samtliga kanaler." Riksstämman antog det jämkade förslaget (se §8b i [protokollet](Protokoll%20-%20RS%202019.md)). Källan är märkt "Utkast", är daterad 2019-10-07 och undertecknad den 8 oktober 2019.
 
-Dokumentansvarig: [[Max Vinger]], 2019-10-07
+Dokumentansvarig: [Max Vinger](../../personer/Max%20Vinger.md), 2019-10-07
 
 ## Proposition: Föreningsuppdraget 2020
 

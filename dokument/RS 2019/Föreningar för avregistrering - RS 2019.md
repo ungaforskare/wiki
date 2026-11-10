@@ -13,10 +13,10 @@ kategorier:
 >[!warning]
 > Källan delar inte in föreningarna i distrikt och anger inte skäl eller föreningsnummer. Därför är listan inte grupperad.
 
-- [[Kemi- och biotekniksektionen inom TLTH]]
+- [Kemi- och biotekniksektionen inom TLTH](../../föreningar/Kemi-%20och%20biotekniksektionen%20inom%20TLTH.md)
 - [[Mendels ärtor]]
 - [[Östra Science club]]
-- [[AstraZenecas Sommarforskarskola]]
+- [AstraZenecas Sommarforskarskola](../../verksamheter/AstraZenecas%20Sommarforskarskola.md)
 
 [Förbundsstyrelsen](../../verksamheter/FS%20(Förbundsstyrelsen).md),
 

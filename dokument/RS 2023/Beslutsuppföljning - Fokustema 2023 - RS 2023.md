@@ -7,7 +7,7 @@ kategorier:
 
 <!-- Bilaga 11 till RS 2023, "Beslutsuppföljning — Fokustema 2023", dokumentansvariga Julia Qiu och Max Vinger, 2023-10-08, rev "Slutgiltig". "IGEM" står så i källan. -->
 
-Dokumentansvariga: [[Julia Qiu]], [[Max Vinger]], 2023-10-08
+Dokumentansvariga: [Julia Qiu](../../personer/Julia%20Qiu.md), [Max Vinger](../../personer/Max%20Vinger.md), 2023-10-08
 
 # Beslutsuppföljning — Fokustema 2023
 
@@ -39,7 +39,7 @@ Genom [[Stiftelsen för Nationaldagsfirande|stiftelsen för Nationaldagsfirande]
 
 ## Projektbidrag
 
-Under 2023 har Unga Forskare kunnat dela ut mer än 60 000 kr i form av bidrag till projekt till våra medlemsföreningar. Under året har vi delat ut bidrag till 7 projekt i 6 olika föreningar som sträckte sig över 4 olika län. När vi beslutade om vilka projekt som skulle få projektbidrag har projekt på fokustemat premierats. Två exempel på projekt som fått bidrag och vi särskilt tror bidragit till fokustemat är medlemsfikor anordnade av [[Alumniföreningen Utställningen Unga Forskare|AUUF]] och att kunna stödja [[Chalmers Robotförening|Chalmers robotförening]] med elektronik till en workshopserie.
+Under 2023 har Unga Forskare kunnat dela ut mer än 60 000 kr i form av bidrag till projekt till våra medlemsföreningar. Under året har vi delat ut bidrag till 7 projekt i 6 olika föreningar som sträckte sig över 4 olika län. När vi beslutade om vilka projekt som skulle få projektbidrag har projekt på fokustemat premierats. Två exempel på projekt som fått bidrag och vi särskilt tror bidragit till fokustemat är medlemsfikor anordnade av [AUUF](../../föreningar/Alumniföreningen%20Utställningen%20Unga%20Forskare.md) och att kunna stödja [Chalmers robotförening](../../föreningar/Chalmers%20Robotförening.md) med elektronik till en workshopserie.
 
 ## Sociala aktiviteter mellan föreningar
 

@@ -50,7 +50,7 @@ Detta ändringsyrkande stödjer andemeningen av yrkandet med finner emellertid a
 >[!yrkande]
 > Därför föreslår Viktor Sundström & Benjamin Verbeek Riksstämman besluta
 >
-> att (1) Arbetsgruppen skall konsultera med [[Astronomisk Ungdom|Astronomisk ungdoms]] styrelse.
+> att (1) Arbetsgruppen skall konsultera med [Astronomisk ungdoms](../../föreningar/Astronomisk%20Ungdom.md) styrelse.
 
 Viktor Sundström & Benjamin Verbeek,
 

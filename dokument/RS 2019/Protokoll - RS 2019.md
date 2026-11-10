@@ -2,32 +2,32 @@
 start: 2019-11-08
 end: 2019-11-10
 mötesordförande:
-  - "[[Tove Verner-Carlsson]]"
+  - "[Tove Verner-Carlsson](../../personer/Tove%20Verner-Carlsson.md)"
 mötessekreterare:
   - "[[Alexandra Polyakova]]"
-  - "[[David Andersson]]"
+  - "[David Andersson](../../personer/David%20Andersson.md)"
 platser:
   - "[[Karolinska Gymnasiet]]"
 orter:
   - "[[Örebro]]"
 justerare:
-  - "[[Mattias Akke]]"
+  - "[Mattias Akke](../../personer/Mattias%20Akke.md)"
   - "[[Erik Hartman]]"
 rösträknare:
-  - "[[Mattias Akke]]"
+  - "[Mattias Akke](../../personer/Mattias%20Akke.md)"
   - "[[Erik Hartman]]"
   - "[[Hektor Einarsson]]"
 inflytandepunktsansvariga:
-  - "[[Anna Hedlund]]"
-  - "[[Emma Petersson]]"
-  - "[[Paula Langöe|Paula Langöe Eliasson]]"
+  - "[Anna Hedlund](../../personer/Anna%20Hedlund.md)"
+  - "[Emma Petersson](../../personer/Emma%20Petersson.md)"
+  - "[Paula Langöe Eliasson](../../personer/Paula%20Langöe.md)"
   - "[[Therese de Neergaard]]"
-  - "[[Linnea Suomenniemi]]"
+  - "[Linnea Suomenniemi](../../personer/Linnea%20Suomenniemi.md)"
   - "[[Dina Lerjevik]]"
 redaktionsutskott:
-  - "[[Tove Verner-Carlsson]]"
+  - "[Tove Verner-Carlsson](../../personer/Tove%20Verner-Carlsson.md)"
   - "[[Alexandra Polyakova]]"
-  - "[[David Andersson]]"
+  - "[David Andersson](../../personer/David%20Andersson.md)"
 kategorier:
   - "[[RS (Riksstämman)|Riksstämman]]"
   - "[[protokoll]]"
@@ -40,7 +40,7 @@ kategorier:
 
 ## §1 Riksstämmans öppnande
 
-> Förbundsordförande [[Linnea Suomenniemi]] förklarar mötet öppnat.
+> Förbundsordförande [Linnea Suomenniemi](../../personer/Linnea%20Suomenniemi.md) förklarar mötet öppnat.
 
 ## §2 Mötesformalia
 
@@ -51,18 +51,18 @@ kategorier:
 >[!beslut]
 > RS beslutar
 >
-> att 1 välja [[Tove Verner-Carlsson]] till mötesordförande,
+> att 1 välja [Tove Verner-Carlsson](../../personer/Tove%20Verner-Carlsson.md) till mötesordförande,
 >
 > att 2 välja [[Alexandra Polyakova]] till mötessekreterare.
 >
-> att 3 välja [[David Andersson]] till tillfällig mötessekreterare fram tills det att Alexandra Polyakova kommer fram till riksstämman.
+> att 3 välja [David Andersson](../../personer/David%20Andersson.md) till tillfällig mötessekreterare fram tills det att Alexandra Polyakova kommer fram till riksstämman.
 
 ### §2b Val av två protokolljusterare tillika rösträknare
 
 >[!beslut]
 > RS beslutar
 >
-> att 4 välja [[Mattias Akke]] och [[Erik Hartman]] till protokolljusterare tillika rösträknare.
+> att 4 välja [Mattias Akke](../../personer/Mattias%20Akke.md) och [[Erik Hartman]] till protokolljusterare tillika rösträknare.
 
 ### §2c Beslut om mötets stadgeenliga utlysande
 
@@ -130,20 +130,20 @@ kategorier:
 >
 > Det gångna året
 >
-> - Verksamhetsberättelse 2018 ([[Anna Hedlund]])
-> - Ekonomisk berättelse 2018 ([[Anna Hedlund]])
-> - Årsbokslut 2018 ([[Anna Hedlund]])
-> - Revisionsberättelse 2018 ([[Anna Hedlund]])
+> - Verksamhetsberättelse 2018 ([Anna Hedlund](../../personer/Anna%20Hedlund.md))
+> - Ekonomisk berättelse 2018 ([Anna Hedlund](../../personer/Anna%20Hedlund.md))
+> - Årsbokslut 2018 ([Anna Hedlund](../../personer/Anna%20Hedlund.md))
+> - Revisionsberättelse 2018 ([Anna Hedlund](../../personer/Anna%20Hedlund.md))
 >
 > Det innevarande året
 >
-> - Revisorsrapport för innevarande verksamhetsår ([[Emma Petersson]])
-> - Föreningar för avregistrering ([[Paula Langöe|Paula Langöe Eliasson]])
+> - Revisorsrapport för innevarande verksamhetsår ([Emma Petersson](../../personer/Emma%20Petersson.md))
+> - Föreningar för avregistrering ([Paula Langöe Eliasson](../../personer/Paula%20Langöe.md))
 >
 > Propositioner
 >
 > - Proposition: Fokustema 2020 ([[Therese de Neergaard]])
-> - Proposition: Föreningsuppdraget 2020 ([[Linnea Suomenniemi]])
+> - Proposition: Föreningsuppdraget 2020 ([Linnea Suomenniemi](../../personer/Linnea%20Suomenniemi.md))
 > - Motion: Utreda tillsättning av halva styrelsen varje år ([[Dina Lerjevik]])
 > - Motion: Bättre WiFi-uppkoppling på kansliet och i övernattningslägenheten ([[Dina Lerjevik]])
 >
@@ -314,7 +314,7 @@ Bilaga 18. Kandidaturer bakom valberedningens förslag till förtroendeposter
 >[!beslut]
 > RS beslutar
 >
-> att 30 välja [[Max Vinger]] till förbundsordförande för mandatperioden 2020 - 2021.
+> att 30 välja [Max Vinger](../../personer/Max%20Vinger.md) till förbundsordförande för mandatperioden 2020 - 2021.
 
 ### §10b Val av vice förbundsordförande 2020 — 2021
 
@@ -327,7 +327,7 @@ Bilaga 18. Kandidaturer bakom valberedningens förslag till förtroendeposter
 >[!beslut]
 > RS beslutar
 >
-> att 31 välja [[Jonathan Jilg]] till vice förbundsordförande för mandatperioden 2020 — 2021.
+> att 31 välja [Jonathan Jilg](../../personer/Jonathan%20Jilg.md) till vice förbundsordförande för mandatperioden 2020 — 2021.
 
 > Riksstämman ajourneras och återupptas 2019-11-10 11:15
 
@@ -349,18 +349,18 @@ Bilaga 19. Övriga kandidaturer.
 >[!beslut]
 > RS beslutar
 >
-> att 35 välja följande sex (6) ledamöter till förbundsstyrelsen 2020 - 2021: [[Astha Kaul]], [[Eleonora Svanberg]], [[Erik Hartman]], [[Julia Reinius]], [[Linnea Suomenniemi]], [[Max Robertsson]].
+> att 35 välja följande sex (6) ledamöter till förbundsstyrelsen 2020 - 2021: [[Astha Kaul]], [[Eleonora Svanberg]], [[Erik Hartman]], [Julia Reinius](../../personer/Julia%20Reinius.md), [Linnea Suomenniemi](../../personer/Linnea%20Suomenniemi.md), [Max Robertsson](../../personer/Max%20Robertsson.md).
 
 ### §10e Fastställande av Revisionsbyrå
 
 >[!beslut]
 > RS beslutar
 >
-> att 36 fastställa [[PwC]] som revisionsbyrå för verksamhetsåret 2020.
+> att 36 fastställa [PwC](../../organisationer/PWC%20(PricewaterhouseCoopers).md) som revisionsbyrå för verksamhetsåret 2020.
 
 ### §10f Fyllnadsval av ideell verksamhetsrevisor samt personlig suppleant till den ideella verksamhetsrevisorn 2020
 
-> Protokollet för Riksstämman 2019 antyder att [[Emma Petersson]] endast valdes som ideell verksamhetsrevisor för perioden 2019, det vill säga inte för en tvåårsperiod som planerat. För tydlighetens skull kandiderar hon även för året 2020.
+> Protokollet för Riksstämman 2019 antyder att [Emma Petersson](../../personer/Emma%20Petersson.md) endast valdes som ideell verksamhetsrevisor för perioden 2019, det vill säga inte för en tvåårsperiod som planerat. För tydlighetens skull kandiderar hon även för året 2020.
 
 >[!warning]
 > Med "Protokollet för Riksstämman 2019" avses troligen protokollet för Riksstämman 2018, där Emma Petersson valdes till verksamhetsrevisor. Texten har behållits som i källan.
@@ -374,7 +374,7 @@ Bilaga 18. Kandidaturer bakom valberedningens förslag till förtroendeposter
 >
 > att 37 välja Emma Petersson till ordinarie ideell verksamhetsrevisor för verksamhetsåret 2020.
 >
-> att 38 välja [[David Andersson]] till personlig suppleant till den ideella verksamhetsrevisorn för verksamhetsåret 2020.
+> att 38 välja [David Andersson](../../personer/David%20Andersson.md) till personlig suppleant till den ideella verksamhetsrevisorn för verksamhetsåret 2020.
 
 > Riksstämman ajourneras och återupptas 2019-11-10 12:54
 
@@ -388,7 +388,7 @@ Bilaga 18. Kandidaturer bakom valberedningens förslag till förtroendeposter
 >[!beslut]
 > RS beslutar
 >
-> att 39 välja [[Alexandra Polyakova]] och [[Simon Ljus]] till [valberedning](../../verksamheter/Valberedningen.md) för perioden 2019 - 2020.
+> att 39 välja [[Alexandra Polyakova]] och [Simon Ljus](../../personer/Simon%20Ljus.md) till [valberedning](../../verksamheter/Valberedningen.md) för perioden 2019 - 2020.
 
 ## §11 Övriga frågor
 
@@ -405,7 +405,7 @@ Bilaga 20. Motion: Främja skapandet av gymnasieföreningar och samarbetet mella
 
 ## §12 Stämmans avslutande
 
-> Den nyvalde förbundsordföranden [[Max Vinger]] avslutar Riksstämman 2019.
+> Den nyvalde förbundsordföranden [Max Vinger](../../personer/Max%20Vinger.md) avslutar Riksstämman 2019.
 
 ## BILAGOR TILL PROTOKOLLET
 

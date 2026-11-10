@@ -14,7 +14,7 @@ kategorier:
 
 [Valberedningen](../../verksamheter/Valberedningen.md) presenterar sitt förslag till styrelseposter för mandatperioden 2023-2025. Valberedningen har efter intervjuer med flera kandidater beslutat att förbundsstyrelsens storlek ska väljas till sju (7) personer.
 
-Valberedningen föreslår att utse [[Julia Qiu]] som ordförande och [[Brendan R. Joseph]] som vice ordförande. Denna kombination av föreslagna ledare förväntas demonstrera en utmärkt samarbetsförmåga och utöva en kraftfull ledarroll som dels ser till förbundets framväxt, dels till en god gruppdynamik inom [förbundsstyrelsen](../../verksamheter/FS%20(Förbundsstyrelsen).md). Som ledamöter föreslår valberedningen [[Jonathan Jilg]], [[Alice Evertsson]], [[Marina Peltonen]], [[Simon Åstrand]] och [[Adam Granquist]].
+Valberedningen föreslår att utse [Julia Qiu](../../personer/Julia%20Qiu.md) som ordförande och [Brendan R. Joseph](../../personer/Brendan%20R.%20Joseph.md) som vice ordförande. Denna kombination av föreslagna ledare förväntas demonstrera en utmärkt samarbetsförmåga och utöva en kraftfull ledarroll som dels ser till förbundets framväxt, dels till en god gruppdynamik inom [förbundsstyrelsen](../../verksamheter/FS%20(Förbundsstyrelsen).md). Som ledamöter föreslår valberedningen [Jonathan Jilg](../../personer/Jonathan%20Jilg.md), [[Alice Evertsson]], [Marina Peltonen](../../personer/Marina%20Peltonen.md), [Simon Åstrand](../../personer/Simon%20Åstrand.md) och [[Adam Granquist]].
 
 Förslaget är utformat på detta sätt för att möjliggöra för förbundsstyrelsen att välja ansvarsområden internt för att på så sätt sträva efter ett hållbart och givande engagemang. Med det sagt har valberedningens intervjuer och tester (i form av fallbaserade prov) visat att några av kandidaterna är särskilt kompetenta för vissa poster. Vi vill därmed rekommendera att Adam Granquist tar på sig rollen som demokratiansvarig.
 
@@ -35,13 +35,13 @@ Valberedningen anser att var och en av dessa kandidater har betydelsefulla och u
 
 Valberedningen
 
-[[Kacper Morawiec]], [[Hugo Backlund]] och [[Bahar Safari]]
+[Kacper Morawiec](../../personer/Kacper%20Morawiec.md), [Hugo Backlund](../../personer/Hugo%20Backlund.md) och [Bahar Safari](../../personer/Bahar%20Safari.md)
 
 11 oktober 2023
 
 ## Förslag till mötespresidium för Riksstämman 2023
 
-[[David Andersson]] har länge varit engagerad i Unga Forskare på många fronter, bland annat som styrelsemedlem 2011-2015 och även mötesordförande för tidigare riksstämmor.
+[David Andersson](../../personer/David%20Andersson.md) har länge varit engagerad i Unga Forskare på många fronter, bland annat som styrelsemedlem 2011-2015 och även mötesordförande för tidigare riksstämmor.
 
 [[Alexander Simko]] har tidigare haft uppdrag i bland annat [Utställningen Unga Forskare](../../verksamheter/UUF%20(Utställningen%20Unga%20Forskare).md).
 

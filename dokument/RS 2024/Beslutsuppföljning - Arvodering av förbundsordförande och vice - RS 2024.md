@@ -10,7 +10,7 @@ kategorier:
 >[!warning]
 > Dokumentet är numrerat "av 7", men källan slutar på sida 6. Riksstämman lade bilagan till handlingarna (att 26, se §5f i [protokollet](Protokoll%20-%20RS%202024.md)). Beslutet som följs upp finns i [Proposition - Arvodering av förbundsordförande och vice - RS 2023](../RS%202023/Proposition%20-%20Arvodering%20av%20förbundsordförande%20och%20vice%20-%20RS%202023.md).
 
-Dokumentansvarig: [[Simon Åstrand]], 2024-09-23
+Dokumentansvarig: [Simon Åstrand](../../personer/Simon%20Åstrand.md), 2024-09-23
 
 # Beslutsuppföljning — Arvodering av ordförande och vice ordförande
 

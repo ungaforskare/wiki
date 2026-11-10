@@ -11,10 +11,10 @@ orter:
     - "[[Bålsta]]"
 justerare:
     - "[[Anton Gustafsson]]"
-    - "[[Moa Larsson]]"
+    - "[Moa Larsson](../../personer/Moa%20Larsson.md)"
 rösträknare:
     - "[[Anton Gustafsson]]"
-    - "[[Moa Larsson]]"
+    - "[Moa Larsson](../../personer/Moa%20Larsson.md)"
 inflytandepunktsansvariga:
     - "[[Maja Söderkvist]]"
     - "[[Anna-Maria Wiberg]]"
@@ -57,7 +57,7 @@ Angående yrkanden: I dokumentet hänvisas till olika yrkanden, dessa återfinns
 >[!beslut]
 > RS beslutar
 >
-> att välja [[Anton Gustafsson]] och [[Moa Larsson]] till protokolljusterare tillika rösträknare.
+> att välja [[Anton Gustafsson]] och [Moa Larsson](../../personer/Moa%20Larsson.md) till protokolljusterare tillika rösträknare.
 
 ### §2c Beslut om mötets stadgeenliga utlysande
 
@@ -239,7 +239,7 @@ Angående yrkanden: I dokumentet hänvisas till olika yrkanden, dessa återfinns
 
 ### §8a Verksamhetsplan för år 2009
 
-> [Rebecka Lindén](../../personer/Rebecka%20Lindén.md) från [FS](../../verksamheter/FS%20(Förbundsstyrelsen).md) föredrog förbundsstyrelsens förslag. [Rikard Ahrgren](../../personer/Rikard%20Ahgren.md) föredrog sitt tilläggsyrkande B, där Rebecka förtydligade att även förbundsstyrelsen gillade detta yrkande. [[David Ebbevi]] föredrog tilläggsyrkande C och föreslog Riksstämman besluta att bifalla hans förslag. Förbundsstyrelsen samtyckte. [[Roos]] föredrog tilläggsyrkande D, och förbundsstyrelsen klargjorde att även de ställde sig bakom detta yrkande.
+> [Rebecka Lindén](../../personer/Rebecka%20Lindén.md) från [FS](../../verksamheter/FS%20(Förbundsstyrelsen).md) föredrog förbundsstyrelsens förslag. [Rikard Ahrgren](../../personer/Rikard%20Ahgren.md) föredrog sitt tilläggsyrkande B, där Rebecka förtydligade att även förbundsstyrelsen gillade detta yrkande. [David Ebbevi](../../personer/David%20Ebbevi.md) föredrog tilläggsyrkande C och föreslog Riksstämman besluta att bifalla hans förslag. Förbundsstyrelsen samtyckte. [[Roos]] föredrog tilläggsyrkande D, och förbundsstyrelsen klargjorde att även de ställde sig bakom detta yrkande.
 
 >[!beslut]
 > RS beslutar
@@ -437,7 +437,7 @@ Angående yrkanden: I dokumentet hänvisas till olika yrkanden, dessa återfinns
 >
 > att fastställa valberedningens storlek till fyra personer,
 >
-> att välja [[Gustav Johansson]], [Aleksander Lundqvist](../../personer/Aleksander%20Lundqvist.md), [[Sofie Bartholdson]] och [[David Andersson]] till valberedning.
+> att välja [Gustav Johansson](../../personer/Gustav%20Johansson.md), [Aleksander Lundqvist](../../personer/Aleksander%20Lundqvist.md), [[Sofie Bartholdson]] och [David Andersson](../../personer/David%20Andersson.md) till valberedning.
 
 ## §11 Övriga frågor
 

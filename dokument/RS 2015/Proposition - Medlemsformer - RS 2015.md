@@ -8,7 +8,7 @@ namn: Medlemsformer i Unga Forskare
 >[!warning]
 > Bilaga 11 till RS 2015. I källans sidhuvud heter propositionen "Proposition: Medlemsskap" och i rubriken "Proposition: Medlemsbestämmelser"; i bilagelistan och protokollet heter den "Proposition: Medlemsformer (i Unga Forskare)". Propositionen kallar Medlemsbestämmelserna för bilaga 11.b, medan bilagelistan och protokollet kallar dem 11a.
 
-Dokumentansvarig: [[Tove Verner-Carlsson]], 7 oktober 2015
+Dokumentansvarig: [Tove Verner-Carlsson](../../personer/Tove%20Verner-Carlsson.md), 7 oktober 2015
 
 ## Proposition: Medlemsbestämmelser
 

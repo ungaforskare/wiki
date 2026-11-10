@@ -25,6 +25,6 @@ kategorier:
 
 Valberedningen
 
-[[Lukas Lundgren]], [[Emanuel Enberg]], [[Oskar Hallensjö]], [[Amanda-Linn Bodin]]
+[Lukas Lundgren](../../personer/Lukas%20Lundgren.md), [Emanuel Enberg](../../personer/Emanuel%20Enberg.md), [[Oskar Hallensjö]], [[Amanda-Linn Bodin]]
 
 Stockholm, den 27 oktober 2025

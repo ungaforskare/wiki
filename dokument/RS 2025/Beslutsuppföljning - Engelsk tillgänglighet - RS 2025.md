@@ -86,7 +86,7 @@ Vi rekommenderar inte att översätta fler uppdragsbeskrivningar och arbetsbeskr
 
 Utdrag ur mötesprotokoll:
 
-> Under FS2025-1 tillsattes en arbetsgrupp bestående av [[Aleksander Berger]] och [[Simon Åstrand]] med uppdrag att arbeta med Unga Forskares fokustema för 2025 "Fokusera på internationell spridning och närvaro" samt en Riksstämmomotion om internationella studenter. Gruppen redogör för sitt arbete hittills och inhämtar input från förbundsstyrelsen.
+> Under FS2025-1 tillsattes en arbetsgrupp bestående av [Aleksander Berger](../../personer/Aleksander%20Berger.md) och [Simon Åstrand](../../personer/Simon%20Åstrand.md) med uppdrag att arbeta med Unga Forskares fokustema för 2025 "Fokusera på internationell spridning och närvaro" samt en Riksstämmomotion om internationella studenter. Gruppen redogör för sitt arbete hittills och inhämtar input från förbundsstyrelsen.
 >
 > Det beslutades att
 >

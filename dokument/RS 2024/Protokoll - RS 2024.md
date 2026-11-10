@@ -2,24 +2,24 @@
 start: 2024-11-16
 end: 2024-11-17
 mötesordförande:
-  - "[[David Andersson]]"
+  - "[David Andersson](../../personer/David%20Andersson.md)"
 mötessekreterare:
   - "[[Emily Yao]]"
 platser:
-  - "[[Katedralskolan Linköping]]"
+  - "[Katedralskolan Linköping](../../skolor/Katedralskolan%20Linköping.md)"
 orter:
   - "[[Linköping]]"
 justerare:
-  - "[[Leonard Bengtsson]]"
+  - "[Leonard Bengtsson](../../personer/Leonard%20Bengtsson.md)"
   - "[[Elisa Carnö]]"
 rösträknare:
-  - "[[Leonard Bengtsson]]"
+  - "[Leonard Bengtsson](../../personer/Leonard%20Bengtsson.md)"
   - "[[Elisa Carnö]]"
 inflytandepunktsansvariga:
 redaktionsutskott:
-  - "[[David Andersson]]"
+  - "[David Andersson](../../personer/David%20Andersson.md)"
   - "[[Emily Yao]]"
-  - "[[Julia Qiu]]"
+  - "[Julia Qiu](../../personer/Julia%20Qiu.md)"
 kategorier:
   - "[[RS (Riksstämman)|Riksstämman]]"
   - "[[protokoll]]"
@@ -80,7 +80,7 @@ kategorier:
 
 ## §1 Riksstämmans öppnande
 
-> Unga Forskares förbundsordförande [[Julia Qiu]] förklarar mötet öppnat 2024-11-16, kl.12.11.
+> Unga Forskares förbundsordförande [Julia Qiu](../../personer/Julia%20Qiu.md) förklarar mötet öppnat 2024-11-16, kl.12.11.
 
 ## §2 Mötesformalia
 
@@ -93,7 +93,7 @@ Bilaga A1. Valberedningens förslag till mötespresidium
 >[!beslut]
 > RS beslutar
 >
-> att 1 välja [[David Andersson]] till mötesordförande
+> att 1 välja [David Andersson](../../personer/David%20Andersson.md) till mötesordförande
 >
 > att 2 välja [[Emily Yao]] till mötessekreterare
 
@@ -104,7 +104,7 @@ Bilaga A1. Valberedningens förslag till mötespresidium
 >[!beslut]
 > RS beslutar
 >
-> att 3 välja [[Leonard Bengtsson]] och [[Elisa Carnö]] till protokolljusterare tillika rösträknare
+> att 3 välja [Leonard Bengtsson](../../personer/Leonard%20Bengtsson.md) och [[Elisa Carnö]] till protokolljusterare tillika rösträknare
 
 ### §2c Beslut om mötets stadgeenliga utlysande (Förbundsstyrelsen)
 
@@ -578,7 +578,7 @@ Bilaga F2. Kandidaturer till revisorer
 >
 > att 55 anta [[Patrick Edelman]] som ordinarie verksamhetsrevisor verksamhetsåren 2025 - 2026
 >
-> att 56 anta [[Linnea Suomenniemi]] som verksamhetsrevisorssuppleant verksamhetsåren 2025 - 2026
+> att 56 anta [Linnea Suomenniemi](../../personer/Linnea%20Suomenniemi.md) som verksamhetsrevisorssuppleant verksamhetsåren 2025 - 2026
 
 ### §8b Val av valberedning 2025 - 2026 (Förbundsstyrelsen)
 
@@ -591,9 +591,9 @@ Bilaga F3. Kandidaturer till valberedningen
 >
 > att 57 fastställa valberedningens storlek under mandatperioden 2025 - 2026 till fyra (4) personer
 >
-> att 58 välja [[Lukas Lundgren]] till ordförande i valberedningen
+> att 58 välja [Lukas Lundgren](../../personer/Lukas%20Lundgren.md) till ordförande i valberedningen
 >
-> att 59 välja [[Emanuel Enberg]], [[Amanda-Linn Bodin]] och [[Oskar Hallensjö]] till ledamöter i valberedningen verksamhetsåren 2025 - 2026
+> att 59 välja [Emanuel Enberg](../../personer/Emanuel%20Enberg.md), [[Amanda-Linn Bodin]] och [[Oskar Hallensjö]] till ledamöter i valberedningen verksamhetsåren 2025 - 2026
 
 ### §8c Förbundsstyrelsens storlek (Valberedningen)
 
@@ -647,7 +647,7 @@ Bilaga F4. Valberedningens förslag för arvoderingsnivåer
 
 ## §11 Riksstämmans avslutande
 
-> Unga Forskares förbundsordförande [[Julia Qiu]] avslutar Riksstämman 2024 kl. 15.38.
+> Unga Forskares förbundsordförande [Julia Qiu](../../personer/Julia%20Qiu.md) avslutar Riksstämman 2024 kl. 15.38.
 
 ## BILAGOR TILL PROTOKOLLET
 

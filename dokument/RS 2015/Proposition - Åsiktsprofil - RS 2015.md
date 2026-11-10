@@ -7,7 +7,7 @@ namn: Åsiktsprofil
 
 <!-- Bilaga 15 till RS 2015 (rev A, "UTKAST"), följd av bilaga 15a, själva åsiktsprofilen. -->
 
-Dokumentansvarig: [[Jacob Lagerros]], 2015-09-25
+Dokumentansvarig: [Jacob Lagerros](../../personer/Jacob%20Lagerros.md), 2015-09-25
 
 ## Proposition: Åsiktsprofil
 

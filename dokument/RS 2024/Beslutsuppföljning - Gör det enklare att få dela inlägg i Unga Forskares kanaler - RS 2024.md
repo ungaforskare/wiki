@@ -10,7 +10,7 @@ kategorier:
 >[!warning]
 > Riksstämman lade bilagan till handlingarna (att 22, se §5c i [protokollet](Protokoll%20-%20RS%202024.md)). Motionen behandlades på RS 2023, se [Motion - Gör det enklare att få dela inlägg i Unga Forskares kanaler - RS 2023](../RS%202023/Motion%20-%20Gör%20det%20enklare%20att%20få%20dela%20inlägg%20i%20Unga%20Forskares%20kanaler%20-%20RS%202023.md).
 
-Dokumentansvariga: [[Aleksander Berger]], [[Marina Peltonen]], 2024-10-06
+Dokumentansvariga: [Aleksander Berger](../../personer/Aleksander%20Berger.md), [Marina Peltonen](../../personer/Marina%20Peltonen.md), 2024-10-06
 
 # Beslutsuppföljning — Kommunikationen om möjligheten att och hur medlemsföreningar kan marknadsföra sina verksamheter i Unga Forskares sociala medier
 

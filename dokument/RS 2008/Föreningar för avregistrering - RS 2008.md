@@ -11,7 +11,7 @@
 ### UFCX; Unga Forskare Uppsala Gävleborg
 
 - [[Skrapans naturvetenskapliga förening]]
-- [[Celsius]]
+- [Celsius](../../föreningar/Celsius%20Naturvetenskapliga%20Förening.md)
 - [[Polhems Underground Technical Association]]
 - [[RELACS]]
 - [[Fyrisskolans Local Area Network]]

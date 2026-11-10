@@ -5,7 +5,7 @@ kategorier:
 namn: Tvååriga mandatperioder i förbundsstyrelsen
 ---
 
-Dokumentansvarig: [[David Andersson]], 2013-09-23
+Dokumentansvarig: [David Andersson](../../personer/David%20Andersson.md), 2013-09-23
 
 ## Ett naturligt steg mot framtiden
 
@@ -120,6 +120,6 @@ Notera att denna proposition innebär en stadgeändring och att beslutet alltså
 >
 > R. Eventuella fyllnadsval för personval som behandlades av förra riksstämman."
 
-Förbundsstyrelsen genom [[David Andersson]],
+Förbundsstyrelsen genom [David Andersson](../../personer/David%20Andersson.md),
 
 Stockholm, den 23 september 2013

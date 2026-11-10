@@ -6,9 +6,9 @@ mötesordförande:
 mötessekreterare:
   - "[[Louise Wallin]]"
 platser:
-  - "[[Polhemskolan]]"
+  - "[Polhemskolan](../../skolor/Polhemskolan.md)"
 orter:
-  - "[[Lund]]"
+  - "[Lund](../../platser/orter/Lund.md)"
 justerare:
   - "[[Fredrik Elofsson]]"
   - "[[John Åkerhielm]]"
@@ -20,7 +20,7 @@ inflytandepunktsansvariga:
   - "[[Hanna Modin]]"
   - "[[Helene Eriksson]]"
   - "[[Hanna Palmqvist]]"
-  - "[[Theresia Silander Hagström]]"
+  - "[Theresia Silander Hagström](../../personer/Theresia%20Silander%20Hagström.md)"
 redaktionsutskott:
   - "[[Alexander Sehlström]]"
   - "[[Hanna Modin]]"
@@ -87,7 +87,7 @@ kategorier:
 >[!beslut]
 > RS beslutar
 >
-> att utse [Daniel Langkilde](../../personer/Daniel%20Langkilde.md), [[David Andersson]], [Karl Larsson](../../personer/Karl%20Larsson.md) och [[Johan Billman]] till valutskott
+> att utse [Daniel Langkilde](../../personer/Daniel%20Langkilde.md), [David Andersson](../../personer/David%20Andersson.md), [Karl Larsson](../../personer/Karl%20Larsson.md) och [[Johan Billman]] till valutskott
 
 ### §3c Beslut kring påverkanstorget
 
@@ -130,7 +130,7 @@ kategorier:
 - Demokratisk organisation
 - Kvalificerad revisor
 
-*Propositioner del II: Övriga propositioner:* [[Theresia Silander Hagström]]
+*Propositioner del II: Övriga propositioner:* [Theresia Silander Hagström](../../personer/Theresia%20Silander%20Hagström.md)
 
 - Vision
 - Åsiktsprofil
@@ -201,7 +201,7 @@ kategorier:
 >
 > att avregistrera föreningar enligt Bilaga Föreningar för avregistrering
 
-> [Daniel Langkilde](../../personer/Daniel%20Langkilde.md) föredrog valutskottets förslag. De rekommenderade [[Tove Verner Carlsson]] (sammankallande), [Aleksander Lundqvist](../../personer/Aleksander%20Lundqvist.md), [[Therese de Haan]] och [[Sebastian Bundajev]].
+> [Daniel Langkilde](../../personer/Daniel%20Langkilde.md) föredrog valutskottets förslag. De rekommenderade [Tove Verner Carlsson](../../personer/Tove%20Verner-Carlsson.md) (sammankallande), [Aleksander Lundqvist](../../personer/Aleksander%20Lundqvist.md), [Therese de Haan](../../personer/Therese%20de%20Haan.md) och [[Sebastian Bundajev]].
 
 ## §7 Fastställande av medlemsavgift för år 2010
 
@@ -375,7 +375,7 @@ kategorier:
 >[!beslut]
 > RS beslutar
 >
-> att välja [Rikard Ahrgren](../../personer/Rikard%20Ahgren.md), [[David Ebbevi]], [[Sanna Holm]], [Sara Magnusson](../../personer/Sara%20Magnusson.md), [[Robert Piehl-Fridqvist]], [Andreas Svensson](../../personer/Andreas%20Svensson.md), [[Yi-Hua Zhang]] och [Johannes Zeltner Wolff](../../personer/Johannes%20Zeltner%20Wolff.md) till förbundsstyrelseledamöter
+> att välja [Rikard Ahrgren](../../personer/Rikard%20Ahgren.md), [David Ebbevi](../../personer/David%20Ebbevi.md), [Sanna Holm](../../personer/Sanna%20Holm.md), [Sara Magnusson](../../personer/Sara%20Magnusson.md), [Robert Piehl-Fridqvist](../../personer/Robert%20Piehl-Fridqvist.md), [Andreas Svensson](../../personer/Andreas%20Svensson.md), [Yi-Hua Zhang](../../personer/Yi-Hua%20Zhang.md) och [Johannes Zeltner Wolff](../../personer/Johannes%20Zeltner%20Wolff.md) till förbundsstyrelseledamöter
 
 ### §10d Val av två revisorer samt två revisorssuppleanter
 
@@ -391,7 +391,7 @@ kategorier:
 >[!beslut]
 > RS beslutar
 >
-> att välja [[Tove Verner Carlsson]], [Aleksander Lundqvist](../../personer/Aleksander%20Lundqvist.md), [[Therese de Haan]] och [[Sebastian Bundajev]] till valberedning enligt valutskottets förslag
+> att välja [Tove Verner Carlsson](../../personer/Tove%20Verner-Carlsson.md), [Aleksander Lundqvist](../../personer/Aleksander%20Lundqvist.md), [Therese de Haan](../../personer/Therese%20de%20Haan.md) och [[Sebastian Bundajev]] till valberedning enligt valutskottets förslag
 
 ## §11 Övriga frågor
 

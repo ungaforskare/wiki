@@ -137,7 +137,7 @@ Närvarande: Se bilaga 1
 >
 > att till redaktionsutskott utse [Johan Andréasson](../../personer/Johan%20Andréasson.md).
 
-[[Tobias Lönnell]], [[Eva-Brita Åkerlund]] och [[Erik Bengtsson]] kandiderar till
+[[Tobias Lönnell]], [[Eva-Brita Åkerlund]] och [Erik Bengtsson](../../personer/Erik%20Bengtsson.md) kandiderar till
 redaktionsutskottet.
 
 > [!warning]
@@ -152,7 +152,7 @@ redaktionsutskottet.
 
 ## §7 Fastställande av medlemsavgift för 2006
 
-> [[Robert Henriksson]] föredrar för stämman en matematisk
+> [Robert Henriksson](../../personer/Robert%20Henriksson.md) föredrar för stämman en matematisk
 > funktion för bestämmandet av den medlemsavgift som föreningarna betalar till förbundet.
 
 >[!yrkande]
@@ -197,8 +197,8 @@ redaktionsutskottet.
 
 [Maja Söderkvist](../../personer/Maja%20Söderkvist.md)
 
-[[Robert Henriksson]]
-[[Gabriella Lindén]]
+[Robert Henriksson](../../personer/Robert%20Henriksson.md)
+[Gabriella Lindén](../../personer/Gabriella%20Lindén.md)
 
 *Förslag till nyval till förbundsstyrelsen:*
 
@@ -210,9 +210,9 @@ redaktionsutskottet.
 
 *Förslag på revisorer:*
 
-Auktoriserad: [Magnus Backlund](../../personer/Magnus%20Backlund.md), [[Öhrlings PricewaterhouseCoopers]]
+Auktoriserad: [Magnus Backlund](../../personer/Magnus%20Backlund.md), [Öhrlings PricewaterhouseCoopers](../../organisationer/PWC%20(PricewaterhouseCoopers).md)
 
-Ideell: [Sune Hilstad](../../personer/Sune%20Hilstad.md), [[Ingenjörssamfundet]]
+Ideell: [Sune Hilstad](../../personer/Sune%20Hilstad.md), [Ingenjörssamfundet](../../organisationer/Ingenjörssamfundet.md)
 
 *Förslag på revisorssuppleanter:*
 
@@ -538,7 +538,7 @@ Inflytandepunktens huvudyrkande angående styrelseledamöter
 Inflytandepunktens huvudyrkande angående valberedning:
 
 >[!yrkande]
-> att välja [Hanna Modin](../../personer/Hanna%20Modin.md) (sammankallande), [[Henric Fröberg]], [[Tobias Lönnell]]
+> att välja [Hanna Modin](../../personer/Hanna%20Modin.md) (sammankallande), [Henric Fröberg](../../personer/Henric%20Fröberg.md), [[Tobias Lönnell]]
 > och [Johannes Zeltner Wolff](../../personer/Johannes%20Zeltner%20Wolff.md).
 
 >[!yrkande]

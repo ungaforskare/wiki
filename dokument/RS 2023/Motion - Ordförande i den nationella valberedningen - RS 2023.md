@@ -1,6 +1,6 @@
 ---
 motionärer:
-  - "[[Brendan R. Joseph]]"
+  - "[Brendan R. Joseph](../../personer/Brendan%20R.%20Joseph.md)"
 kategorier:
   - motion
 år: 2023
@@ -41,7 +41,7 @@ Uppsala, den 28 september 2023
 
 ## Motionssvar
 
-Dokumentansvarig: [[Jonathan Jilg]], 2023-10-10
+Dokumentansvarig: [Jonathan Jilg](../../personer/Jonathan%20Jilg.md), 2023-10-10
 
 Vi i [förbundsstyrelsen](../../verksamheter/FS%20(Förbundsstyrelsen).md) har diskuterat förslaget och delar motionärens bild av den stora nyttan av en ordförande i valberedningen för Unga Forskare. Som det framgår av motionen, är valberedningens arbete av stor betydelse för hela Unga Forskare eftersom de valbereder både förbundsstyrelsen samt verksamhetsrevisor och dess suppleant på en mandatperiod på två år. Det är därför viktigt att de har rätt förutsättningar och en tydlig struktur och vi har haft en dialog med sittande valberedning om hur vi kan förbättra detta. Att just införa en uttalad ordförande som väljs under Riksstämman skulle skapa denna tydlighet och vara ett steg i rätt riktning.
 

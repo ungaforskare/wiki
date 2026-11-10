@@ -3,11 +3,11 @@ start: 2014-11-07
 end: 2014-11-09
 mötesordförande:
   - "[Karl Larsson](../../personer/Karl%20Larsson.md)"
-  - "[[Yi-Hua Zhang]]"
+  - "[Yi-Hua Zhang](../../personer/Yi-Hua%20Zhang.md)"
 mötessekreterare:
   - "[[Toomas Liiv]]"
 platser:
-  - "[[Katedralskolan Linköping]]"
+  - "[Katedralskolan Linköping](../../skolor/Katedralskolan%20Linköping.md)"
 orter:
   - "[[Linköping]]"
 justerare:
@@ -17,14 +17,14 @@ rösträknare:
   - "[[Sarah Tovatt]]"
   - "[[Johan Sannemo]]"
 inflytandepunktsansvariga:
-  - "[[Paula Langöe]]"
-  - "[[Tove Ladberg]]"
-  - "[[Katarina Ericsson]]"
+  - "[Paula Langöe](../../personer/Paula%20Langöe.md)"
+  - "[Tove Ladberg](../../personer/Tove%20Ladberg.md)"
+  - "[Katarina Ericsson](../../personer/Katarina%20Ericsson.md)"
   - "[[Toomas Liiv]]"
 redaktionsutskott:
   - "[Karl Larsson](../../personer/Karl%20Larsson.md)"
   - "[[Toomas Liiv]]"
-  - "[[Yi-Hua Zhang]]"
+  - "[Yi-Hua Zhang](../../personer/Yi-Hua%20Zhang.md)"
 kategorier:
   - "[[RS (Riksstämman)|Riksstämman]]"
   - "[[protokoll]]"
@@ -34,7 +34,7 @@ kategorier:
 
 ## §1 Riksstämmans öppnande
 
-> Förbundsordförande [[Diana Diez]] förklarar mötet öppnat.
+> Förbundsordförande [Diana Diez](../../personer/Diana%20Diez.md) förklarar mötet öppnat.
 
 ## §2 Mötesformalia
 
@@ -43,7 +43,7 @@ kategorier:
 >[!beslut]
 > RS beslutar
 >
-> att I välja [Karl Larsson](../../personer/Karl%20Larsson.md) och [[Yi-Hua Zhang]] till mötesordförande
+> att I välja [Karl Larsson](../../personer/Karl%20Larsson.md) och [Yi-Hua Zhang](../../personer/Yi-Hua%20Zhang.md) till mötesordförande
 >
 > att II välja [[Toomas Liiv]] till mötessekreterare
 
@@ -83,7 +83,7 @@ kategorier:
 >[!beslut]
 > RS beslutar
 >
-> att VII utse [[Malin Petersson|Malin Peterson]], [[Jacob Lagerros]], [[Axel Flinth]] och [[Nelly Johansson]] till valutskott med uppdrag att bereda förslag på ny [valberedning](../../verksamheter/Valberedningen.md). Valutskottet presenterar sitt förslag senast söndag 2014-11-09 kl. 09.00
+> att VII utse [Malin Peterson](../../personer/Malin%20Petersson.md), [Jacob Lagerros](../../personer/Jacob%20Lagerros.md), [[Axel Flinth]] och [[Nelly Johansson]] till valutskott med uppdrag att bereda förslag på ny [valberedning](../../verksamheter/Valberedningen.md). Valutskottet presenterar sitt förslag senast söndag 2014-11-09 kl. 09.00
 >
 > att VIII ajournera Riksstämman till lördag 2014-11-08 klockan 09:30
 
@@ -136,9 +136,9 @@ kategorier:
 >[!beslut]
 > RS beslutar
 >
-> att XII välja [[Paula Langöe]], [[Tove Ladberg]], [[Katarina Ericsson]] och [[Toomas Liiv]] till inflytandepunktansvariga
+> att XII välja [Paula Langöe](../../personer/Paula%20Langöe.md), [Tove Ladberg](../../personer/Tove%20Ladberg.md), [Katarina Ericsson](../../personer/Katarina%20Ericsson.md) och [[Toomas Liiv]] till inflytandepunktansvariga
 >
-> att XIII utse [Karl Larsson](../../personer/Karl%20Larsson.md), [[Toomas Liiv]] samt [[Yi-Hua Zhang]] till redaktionsutskott
+> att XIII utse [Karl Larsson](../../personer/Karl%20Larsson.md), [[Toomas Liiv]] samt [Yi-Hua Zhang](../../personer/Yi-Hua%20Zhang.md) till redaktionsutskott
 >
 > att XIV yrkandestopp infaller lördag 2014-11-08 16:10
 >
@@ -388,7 +388,7 @@ kategorier:
 >
 > att 26 "i åsiktsprofilen lägga till
 >
-> Grundforskning och tillämpad forskning skall värderas lika i samhället och unga bör uppmuntras till båda" ([[Gustav Johansson]] och [[Beatrice Bergström]])
+> Grundforskning och tillämpad forskning skall värderas lika i samhället och unga bör uppmuntras till båda" ([Gustav Johansson](../../personer/Gustav%20Johansson.md) och [Beatrice Bergström](../../personer/Beatrice%20Bergström.md))
 >
 > att 22 "anta Förbundet Unga Forskares åsiktsprofil enligt Bilaga 14. Proposition – Åsiktsprofil"
 >
@@ -398,7 +398,7 @@ kategorier:
 >
 > Grundforskning är åtminstone lika viktig som praktiskt inriktad forskning, och bör stödjas och uppmärksammas i samma grad.
 >
-> Bland unga finns utbredda fördomar och missuppfattningar om grundforskningens betydelse och väsen. Många vet inte om att den teoretiska forskningen både är aktiv och fruktbar, att den lagt grunden till några av de senaste årens största framsteg (t.ex. datorn och internet), samt att fält som saknar praktisk tillämpning ofta ändå är oumbärliga för vetenskapen som helhet. Vetenskapen bärs först och främst av nyfikenhet och upptäckarglädje -- inte ekonomi och politik. Kunskap har ett allmänmänskligt egenvärde, som kan uppskattas av alla" ([[Jacob Lagerros]])
+> Bland unga finns utbredda fördomar och missuppfattningar om grundforskningens betydelse och väsen. Många vet inte om att den teoretiska forskningen både är aktiv och fruktbar, att den lagt grunden till några av de senaste årens största framsteg (t.ex. datorn och internet), samt att fält som saknar praktisk tillämpning ofta ändå är oumbärliga för vetenskapen som helhet. Vetenskapen bärs först och främst av nyfikenhet och upptäckarglädje -- inte ekonomi och politik. Kunskap har ett allmänmänskligt egenvärde, som kan uppskattas av alla" ([Jacob Lagerros](../../personer/Jacob%20Lagerros.md))
 >
 > att XLII tilläggsyrkandet att-24 läggs till att-22.
 >
@@ -451,7 +451,7 @@ kategorier:
 > att L häva yrkandestoppet för 8. c).
 
 >[!yrkande]
-> [[Astronomisk Ungdom]] kommer med ett ändringsyrkande på sitt tidigare tilläggsyrkande, att 21.
+> [Astronomisk Ungdom](../../föreningar/Astronomisk%20Ungdom.md) kommer med ett ändringsyrkande på sitt tidigare tilläggsyrkande, att 21.
 >
 > Från:
 >
@@ -507,7 +507,7 @@ kategorier:
 >[!beslut]
 > RS beslutar
 >
-> att LVIII enhälligt välja [[Diana Diez]] till förbundsordförande.
+> att LVIII enhälligt välja [Diana Diez](../../personer/Diana%20Diez.md) till förbundsordförande.
 
 ### §10b Fastställande av styrelsens storlek
 
@@ -525,12 +525,12 @@ kategorier:
 >
 > att LX Välja
 >
-> - [[David Andersson]]
-> - [[Jacob Lagerros]]
-> - [[Jenny Sedhed]]
-> - [[Mikael Ingemyr]]
-> - [[Olle Nordesjö|Olle Nordensjö]]
-> - [[Tove Verner-Carlsson]]
+> - [David Andersson](../../personer/David%20Andersson.md)
+> - [Jacob Lagerros](../../personer/Jacob%20Lagerros.md)
+> - [Jenny Sedhed](../../personer/Jenny%20Sedhed.md)
+> - [Mikael Ingemyr](../../personer/Mikael%20Ingemyr.md)
+> - [Olle Nordensjö](../../personer/Olle%20Nordesjö.md)
+> - [Tove Verner-Carlsson](../../personer/Tove%20Verner-Carlsson.md)
 >
 > till förbundsstyrelseledamöter
 
@@ -539,9 +539,9 @@ kategorier:
 >[!beslut]
 > RS beslutar
 >
-> att LXI välja [[Yi-Hua Zhang]] till ideell verksamhetsrevisor för 2015.
+> att LXI välja [Yi-Hua Zhang](../../personer/Yi-Hua%20Zhang.md) till ideell verksamhetsrevisor för 2015.
 >
-> att LXII välja [[Gunnar Thulberg]] (auktoriserad) till ordinarie revisor.
+> att LXII välja [Gunnar Thulberg](../../personer/Gunnar%20Tullberg.md) (auktoriserad) till ordinarie revisor.
 >
 > att LXIII välja [[Cecilia Luther]] (auktoriserad) till revisorssuppleant.
 
@@ -550,7 +550,7 @@ kategorier:
 >[!beslut]
 > RS beslutar
 >
-> att LXIV välja [[Arwin Sohrabi]], [[Izabella Remmert]], [[Arvid Granroth]] och [[Felix Tellander]] till [valberedning](../../verksamheter/Valberedningen.md).
+> att LXIV välja [[Arwin Sohrabi]], [Izabella Remmert](../../personer/Izabella%20Remmert.md), [[Arvid Granroth]] och [[Felix Tellander]] till [valberedning](../../verksamheter/Valberedningen.md).
 
 ## §11 Övriga frågor
 
@@ -563,7 +563,7 @@ kategorier:
 
 ## §12 Stämmans avslutande
 
-> Den återvalde förbundsordföranden [[Diana Diez]] avslutar Riksstämman 2014 klockan 15:14.
+> Den återvalde förbundsordföranden [Diana Diez](../../personer/Diana%20Diez.md) avslutar Riksstämman 2014 klockan 15:14.
 
 ## BILAGOR TILL PROTOKOLLET
 

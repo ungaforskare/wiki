@@ -8,7 +8,7 @@ namn: Vision
 >[!warning]
 > Bilaga 14 till RS 2015. Riksstämman antog inte något av förslagen nedan, utan en vision som Izabella Remmert och Hera Protopapas-Wettergren föreslog under stämman: "En värld där ungas intresse för naturvetenskap har en självklar plats" (se §7d i [protokollet](Protokoll%20-%20RS%202015.md)).
 
-Dokumentansvarig: [[Mikael Ingemyr]], 7 oktober 2015
+Dokumentansvarig: [Mikael Ingemyr](../../personer/Mikael%20Ingemyr.md), 7 oktober 2015
 
 ## Proposition: Vision
 

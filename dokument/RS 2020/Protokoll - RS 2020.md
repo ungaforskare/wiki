@@ -4,7 +4,7 @@ end: 2020-11-08
 mötesordförande:
   - "[[Max Otterman]]"
 mötessekreterare:
-  - "[[Simon Ljus]]"
+  - "[Simon Ljus](../../personer/Simon%20Ljus.md)"
 platser:
   - "[[Zoom]]"
 orter:
@@ -17,7 +17,7 @@ rösträknare:
 inflytandepunktsansvariga:
 redaktionsutskott:
   - "[[Max Otterman]]"
-  - "[[Simon Ljus]]"
+  - "[Simon Ljus](../../personer/Simon%20Ljus.md)"
 kategorier:
   - "[[RS (Riksstämman)|Riksstämman]]"
   - "[[protokoll]]"
@@ -30,7 +30,7 @@ kategorier:
 
 ## §1 Riksstämmans öppnande
 
-> [[Paula Langöe|Paula Langöe Eliasson]] hälsar alla välkomna
+> [Paula Langöe Eliasson](../../personer/Paula%20Langöe.md) hälsar alla välkomna
 >
 > Medlemsföreningarna presenterar sig
 >
@@ -38,7 +38,7 @@ kategorier:
 >
 > [Förbundsstyrelsen](../../verksamheter/FS%20(Förbundsstyrelsen).md) presenterar sig
 >
-> Förbundsordförande [[Max Vinger]] förklarar mötet öppnat kl. 08:51
+> Förbundsordförande [Max Vinger](../../personer/Max%20Vinger.md) förklarar mötet öppnat kl. 08:51
 
 ## §2 Mötesformalia
 
@@ -51,7 +51,7 @@ kategorier:
 >
 > att 1 välja [[Max Otterman]] till mötesordförande
 >
-> att 2 välja [[Simon Ljus]] till mötessekreterare
+> att 2 välja [Simon Ljus](../../personer/Simon%20Ljus.md) till mötessekreterare
 
 ### §2b Val av två protokolljusterare tillika rösträknare
 
@@ -280,7 +280,7 @@ Anonym1:
 > att 37 lägga till § 7.2.3. "Därtill ska verksamhetsrevisorn till Riksstämman lämna en kortfattad rapport avseende innevarande förbundsstyrelses förvaltning under året och uppföljning av föregående års Riksstämmobeslut."
 
 >[!yrkande]
-> [[Emanuel Enberg]] ([[Alumniföreningen Utställningen Unga Forskare|AUUF]]) föreslår
+> [Emanuel Enberg](../../personer/Emanuel%20Enberg.md) ([AUUF](../../föreningar/Alumniföreningen%20Utställningen%20Unga%20Forskare.md)) föreslår
 >
 > att 38 riva upp yrkandestoppet
 
@@ -324,12 +324,12 @@ Anonym1:
 > att 41 fastställa Unga Forskares strategi för perioden 2021-01-01 till 2025-12-31 enligt bilaga 16. Strategi 2024
 
 >[!yrkande]
-> [[Emanuel Enberg]] ([[Alumniföreningen Utställningen Unga Forskare|AUUF]]) yrkar
+> [Emanuel Enberg](../../personer/Emanuel%20Enberg.md) ([AUUF](../../föreningar/Alumniföreningen%20Utställningen%20Unga%20Forskare.md)) yrkar
 >
 > att 42 ändra bilaga 16. Strategi 2024 Strategiska mål 3.1 till "50 % till 75 % av alla som söker ett ideellt uppdrag har haft ett tidigare uppdrag inom Unga Forskare"
 
 >[!yrkande]
-> [[Jonna Halonen]] ([[Alumniföreningen Utställningen Unga Forskare|AUUF]]) yrkade (dragit tillbaka sitt yrkande)
+> [Jonna Halonen](../../personer/Jonna%20Halonen.md) ([AUUF](../../föreningar/Alumniföreningen%20Utställningen%20Unga%20Forskare.md)) yrkade (dragit tillbaka sitt yrkande)
 >
 > att 43 ändra bilaga 16. Strategi 2024 Strategiska mål 3.1 till "minst 50 % av alla som söker ett ideellt uppdrag har haft ett tidigare uppdrag inom Unga Forskare"
 
@@ -369,7 +369,7 @@ Anonym1:
 >
 > att 46 fastställa styrelsens storlek till åtta (8) personer
 >
-> att 47 fyllnadsvälja [[Fabian Hasselblad]], [[Marina Peltonen]] och [[Mattias Akke]] till ledamöter i [förbundsstyrelsen](../../verksamheter/FS%20(Förbundsstyrelsen).md) 2020-2021
+> att 47 fyllnadsvälja [[Fabian Hasselblad]], [Marina Peltonen](../../personer/Marina%20Peltonen.md) och [Mattias Akke](../../personer/Mattias%20Akke.md) till ledamöter i [förbundsstyrelsen](../../verksamheter/FS%20(Förbundsstyrelsen).md) 2020-2021
 
 ### §9b Val av revisorer perioden 2021-2022
 
@@ -378,11 +378,11 @@ Anonym1:
 >[!beslut]
 > RS beslutar
 >
-> att 48 fastställa [[PwC|PricewaterhouseCoopers (PwC)]] som revisionsbyrå för verksamhetsåren 2021-2022
+> att 48 fastställa [PricewaterhouseCoopers (PwC)](../../organisationer/PWC%20(PricewaterhouseCoopers).md) som revisionsbyrå för verksamhetsåren 2021-2022
 >
-> att 49 välja [[Emma Petersson]] till ordinarie ideell verksamhetsrevisor för verksamhetsåren 2021-2022
+> att 49 välja [Emma Petersson](../../personer/Emma%20Petersson.md) till ordinarie ideell verksamhetsrevisor för verksamhetsåren 2021-2022
 >
-> att 50 välja [[Ellen Hammarstedt]] till personlig suppleant till den ideella verksamhetsrevisorn för verksamhetsåren 2021-2022
+> att 50 välja [Ellen Hammarstedt](../../personer/Ellen%20Hammarstedt.md) till personlig suppleant till den ideella verksamhetsrevisorn för verksamhetsåren 2021-2022
 
 ### §9c Val av valberedning 2021-2022
 
@@ -405,11 +405,11 @@ Anonym1:
 
 ## §11 Utdelning av utmärkelser (Förbundsstyrelsen)
 
-> [[Kodsport Sverige]] utses till årets förening 2020
+> [Kodsport Sverige](../../föreningar/Kodsport%20Sverige.md) utses till årets förening 2020
 
 ## §12 Riksstämmans avslutande (Max Vinger)
 
-> Förbundsordförande [[Max Vinger]] avslutar Riksstämman 2020 kl. 12:08
+> Förbundsordförande [Max Vinger](../../personer/Max%20Vinger.md) avslutar Riksstämman 2020 kl. 12:08
 
 ## BILAGOR TILL PROTOKOLLET
 

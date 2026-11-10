@@ -8,7 +8,7 @@ namn: Ordförande i valberedningen
 <!-- Bilaga D12 till RS 2024 (Proposition — Ordförande i valberedningen, dokumentansvariga Förbundsstyrelsen, 2024-10-06, rev "Slutgiltig"). "utöver strukturella respekt", "föreslå att om att-sats 1 till 5 gillas", "sammankallade" och "att-satt 1-6" står så i källan. -->
 
 >[!warning]
-> Riksstämman beslutade enligt förslaget och direktjusterade ändringarna (att 47–53, se §6i i [protokollet](Protokoll%20-%20RS%202024.md)), och valde därefter [[Lukas Lundgren]] till ordförande i valberedningen (att 58). Att 2–4 lägger till underparagrafer numrerade "§ 3.1.1"–"§ 3.1.3" under den nya § 3.2; så står det också i den nya formuleringen i pdf:en. Frågan väcktes som motion på RS 2023, se [Motion - Ordförande i den nationella valberedningen - RS 2023](../RS%202023/Motion%20-%20Ordförande%20i%20den%20nationella%20valberedningen%20-%20RS%202023.md).
+> Riksstämman beslutade enligt förslaget och direktjusterade ändringarna (att 47–53, se §6i i [protokollet](Protokoll%20-%20RS%202024.md)), och valde därefter [Lukas Lundgren](../../personer/Lukas%20Lundgren.md) till ordförande i valberedningen (att 58). Att 2–4 lägger till underparagrafer numrerade "§ 3.1.1"–"§ 3.1.3" under den nya § 3.2; så står det också i den nya formuleringen i pdf:en. Frågan väcktes som motion på RS 2023, se [Motion - Ordförande i den nationella valberedningen - RS 2023](../RS%202023/Motion%20-%20Ordförande%20i%20den%20nationella%20valberedningen%20-%20RS%202023.md).
 
 Dokumentansvariga: [Förbundsstyrelsen](../../verksamheter/FS%20(Förbundsstyrelsen).md), 2024-10-06
 

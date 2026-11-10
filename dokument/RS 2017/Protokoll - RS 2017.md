@@ -3,26 +3,26 @@ start: 2017-10-20
 end: 2017-10-22
 mötesordförande:
   - "[Karl Larsson](../../personer/Karl%20Larsson.md)"
-  - "[[Yi-Hua Zhang]]"
+  - "[Yi-Hua Zhang](../../personer/Yi-Hua%20Zhang.md)"
 mötessekreterare:
-  - "[[Izabella Remmert]]"
+  - "[Izabella Remmert](../../personer/Izabella%20Remmert.md)"
 platser:
   - "[[Fyrisskolan]]"
 orter:
   - "[[Uppsala]]"
 justerare:
   - "[[William Laius Lundgren]]"
-  - "[[Jonathan Jilg]]"
+  - "[Jonathan Jilg](../../personer/Jonathan%20Jilg.md)"
 rösträknare:
   - "[[William Laius Lundgren]]"
-  - "[[Jonathan Jilg]]"
+  - "[Jonathan Jilg](../../personer/Jonathan%20Jilg.md)"
 inflytandepunktsansvariga:
-  - "[[Mats Hallström]]"
-  - "[[Mikael Ingemyr]]"
-  - "[[Linnea Suomenniemi]]"
+  - "[Mats Hallström](../../personer/Mats%20Hallström.md)"
+  - "[Mikael Ingemyr](../../personer/Mikael%20Ingemyr.md)"
+  - "[Linnea Suomenniemi](../../personer/Linnea%20Suomenniemi.md)"
 redaktionsutskott:
   - "[Karl Larsson](../../personer/Karl%20Larsson.md)"
-  - "[[Izabella Remmert]]"
+  - "[Izabella Remmert](../../personer/Izabella%20Remmert.md)"
 kategorier:
   - "[[RS (Riksstämman)|Riksstämman]]"
   - "[[protokoll]]"
@@ -78,13 +78,13 @@ kategorier:
 
 ## §1 Riksstämmans öppnande (Mikael Ingemyr)
 
-> Förbundsordförande [[Mikael Ingemyr]] förklarar mötet öppnat klockan 20.25.
+> Förbundsordförande [Mikael Ingemyr](../../personer/Mikael%20Ingemyr.md) förklarar mötet öppnat klockan 20.25.
 
 ## §2 Mötesformalia
 
 ### §2a Val av mötespresidium (Mikael Ingemyr)
 
-> [Valberedningen](../../verksamheter/Valberedningen.md) föreslår Riksstämman välja [Karl Larsson](../../personer/Karl%20Larsson.md) till mötesordförande, [[Yi-Hua Zhang]] till vice mötesordförande, samt [[Izabella Remmert]] till mötessekreterare.
+> [Valberedningen](../../verksamheter/Valberedningen.md) föreslår Riksstämman välja [Karl Larsson](../../personer/Karl%20Larsson.md) till mötesordförande, [Yi-Hua Zhang](../../personer/Yi-Hua%20Zhang.md) till vice mötesordförande, samt [Izabella Remmert](../../personer/Izabella%20Remmert.md) till mötessekreterare.
 
 Bilaga 1. Valberedningens förslag till mötespresidium.
 
@@ -93,9 +93,9 @@ Bilaga 1. Valberedningens förslag till mötespresidium.
 >
 > att 1 välja [Karl Larsson](../../personer/Karl%20Larsson.md) till mötesordförande,
 >
-> att 2 välja [[Yi-Hua Zhang]] till vice mötesordförande, samt
+> att 2 välja [Yi-Hua Zhang](../../personer/Yi-Hua%20Zhang.md) till vice mötesordförande, samt
 >
-> att 3 välja [[Izabella Remmert]] till mötessekreterare
+> att 3 välja [Izabella Remmert](../../personer/Izabella%20Remmert.md) till mötessekreterare
 
 ### §2b Val av två protokolljusterare tillika rösträknare (Mötesordförande)
 
@@ -104,7 +104,7 @@ Bilaga 1. Valberedningens förslag till mötespresidium.
 >[!beslut]
 > RS beslutar
 >
-> att 4 välja [[William Laius Lundgren]] och [[Jonathan Jilg]] till protokolljusterare tillika rösträknare.
+> att 4 välja [[William Laius Lundgren]] och [Jonathan Jilg](../../personer/Jonathan%20Jilg.md) till protokolljusterare tillika rösträknare.
 
 ### §2c Beslut om mötets stadgeenliga utlysande (Mötesordförande)
 
@@ -202,7 +202,7 @@ Bilaga 2. Röstlängd.
 >[!beslut]
 > RS beslutar
 >
-> att 8 utse [[Emma Svedenblad]], [[Caroline Schagerholm]] och [[Klara Carlström]] till valutskott med uppdrag att bereda förslag till valberedning 2018.
+> att 8 utse [[Emma Svedenblad]], [Caroline Schagerholm](../../personer/Caroline%20Schagerholm.md) och [[Klara Carlström]] till valutskott med uppdrag att bereda förslag till valberedning 2018.
 
 > Valutskottet ska presentera sitt förslag för mötespresidiet senast söndag 2017-10-22 klockan 09:00.
 
@@ -245,7 +245,7 @@ Förslag till uppdelning av ärenden i inflytandepunkter:
 >
 > att 10 fastslå följande inflytandepunkter: Det gångna året, Det innevarande året, samt Det kommande året, enligt ovan.
 >
-> att 11 välja [[Mats Hallström]], [[Mikael Ingemyr]] och [[Linnea Suomenniemi]] till inflytandepunktansvariga för respektive punkt.
+> att 11 välja [Mats Hallström](../../personer/Mats%20Hallström.md), [Mikael Ingemyr](../../personer/Mikael%20Ingemyr.md) och [Linnea Suomenniemi](../../personer/Linnea%20Suomenniemi.md) till inflytandepunktansvariga för respektive punkt.
 >
 > att 12 utse mötesordförande och mötessekreterare till redaktionsutskott.
 >
@@ -466,7 +466,7 @@ Bilaga 16. Kandidaturer bakom valberedningens förslag till förtroendeposter
 >[!beslut]
 > RS beslutar
 >
-> att 45 välja [[Linnea Suomenniemi]] till förbundsordförande för mandatperioden 2018-2019.
+> att 45 välja [Linnea Suomenniemi](../../personer/Linnea%20Suomenniemi.md) till förbundsordförande för mandatperioden 2018-2019.
 
 > Riksstämman ajournerades och återupptogs kl 11:58. Röstlängden justerades till 34 ombud.
 
@@ -492,12 +492,12 @@ Bilaga 16. Kandidaturer bakom valberedningens förslag till förtroendeposter
 >
 > att 47 välja
 >
-> - [[Mats Hallström]],
-> - [[Neda Farhand]],
-> - [[Max Vinger]],
-> - [[Måns Holmberg]],
+> - [Mats Hallström](../../personer/Mats%20Hallström.md),
+> - [Neda Farhand](../../personer/Neda%20Farhand.md),
+> - [Max Vinger](../../personer/Max%20Vinger.md),
+> - [Måns Holmberg](../../personer/Måns%20Holmberg.md),
 > - [[Jennifer Andersson]], samt
-> - [[Ellinor Lindqvist]]
+> - [Ellinor Lindqvist](../../personer/Ellinor%20Lindqvist.md)
 >
 > till ledamöter i förbundsstyrelsen 2018-2019.
 
@@ -512,7 +512,7 @@ Bilaga 16. Kandidaturer bakom valberedningens förslag till förtroendeposter
 >[!beslut]
 > RS beslutar
 >
-> att 48 välja [[Izabella Remmert]] till ordinarie ideell verksamhetsrevisor för verksamhetsåret 2018.
+> att 48 välja [Izabella Remmert](../../personer/Izabella%20Remmert.md) till ordinarie ideell verksamhetsrevisor för verksamhetsåret 2018.
 >
 > att 49 välja [[William Laius Lundgren]] till personlig suppleant till den ideella verksamhetsrevisorn för verksamhetsåret 2018
 
@@ -525,16 +525,16 @@ Bilaga 16. Kandidaturer bakom valberedningens förslag till förtroendeposter
 >[!beslut]
 > RS beslutar
 >
-> att 50 välja [[Gunnar Tullberg]], auktoriserad revisor ([[PwC|PWC]]), till ordinarie ekonomisk revisor för räkenskapsåret 2018.
+> att 50 välja [Gunnar Tullberg](../../personer/Gunnar%20Tullberg.md), auktoriserad revisor ([PWC](../../organisationer/PWC%20(PricewaterhouseCoopers).md)), till ordinarie ekonomisk revisor för räkenskapsåret 2018.
 >
-> att 51 välja [[Lydia Kidane]], auktoriserad revisor ([[PwC|PWC]]), till personlig suppleant till den ekonomiska revisorn för räkenskapsåret 2018.
+> att 51 välja [[Lydia Kidane]], auktoriserad revisor ([PWC](../../organisationer/PWC%20(PricewaterhouseCoopers).md)), till personlig suppleant till den ekonomiska revisorn för räkenskapsåret 2018.
 
 ### §8f Val av valberedning 2018 (Valutskottet)
 
 >[!beslut]
 > RS beslutar
 >
-> att 52 välja [[David Andersson]] (sammankallande), [[Julia Reinius]], [[Alma Dannäs]] och [[Mikael Ingemyr]] till [valberedning](../../verksamheter/Valberedningen.md) för perioden 2018.
+> att 52 välja [David Andersson](../../personer/David%20Andersson.md) (sammankallande), [Julia Reinius](../../personer/Julia%20Reinius.md), [Alma Dannäs](../../personer/Alma%20Dannäs.md) och [Mikael Ingemyr](../../personer/Mikael%20Ingemyr.md) till [valberedning](../../verksamheter/Valberedningen.md) för perioden 2018.
 
 ## §9 Övriga frågor
 
@@ -558,9 +558,9 @@ Bilaga 16. Kandidaturer bakom valberedningens förslag till förtroendeposter
 
 ## §10 Stämmans avslutande (Förbundsordföranden)
 
-> Den nyvalde förbundsordföranden [[Linnea Suomenniemi]] avslutar Riksstämman 2017 klockan 13.49.
+> Den nyvalde förbundsordföranden [Linnea Suomenniemi](../../personer/Linnea%20Suomenniemi.md) avslutar Riksstämman 2017 klockan 13.49.
 >
-> Efter avslutandet tillkännager det verkställande utskottet att [[Caroline Schagerholm]], [[Mikael Ingemyr]], [[Emil Kling]] samt [[Emma Svedenblad]] utsetts till [Hedersmedlemmar](../../verksamheter/Hedersmedlemmar.md) i Unga Forskare, och får så ta emot ett plakat samt förbundets guldmedalj av den nyvalde förbundsordföranden.
+> Efter avslutandet tillkännager det verkställande utskottet att [Caroline Schagerholm](../../personer/Caroline%20Schagerholm.md), [Mikael Ingemyr](../../personer/Mikael%20Ingemyr.md), [Emil Kling](../../personer/Emil%20Kling.md) samt [[Emma Svedenblad]] utsetts till [Hedersmedlemmar](../../verksamheter/Hedersmedlemmar.md) i Unga Forskare, och får så ta emot ett plakat samt förbundets guldmedalj av den nyvalde förbundsordföranden.
 
 ## BILAGOR TILL PROTOKOLLET
 

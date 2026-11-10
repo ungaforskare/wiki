@@ -4,613 +4,589 @@ end: 2002-03-24
 mötesordförande:
   - "[[Gunnar Hagqvist]]"
 mötessekreterare:
-  - "[[Tobias Bladini]]"
+  - "[Tobias Bladini](../../personer/Tobias%20Bladini.md)"
 platser:
   - "[[Vasaskolan]]"
 orter:
   - "[[Skövde]]"
 justerare:
   - "[[Margareta Palmgren]]"
-  - "[[Camilla Westrén]]"
+  - "[[Camilla Westrin]]"
 rösträknare:
   - "[[Margareta Palmgren]]"
-  - "[[Camilla Westrén]]"
+  - "[[Camilla Westrin]]"
 inflytandepunktsansvariga:
   - "[[Per Wallén]]"
-  - "[[Lage Rahm]]"
+  - "[Lage Rahm](../../personer/Lage%20Rahm.md)"
   - "[[Gunnar Hagqvist]]"
-  - "[[Tobias Bladini]]"
+  - "[Tobias Bladini](../../personer/Tobias%20Bladini.md)"
 redaktionsutskott:
+  - "[[Per Wallén]]"
+  - "[Lage Rahm](../../personer/Lage%20Rahm.md)"
+  - "[[Gunnar Hagqvist]]"
+  - "[Tobias Bladini](../../personer/Tobias%20Bladini.md)"
+  - "[Kristofer Hallén](../../personer/Kristofer%20Hallén.md)"
 kategorier:
   - "[[RS (Riksstämman)|Riksstämman]]"
   - "[[protokoll]]"
 ---
 
-## § 1 Stämmans öppnande
+<!-- Källan anger tid 23 mars 2002 till 24 mars 2002. Sidhuvudet på varje sida lyder felaktigt "Förbundet Unga Forskares Riksstämma 2001". Signaturblocken (initialer på varje sida, namnteckningar på sista sidan) är borttagna. -->
 
-Förbundsordförande [Kristofer Hallén](../../personer/Kristofer%20Hallén.md) hälsar alla välkomna och förklarar
-Förbundet Unga Forskares Riksstämma 2002 öppnad.
+## §1 Stämmans öppnande
 
-## § 2 Val av mötesordförande och mötessekreterare
+> Förbundsordförande [Kristofer Hallén](../../personer/Kristofer%20Hallén.md) hälsar alla välkomna och förklarar Förbundet Unga Forskares Riksstämma 2002 öppnad.
 
->[!beslut]+
->RS beslutar
->att till ordförande för stämman välja [[Gunnar Hagqvist]].
->att till sekreterare för stämman välja [Tobias Bladini](../../personer/Tobias%20Bladini.md).
+## §2 Val av mötesordförande och mötessekreterare
 
-## § 3 Val av tvá justerare, tillika rösträknare
-
->[!beslut]+
->RS beslutar
+>[!beslut]
+> RS beslutar
 >
->Att till justerare, tillika rösträknare, välja [[Margareta Palmgren]] och [[Camilla Westrin]].
-
-## § 4 Fråga om stämman är stadgeenligt kallad
-
->[!beslut]+
->RS beslutar
+> att till ordförande för stämman välja [[Gunnar Hagqvist]].
 >
->Att stämman anser sig behörigen sammankallad.
+> att till sekreterare för stämman välja [Tobias Bladini](../../personer/Tobias%20Bladini.md).
 
-## § 5 Justering av röstlängden
+## §3 Val av två justerare, tillika rösträknare
 
->[!beslut]+
->RS beslutar
+>[!beslut]
+> RS beslutar
 >
->Att justera röstlängden enligt bilaga 11.
+> att till justerare, tillika rösträknare, välja [[Margareta Palmgren]] och [[Camilla Westrin]].
 
-## § 6 Fastställande av arbetsformer och inflytandepunkter. Val av inflytandepunktsansvariga och redaktionsutskott. Fastställande av föredragningslistan
+## §4 Fråga om stämman är stadgeenligt kallad
 
-[[Gunnar Hagqvist]] informerar om påverkanstorg och svarar på frågor.
-[Lisa Hagqvist](../../personer/Lisa%20Hagqvist.md) informerar om varför FS lagt som förslag att RS ska använda sig av paverkanstorg.
-
->[!yrkande]+
->[[Stefan Barth]] yrkar
+>[!beslut]
+> RS beslutar
 >
->att RS ska ha möjlighet att ha fortsatt traditionellt plenum vare sig det blir ett paverkanstorg eller ej.
+> att stämman anser sig behörigen sammankallad.
 
->[!yrkande]+
->[Martin Lennartsson](../../personer/Martin%20Lennartsson.md) yrkar
+## §5 Justering av röstlängden
+
+>[!beslut]
+> RS beslutar
 >
->att avslå ursprungsförslaget om att använda paverkanstorg
+> att justera röstlängden enligt bilaga 11.
 
->[!beslut]+
->RS beslutar
->att anta förslag till arbetsformer för Påverkanstorg och inflytandepunkter under riksstämman år 2002
+## §6 Fastställande av arbetsformer och inflytandepunkter. Val av inflytandepunktsansvariga och redaktionsutskott. Fastställande av föredragningslistan
 
->[!beslut]+
->RS beslutar
+> [[Gunnar Hagqvist]] informerar om påverkanstorg och svarar på frågor.
 >
->Att avslå [[Stefan Barth]]s förslag.
->
->Följande personer väljer att reservera sig mot beslutet:
-[[Stefan Barth]] från [[Gotlands Unga Forskare]]
-> [Martin Lennartsson](../../personer/Martin%20Lennartsson.md) från [UFÖS](../../distrikt/UFÖS%20(Unga%20Forskare%20Östergötland%20Småland).md),
-> [[Erik Druid]] från [UFS](../../distrikt/UFS%20(Unga%20Forskare%20Stockholm).md)
+> [Lisa Hagqvist](../../personer/Lisa%20Hagqvist.md) informerar om varför [FS](../../verksamheter/FS%20(Förbundsstyrelsen).md) lagt som förslag att RS ska använda sig av påverkanstorg.
 
->[!beslut]+
->RS beslutar
+>[!yrkande]
+> [[Stefan Barth]] yrkar
 >
->Att avslå förslaget om att observatörer ska fä lägga yrkanden pả påverkanstorget.
+> att RS ska ha möjlighet att ha fortsatt traditionellt plenum vare sig det blir ett påverkanstorg eller ej.
 
-[Lisa Hagqvist](../../personer/Lisa%20Hagqvist.md) och [Hanna Modin](../../personer/Hanna%20Modin.md) informerar om tillvägagångssätt för påverkanstorg.
+>[!yrkande]
+> [Martin Lennartsson](../../personer/Martin%20Lennartsson.md) yrkar
+>
+> att avslå ursprungsförslaget om att använda påverkanstorg.
+
+>[!beslut]
+> RS beslutar
+>
+> att anta förslag till arbetsformer för Påverkanstorg och inflytandepunkter under riksstämman år 2002.
+
+>[!beslut]
+> RS beslutar
+>
+> att avslå [[Stefan Barth|Stefan Barts]] förslag. <!-- Källan stavar här "Barts", ovan "Barth". -->
+
+>[!reservation]
+> Följande personer väljer att reservera sig mot beslutet:
+>
+> [[Stefan Barth]] från [[Gislaveds Unga Forskare|GUF]], [Martin Lennartsson](../../personer/Martin%20Lennartsson.md) från [UFÖS](../../distrikt/UFÖS%20(Unga%20Forskare%20Östergötland%20Småland).md), [[Erik Druid]] från [UFS](../../distrikt/UFS%20(Unga%20Forskare%20Stockholm).md) <!-- GUF tolkat som Gislaveds Unga Forskare, som Stefan Bart är ombud för enligt närvarolistan. -->
+
+>[!beslut]
+> RS beslutar
+>
+> att avslå förslaget om att observatörer ska få lägga yrkanden på påverkanstorget.
+
+> [Lisa Hagqvist](../../personer/Lisa%20Hagqvist.md) och [Hanna Modin](../../personer/Hanna%20Modin.md) informerar om tillvägagångssätt för påverkanstorg.
 
 ### Fastställande av inflytandepunkter
 
-Förbundsstyrelsen förelägger stämman följande förslag till inflytandepunkter och inflytandepunktsansvariga:
+> Förbundsstyrelsen förelägger stämman följande förslag till inflytandepunkter och inflytandepunktsansvariga:
 
-- Verksamhet: [[Per Wallén]]
-- Ekonomi: [Lage Rahm](../../personer/Lage%20Rahm.md)
-- Idémanifest: [[Gunnar Hagqvist]]
-- Valberedning: [Tobias Bladini](../../personer/Tobias%20Bladini.md)
-- Övriga frågor: [Tobias Bladini](../../personer/Tobias%20Bladini.md)
+| Punkt | Ansvarig |
+|---|---|
+| Verksamhet | [[Per Wallén]] |
+| Ekonomi | [Lage Rahm](../../personer/Lage%20Rahm.md) |
+| Idémanifest | [[Gunnar Hagqvist]] |
+| Valberedning | [Tobias Bladini](../../personer/Tobias%20Bladini.md) |
+| Övriga frågor | [Tobias Bladini](../../personer/Tobias%20Bladini.md) |
 
->[!beslut]+
->RS beslutar
+<!-- OCR: "inflytrandepunkter" i rubriken. -->
+
+>[!beslut]
+> RS beslutar
 >
->Att anta förslaget om inflytandepunkter.
+> att anta förslaget om inflytandepunkter.
 
->[!beslut]+
->RS beslutar
+>[!beslut]
+> RS beslutar
 >
-Att anta förslaget om inflytandepunktsansvariga.
+> att anta förslaget om inflytandepunktsansvariga.
 
 ### Fastställande av redaktionsutskott
 
->[!forslag]+
-Förbundsstyrelsen föreslår stämman
->Att till redaktionsutskottet utse [[Per Wallén]], [Lage Rahm](../../personer/Lage%20Rahm.md), [[Gunnar Hagqvist]], [Tobias Bladini](../../personer/Tobias%20Bladini.md) och [Kristofer Hallén](../../personer/Kristofer%20Hallén.md).
-
->[!beslut]+
->RS beslutar
+>[!yrkande]
+> Förbundsstyrelsen föreslår stämman
 >
->Att till redaktionsutskottet utse ovanstående personer.
+> att till redaktionsutskottet utse [[Per Wallén]], [Lage Rahm](../../personer/Lage%20Rahm.md), [[Gunnar Hagqvist]], [Tobias Bladini](../../personer/Tobias%20Bladini.md) och [Kristofer Hallén](../../personer/Kristofer%20Hallén.md). <!-- Källan stavar "Kristoffer Hallén". -->
+
+>[!beslut]
+> RS beslutar
+>
+> att till redaktionsutskottet utse ovanstående personer.
 
 ### Fastställande av föredragningslistan
 
->[!yrkande]+
->[[Martin Olsson yrkar på
->Att ändra i § 13 från "21 december" till "31 december".
-
->[!yrkande]+
->[Johan Andréasson](../../personer/Johan%20Andréasson.md) yrkar på
+>[!yrkande]
+> [Martin Olsson](../../personer/Martin%20Olsson.md) yrkar på
 >
->Att ändra i § 7 från "förbundsstämmans" till "Riksstämmans".
+> att ändra i § 13 från "21 december" till "31 december".
 
->[!yrkande]+
-[Lisa Hagqvist](../../personer/Lisa%20Hagqvist.md) yrkar på
+>[!yrkande]
+> [Johan Andréasson](../../personer/Johan%20Andréasson.md) yrkar på
 >
->Att ändra i § 20 frän "Motioner" till "Motioner och rapport frän Riksstämman 2001 angående idémanifest".
+> att ändra i § 7 från "förbundsstämmans" till "Riksstämmans".
 
->[!beslut]+
->RS beslutar
+>[!yrkande]
+> [Lisa Hagqvist](../../personer/Lisa%20Hagqvist.md) yrkar på
 >
->Att anta dagordningen med ovan nämnda yrkanden.
+> att ändra i § 20 från "Motioner" till "Motioner och rapport från Riksstämman 2001 angående idémanifest".
 
-## § 7 Antagande av mötesregler för riksstämmans pleniförhandlingar. Information om påverkanstorget
-
->[!beslut]+
->RS beslutar
+>[!beslut]
+> RS beslutar
 >
-Att anta förslaget om mötesregler för riksstämman.
+> att anta dagordningen med ovan nämnda yrkanden.
+
+## §7 Antagande av mötesregler för riksstämmans pleniförhandlingar. Information om påverkanstorget
+
+>[!beslut]
+> RS beslutar
+>
+> att anta förslaget om mötesregler för riksstämman.
 
 ## §8 Valberedningen har ordet
 
-[Martin Lennartsson](../../personer/Martin%20Lennartsson.md) föredrar valberedningens förslag.
+> [Martin Lennartsson](../../personer/Martin%20Lennartsson.md) föredrar [valberedningens](../../verksamheter/Valberedningen.md) förslag.
 
-## $9 Presentation av verksamhetsplan
+## §9 Presentation av verksamhetsplan
 
-[Linda Svenson](../../personer/Linda%20Svenson.md) föredrar FS förslag pa verksamhetsplan.
+> [Linda Svenson](../../personer/Linda%20Svenson.md) föredrar [FS](../../verksamheter/FS%20(Förbundsstyrelsen).md) förslag på verksamhetsplan.
+>
+> Mötet ajourneras från klockan 12.00 till 10.00 nästkommande dag.
 
-Mötet ajourneras från klockan 12.00 till 10.00 nästkommande dag.
+## §10 Styrelsens verksamhetsberättelse för FUF 2001
 
-## § 10 Styrelsens verksamhetsberättelse för FUF 2001
-
-Verksamhetsberättelsen för FUF 2001 har under stämman varit presenterade via utställningsskärmar i enlighet med det material som sänts ut med stämmohandlingarna.
+> Verksamhetsberättelsen för FUF 2001 har under stämman varit presenterade via utställningsskärmar i enlighet med det material som sänts ut med stämmohandlingarna.
 
 Inflytandepunktens huvudyrkande angående verksamhetsberättelse:
 
-### 10A
+>[!yrkande]
+> 10A att lägga verksamhetsberättelsen för FUF 2001 till handlingarna.
 
->[!yrkande]+
->Att lägga verksamhetsberättelsen för FUF 2001 till handlingarna.
+>[!yrkande]
+> 10B att det i verksamhetsberättelsen under rubriken "Förbundet Unga Forskares bidragsgivare 2001" läggs till att "Uddevalla kommun och Parker Hannifin sponsrade Riksstämman 2001".
 
-### 10B
-
->[!yrkande]+
->Att det i verksamhetsberättelsen under rubriken "Förbundet Unga Forskares bidragsgivare 2001" läggs till att "Uddevalla kommun och Parker Hannifin sponsrade Riksstämman 2001".
-
->[!beslut]+
->RS beslutar
+>[!beslut]
+> RS beslutar
 >
-Att bifalla 10A
-
->[!beslut]+
->Att bifalla 10B
+> att bifalla 10A
+>
+> att bifalla 10B
 
 ## §11 Resultaträkning för FUF 2001
 
 Inflytandepunktens huvudyrkande angående resultaträkning:
 
->[!yrkande]+
->Att lägga resultaträkning för FUF 2001 till handlingarna.
+>[!yrkande]
+> att lägga resultaträkning för FUF 2001 till handlingarna.
 
->[!beslut]+
->RS beslutar
+>[!beslut]
+> RS beslutar
 >
-> Att bifalla ovanstående yrkande
+> att bifalla ovanstående yrkande
 
-## § 12 Revisorernas berättelse för FUF 2001
+## §12 Revisorernas berättelse för FUF 2001
 
 Inflytandepunktens huvudyrkande angående revisorernas berättelse:
 
->[!yrkande]+
->Att lägga revisorernas berättelse för FUF 2001 till handlingarna.
+>[!yrkande]
+> att lägga revisorernas berättelse för FUF 2001 till handlingarna.
 
->[!beslut]+
->RS beslutar
+>[!beslut]
+> RS beslutar
 >
-> Att bifalla ovanstående yrkande
+> att bifalla ovanstående yrkande
 
-## § 13 Fastställande av balansräkning per 31 december 2001 för FUF
+## §13 Fastställande av balansräkning per 31 december 2001 för FUF
 
 Inflytandepunktens huvudyrkande angående balansräkningen:
->[!yrkande]+
->Att fastställa balansräkning per 31 december 2001 för FUF.
 
->[!beslut]+
+>[!yrkande]
+> att fastställa balansräkning per 31 december 2001 för FUF.
+
+>[!beslut]
 > RS beslutar
-> 
-> Att bifalla ovanstående yrkande
+>
+> att bifalla ovanstående yrkande
 
-## § 14 Styrelsens verksamhetsberättelse för GCB 2001
+## §14 Styrelsens verksamhetsberättelse för GCB 2001
 
-Inflytandepunktens huvudyrkande angående verksamhetsberättelse för GCB
-2001:
+Inflytandepunktens huvudyrkande angående verksamhetsberättelse för [GCB](../../verksamheter/GCB%20(Gundel%20Cornelia%20Babs%20stipendiefond).md) 2001:
 
->[!yrkande]+
->Att lägga verksamhetsberättelsen för GCB 2001 till handlingarna.
+>[!yrkande]
+> att lägga verksamhetsberättelsen för GCB 2001 till handlingarna.
 
->[!beslut]+
+>[!beslut]
 > RS beslutar
-> 
-> Att bifalla ovanstående yrkande
-
-## § 15 Resultaträkning och balansräkning för GCB 2001
-
-Inflytandepunktens huvudyrkande angående resultaträkning och balansräkning för GCB 2001:
-
->[!yrkande]+
->Att lägga resultaträkning och balansräkning för GCB 2001 till handlingarna.
-
->[!beslut]+
->RS beslutar
 >
-Att bifalla ovanstående yrkande
+> att bifalla ovanstående yrkande
 
-## § 16 Revisorernas berättelse för GCB 2001
+## §15 Resultaträkning och balansräkning för GCB 2001
 
-Inflytandepunktens huvudyrkande angående revisorernas berättelse för GCB
-2001:
+Inflytandepunktens huvudyrkande angående resultaträkning och balansräkning för [GCB](../../verksamheter/GCB%20(Gundel%20Cornelia%20Babs%20stipendiefond).md) 2001:
 
->[!yrkande]+
->Att lägga
-> revisorernas berättelse för GCB 2001till handlingarna.
+>[!yrkande]
+> att lägga resultaträkning och balansräkning för GCB 2001 till handlingarna.
 
->[!beslut]+
->RS beslutar
+>[!beslut]
+> RS beslutar
 >
-Att bifalla ovanstående yrkande
+> att bifalla ovanstående yrkande
 
-## § 17 Fastställande av balansräkning per 31 december 2001 för GCB
+## §16 Revisorernas berättelse för GCB 2001
 
-Inflytandepunktens huvudyrkande angående balansräkning per 31 december 2001 för GCB:
+Inflytandepunktens huvudyrkande angående revisorernas berättelse för [GCB](../../verksamheter/GCB%20(Gundel%20Cornelia%20Babs%20stipendiefond).md) 2001:
 
->[!yrkande]+
->Att balansräkning per 31 december 2001 för GCB fastställs.
+>[!yrkande]
+> att lägga revisorernas berättelse för GCB 2001 till handlingarna.
 
->[!beslut]+
->RS beslutar
-> Att bifalla ovanstående yrkande
+>[!beslut]
+> RS beslutar
+>
+> att bifalla ovanstående yrkande
 
-## § 18 Fråga om ansvarsfrihet för förbundsstyrelsen
+## §17 Fastställande av balansräkning per 31 december 2001 för GCB
+
+Inflytandepunktens huvudyrkande angående balansräkning per 31 december 2001 för [GCB](../../verksamheter/GCB%20(Gundel%20Cornelia%20Babs%20stipendiefond).md):
+
+>[!yrkande]
+> att balansräkning per 31 december 2001 för GCB fastställs.
+
+>[!beslut]
+> RS beslutar
+>
+> att bifalla ovanstående yrkande
+
+## §18 Fråga om ansvarsfrihet för förbundsstyrelsen
 
 Inflytandepunktens huvudyrkande angående ansvarsfrihet för förbundsstyrelsen:
 
->[!yrkande]+
->Att ge förbundsstyrelsen ansvarsfrihet för verksamhetsåret 2001.
+>[!yrkande]
+> att ge förbundsstyrelsen ansvarsfrihet för verksamhetsåret 2001.
+
+>[!beslut]
+> RS beslutar
 >
+> att bifalla ovanstående yrkande.
+
+## §19 Avregistrering av föreningar, samt rapport om föreningar antagna sedan RS 2001
+
+>[!beslut]
+> RS beslutar
 >
+> att avregistrera föreningar enligt bilaga 12.
+
+>[!beslut]
+> RS beslutar
 >
+> att lägga rapporten om nyanslutna föreningar till handlingarna.
 
->[!beslut]+
->RS beslutar
->
-Att bifalla ovanstående yrkande.
+## §20 Motioner och rapport från Riksstämman 2001 angående idémanifest
 
-## § 19 Avregistrering av föreningar, samt rapport om föreningar antagna sedan RS 2001
-
->[!beslut]+
->RS beslutar
-Att avregistrera föreningar enligt bilaga 12.
-
->[!beslut+]
->RS beslutar
->
-Att lägga rapporten om nyanslutna föreningar till handlingarna.
-
-## § 20 Motioner och rapport från Riksstämman 2001 angaende idémanifest
-
-Ref: [Motion - Vi behöver ett manifest - RS 2001](../RS%202001/Motion%20-%20Vi%20behöver%20ett%20manifest%20-%20RS%202001.md)
+>[!warning]
+> Idémanifestet går tillbaka på motionen [Vi behöver ett manifest](../RS%202001/Motion%20-%20Vi%20behöver%20ett%20manifest%20-%20RS%202001.md) till Riksstämman 2001.
 
 Inflytandepunktens huvudyrkande angående Idémanifest:
 
-### 20A
+>[!yrkande]
+> 20A att ett nytt dokument arbetas fram av FS som tar fram FUF:s vision. Detta dokument skall ha som syfte att användas inom FUF som grund för hela organisationens arbete.
 
->[!yrkande]+
->Att
-ett nytt dokument arbetas fram av FS som tar fram FUF:s vision. Detta dokument skall ha som syfte att användas inom FUF som grund för hela organisationens arbete.
+>[!yrkande]
+> 20B att FS skall tillsätta en grupp som tillsammans med medlemmarna arbetar fram detta dokument.
 
-### 20B
+>[!yrkande]
+> 20C att parallellt med dokumentet i yrkandet ovan, ett ytterligare dokument tas fram som är mer av ett informationsblad för att användas externt och som skall baseras på visionsarbetet.
 
->[!yrkande]+
->Att
-FS skall tillsätta en grupp som tillsammans med medlemmarna arbetar fram detta dokument.
+Övriga yrkanden:
 
-### 20C
+>[!yrkande]
+> 20D att Idémanifestet antas som en formell introduktion till FUF:s arbete som reglerar stadgar och arbete.
 
->[!yrkande]+
->Att
-parallellt med dokumentet i yrkandet ovan, ett ytterligare dokument tas fram som är mer av ett informationsblad för att anvandas externt oc! som skall baseras pa visionsarbetet
+>[!yrkande]
+> 20E att Idémanifestet, med namnbyte till "idéförklaring" antas av riksstämman till att vara FUF:s officiella idéförklaring.
 
-### Övriga yrkanden
+>[!yrkande]
+> 20F att Idémanifestet avslås.
 
-### 20D
-
->[!yrkande]+
-Att
-Idémanifestet antas som en formell introduktion till FUF:s arbete som reglerar stadgar och arbete.
-
-### 20E
-
->[!yrkande]+
-Att
-Idémanifestet, med namnbyte till "idéförklaring" antas av riksstämman till att vara FUF:s officiella idéförklaring
-
-### 20F
-
->[!yrkande]+
->Att Idémanifestet avslås.
-
->[!beslut]+
->RS beslutar
-Att avslå 20D.
-Att bifalla 20E och därmed avslå 20F och bifalla 20A.
-Att bifalla 20B.
-Att avslå 20C.
+>[!beslut]
+> RS beslutar
+>
+> att avslå 20D.
+>
+> att bifalla 20E och därmed avslå 20F och bifalla 20A.
+>
+> att bifalla 20B.
+>
+> att avslå 20C.
 
 ## §21 Fastställande av verksamhetsplan för 2002
 
 Inflytandepunktens huvudyrkande angående verksamhetsplan för 2002:
 
-### 21A
+>[!yrkande]
+> 21A att fastställa förslaget till verksamhetsplan för 2002 med följande tilläggsyrkanden:
 
->[!yrkande]+
->Att fastställa förslaget till verksamhetsplan för 2002 med följande tilläggsyrkanden:
-
-### Övriga yrkanden
-
-### 21B
-
->[!yrkande]+
->Att
-förbundet tillsätter en utredning för att undersöka möjligheten att starta n landsomfattande förening eller annan typ av informations- och samlingsorgan. Detta för att fånga upp och hålla kvar intresserad personer som inte har tillgång till nagon lokalförening eller orkar starta en egen förening.
-
-### 21C
+Övriga yrkanden:
 
 >[!yrkande]
->Att
-utredningen i ovanstående motion ska avlägga rapport i frågan på RS 2003.
-
-### 21D
-
->[!yrkande]+
-Att
-följande text ska komma med i verksamhetsplanen:
-> "Förbundsstyrelsen ska se över förbundsstadgan. Översynen ska behandla följande fragor: Rösträtt för verksamhetsgrupperna, tolkning av stadgan, rösträtt för nyanslutna föreningar."
-
-### 21E
-
->[!yrkande]+
->Att
-förbundsstyrelsen ska utreda möjligheten att i framtiden hälla i och samordna International Young Physicists Tournament i Sverige.
-
-### 21F
-
->[!yrkande]+
->Att
-om möjligt tillsätta en ansvarig person.
-
-### 21G
-
->[!yrkande]+
->Att
-om möjlighet finns vara med och arrangera IYPT ảr 2003 dã Sverige är värdland
-
-### 21H
-
->[!yrkande]+
->Att
-en informationspunkt vid namn "Informationsspridning" ska läggas till verksamhetsplanen med följande text:
-"Förbundet ska sprida mer information om kurser till icke-medlemmar för att pa sa sätt fä fler att starta föreningar eller bli medlemmar. Pa de kurser till vilka icke-medlemmarna blir inbjudna ska kontaktpersoner finnas för att informera dem om förbundet, samt hjälpa till vid bildandet av nya föreningar under och efter kurserna."
-
-### 21I
-
->[!yrkande]+
->Att
-medlemmar i FUF:s olika föreningar ska knytas närmare förbundet, exempelvis kan man genom att vara med i en förening, aven vara centralt ansluten till FUF.
-
-### 21J
-
->[!yrkande]+
-Att
-yrkande 21B antas med tillägget att tolkningsfrågans granskning lägger vikt vid att överse formalitetsfrågorna.
-
-### 21K
+> 21B att förbundet tillsätter en utredning för att undersöka möjligheten att starta en landsomfattande förening eller annan typ av informations- och samlingsorgan. Detta för att fånga upp och hålla kvar intresserade personer som inte har tillgång till någon lokalförening eller orkar starta en egen förening.
 
 >[!yrkande]
->Att
->meningen "... nya ungdomar i ett distrikts gymnasieskolor" ändras till
->"... nya ungdomar i ett distrikts högstadie- och gymnasieskolor".
+> 21C att utredningen i ovanstående motion ska avlägga rapport i frågan på RS 2003.
 
->[!beslut]+
-RS beslutar
-Att
-21K avslås.
-Att
-21J bifalles.
-Att
-21H bifalles.
-Att
-21E, 21F, 21G bifalles.
-Att
-21I avslås.
-Att
-21D bifalles.
-Att
-21B, 21C avslas.
-Att
-21A bifalles.
+>[!yrkande]
+> 21D att följande text ska komma med i verksamhetsplanen:
+>
+> "Förbundsstyrelsen ska se över förbundsstadgan. Översynen ska behandla följande frågor: Rösträtt för verksamhetsgrupperna, tolkning av stadgan, rösträtt för nyanslutna föreningar."
+
+>[!yrkande]
+> 21E att förbundsstyrelsen ska utreda möjligheten att i framtiden hålla i och samordna [International Young Physicists Tournament](../../organisationer/IYPT%20(International%20Young%20Physicists'%20Tournament).md) i Sverige.
+
+>[!yrkande]
+> 21F att om möjligt tillsätta en ansvarig person.
+
+>[!yrkande]
+> 21G att om möjlighet finns vara med och arrangera [IYPT](../../organisationer/IYPT%20(International%20Young%20Physicists'%20Tournament).md) år 2003 då Sverige är värdland.
+
+>[!yrkande]
+> 21H att en informationspunkt vid namn "Informationsspridning" ska läggas till verksamhetsplanen med följande text:
+>
+> "Förbundet ska sprida mer information om kurser till icke-medlemmar för att på så sätt få fler att starta föreningar eller bli medlemmar. På de kurser till vilka icke-medlemmarna blir inbjudna ska kontaktpersoner finnas för att informera dem om förbundet, samt hjälpa till vid bildandet av nya föreningar under och efter kurserna."
+
+>[!yrkande]
+> 21I att medlemmar i FUF:s olika föreningar ska knytas närmare förbundet, exempelvis kan man genom att vara med i en förening, även vara centralt ansluten till FUF. <!-- OCR: "211", rättat utifrån ordningen. -->
+
+>[!yrkande]
+> 21J att yrkande 21B antas med tillägget att tolkningsfrågans granskning lägger vikt vid att överse formalitetsfrågorna.
+
+>[!yrkande]
+> 21K att meningen "...nya ungdomar i ett distrikts gymnasieskolor" ändras till "... nya ungdomar i ett distrikts högstadie- och gymnasieskolor".
+
+>[!beslut]
+> RS beslutar
+>
+> att 21K avslås.
+>
+> att 21J bifalles.
+>
+> att 21H bifalles.
+>
+> att 21E, 21F, 21G bifalles.
+>
+> att 21I avslås. <!-- OCR: "211". -->
+>
+> att 21D bifalles.
+>
+> att 21B, 21C avslås.
+>
+> att 21A bifalles.
+
+>[!warning]
+> 21J hänvisar till yrkande 21B, men tolkningsfrågan nämns bara i stadgeöversynen i 21D. 21J bifölls medan 21B avslogs.
 
 ## §22 Fastställande av budget för 2002
 
-Inflytandepunktens huvudyrkande angående verksamhetsplan för 2002:
+Inflytandepunktens huvudyrkande angående verksamhetsplan för 2002: <!-- Så i källan, trots att punkten gäller budget. -->
 
-### 22A
+>[!yrkande]
+> 22A att budgetförslaget godtas i dess nuvarande form.
 
->[!yrkande]+
->Att budgetförslaget godtas i dess nuvarande form.
+>[!beslut]
+> RS beslutar
+>
+> att 22A bifalles.
 
->[!beslut]+
-RS beslutar
-Att 22A bifalles.
-
-## § 23 Fastställande av medlemsavgift för 2002
+## §23 Fastställande av medlemsavgift för 2002
 
 Inflytandepunktens huvudyrkande angående medlemsavgift för 2002:
 
-### 23A
+>[!yrkande]
+> 23A att fastställa medlemsavgiften för 2002 till 0 (noll) kronor.
 
->[!yrkande]+
-Att fastställa medlemsavgiften för 2002 till 0 (noll) kronor.
-
->[!beslut]+
->RS beslutar
->
->Att 23A bifalles.
-
-### § 24 Val av förbundsordförande
-
-Valberedningen presenterar förslag till förbundsordförande.
->[!beslut]+
->RS beslutar
->
-Att till förbundsordförande välja [Karolina Åseby](../../personer/Karolina%20Åseby.md).
-
-### $ 25 Fastställande av styrelsens storlek
-
->[!beslut]+
->RS beslutar
->
-Att göra ett undantag frän mötesformerna och tillåta möjlighet att yrka pa antalet förbundsstyrelseledamöter.
-
-### Yrkanden
-
-### 25A
-
->[!yrkande]+
->Att FS ska bestå av en ordförande och 12 ledamöter.
-
-### 25B
-
->[!yrkande]+
->Att FS ska bestå av en ordförande och 10 ledamöter.
-
->[!beslut]+
+>[!beslut]
 > RS beslutar
-> 
-> Att 25A bifalles.
-
-## §26 Val av styrelseledamöter
-
-Valberedningen presenterar förslag till styrelseledamöter:
-
-### Omval
-
-[Anna Alfredsson](../../personer/Anna%20Alfredsson.md), [Per Bengtsson](../../personer/Per%20Bengtsson.md), [Daniel Nilebäck](../../personer/Daniel%20Nilebäck.md), [Hanna Modin](../../personer/Hanna%20Modin.md), [Martin Olsson](../../personer/Martin%20Olsson.md), [Anders Sahlman](../../personer/Anders%20Sahlman.md), [Lina Sundberg](../../personer/Lina%20Sundberg.md), [Linda Svenson](../../personer/Linda%20Svenson.md)
-
-### Nyval
-
-[Linus Gustavsson](../../personer/Linus%20Gustafsson.md), [[Linda Johansson]]
-
->[!yrkande]+
->[Martin Lennartsson](../../personer/Martin%20Lennartsson.md) yrkar
 >
->Att utöver valberedningens förslag också välja [Tobias Bladini](../../personer/Tobias%20Bladini.md) och
-[[Margareta Palmgren]] till förbundsstyrelsen.
+> att 23A bifalles.
 
->[!beslut]+
->RS beslutar
+## §24 Val av förbundsordförande
+
+> [Valberedningen](../../verksamheter/Valberedningen.md) presenterar förslag till förbundsordförande.
+
+>[!beslut]
+> RS beslutar
 >
->Att till ledamöter i förbundsstyrelsen välja valberedningens förslag pa styrelseledamöter med Martin Lennartssons tilläggsyrkande.
+> att till förbundsordförande välja [Karolina Åseby](../../personer/Karolina%20Åseby.md).
 
-## §27
+## §25 Fastställande av styrelsens storlek
 
-Val av två revisorer samt två revisorssuppleanter
-Valberedningen presenterar förslag till revisorer och revisorssuppleanter:
-Ordinarie:
-Sune Johnsson, auktoriserad revisor.
-Sune Hilstad
-Suppleanter:
-Anders Winqvist auktoriserad revisor.
-Kristofer Hallén
-
->[!beslut]+
->RS beslutar
+>[!beslut]
+> RS beslutar
 >
->Att
-till revisorer och revisorssuppleanter välja valberedningens förslag pả detta.
-
-## §28 Val av valberedning
-
->[!yrkande]+
->Att ha sluten omröstning i fråga om val av valberedning.
-Enligt praxis kommer detta genomföras utan omröstning, dã detta gäller personval.
-
->[!beslut]+
->RS beslutar
->
->att öppna upp för möjlighet att yrka pa antal medlemmar i valberedningen.
+> att göra ett undantag från mötesformerna och tillåta möjlighet att yrka på antalet förbundsstyrelseledamöter.
 
 Yrkanden:
 
->[!yrkande]+
->Att välja fem ledamöter till valberedningen
+>[!yrkande]
+> 25A att FS ska bestå av en ordförande och 12 ledamöter.
 
->[!yrkande]+
->Att
-välja fyra ledamöter till valberedningen.
+>[!yrkande]
+> 25B att FS ska bestå av en ordförande och 10 ledamöter.
 
->[!beslut]+
->RS beslutar
+>[!beslut]
+> RS beslutar
 >
->Att välja fyra ledamöter till valberedningen.
+> att 25A bifalles. <!-- OCR: "254". -->
+
+## §26 Val av styrelseledamöter
+
+> [Valberedningen](../../verksamheter/Valberedningen.md) presenterar förslag till styrelseledamöter:
+
+Omval:
+
+- [Anna Alfredsson](../../personer/Anna%20Alfredsson.md)
+- [Per Bengtsson](../../personer/Per%20Bengtsson.md)
+- [Daniel Nilebäck](../../personer/Daniel%20Nilebäck.md)
+- [Hanna Modin](../../personer/Hanna%20Modin.md)
+- [Martin Olsson](../../personer/Martin%20Olsson.md)
+- [Anders Sahlman](../../personer/Anders%20Sahlman.md)
+- [Lina Sundberg](../../personer/Lina%20Sundberg.md)
+- [Linda Svenson](../../personer/Linda%20Svenson.md)
+
+Nyval:
+
+- [Linus Gustafsson](../../personer/Linus%20Gustafsson.md) <!-- Källan stavar "Linus Gustavsson". -->
+- [[Linda Johansson]]
+
+>[!yrkande]
+> [Martin Lennartsson](../../personer/Martin%20Lennartsson.md) yrkar
+>
+> att utöver valberedningens förslag också välja [Tobias Bladini](../../personer/Tobias%20Bladini.md) och [[Margareta Palmgren]] till förbundsstyrelsen.
+
+>[!beslut]
+> RS beslutar
+>
+> att till ledamöter i förbundsstyrelsen välja valberedningens förslag på styrelseledamöter med Martin Lennartssons tilläggsyrkande.
+
+## §27 Val av två revisorer samt två revisorssuppleanter
+
+> [Valberedningen](../../verksamheter/Valberedningen.md) presenterar förslag till revisorer och revisorssuppleanter:
+
+Ordinarie:
+
+- [Sune Johnson](../../personer/Sune%20Johnson.md) auktoriserad revisor. <!-- Källan stavar "Sune Johnsson". -->
+- [Sune Hilstad](../../personer/Sune%20Hilstad.md)
+
+Suppleanter:
+
+- [Anders Winqvist](../../personer/Anders%20Winqvist.md) auktoriserad revisor.
+- [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
+
+>[!beslut]
+> RS beslutar
+>
+> att till revisorer och revisorssuppleanter välja valberedningens förslag på detta.
+
+## §28 Val av valberedning
+
+>[!yrkande]
+> att ha sluten omröstning i fråga om val av valberedning.
+
+> Enligt praxis kommer detta genomföras utan omröstning, då detta gäller personval.
+
+>[!beslut]
+> RS beslutar
+>
+> att öppna upp för möjlighet att yrka på antal medlemmar i [valberedningen](../../verksamheter/Valberedningen.md).
+
+Yrkanden:
+
+>[!yrkande]
+> att välja fem ledamöter till valberedningen.
+
+>[!yrkande]
+> att välja fyra ledamöter till valberedningen.
+
+>[!beslut]
+> RS beslutar
+>
+> att välja fyra ledamöter till valberedningen.
 
 Följande personer är nominerade till valberedningen:
-[Marcus Andersson](../../personer/Marcus%20Andersson.md), [UFÖS](../../distrikt/UFÖS%20(Unga%20Forskare%20Östergötland%20Småland).md)
-[[Gunilla Beckholmen]], [UFCX](../../distrikt/UFCX%20(Unga%20Forskare%20Uppsala%20Gävleborg).md)
-[Robert Jacobsson](../../personer/Robert%20Jacobsson.md) [UFÖS](../../distrikt/UFÖS%20(Unga%20Forskare%20Östergötland%20Småland).md)
-[[Karl Schmidt]],[UFV](../../distrikt/UFV%20(Unga%20Forskare%20Väst).md)
-[[Per Wallén]]
 
->[!beslut]+
->RS beslutar
+- [Marcus Andersson](../../personer/Marcus%20Andersson.md), [UFÖS](../../distrikt/UFÖS%20(Unga%20Forskare%20Östergötland%20Småland).md)
+- [[Gunilla Beckholmen]], [UFCX](../../distrikt/UFCX%20(Unga%20Forskare%20Uppsala%20Gävleborg).md)
+- [Robert Jacobsson](../../personer/Robert%20Jacobsson.md), [UFÖS](../../distrikt/UFÖS%20(Unga%20Forskare%20Östergötland%20Småland).md)
+- [[Karl Schmidt]], [UFV](../../distrikt/UFV%20(Unga%20Forskare%20Väst).md)
+- [[Per Wallén]]
+
+>[!beslut]
+> RS beslutar
 >
->Att välja [Marcus Andersson](../../personer/Marcus%20Andersson.md), [[Gunilla Beckholmen]], [[Karl Schmidt]] och [[Per Wallén]] till valberedningen.
+> att välja [Marcus Andersson](../../personer/Marcus%20Andersson.md), [[Gunilla Beckholmen]], [[Karl Schmidt]] och [[Per Wallén]] till valberedningen.
 
-## § 29 Övriga frågor
+## §29 Övriga frågor
 
-Da förslagen på stadgeändring ej inkommit i tid krävs enhällighet i fräga om ställningstagande.
+> Då förslagen på stadgeändring ej inkommit i tid krävs enhällighet i fråga om ställningstagande.
 
 ### Övrig fråga 1
 
->[!yrkande]+
->Huvudyrkande
+>[!yrkande]
+> Huvudyrkande
 >
->Att § 22 i stadgarna ändras till:
-"Vid riksstämman har alla medlemmar, förbundsstyrelsens ledamöter och revisorer rätt att närvara, yttra sig, ställa förslag och lägga yrkanden. "
+> att § 22 i stadgarna ändras till:
+>
+> "Vid riksstämman har alla medlemmar, förbundsstyrelsens ledamöter och revisorer rätt att närvara, yttra sig, ställa förslag och lägga yrkanden."
 
->[!beslut]+
->RS beslutar
-Att mötet ej är beslutsmässiga i övrig fråga 1.
-Att mötet kan fortsätta trots att justerarna inte är närvarande på grund av rösträknande.
+>[!beslut]
+> RS beslutar
+>
+> att mötet ej är beslutsmässiga i övrig fråga 1.
+>
+> att mötet kan fortsätta trots att justerarna inte är närvarande på grund av rösträknande.
 
 ### Övrig fråga 2
 
->[!yrkande]+
->Huvudyrkande
-Det i $ 23 i stadgarna läggs till:
-"Om föreningen bildats under året och erhållit kallelse till
-Riksstämman erhålls ett ombud."
-
->[!beslut]+
->RS beslutar
+>[!yrkande]
+> Huvudyrkande:
 >
-> Att mötet ej är beslutsmässiga i övrig fråga 2.
+> att det i § 23 i stadgarna läggs till:
+>
+> "Om föreningen bildats under året och erhållit kallelse till Riksstämman erhålls ett ombud."
 
-## § 30 Stämmans avslutande
+>[!beslut]
+> RS beslutar
+>
+> att mötet ej är beslutsmässiga i övrig fråga 2.
 
-Förbundsordförande [Karolina Åseby](../../personer/Karolina%20Åseby.md) förklarar 2002 års riksstämma avslutad.
+## §30 Stämmans avslutande
+
+> Förbundsordförande [Karolina Åseby](../../personer/Karolina%20Åseby.md) förklarar 2002 års riksstämma avslutad.
 
 ## BILAGOR TILL PROTOKOLLET
 
@@ -620,68 +596,43 @@ Förbundsordförande [Karolina Åseby](../../personer/Karolina%20Åseby.md) för
 4. Resultaträkning för Förbundet Unga Forskare 2001
 5. Revisorernas berättelse för Förbundet Unga Forskare 2001
 6. Balansräkning för Förbundet Unga Forskare
-7. Verksamhetsberättelse för Stiftelsen Gundel Cornelias Stipendiefond för
-Unga Forskare 2001
-8. Resultaträkning och balansräkning för Stiftelsen Gundel Cornelias
-Stipendiefond för Unga Forskare 2001
-9. Revisorernas berättelse för Stiftelsen Gundel Cornelias Stipendiefond för
-Unga Forskare 2001
+7. Verksamhetsberättelse för Stiftelsen Gundel Cornelias Stipendiefond för Unga Forskare 2001
+8. Resultaträkning och balansräkning för Stiftelsen Gundel Cornelias Stipendiefond för Unga Forskare 2001
+9. Revisorernas berättelse för Stiftelsen Gundel Cornelias Stipendiefond för Unga Forskare 2001
 10. Budget för Förbundet Unga Forskare 2001
 11. Röstlängd
 12. Avregistrerade föreningar
 
-## Bilaga 1
+>[!warning]
+> Bilaga 2 och 3 (verksamhetsberättelse 2001 och verksamhetsplan 2002) saknas i källan. Ekonomiska bilagor (4–6, 8–10) konverteras inte; av stiftelsens årsredovisning (bilaga 7–9) återges bara ändamålet och 2001 års stipendiater nedan. Bilaga 11 Röstlängd finns inte som eget dokument i källan; närvarolistan (bilaga 1) har en kolumn för vilken förening personen är ombud för. Källan innehåller dessutom förbundets stadgar och en förteckning över distrikt och föreningar, som inte finns med i bilagelistan. Budgeten (bilaga 10) avser enligt §22 år 2002, inte 2001.
 
-### Stadgar Förbundet Unga Forskare
+### Närvarolista
 
-Ref : [Stadgar - RS 2002](Stadgar%20-%20RS%202002.md)
+Se [Närvarolista - RS 2002](Närvarolista%20-%20RS%202002.md).
 
-### Närvarolista för Förbundet Unga Forskares Riksstämma 2002
+### Stiftelsen Gundel Cornelias Stipendiefond för Unga Forskare
 
-- [[Veronica Gustafsson]], [[Unga Forskare Västsvenska]]
-- [[Karin Inggårde]], [[Newtons Lärjungar]]
-- [[Theresa Algård]] [[Ars Scientiae Naturae]]
-- [[Anders Espling]], [[ppp]]
-- [[Seydon Allsadoy]], [[Stockholms Unga Naturvetare]]
-- [[Stefan Bart]], [[Gislaveds Unga Forskare]]
-- [[Gunilla Beckholmen]], [[Unga Forskare Uppsala Gävleborg]]
-- [[Malin Blennow]], [[Kungsholmen Young Scientists Society]]
-- [[Gabriel Cleverland]], [[Ars Scientiae Naturae]]
-- [[Erik Druid]], [[Unga Forskare Stockholm]]
-- [[Elin Engström]], [[Bore]]
-- [Robert Jacobsson](../../personer/Robert%20Jacobsson.md) [[Pirog]]
-- [[Kalle Leissner]], [[Fuffens]]
-- [Martin Lennartsson](../../personer/Martin%20Lennartsson.md), [[Unga Forskare Östra Götaland]]
-- [[Hampus Lybeck]], [[Antika Helgalna Akademiker]]
-- [[Linnea Mattiasson]], [[Celsium]]
-- [[Johan Persson]], [[Utarmade Rollspelare frän Atomkraftens Narnia]]
-- [[Elin Larsson]] [[Fuffens]]
-- [[Karl Schmidt]], [[Hvitfeldska akademien]]
-- [[Karl Sporre]], [[Celsium]]
-- [[Jessica Wallén]], [[Ataraxi]]
-- [[Jenny Åhman]] [[Utarmade Rollspelare från Atomkraftens Narnia]]
-- [[Sofia Odmark]], [[Ars Scietiae Naturae]]
-- [[Camilla Westlin]], [[Stockholms Unga Naturvetare]]
+Ur förvaltningsberättelsen i stiftelsens årsredovisning för 2001:
 
-## Förvaltningsberättelse
+> Stiftelsen har till främsta ändamål att belöna och uppmuntra utställare vid den årliga utställningen Unga Forskare.
+>
+> Under året har följande stipendier utdelats på Utställningen Unga Forskare 2001:
 
-Styrelsen får härmed lämna följande redogörelse över stiftelsens verksamhet för år 2001.
+| Stipendiat | Titel |
+|---|---|
+| [Azra Habibovic](../../personer/Azra%20Habibovic.md) | Fetter och människan |
+| [[Elias Elia]] | Bakterier som proteinfabriker |
+| [[Jesper Gunnarsson]] | Toning av fotografier |
+| [[Anna Malou Petersson]] | Mysteriet med Schrödingers katt – en jämförelse av kvantmekanikens tolkningar |
 
-### Stiftelsens ändamål
+### Avregistrerade föreningar
 
-Stiftelsen har till främsta ändamål att belöna och uppmuntra utställare vid den ärliga utställningen Unga Forskare.
-Främjande av ändamålet
-Under året har följande stipendier utdelats på Utställningen Unga Forskare 2001:
+Se [Föreningar för avregistrering - RS 2002](Föreningar%20för%20avregistrering%20-%20RS%202002.md).
 
-[Azra Habibovic](../../personer/Azra%20Habibovic.md), Fetter och människan
-[[Elias Elia]], Bakterier som proteinfabriker
-[[Jesper Gunnarsson]], Toning av fotografier
-[[Anna Malou Petersson]], Mysteriet med Schrödingers katt - en jämförelse av kvantmekanikens tolkningar
+### Stadgar
 
-## Förteckning över distrikt och föreningar
+Se [Stadgar - RS 2002](Stadgar%20-%20RS%202002.md).
 
-Ref: [Föreningar - RS 2002](Föreningar%20-%20RS%202002.md)
+### Förteckning över distrikt och föreningar
 
-## Förteckning över antagna och avregistrerade föreningar 2001
-
-Ref: [Föreningar - RS 2002](Föreningar%20-%20RS%202002.md)
+Se [Föreningar - RS 2002](Föreningar%20-%20RS%202002.md).

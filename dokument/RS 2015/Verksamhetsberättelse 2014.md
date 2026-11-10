@@ -29,7 +29,7 @@ Mer om förbundets verksamheter finns att läsa på de kommande sidorna - och f�
 
 På hemmaplan arranger våra lokalföreningar aktiviteter för sina medlemmar - träffar, läger och resor. I linje med mottot "av unga, för unga" görs naturvetenskaplig fritidsverksamhet tillgänglig och regelbunden. Detta behövs för att vi ska kunna utveckla ungas naturvetenskapliga intresse och i enlighet med beslut från Riksstämman 2014 kommer stora satsningar på just regelbunden lokalverksamhet. I Unga Forskare verkar vi för att det ska vara självklart att kunna ägna sig åt naturvetenskap och teknik i alla former!
 
-[[Diana Diez]], Förbundsordförande
+[Diana Diez](../../personer/Diana%20Diez.md), Förbundsordförande
 
 ## Förbundet
 
@@ -48,8 +48,8 @@ Förbundet Unga Forskare finns för att utveckla ungas intresse för naturvetens
 - **Distrikt** – Regional plattform som finns för att stötta föreningarna.
 - **[Utställningen Unga Forskare](../../verksamheter/UUF%20(Utställningen%20Unga%20Forskare).md)** – Nationell tävling med regionala delfinaler. De tävlande är gymnasieelever som gjort ett naturvetenskapligt eller tekniskt projektarbete.
 - **[SIYSS](../../verksamheter/SIYSS%20(Stockholm%20International%20Youth%20Science%20Seminar).md)** – Stockholm International Youth Science Seminar, internationella unga forskare kommer till Stockholm för att inspirera svenska gymnasieelever och delta på Nobelfestligheterna.
-- **[Gnistan- Unga idéer om energi](../../verksamheter/Gnistan.md)** – Högstadieklasser på fyra orter i Sverige tävlar inom en utmaning om framtidens energi. Verksamheten drivs tillsammans med [[Vattenfall]] och [[Föreningen Svenska Science Centers]].
-- **[[AstraZenecas Sommarforskarskola]]** – Laborationer och experiment inom naturvetenskap och teknik för högstadie- och gymnasieungdomar. Vi är i moderna labbsalar på [KTH](../../skolor/KTH%20(Kungliga%20Tekniska%20Högskolan).md), Stockholm och Göteborgs Universitet, Göteborg.
+- **[Gnistan- Unga idéer om energi](../../verksamheter/Gnistan.md)** – Högstadieklasser på fyra orter i Sverige tävlar inom en utmaning om framtidens energi. Verksamheten drivs tillsammans med [Vattenfall](../../organisationer/Vattenfall.md) och [[Föreningen Svenska Science Centers]].
+- **[AstraZenecas Sommarforskarskola](../../verksamheter/AstraZenecas%20Sommarforskarskola.md)** – Laborationer och experiment inom naturvetenskap och teknik för högstadie- och gymnasieungdomar. Vi är i moderna labbsalar på [KTH](../../skolor/KTH%20(Kungliga%20Tekniska%20Högskolan).md), Stockholm och Göteborgs Universitet, Göteborg.
 - **[[Scania Sommarforskarskola Teknik]]** – Fordonskonstruktionsprojekt för elever i årskurs 8. Vi är i moderna verkstäder på Mälardalens Tekniska Gymnasium, Södertälje.
 - **[[Vetenskapstävlingar]]** – en verksamhet med målet att så många svenska ungdomar som möjligt ska delta i alla de tävlingar som finns inom naturvetenskap, teknik, och matematik.
 - **[[Podden Unga Forskare]]** – Unga Forskares egen podcast handlar om naturvetenskap och teknik i allmänhet och Unga Forskare i synnerhet.
@@ -58,33 +58,33 @@ Förbundet Unga Forskare finns för att utveckla ungas intresse för naturvetens
 
 <!-- Rubriken är oläslig i OCR; tillagd. Avsnitten nedan saknar egna rubriker i OCR-texten. -->
 
-Den 7-9 november 2014 var det dags för årets [riksstämma](../../verksamheter/RS%20(Riksstämman).md) i [[Katedralskolan Linköping|Katedralskolan i Linköping]]. Programmet innehöll bland annat ett påverkanstorg där alla medlemmar kunde lämna och diskutera förslag och visade ett stort engagemang för förbundets frågor. [[Diana Diez]] blev på riksstämman omvald till ytterligare en mandatperiod som förbundets ordförande. Det bjöds även på ett maraton av kortföreläsningar med: [[Johanna Lakso]] grundare Push Sverige, [[Andrea Petersson]], social entretrenör, [[Peter Parnes]], professor inom datavetenskap vid Luleå tekniska universitet, [[Teresia Olsson]], doktorand i acceleratorfysik vid MAX IV-laboratoriet samt [[Erik Lindahl]], professor biofysik vid Stockholms Universitet och [KTH](../../skolor/KTH%20(Kungliga%20Tekniska%20Högskolan).md).
+Den 7-9 november 2014 var det dags för årets [riksstämma](../../verksamheter/RS%20(Riksstämman).md) i [Katedralskolan i Linköping](../../skolor/Katedralskolan%20Linköping.md). Programmet innehöll bland annat ett påverkanstorg där alla medlemmar kunde lämna och diskutera förslag och visade ett stort engagemang för förbundets frågor. [Diana Diez](../../personer/Diana%20Diez.md) blev på riksstämman omvald till ytterligare en mandatperiod som förbundets ordförande. Det bjöds även på ett maraton av kortföreläsningar med: [[Johanna Lakso]] grundare Push Sverige, [[Andrea Petersson]], social entretrenör, [[Peter Parnes]], professor inom datavetenskap vid Luleå tekniska universitet, [[Teresia Olsson]], doktorand i acceleratorfysik vid MAX IV-laboratoriet samt [[Erik Lindahl]], professor biofysik vid Stockholms Universitet och [KTH](../../skolor/KTH%20(Kungliga%20Tekniska%20Högskolan).md).
 
 <!-- OCR: "D; 7-9 november"; anfangen tolkad som "Den". -->
 
-I april hade förbundet verksamhetshelg i Uppsala. Flera olika delar av förbundet fick en chans att gemensamt samlas och att ha arbetsmöten inom sina egna verksamheter. På schemat stod även ledarskapsutbildning med [Karl Larsson](../../personer/Karl%20Larsson.md), ekonomiutbildning av förbundsadministratör [[Åsa Björk]] samt roliga tävlingar med [[Yi-Hua Zhang]].
+I april hade förbundet verksamhetshelg i Uppsala. Flera olika delar av förbundet fick en chans att gemensamt samlas och att ha arbetsmöten inom sina egna verksamheter. På schemat stod även ledarskapsutbildning med [Karl Larsson](../../personer/Karl%20Larsson.md), ekonomiutbildning av förbundsadministratör [[Åsa Björk]] samt roliga tävlingar med [Yi-Hua Zhang](../../personer/Yi-Hua%20Zhang.md).
 
 Svenska Juniorvattenpriset blev en del av [Utställningen Unga Forskare](../../verksamheter/UUF%20(Utställningen%20Unga%20Forskare).md). Svenska Juniorvattenpriset ingick i ett samarbete med förbundet och priset är numera en del av Utställningen Unga Forskare i form av en nyinstiftad vattenkategori. I vattenkategorin platsar projekt som inriktat sig på tema vatten ur olika perspektiv; från naturvetenskap till samhällsvetenskap eller historia. Vinnaren i Vattenkategorin får 30 000 kr och representerar Sverige i den internationella tävlingen Stockholm Junior Water Prize som äger rum under konferensen World Water Week i Stockholm, där ungdomar från ett 30-tal länder deltar.
 
 <!-- OCR: "Svenska GQ rtonattenpria ingick"; återställt till "Juniorvattenpriset" (bekräftat mot källan). -->
 
-Förbundet var i Almedalen med [[AstraZeneca]]. [[Olle Nordesjö]] och [[Diana Diez]] höll i aktiviteter som kväveglasstillagning och färgglada demonstrationer med en gigantisk cylinder med kolsyreis. De anordnade även tävlingar tillsammans med AstraZenecas anställda på plats.
+Förbundet var i Almedalen med [AstraZeneca](../../organisationer/AstraZeneca.md). [Olle Nordesjö](../../personer/Olle%20Nordesjö.md) och [Diana Diez](../../personer/Diana%20Diez.md) höll i aktiviteter som kväveglasstillagning och färgglada demonstrationer med en gigantisk cylinder med kolsyreis. De anordnade även tävlingar tillsammans med AstraZenecas anställda på plats.
 
-Tillsammans med [[Vattenfall]] och Svenska Science Centers presenterade Unga Forskare [Gnistan- Unga idéer om energi](../../verksamheter/Gnistan.md) i Almedalen. Seminariet "Varför behövs ett ökat intresse för naturvetenskap och teknik hos unga?" drog cirka 80 besökare. [[Gabriel Högström]] och [[Elin Kalén]], som varit mentorer i Gnistan, höll en presentation om syftet med verksamheten och åsikter från lärare och elever som deltagit. Efteråt hölls en paneldiskussion, ledd av [[Diana Diez]] med [[Christian Holm]] från Centerns Ungdomsförbund och [[Philip Boström]] från SSU.
+Tillsammans med [Vattenfall](../../organisationer/Vattenfall.md) och Svenska Science Centers presenterade Unga Forskare [Gnistan- Unga idéer om energi](../../verksamheter/Gnistan.md) i Almedalen. Seminariet "Varför behövs ett ökat intresse för naturvetenskap och teknik hos unga?" drog cirka 80 besökare. [[Gabriel Högström]] och [Elin Kalén](../../personer/Elin%20Kalén.md), som varit mentorer i Gnistan, höll en presentation om syftet med verksamheten och åsikter från lärare och elever som deltagit. Efteråt hölls en paneldiskussion, ledd av [Diana Diez](../../personer/Diana%20Diez.md) med [[Christian Holm]] från Centerns Ungdomsförbund och [[Philip Boström]] från SSU.
 
 Vi var med på Berzeliusdagarna som Svenska Kemistsamfundet arrangerade på Stockholms universitet i början av året. [[Simon Pedersen]] var där och berättade om Unga Forskare för 360 kemiintresserade gymnasieelever.
 
-2014 var första året som [[AstraZenecas Sommarforskarskola]] genomfördes i förbundets regi. Vi var på [KTH](../../skolor/KTH%20(Kungliga%20Tekniska%20Högskolan).md) i Stockholm i juni och på Göteborgs universitet i Göteborg i augusti. Temat för Sommarforskarskolan 2014 var En hållbar värld. Totalt 105 elever från åk 8, 9 och 1 på gymnasiet deltog.
+2014 var första året som [AstraZenecas Sommarforskarskola](../../verksamheter/AstraZenecas%20Sommarforskarskola.md) genomfördes i förbundets regi. Vi var på [KTH](../../skolor/KTH%20(Kungliga%20Tekniska%20Högskolan).md) i Stockholm i juni och på Göteborgs universitet i Göteborg i augusti. Temat för Sommarforskarskolan 2014 var En hållbar värld. Totalt 105 elever från åk 8, 9 och 1 på gymnasiet deltog.
 
 År 2014 genomfördes [[Scania Sommarforskarskola Teknik]] under två veckor i juni och juli på Mälardalens Tekniska Gymnasium, Södertälje. 14 elever från åk 8 deltog och de byggde fjärrstyrda robotbilar.
 
-Mölndals lilla vetenskapsdag hölls den 16-18 september, i samarbete med [[AstraZeneca]], på Gunnebo slott, för elever i årskurs 5. Dagarna handlar om att tillgängliggöra naturvetenskap, hälsa och humaniora med hjälp av teater, experiment och lek. 2014 var temat matematik. De som var med och höll i våra stationer var [[Caroline Schagerholm]], [[Ellen Håkman]], [[Axel Flinth]] och [[Jakob Larsson]]. Stationerna handlade om kluriga uppdrag och matte på ett annorlunda sätt.
+Mölndals lilla vetenskapsdag hölls den 16-18 september, i samarbete med [AstraZeneca](../../organisationer/AstraZeneca.md), på Gunnebo slott, för elever i årskurs 5. Dagarna handlar om att tillgängliggöra naturvetenskap, hälsa och humaniora med hjälp av teater, experiment och lek. 2014 var temat matematik. De som var med och höll i våra stationer var [Caroline Schagerholm](../../personer/Caroline%20Schagerholm.md), [[Ellen Håkman]], [[Axel Flinth]] och [[Jakob Larsson]]. Stationerna handlade om kluriga uppdrag och matte på ett annorlunda sätt.
 
-En projektledarhelg ägde rum i på [LSUs](../../organisationer/LSU%20(Landsrådet%20för%20Sveriges%20Ungdomsorganisationer).md) lokaler i oktober. Projektledarna för olika verksamheter i förbundet fick möjlighet att lära känna varandras verksamheter mer och diskutera samarbete och synergier. [[Daniel Madhani]] höll i träffen och medverkade gjorde [[Sara Scheibenpflug]], [[Johan Sannemo]], [[Diana Diez]], [[Julia Bladh]], [[Tove Ladberg]] och [[Paula Langöe]].
+En projektledarhelg ägde rum i på [LSUs](../../organisationer/LSU%20(Landsrådet%20för%20Sveriges%20Ungdomsorganisationer).md) lokaler i oktober. Projektledarna för olika verksamheter i förbundet fick möjlighet att lära känna varandras verksamheter mer och diskutera samarbete och synergier. [Daniel Madhani](../../personer/Daniel%20Madhani.md) höll i träffen och medverkade gjorde [[Sara Scheibenpflug]], [[Johan Sannemo]], [Diana Diez](../../personer/Diana%20Diez.md), [[Julia Bladh]], [Tove Ladberg](../../personer/Tove%20Ladberg.md) och [Paula Langöe](../../personer/Paula%20Langöe.md).
 
 [[Podden Unga Forskare]] startades med syfte att berätta om allt det häftiga som sker i förbundets regi, och om naturvetenskap och teknik i synnerhet.
 
-I maj 2014 deltog vi på Experimentverkstaden på [Vetenskapsfestivalen](../../organisationer/Vetenskapsfestivalen.md) i Göteborg, i samarbete med [[AstraZeneca]]. Titeln var Unga Forskares Laboratorium och man tillverkade bland annat "guld" och experimenterade med torr-is. Höll i stationen gjorde handledarna [[Simon Pedersen]] och [[Frida Eriksson]] från AstraZenecas Sommarforskarskola, samt [[Susanna Andersson]] och [[Martin Stjernstedt]].
+I maj 2014 deltog vi på Experimentverkstaden på [Vetenskapsfestivalen](../../organisationer/Vetenskapsfestivalen.md) i Göteborg, i samarbete med [AstraZeneca](../../organisationer/AstraZeneca.md). Titeln var Unga Forskares Laboratorium och man tillverkade bland annat "guld" och experimenterade med torr-is. Höll i stationen gjorde handledarna [[Simon Pedersen]] och [[Frida Eriksson]] från AstraZenecas Sommarforskarskola, samt [[Susanna Andersson]] och [[Martin Stjernstedt]].
 
 [[Akademien]] hade kurs i Situationsbaserat ledarskap och Projektledning i samarbete med [LSU](../../organisationer/LSU%20(Landsrådet%20för%20Sveriges%20Ungdomsorganisationer).md).
 
@@ -110,7 +110,7 @@ Utställningen Unga Forskare ger gymnasieelever möjlighet att visa upp sina pro
 
 Ref: [Gnistan](../../verksamheter/Gnistan.md)
 
-Gnistan - Unga idéer om energi syftar till att ge unga människor förutsättningar att utveckla sitt intresse inom naturvetenskap och teknik. Verksamheten är ett samarbete mellan [[Vattenfall]], [[Föreningen Svenska Science Centers]] och Förbundet Unga Forskare och startade hösten 2013 med ett pilotprojekt. Under 2014 arbetade 500 högstadieelever i Norrbotten, Trollhättan och Stockholmsregionen med att lösa utmaningen "År 2025 skapar vi alla energi själva, hur?" och presenterade sina framtidsvisoner för en jury och publik. Ungdomarna fick under en sjuveckorsperiod ta del av bland annat inspirerande workshops på Science Centers och den pedagogiska metoden Youth Space, göra studiebesök tillsammans med Vattenfall och få inspiration och stöd av Unga Forskares mentorer som besökte dem i skolan. De science centers som var med och drev projektet våren och hösten 2014 var Teknikens Hus i Luleå, Innovatum i Trollhättan och [Tekniska museet](../../organisationer/Tekniska%20Museet.md) i Stockholm.
+Gnistan - Unga idéer om energi syftar till att ge unga människor förutsättningar att utveckla sitt intresse inom naturvetenskap och teknik. Verksamheten är ett samarbete mellan [Vattenfall](../../organisationer/Vattenfall.md), [[Föreningen Svenska Science Centers]] och Förbundet Unga Forskare och startade hösten 2013 med ett pilotprojekt. Under 2014 arbetade 500 högstadieelever i Norrbotten, Trollhättan och Stockholmsregionen med att lösa utmaningen "År 2025 skapar vi alla energi själva, hur?" och presenterade sina framtidsvisoner för en jury och publik. Ungdomarna fick under en sjuveckorsperiod ta del av bland annat inspirerande workshops på Science Centers och den pedagogiska metoden Youth Space, göra studiebesök tillsammans med Vattenfall och få inspiration och stöd av Unga Forskares mentorer som besökte dem i skolan. De science centers som var med och drev projektet våren och hösten 2014 var Teknikens Hus i Luleå, Innovatum i Trollhättan och [Tekniska museet](../../organisationer/Tekniska%20Museet.md) i Stockholm.
 
 ## Vetenskapstävlingar
 
@@ -124,7 +124,7 @@ Under 2014 startades verksamheten Vetenskapstävlingar inom förbundet för att 
 
 <!-- Rubriken är oläslig i OCR; satt utifrån brödtexten. -->
 
-Ref: [[AstraZenecas Sommarforskarskola]]
+Ref: [AstraZenecas Sommarforskarskola](../../verksamheter/AstraZenecas%20Sommarforskarskola.md)
 
 2014 var första året som AstraZenecas Sommarforskarskola genomfördes i förbundets regi. Vi var på [KTH](../../skolor/KTH%20(Kungliga%20Tekniska%20Högskolan).md) i Stockholm 16-27 juni och på Göteborgs universitet i Göteborg 4-15 augusti. Temat för Sommarforskarskolan 2014 var En hållbar värld. Totalt 105 elever från åk 8, 9 och 1 på gymnasiet deltog. Den bestod av ett två veckors program där eleverna på vardagar mellan kl 9.00 och 15.00 fick genomföra laborationer, experiment och undersökningar och ta del av teoretiska genomgångar tillsammans med sina handledare. Eleverna uppgav att de var supernöjda i utvärderingarna: 80% gav Sommarforskarskolan som helhet högsta betyg.
 
@@ -136,7 +136,7 @@ Ref: [[AstraZenecas Sommarforskarskola]]
 
 Ref: [[Scania Sommarforskarskola Teknik]]
 
-Scania Sommarforskarskola Teknik ägde rum 23 juni - 4 juli på Mälardalens Tekniska Gymnasium, Södertälje. 14 elever från åk 8 deltog. De var uppdelade i mindre grupper bestående av specialistlag med två mekaniker och två elektriker. De byggde fjärrstyrda robotbilar som användes till att utföra olika moment. Till sin hjälp hade de handledarna [[David Andersson]] och [[Robert Piehl-Fridqvist]].
+Scania Sommarforskarskola Teknik ägde rum 23 juni - 4 juli på Mälardalens Tekniska Gymnasium, Södertälje. 14 elever från åk 8 deltog. De var uppdelade i mindre grupper bestående av specialistlag med två mekaniker och två elektriker. De byggde fjärrstyrda robotbilar som användes till att utföra olika moment. Till sin hjälp hade de handledarna [David Andersson](../../personer/David%20Andersson.md) och [Robert Piehl-Fridqvist](../../personer/Robert%20Piehl-Fridqvist.md).
 
 ## Podden Unga Forskare
 
@@ -154,41 +154,41 @@ Under 2014 startades Podden Unga Forskare. Syftet med denna nya verksamhet var b
 
 - [[Andrea Träger]], SIYSS
 - [[Emil Larsson]], Utställningen
-- [[Mikael Ingemyr]]/ [[Johan Sannemo]], Vetenskapstävlingar
+- [Mikael Ingemyr](../../personer/Mikael%20Ingemyr.md)/ [[Johan Sannemo]], Vetenskapstävlingar
 - [[Axel Flinth]], Podden Unga Forskare
 
 ### Kansli
 
-- [[Daniel Madhani]], Generalsekreterare
-- [[Tove Ladberg]], Verksamhetsutvecklare
-- [[Paula Langöe]], Projektutvecklare
+- [Daniel Madhani](../../personer/Daniel%20Madhani.md), Generalsekreterare
+- [Tove Ladberg](../../personer/Tove%20Ladberg.md), Verksamhetsutvecklare
+- [Paula Langöe](../../personer/Paula%20Langöe.md), Projektutvecklare
 - [[Åsa Björk]], Förbundsadministratör
-- [[Katarina Ericsson]], vik Förbundsadministratör
+- [Katarina Ericsson](../../personer/Katarina%20Ericsson.md), vik Förbundsadministratör
 
 ### AstraZenecas Sommarforskarskola
 
 - [[Laura Alexis]], Koordinator
-- [[Emil Kling]], Handledare
+- [Emil Kling](../../personer/Emil%20Kling.md), Handledare
 - [[Fredrik Elofsson]], Handledare
 - [[Simon Pedersen]], Handledare
 - [[Frida Eriksson]], Handledare
-- [[Serhat Aktay]], Handledare
+- [Serhat Aktay](../../personer/Serhat%20Aktay.md), Handledare
 
 ### Scania Sommarforskarskola
 
-- [[David Andersson]]
-- [[Robert Piehl-Fridqvist]]
+- [David Andersson](../../personer/David%20Andersson.md)
+- [Robert Piehl-Fridqvist](../../personer/Robert%20Piehl-Fridqvist.md)
 
 ### Gnistan- Unga idéer om energi
 
-- [[Olle Nordesjö]], Mentor
-- [[Emil Kling]], Mentor
-- [[Caroline Schagerholm]], Mentor
-- [[Malin Petersson]], Mentor
+- [Olle Nordesjö](../../personer/Olle%20Nordesjö.md), Mentor
+- [Emil Kling](../../personer/Emil%20Kling.md), Mentor
+- [Caroline Schagerholm](../../personer/Caroline%20Schagerholm.md), Mentor
+- [Malin Petersson](../../personer/Malin%20Petersson.md), Mentor
 - [[Gabriel Högström]], Mentor
-- [[Nils Anlind]], Mentor
+- [Nils Anlind](../../personer/Nils%20Anlind.md), Mentor
 - [[Ksenia Chechet]], Mentor
-- [[Jenny Sedhed]], Mentor
+- [Jenny Sedhed](../../personer/Jenny%20Sedhed.md), Mentor
 - [[Alexander Lenngren]], Mentor
 - [[Patrik Roesberg]], Mentor
 - [[Tasnim Laskar]], Mentor
@@ -246,7 +246,7 @@ SIYSS seminiarum nådde cirka 1500 gymnasieelever som fick inspiration och uppmu
 
 ### Företagspartners
 
-- [[AstraZeneca]] AB
+- [AstraZeneca](../../organisationer/AstraZeneca.md) AB
 - [[Teknikföretagen]]
 
 ### Universitet och högskolor
@@ -293,7 +293,7 @@ SIYSS seminiarum nådde cirka 1500 gymnasieelever som fick inspiration och uppmu
 - Tyréns
 - Under Kastanjen
 - Urkund
-- [[Vattenfall]]
+- [Vattenfall](../../organisationer/Vattenfall.md)
 - Vetenskap och Allmänhet
 - Visualiseringscenter i Norrköping
 - Volvo

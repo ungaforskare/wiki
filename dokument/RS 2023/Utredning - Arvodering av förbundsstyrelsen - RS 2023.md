@@ -10,7 +10,7 @@ kategorier:
 >[!warning]
 > Rapportens två diagram (Figur 1 och Figur 2, med siffror från URIS 2022) gick inte att läsa ur OCR-texten och återges inte; bara figurtexterna står kvar. Bilagan hör till [Proposition - Arvodering av förbundsordförande och vice - RS 2023](Proposition%20-%20Arvodering%20av%20förbundsordförande%20och%20vice%20-%20RS%202023.md).
 
-Dokumentansvariga: [[Max Vinger]] ([förbundsstyrelsen](../../verksamheter/FS%20(Förbundsstyrelsen).md)), [[Max Robertsson]] (förbundsstyrelsen), [[Hugo Backlund]] ([valberedningen](../../verksamheter/Valberedningen.md)), 2023-09-21
+Dokumentansvariga: [Max Vinger](../../personer/Max%20Vinger.md) ([förbundsstyrelsen](../../verksamheter/FS%20(Förbundsstyrelsen).md)), [Max Robertsson](../../personer/Max%20Robertsson.md) (förbundsstyrelsen), [Hugo Backlund](../../personer/Hugo%20Backlund.md) ([valberedningen](../../verksamheter/Valberedningen.md)), 2023-09-21
 
 # Utredning — Arvodering av förbundsstyrelsen
 
@@ -91,7 +91,7 @@ Under perioder har det funnits tankar om att minimera förbundsstyrelsens involv
 
 En viktig aspekt att ta ställning till i frågan om införandet av en arvodering är kostnaden. Utöver de pengar som skulle betalas ut behöver även förbundet betala arbetsgivaravgifter och andra avgifter. Totalt kostar det förbundet ungefär 30-50% mer än vad en enskild person får ut i arvode.
 
-I Unga Forskare finns det två olika typer av ekonomiska medel, bundna och obundna. Obundna medel är pengar som är lite mer fria där vi har handlingsutrymme att styra mer generellt hur de ska användas inom en bredare ram, så länge det uppfyller sponsorernas/finansiärernas eventuella önskemål om användningsområde/syfte, vilket kan vara ett specifikt projekt eller verksamhet. Bundna medel har som syfte att finansiera särskilda ändamål och verksamheter men även specifika enskilda kostnadsposter. De medel som skulle kunna användas för att finansiera en arvodering av förbundsstyrelsen är obundna medel från [[MUCF (Myndigheten för ungdoms- och civilsamhällesfrågor)|Myndigheten för ungdoms- och civilsamhällsfrågor (MUCF)]] som ger ett statsbidrag till barn- och ungdomsorganisationer. Detta statsbidrag står idag för ungefär 20% av Unga Forskares intäkter och finansierar:
+I Unga Forskare finns det två olika typer av ekonomiska medel, bundna och obundna. Obundna medel är pengar som är lite mer fria där vi har handlingsutrymme att styra mer generellt hur de ska användas inom en bredare ram, så länge det uppfyller sponsorernas/finansiärernas eventuella önskemål om användningsområde/syfte, vilket kan vara ett specifikt projekt eller verksamhet. Bundna medel har som syfte att finansiera särskilda ändamål och verksamheter men även specifika enskilda kostnadsposter. De medel som skulle kunna användas för att finansiera en arvodering av förbundsstyrelsen är obundna medel från [Myndigheten för ungdoms- och civilsamhällsfrågor (MUCF)](../../organisationer/MUCF%20(Myndigheten%20för%20ungdoms-%20och%20civilsamhällesfrågor).md) som ger ett statsbidrag till barn- och ungdomsorganisationer. Detta statsbidrag står idag för ungefär 20% av Unga Forskares intäkter och finansierar:
 
 - förbundsstyrelsen, valberedningen och revisorerna,
 - medlemsbidraget och projektbidragen,

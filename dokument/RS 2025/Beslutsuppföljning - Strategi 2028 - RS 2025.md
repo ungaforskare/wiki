@@ -58,7 +58,7 @@ Detta mål mäts för fysiska, separata och ej lärarbokade tillfällen. Det mä
 
 ### 2.1. Unga Forskare omnämns i media minst 150 gånger per år
 
-Under Utställningen var de en stor närvaro av media då [[TV4]] var på plats och det gjordes även inslag i [[SVT]] Stockholm, [[P4]] och [[Nyhetsmorgon]].
+Under Utställningen var de en stor närvaro av media då [TV4](../../organisationer/TV4.md) var på plats och det gjordes även inslag i [[SVT]] Stockholm, [[P4]] och [[Nyhetsmorgon]].
 
 >[!figur]
 > Figur: Resultat av strategimål 2.1
@@ -72,7 +72,7 @@ I år har Unga Forskare medverkat i två debattartiklar, en om STEM-strategin (s
 
 ### 2.3. Unga Forskare får möjligheten att påverka frågor i linje med det politiska programmet genom exempelvis remissvar, relevanta branschforum och mediaförfrågningar minst 20 gånger per år
 
-Unga Forskare deltog i ett rundabordssamtal med [[RISE]] och [[Vetenskapsrådet]] om skolan i en kunskapsnation i april.
+Unga Forskare deltog i ett rundabordssamtal med [[RISE]] och [Vetenskapsrådet](../../organisationer/Vetenskapsrådet.md) om skolan i en kunskapsnation i april.
 
 >[!figur]
 > Figur: Resultat av strategimål 2.3

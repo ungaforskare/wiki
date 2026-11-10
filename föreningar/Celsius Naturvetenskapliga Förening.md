@@ -1,0 +1,6 @@
+---
+aliases:
+  - Celsius
+kategorier:
+  - förening
+---

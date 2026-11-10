@@ -28,7 +28,7 @@ För att kunna driva ett effektivt påverkans- och opinionsarbete anser vi att k
 
 ### Arbetsprocessen
 
-Förbundsstyrelsen beslutade i början av året att överlåta utredningen av åsiktsprofilen till utskottet för externa relationer, en arbetsgrupp i förbundsstyrelsen med ansvar för bland annat vårt påverkans- och opinionsarbete. Gruppen har bestått av [[Brendan R. Joseph]], [[Aleksander Berger]], [[Marina Peltonen]] och [[Simon Åstrand]]. Arbetet har utförts i etapper, med stort fokus på att åsiktsprofilen ska ha bred förankring i hela medlemsorganisationen. Därav har konsultationer gjorts med olika delar av organisationen - förtroendevalda, ideellt aktiva och anställda, samt medlemmar och företrädare för medlemsföreningar.
+Förbundsstyrelsen beslutade i början av året att överlåta utredningen av åsiktsprofilen till utskottet för externa relationer, en arbetsgrupp i förbundsstyrelsen med ansvar för bland annat vårt påverkans- och opinionsarbete. Gruppen har bestått av [Brendan R. Joseph](../../personer/Brendan%20R.%20Joseph.md), [Aleksander Berger](../../personer/Aleksander%20Berger.md), [Marina Peltonen](../../personer/Marina%20Peltonen.md) och [Simon Åstrand](../../personer/Simon%20Åstrand.md). Arbetet har utförts i etapper, med stort fokus på att åsiktsprofilen ska ha bred förankring i hela medlemsorganisationen. Därav har konsultationer gjorts med olika delar av organisationen - förtroendevalda, ideellt aktiva och anställda, samt medlemmar och företrädare för medlemsföreningar.
 
 Arbetet påbörjades under januari 2024 där förbundsstyrelsen beslutade att delegera arbetet med åsiktsprofilen till utskottet för externa relationer. Under tidig vår planerade gruppen det kommande utredningsarbetet och en genomgång gjordes av tidigare års åsiktsprofiler och fokusteman. Detta i syfte att fånga upp trender och få ett historiskt perspektiv på Unga Forskares hållning i påverkansarbetet. Därefter anordnades enkäter som skickades ut till samtliga medlemsföreningar och intervjuer hölls med personer från organisationens olika delar. Detta för att samla olika perspektiv och ta nytta av den breda kompetens som finns bland våra medlemmar. Det löpande arbetet har kontinuerligt rapporterats om till förbundsstyrelsen och olika utkast togs fram i slutet av våren.
 
@@ -77,7 +77,7 @@ Linköping, den 6 oktober 2024
 
 ## Politiskt program 2025
 
-Ansvariga: [[Brendan R. Joseph]], [[Aleksander Berger]], [[Marina Peltonen]], [[Simon Åstrand]]
+Ansvariga: [Brendan R. Joseph](../../personer/Brendan%20R.%20Joseph.md), [Aleksander Berger](../../personer/Aleksander%20Berger.md), [Marina Peltonen](../../personer/Marina%20Peltonen.md), [Simon Åstrand](../../personer/Simon%20Åstrand.md)
 
 ### Unga Forskares roll i samhällsdebatten
 

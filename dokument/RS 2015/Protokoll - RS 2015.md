@@ -3,11 +3,11 @@ start: 2015-11-13
 end: 2015-11-15
 mötesordförande:
   - "[Karl Larsson](../../personer/Karl%20Larsson.md)"
-  - "[[Yi-Hua Zhang]]"
+  - "[Yi-Hua Zhang](../../personer/Yi-Hua%20Zhang.md)"
 mötessekreterare:
-  - "[[Izabella Remmert]]"
+  - "[Izabella Remmert](../../personer/Izabella%20Remmert.md)"
 platser:
-  - "[[Katedralskolan Linköping]]"
+  - "[Katedralskolan Linköping](../../skolor/Katedralskolan%20Linköping.md)"
 orter:
   - "[[Linköping]]"
 justerare:
@@ -17,14 +17,14 @@ rösträknare:
   - "[[Johan Sannemo]]"
   - "[[Alexander Forsman]]"
 inflytandepunktsansvariga:
-  - "[[Katarina Ericsson]]"
-  - "[[Paula Langöe]]"
-  - "[[Tove Ladberg]]"
+  - "[Katarina Ericsson](../../personer/Katarina%20Ericsson.md)"
+  - "[Paula Langöe](../../personer/Paula%20Langöe.md)"
+  - "[Tove Ladberg](../../personer/Tove%20Ladberg.md)"
 redaktionsutskott:
-  - "[[David Andersson]]"
+  - "[David Andersson](../../personer/David%20Andersson.md)"
   - "[Karl Larsson](../../personer/Karl%20Larsson.md)"
-  - "[[Izabella Remmert]]"
-  - "[[Yi-Hua Zhang]]"
+  - "[Izabella Remmert](../../personer/Izabella%20Remmert.md)"
+  - "[Yi-Hua Zhang](../../personer/Yi-Hua%20Zhang.md)"
 kategorier:
   - "[[RS (Riksstämman)|Riksstämman]]"
   - "[[protokoll]]"
@@ -37,7 +37,7 @@ kategorier:
 
 ## §1 Riksstämmans öppnande
 
-> Förbundsordförande [[Diana Diez]] förklarade mötet öppnat den 13 november 2015, klockan 20.50.
+> Förbundsordförande [Diana Diez](../../personer/Diana%20Diez.md) förklarade mötet öppnat den 13 november 2015, klockan 20.50.
 
 ## §2 Mötesformalia
 
@@ -48,9 +48,9 @@ Bilaga 1. Mötesfunktionärer.
 >[!beslut]
 > RS beslutar
 >
-> att I välja [Karl Larsson](../../personer/Karl%20Larsson.md) och [[Yi-Hua Zhang]] till mötesordföranden samt,
+> att I välja [Karl Larsson](../../personer/Karl%20Larsson.md) och [Yi-Hua Zhang](../../personer/Yi-Hua%20Zhang.md) till mötesordföranden samt,
 >
-> att II välja [[Izabella Remmert]] till mötessekreterare
+> att II välja [Izabella Remmert](../../personer/Izabella%20Remmert.md) till mötessekreterare
 
 ### §2b Val av två protokolljusterare tillika rösträknare
 
@@ -93,7 +93,7 @@ Bilaga 1. Mötesfunktionärer.
 >[!beslut]
 > RS beslutar
 >
-> att VII välja [[Sara Svanberg]], [[Axel Flinth]] samt [[Simon Ljus]] till valutskott.
+> att VII välja [Sara Svanberg](../../personer/Sara%20Svanberg.md), [[Axel Flinth]] samt [Simon Ljus](../../personer/Simon%20Ljus.md) till valutskott.
 >
 > Valutskottet presenterar sitt förslag på valberedning senast söndag 2015-11-15, klockan 08:00.
 >
@@ -145,9 +145,9 @@ Bilaga 1. Mötesfunktionärer.
 >[!beslut]
 > RS beslutar
 >
-> att XII välja [[Katarina Ericsson]], [[Paula Langöe]] och [[Tove Ladberg]] till inflytandepunktansvariga för respektive punkt.
+> att XII välja [Katarina Ericsson](../../personer/Katarina%20Ericsson.md), [Paula Langöe](../../personer/Paula%20Langöe.md) och [Tove Ladberg](../../personer/Tove%20Ladberg.md) till inflytandepunktansvariga för respektive punkt.
 >
-> att XIII utse [[David Andersson]], [Karl Larsson](../../personer/Karl%20Larsson.md), [[Izabella Remmert]] samt [[Yi-Hua Zhang]] till redaktionsutskott.
+> att XIII utse [David Andersson](../../personer/David%20Andersson.md), [Karl Larsson](../../personer/Karl%20Larsson.md), [Izabella Remmert](../../personer/Izabella%20Remmert.md) samt [Yi-Hua Zhang](../../personer/Yi-Hua%20Zhang.md) till redaktionsutskott.
 >
 > att XIV yrkandestopp infaller lördag 2015-11-14, klockan 17:00.
 >
@@ -269,7 +269,7 @@ Bilaga 1. Mötesfunktionärer.
 
 <!-- "Hera Protopapas-Wettergren" i källan; stavas "Hera Protopapas Wettergren" i röstlängden för RS 2014. -->
 
-> [Förbundsstyrelsen](../../verksamheter/FS%20(Förbundsstyrelsen).md) ställer sig bakom [[Izabella Remmert|Izabella Remmerts]] och [[Hera Protopapas Wettergren|Hera Protopapas-Wettergrens]] förslag till vision (att-sats 21 i Bilaga 18. Beslutsunderlag)
+> [Förbundsstyrelsen](../../verksamheter/FS%20(Förbundsstyrelsen).md) ställer sig bakom [Izabella Remmerts](../../personer/Izabella%20Remmert.md) och [[Hera Protopapas Wettergren|Hera Protopapas-Wettergrens]] förslag till vision (att-sats 21 i Bilaga 18. Beslutsunderlag)
 
 >[!beslut]
 > RS beslutar
@@ -319,7 +319,7 @@ Bilaga 1. Mötesfunktionärer.
 >[!beslut]
 > RS beslutar
 >
-> att XLIV välja [[Mikael Ingemyr]] till förbundsordförande för mandatperioden 2015-2016
+> att XLIV välja [Mikael Ingemyr](../../personer/Mikael%20Ingemyr.md) till förbundsordförande för mandatperioden 2015-2016
 
 ### §9b Fastställande av styrelsens storlek
 
@@ -337,9 +337,9 @@ Bilaga 1. Mötesfunktionärer.
 >
 > att XLVI välja
 >
-> - [[Emil Kling]]
-> - [[Malin Petersson]]
-> - [[Mats Hallström]]
+> - [Emil Kling](../../personer/Emil%20Kling.md)
+> - [Malin Petersson](../../personer/Malin%20Petersson.md)
+> - [Mats Hallström](../../personer/Mats%20Hallström.md)
 > - [[Niki Shams]]
 > - [[Signe Savén]]
 > - [[Ylvali Busch]]
@@ -353,16 +353,16 @@ Bilaga 1. Mötesfunktionärer.
 >[!beslut]
 > RS beslutar
 >
-> att XLVII fastslå [[PwC|PWC]] som Förbundet Unga Forskares revisorsbyrå verksamhetsåret 2016.
+> att XLVII fastslå [PWC](../../organisationer/PWC%20(PricewaterhouseCoopers).md) som Förbundet Unga Forskares revisorsbyrå verksamhetsåret 2016.
 >
-> att XLVIII välja [[Yi-Hua Zhang]] till verksamhetsrevisor för verksamhetsåret 2016
+> att XLVIII välja [Yi-Hua Zhang](../../personer/Yi-Hua%20Zhang.md) till verksamhetsrevisor för verksamhetsåret 2016
 
 ### §9e Val av valberedning
 
 >[!beslut]
 > RS beslutar
 >
-> att XLIX välja [[Johan Sannemo]], [[Jenny Sedhed]] samt [[Emma Svedenblad]] till [valberedning](../../verksamheter/Valberedningen.md) för verksamhetsåret 2016
+> att XLIX välja [[Johan Sannemo]], [Jenny Sedhed](../../personer/Jenny%20Sedhed.md) samt [[Emma Svedenblad]] till [valberedning](../../verksamheter/Valberedningen.md) för verksamhetsåret 2016
 
 ## §10 Övriga frågor
 
@@ -370,7 +370,7 @@ Bilaga 1. Mötesfunktionärer.
 
 ## §11 Stämmans avslutande
 
-> Nyvalde förbundsordföranden [[Mikael Ingemyr]] avslutar Riksstämman 2015, söndagen 2015-11-15, klockan 14:01.
+> Nyvalde förbundsordföranden [Mikael Ingemyr](../../personer/Mikael%20Ingemyr.md) avslutar Riksstämman 2015, söndagen 2015-11-15, klockan 14:01.
 
 ## BILAGOR TILL PROTOKOLLET
 

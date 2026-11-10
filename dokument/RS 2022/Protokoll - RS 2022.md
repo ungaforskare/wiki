@@ -2,23 +2,23 @@
 start: 2022-11-12
 end: 2022-11-13
 mötesordförande:
-  - "[[David Andersson]]"
+  - "[David Andersson](../../personer/David%20Andersson.md)"
 mötessekreterare:
-  - "[[Bahar Safari]]"
+  - "[Bahar Safari](../../personer/Bahar%20Safari.md)"
 platser:
-  - "[[Katedralskolan Linköping]]"
+  - "[Katedralskolan Linköping](../../skolor/Katedralskolan%20Linköping.md)"
 orter:
   - "[[Linköping]]"
 justerare:
-  - "[[Julia Mårtensson]]"
+  - "[Julia Mårtensson](../../personer/Julia%20Mårtensson.md)"
   - "[[Alice Evertsson]]"
 rösträknare:
-  - "[[Julia Mårtensson]]"
+  - "[Julia Mårtensson](../../personer/Julia%20Mårtensson.md)"
   - "[[Alice Evertsson]]"
 inflytandepunktsansvariga:
 redaktionsutskott:
-  - "[[David Andersson]]"
-  - "[[Bahar Safari]]"
+  - "[David Andersson](../../personer/David%20Andersson.md)"
+  - "[Bahar Safari](../../personer/Bahar%20Safari.md)"
 kategorier:
   - "[[RS (Riksstämman)|Riksstämman]]"
   - "[[protokoll]]"
@@ -73,7 +73,7 @@ kategorier:
 
 ## §1 Riksstämmans öppnande (Förbundsordförande)
 
-> Förbundsordförande [[Stella Axelsson]] förklarar mötet öppnat lördag 2022-11-12 kl. 13:12.
+> Förbundsordförande [Stella Axelsson](../../personer/Stella%20Axelsson.md) förklarar mötet öppnat lördag 2022-11-12 kl. 13:12.
 
 ## §2 Mötesformalia
 
@@ -88,9 +88,9 @@ Bilaga 1. Valberedningens förslag till mötespresidium.
 >[!beslut]
 > RS beslutar
 >
-> att 1 välja [[David Andersson]] till mötesordförande
+> att 1 välja [David Andersson](../../personer/David%20Andersson.md) till mötesordförande
 >
-> att 2 välja [[Bahar Safari]] till mötessekreterare
+> att 2 välja [Bahar Safari](../../personer/Bahar%20Safari.md) till mötessekreterare
 
 ### §2b Val av två protokolljusterare tillika rösträknare (Mötesordförande)
 
@@ -101,7 +101,7 @@ Bilaga 1. Valberedningens förslag till mötespresidium.
 >[!beslut]
 > RS beslutar
 >
-> att 3 välja [[Julia Mårtensson]] och [[Alice Evertsson]] till protokolljusterare tillika rösträknare
+> att 3 välja [Julia Mårtensson](../../personer/Julia%20Mårtensson.md) och [[Alice Evertsson]] till protokolljusterare tillika rösträknare
 
 ### §2c Beslut om mötets stadgeenliga utlysande (Mötesordförande)
 
@@ -436,11 +436,11 @@ Bilaga 19. Kandidaturer till revisorer
 >[!beslut]
 > RS beslutar
 >
-> att 29 fastställa [[PwC|Pricehouse Water Coopers (PWC)]] som revisionsbyrå verksamhetsåren 2023 — 2024
+> att 29 fastställa [Pricehouse Water Coopers (PWC)](../../organisationer/PWC%20(PricewaterhouseCoopers).md) som revisionsbyrå verksamhetsåren 2023 — 2024
 >
-> att 30 anta [[Linnea Suomenniemi]] som ordinarie verksamhetsrevisor verksamhetsåren 2023 — 2024
+> att 30 anta [Linnea Suomenniemi](../../personer/Linnea%20Suomenniemi.md) som ordinarie verksamhetsrevisor verksamhetsåren 2023 — 2024
 >
-> att 31 anta [[Ellen Hammarstedt]] som verksamhetsrevisorssuppleant verksamhetsåren 2023 - 2024
+> att 31 anta [Ellen Hammarstedt](../../personer/Ellen%20Hammarstedt.md) som verksamhetsrevisorssuppleant verksamhetsåren 2023 - 2024
 
 ### §8b Val av valberedning 2023 - 2024 (Förbundsstyrelsen)
 
@@ -453,7 +453,7 @@ Bilaga 20. Kandidaturer till valberedningen
 >
 > att 32 fastställa valberedningens storlek under mandatperioden 2023 - 2024 till tre (3) personer
 >
-> att 33 anta [[Hugo Backlund]], [[Bahar Safari]] och [[Kacper Morawiec]] som valberedning verksamhetsåren 2023 — 2024
+> att 33 anta [Hugo Backlund](../../personer/Hugo%20Backlund.md), [Bahar Safari](../../personer/Bahar%20Safari.md) och [Kacper Morawiec](../../personer/Kacper%20Morawiec.md) som valberedning verksamhetsåren 2023 — 2024
 
 ### §8c Fyllnadsval till förbundsstyrelsen 2022 — 2023 (Valberedningen)
 
@@ -466,7 +466,7 @@ Bilaga 21. Kandidaturer till fyllnadsval i förbundsstyrelsen
 >[!beslut]
 > RS beslutar
 >
-> att 34 fyllnadsvälja [[Julia Qiu]] och [[Nils Thorin]] till förbundsstyrelsen verksamhetsåren 2022 — 2023
+> att 34 fyllnadsvälja [Julia Qiu](../../personer/Julia%20Qiu.md) och [Nils Thorin](../../personer/Nils%20Thorin.md) till förbundsstyrelsen verksamhetsåren 2022 — 2023
 
 ## §9 Övriga frågor
 
@@ -492,15 +492,15 @@ Bilaga 23. Motion — Uppsökande arbete i underrepresenterade områden
 
 ## §10 Utmärkelser (Förbundsstyrelsen)
 
-> Årets förening: [[KYSS|Kungsholmen's Young Scientists' Society]]
+> Årets förening: [Kungsholmen's Young Scientists' Society](../../föreningar/KYSS%20(Kungsholmens%20Young%20Scientists'%20Society).md)
 >
 > Årets medlem: [[Sara Sterne]]
 >
-> Hedersmedlem: [[Linnea Suomenniemi]]
+> Hedersmedlem: [Linnea Suomenniemi](../../personer/Linnea%20Suomenniemi.md)
 
 ## §11 Stämmans avslutande (Förbundsordförande)
 
-> Unga Forskares förbundsordförande [[Stella Axelsson]] avslutar Riksstämman 2022 söndag 2022-11-13 (12:30).
+> Unga Forskares förbundsordförande [Stella Axelsson](../../personer/Stella%20Axelsson.md) avslutar Riksstämman 2022 söndag 2022-11-13 (12:30).
 
 ## BILAGOR TILL PROTOKOLLET
 

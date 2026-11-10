@@ -61,13 +61,13 @@ På Unga Forskares hemsida står följande (uttaget våren 2024, det har uppdate
 - [[eBas]]: Komplett nätbaserat medlems- och administrationssystem för föreningen
 - Stöd: Praktisk hjälp av Unga Forskares kansli i frågor att driva en förening.
 - Boende: Låna Unga Forskares lägenhet i Stockholm kostnadsfritt för föreningsaktiviteter
-- Nyttig läsning: Prenumeration på tidningen [[Forskning och Framsteg|forskning och framsteg]] till rabatterat pris samt boken Medlemsmodellen — rekrytera, aktivera och behålla medlemmar (av Hill & Sjöström Hederberg)
+- Nyttig läsning: Prenumeration på tidningen [forskning och framsteg](../../organisationer/Forskning%20&%20Framsteg.md) till rabatterat pris samt boken Medlemsmodellen — rekrytera, aktivera och behålla medlemmar (av Hill & Sjöström Hederberg)
 - Möjlighet till deltagande: i verksamheter, exempelvis [[Sommarforskarskolan|sommarforskarskolorna]] och [Utställningen Unga Forskare](../../verksamheter/UUF%20(Utställningen%20Unga%20Forskare).md). Därtill får föreningen skicka delegater till Unga Forskares årsmöte Riksstämman kostnadsfritt.
 - Stipendier: Möjlighet för era medlemmar att söka Unga Forskares olika stipendier
 
 ### 2.2 Bidragsstruktur och ekonomiska förutsättningar
 
-[[MUCF (Myndigheten för ungdoms- och civilsamhällesfrågor)|Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF)]] är en viktig bidragsgivare till Unga Forskare, liksom många andra barn- och ungdomsorganisationer i Sverige [1]. Detta bidrag utgör sedan grunden för medlems- och föreningsbidrag som barn- och ungdomsorganisationer delar ut till sina medlemsföreningar enligt figur 1. För att Unga Forskare ska kvalificera sig för MUCF:s bidrag måste organisationen uppfylla flera krav, inklusive att medlemskapet är frivilligt, att minst 60 procent av medlemmarna är mellan 6 och 25 år, och att det finns minst 1 000 medlemmar totalt samt att verksamhet bedrivs i minst fem län. Normalt sett är det inte tillåtet att flytta bidrag över åren utan alla pengar måste förbrukas under året.
+[Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF)](../../organisationer/MUCF%20(Myndigheten%20för%20ungdoms-%20och%20civilsamhällesfrågor).md) är en viktig bidragsgivare till Unga Forskare, liksom många andra barn- och ungdomsorganisationer i Sverige [1]. Detta bidrag utgör sedan grunden för medlems- och föreningsbidrag som barn- och ungdomsorganisationer delar ut till sina medlemsföreningar enligt figur 1. För att Unga Forskare ska kvalificera sig för MUCF:s bidrag måste organisationen uppfylla flera krav, inklusive att medlemskapet är frivilligt, att minst 60 procent av medlemmarna är mellan 6 och 25 år, och att det finns minst 1 000 medlemmar totalt samt att verksamhet bedrivs i minst fem län. Normalt sett är det inte tillåtet att flytta bidrag över åren utan alla pengar måste förbrukas under året.
 
 Totalt delar MUCF ut 262 MSEK i bidrag men samtidigt är det över 100 organisationer som konkurrerar om den varje år. Av detta tilldelades Unga Forskare 2 MSEK 2024 <!-- OCR: "20224"; rättat till "2024" (kontrollerat mot pdf:en). --> vilket består av en stor fast del och en mindre rörlig del. Den justeras alltså varken för inflation eller antalet medlemmar och i praktiken blir det färre reella kronor som går till barn- och ungdomsorganisationerna år efter år om ingen förändring genomförs från regeringens sida. 2020 gjordes en temporär höjning från 212 MSEK till 262 MSEK som visserligen har bestått, men samtidigt har regeringen föreslagit att minska detta från 2026 igen [2].
 
@@ -178,7 +178,7 @@ Sammanfattning: Föreningarna uttrycker ett brett spektrum av behov, från ökat
 
 ### 3.2 Analys av Unga Forskares bidragsstruktur
 
-Arbetsgruppen genomförde en grundlig analys av Unga Forskares medlems- och föreningsbidrag för att undersöka möjligheterna till höjningar. Denna analys inkluderade en jämförelse med andra ungdomsorganisationer samt en granskning av hur olika bidragsstrukturer kan påverkas av bidraget som Unga Forskare får från [[MUCF (Myndigheten för ungdoms- och civilsamhällesfrågor)|MUCF]].
+Arbetsgruppen genomförde en grundlig analys av Unga Forskares medlems- och föreningsbidrag för att undersöka möjligheterna till höjningar. Denna analys inkluderade en jämförelse med andra ungdomsorganisationer samt en granskning av hur olika bidragsstrukturer kan påverkas av bidraget som Unga Forskare får från [MUCF](../../organisationer/MUCF%20(Myndigheten%20för%20ungdoms-%20och%20civilsamhällesfrågor).md).
 
 #### 3.2.1 Bidragsstruktur hos andra förbund
 
@@ -194,7 +194,7 @@ Intressanta aspekter här är att alla föreningar inte följer samma bidragsstr
 | Förbund | Antal föreningar | Antal medlemmar (bidragsgrundande) | Föreningsbidrag | Medlemsbidrag | Övriga bidrag |
 |---|---|---|---|---|---|
 | [[Sverok]] [3] | 1037 | 18 154 | 2200 kr | 50 kr (onlineregistrerad); 20 kr (manuell) | 300 kr (flerår); 200 kr (årmöte) |
-| [[Astronomisk Ungdom]] [4] | 49 | 3619 | 2000 kr | 20 kr | Projektbidrag |
+| [Astronomisk Ungdom](../../föreningar/Astronomisk%20Ungdom.md) [4] | 49 | 3619 | 2000 kr | 20 kr | Projektbidrag |
 | [[Riksförbundet Unga Musikanter]] [5] | 265 | 19 247 | 1000 kr¹ | 17 kr² | Nej |
 | [[Sveriges Ungdomsråd]] [6] | 9 | 1097 | 0 | 0 | Resa och projekt |
 
@@ -260,7 +260,7 @@ Det här avsnittet diskuterar varje utredningspunkt var för sig och presenterar
 
 Det finns ett stort intresse bland medlemsföreningarna för att höja bidragsnivåerna, som inte har justerats sedan 2017. Våra enkäter och intervjuer visar tydligt att en höjning skulle möjliggöra fler projekt och aktiviteter för fler medlemmar samt täcka fasta kostnader som bankavgifter och lokalkostnader. Det främjar helt enkelt intresset för naturvetenskap, teknik och matematik bland unga som också är Unga Forskares syfte.
 
-Det måste samtidigt balanseras mot de ekonomiska förutsättningarna. Statsbidraget från [[MUCF (Myndigheten för ungdoms- och civilsamhällesfrågor)|MUCF]] är inte inflationsjusterat och riskerar även att minska 2026, där kombinationen med ett höjt bidrag potentiellt sätt skulle kunna bli problematiskt. Detta förslag borde också ses i ljuset av att Unga Forskare nuvarande bidrag redan är relativt generöst jämfört med andra organisationer med samma struktur. Årlig inflationsjustering av Unga Forskares bidrag anser arbetsgruppen av den anledningen inte vara ett hållbart alternativ för Unga Forskare. Däremot är det inte otänkbart att höja föreningsbidraget från 1500 kr → 2000 kr eller medlemsbidraget 45 kr/medlem → 50 kr/medlem som är mer i linje med de högsta bidragsnivåerna bland jämförbara ungdomsorganisationer. Detta är självklart inte gratis och behöver prioriteras med andra medlemsförmåner som också tar resurser.
+Det måste samtidigt balanseras mot de ekonomiska förutsättningarna. Statsbidraget från [MUCF](../../organisationer/MUCF%20(Myndigheten%20för%20ungdoms-%20och%20civilsamhällesfrågor).md) är inte inflationsjusterat och riskerar även att minska 2026, där kombinationen med ett höjt bidrag potentiellt sätt skulle kunna bli problematiskt. Detta förslag borde också ses i ljuset av att Unga Forskare nuvarande bidrag redan är relativt generöst jämfört med andra organisationer med samma struktur. Årlig inflationsjustering av Unga Forskares bidrag anser arbetsgruppen av den anledningen inte vara ett hållbart alternativ för Unga Forskare. Däremot är det inte otänkbart att höja föreningsbidraget från 1500 kr → 2000 kr eller medlemsbidraget 45 kr/medlem → 50 kr/medlem som är mer i linje med de högsta bidragsnivåerna bland jämförbara ungdomsorganisationer. Detta är självklart inte gratis och behöver prioriteras med andra medlemsförmåner som också tar resurser.
 
 Arbetsgruppen har identifierat att en höjning av föreningsbidraget från 1500 kr till 2000 kr skulle hjälpa små föreningar mest som också har störst behov. Denna höjning skulle kunna vara villkorad som t.ex. [[Sverok]] gör för att ge incitament till att medlemsrapportera löpande och skicka in årsmötesprotokoll. Det skulle få många fler positiva följdeffekter. Den mest uppenbara, framför allt i längden då alla föreningar årsrapporterar, är för budgetprocessen eftersom vi då bättre vet antalet medlemmar och hur mycket vi kommer behöva betala ut. Ytterligare en fördel att belysa är den att för varje förening som kontinuerligt årsrapporterar underlättas arbetsbelastningen för både kansli och föreningar då arbetsbelastningen sprids ut över året. Fler föreningar bör även uppfylla kraven på årsrapportering som denna sköts kontinuerligt.
 

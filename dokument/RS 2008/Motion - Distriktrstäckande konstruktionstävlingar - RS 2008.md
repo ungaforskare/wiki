@@ -80,7 +80,7 @@ Följande tre poster borde till lika stora delar täcka kostnaderna: deltagaravg
 >
 > att förbundsstyrelsen ges i uppdrag att under 2008 undersöka intresset för den här typen av verksamhet samt möjligheterna att under 2009 genomföra projektet i stora delar av landet,
 >
-> att 20 000 kronor avsätts i 2008 års budget för att under hösten 2008 genomföra ett pilotprojekt i [[Unga Forskare Östra Götaland]],
+> att 20 000 kronor avsätts i 2008 års budget för att under hösten 2008 genomföra ett pilotprojekt i [Unga Forskare Östra Götaland](../../distrikt/UFÖS%20(Unga%20Forskare%20Östergötland%20Småland).md),
 >
 > att 20 000 kronor avsätts i 2008 års budget för att under hösten 2008 genomföra ett pilotprojekt i ytterligare ett distrikt.
 

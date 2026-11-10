@@ -7,7 +7,7 @@ namn: Åsiktsprofil
 
 <!-- Bilaga 16 till RS 2012, "Proposition om åsiktsprofil", 2 sidor. Rubriken "ÅSIKTPROFIL" står så i källan. -->
 
-Dokumentansvarig: [[David Andersson]], 2012-10-11
+Dokumentansvarig: [David Andersson](../../personer/David%20Andersson.md), 2012-10-11
 
 ## Unga Forskares Åsiktsprofil
 

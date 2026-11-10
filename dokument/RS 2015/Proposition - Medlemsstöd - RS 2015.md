@@ -7,7 +7,7 @@ namn: Medlemsstöd
 
 <!-- Bilaga 12 till RS 2015. -->
 
-Dokumentansvarig: [[David Andersson]], 2015-10-15
+Dokumentansvarig: [David Andersson](../../personer/David%20Andersson.md), 2015-10-15
 
 ## Proposition: Medlemsstöd
 

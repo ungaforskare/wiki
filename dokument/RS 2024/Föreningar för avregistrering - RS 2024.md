@@ -25,12 +25,12 @@ Avregistrering och uteslutning av föreningar i Unga Forskare regleras i stadgar
 
 Med bakgrund i detta föreslås det i år att avregistrera följande föreningar
 
-- [[Kemi- och Biotekniksektionen inom TLTH]]
-- [[ProCivitas Vetenskapsråd]]
+- [Kemi- och Biotekniksektionen inom TLTH](../../föreningar/Kemi-%20och%20biotekniksektionen%20inom%20TLTH.md)
+- [ProCivitas Vetenskapsråd](../../föreningar/ProCivitas%20Vetenskapsråd.md)
 - [[Widerströmska forskningsföreningen]]
 - [[Mathematics for the future]]
-- [[Ung Vetenskapssport]]
-- [[Kodsport]]
+- [Ung Vetenskapssport](../../föreningar/Ung%20Vetenskapssport.md)
+- [Kodsport](../../föreningar/Kodsport%20Sverige.md)
 
 >[!yrkande]
 > Därför föreslår förbundsstyrelsen Riksstämman besluta

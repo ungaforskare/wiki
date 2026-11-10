@@ -82,7 +82,7 @@ Ref: [Unga Forskares Linnépris](../../verksamheter/Unga%20Forskares%20Linnépri
 
 Målgrupp: Ungdomar i åldern 15-20 år
 
-Uppdrag: Dela ut priset i samband med [vetenskapsfestivalen](../../organisationer/Vetenskapsfestivalen.md) i [[Göteborg]] till ett projekt inom naturvetenskap eller teknik som gjort en insats för samhället. Unga Forskares Linnépris ska marknadsföras särskilt bland FUF:s medlemmar. Projektet ska förankras, utvärderas och kvalitetssäkras för att kunna bli ett återkommande arrangemang.
+Uppdrag: Dela ut priset i samband med [vetenskapsfestivalen](../../organisationer/Vetenskapsfestivalen.md) i [Göteborg](../../platser/orter/Göteborg.md) till ett projekt inom naturvetenskap eller teknik som gjort en insats för samhället. Unga Forskares Linnépris ska marknadsföras särskilt bland FUF:s medlemmar. Projektet ska förankras, utvärderas och kvalitetssäkras för att kunna bli ett återkommande arrangemang.
 
 ### Dela ut FUF-stipendier
 

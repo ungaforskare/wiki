@@ -2,34 +2,36 @@
 start: 2005-03-19
 end: 2005-03-20
 mötesordförande:
-  - "[[Lage Rahm]]"
+  - "[Lage Rahm](../../personer/Lage%20Rahm.md)"
 mötessekreterare:
   - "[[Lana Bublik]]"
 platser:
   - "[[KTH (Kungliga Tekniska Högskolan)]]"
 orter:
-  - "[[Stockholm]]"
+  - "[Stockholm](../../platser/orter/Stockholm.md)"
 justerare:
   - "[[Elin Einarson]]"
-  - "[[Robert Jacobsson]]"
+  - "[Robert Jacobsson](../../personer/Robert%20Jacobsson.md)"
 rösträknare:
   - "[[Elin Einarson]]"
-  - "[[Robert Jacobsson]]"
+  - "[Robert Jacobsson](../../personer/Robert%20Jacobsson.md)"
 inflytandepunktsansvariga:
   - "[Martin Olsson](../../personer/Martin%20Olsson.md)"
-  - "[[Lina Sundberg]]"
+  - "[Lina Sundberg](../../personer/Lina%20Sundberg.md)"
   - "[Pererik Andreasson](../../personer/Pererik%20Andreasson.md)"
-  - "[[Erik Frick]]"
+  - "[Erik Frick](../../personer/Erik%20Frick.md)"
 redaktionsutskott:
   - "[Martin Olsson](../../personer/Martin%20Olsson.md)"
-  - "[[Erik Frick]]"
-  - "[[Anna Alfredsson]]"
-  - "[[Robert Henriksson]]"
+  - "[Erik Frick](../../personer/Erik%20Frick.md)"
+  - "[Anna Alfredsson](../../personer/Anna%20Alfredsson.md)"
+  - "[Robert Henriksson](../../personer/Robert%20Henriksson.md)"
   - "[Pererik Andreasson](../../personer/Pererik%20Andreasson.md)"
 kategorier:
   - "[[RS (Riksstämman)|Riksstämman]]"
   - "[[protokoll]]"
 ---
+
+<!-- Källan anger tid 2005-03-19 9:09 till 2005-03-20 10.30 och närvarande "Se bilaga 1". Signaturblocken (initialer på varje sida, namnteckningar på sista sidan) är borttagna. Justeraren stavas "Elin Einarson" i §3 men "Elin Einarsson" i signaturblocket; rätt stavning är okänd. I §8 stavas valberedningens sammankallande en gång "Andréas Rocén". -->
 
 ## §1 Stämmans öppnande
 
@@ -136,10 +138,10 @@ Inflytandepunktsansvariga presenterar sig kort.
 ### §6e Val av redaktionsutskott
 
 >[!yrkande]
-> Förbundsstyrelsen föreslår
+> Förbundsstyrelsen föreslår stämman:
 >
 > att till redaktionsutskott utse [Martin Olsson](../../personer/Martin%20Olsson.md),
-> [Erik Frick](../../personer/Erik%20Frick.md), [Anna Alfredsson](../../personer/Anna%20Alfredsson.md), [[Robert Henriksson]] och
+> [Erik Frick](../../personer/Erik%20Frick.md), [Anna Alfredsson](../../personer/Anna%20Alfredsson.md), [Robert Henriksson](../../personer/Robert%20Henriksson.md) och
 > [Pererik Andreasson](../../personer/Pererik%20Andreasson.md).
 
 >[!beslut]
@@ -190,19 +192,19 @@ Inflytandepunktsansvariga presenterar sig kort.
 
 [[Maria Johansson]]
 
-[[Robert Henriksson]]
+[Robert Henriksson](../../personer/Robert%20Henriksson.md)
 
-[[Gabriella Lindén]]
+[Gabriella Lindén](../../personer/Gabriella%20Lindén.md)
 
 *Förslag på revisorer:*
 
-> Auktoriserad*:* [Sune Johnsson](../../personer/Sune%20Johnson.md), [[Öhrlings PricewaterhouseCoopers]]
+Auktoriserad: [Sune Johnsson](../../personer/Sune%20Johnson.md), [Öhrlings PricewaterhouseCoopers](../../organisationer/PWC%20(PricewaterhouseCoopers).md)
 
-Ideell: [Sune Hilstad](../../personer/Sune%20Hilstad.md), [[Ingenjörssamfundet]].
+Ideell: [Sune Hilstad](../../personer/Sune%20Hilstad.md), [Ingenjörssamfundet](../../organisationer/Ingenjörssamfundet.md).
 
 *Förslag på revisorssuppleanter:*
 
-Auktoriserad: [Magnus Backlund](../../personer/Magnus%20Backlund.md), [[Öhrlings PricewaterhouseCoopers]]
+Auktoriserad: [Magnus Backlund](../../personer/Magnus%20Backlund.md), [Öhrlings PricewaterhouseCoopers](../../organisationer/PWC%20(PricewaterhouseCoopers).md)
 
 Ideell: [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
 
@@ -210,9 +212,7 @@ Ideell: [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
 > själva kort.
 >
 > De föreslagna presenterar sig kort.
-
--
-
+>
 > [Andreas Rocén](../../personer/Andreas%20Rocén.md) informerar om att ny valberedning ska väljas samt
 > att det ännu finns möjlighet att lägga fler förslag/byta ut föreslagna
 
@@ -327,9 +327,6 @@ Ideell: [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
 
 ## §12 Avregistrering av föreningar, samt rapport om föreningar antagna sedan RS 2004 (bilaga 11)
 
->[!warning]
->OBS: rubrikens hänvisning till "bilaga 11" stämmer inte helt med bilagelistan i slutet av protokollet, som avregistreringsunderlaget istället lägger under bilaga 9. Avvikelsen fanns redan i källdokumentet och har inte rättats här - värt att dubbelkolla mot originalhandlingen.
-
 >[!yrkande]
 > Inflytandepunktens huvudyrkande angående avregistrering
 >
@@ -343,7 +340,7 @@ Ideell: [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
 
 >[!yrkande]
 > **12 c** att föreningar enligt bilaga 10 ska avregistreras, med
-> undantag för [[Celsius]]
+> undantag för [Celsius](../../föreningar/Celsius%20Naturvetenskapliga%20Förening.md)
 >
 > **12 d** att stämman återigen bifaller att det inte är tillåtet att
 > lägga fler förslag.
@@ -351,7 +348,7 @@ Ideell: [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
 >[!beslut]
 > RS beslutar
 >
-> att bifalla yrkande 12 b -- 12 c och avslå 12 a
+> att bifalla yrkande 12 b – 12 c och avslå 12 a
 
 ## §13 Motioner och propositioner (bilaga 12)
 
@@ -368,7 +365,7 @@ Ideell: [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
 >[!yrkande]
 > **Övriga yrkanden:**
 >
-> **13 I c** att Riksstämman skall besluta att [UFV (Unga Forskare Väst)](../../distrikt/UFV%20(Unga%20Forskare%20Väst).md) får introduktionskursen
+> **13 I c** att Riksstämman skall besluta att [UFV](../../distrikt/UFV%20(Unga%20Forskare%20Väst).md) får introduktionskursen
 >
 > **13 I d** att Riksstämman ska besluta att [[Kontaktgruppen]] åläggs
 > att hjälpa till med uppföljningen av introduktionskursen
@@ -399,8 +396,8 @@ Ideell: [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
 > > skall genomföras i samarbete med distrikten.
 >
 > **14 c** att Förbundsstyrelsen arbetar för att finansiera
-> stipendieresor för förbundets medlemmar till [[Australien]] och
-> [[Serbien]], samt även får ansvar för att utarbeta kriterier för hur
+> stipendieresor för förbundets medlemmar till [Australien](../../platser/länder/Australien.md) och
+> [Serbien](../../platser/länder/Serbien.md), samt även får ansvar för att utarbeta kriterier för hur
 > stipendiater skall väljas ut.
 >
 > **14 d** att stipendiepaketet lanseras med en ny hemsida tillsammans
@@ -442,7 +439,7 @@ Ideell: [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
 > **16a** att fastställa föreslagen budget för FUF 2005, med tillägget
 > att 5000 kr från det budgetterade överskottet avsätts till att
 > arrangera den lokala [Unga Forskareutställningen](../../verksamheter/UUF%20(Utställningen%20Unga%20Forskare).md)
-> i [[Malmö]] den 3 april.
+> i [Malmö](../../platser/orter/Malmö.md) den 3 april.
 
 >[!beslut]
 > RS beslutar
@@ -505,9 +502,9 @@ Ideell: [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
 >[!yrkande]
 > Inflytandepunktens huvudyrkande angående valberedning:
 >
-> **21 a** att välja [[Henric Fröberg]] till sammankallande ledamot och
+> **21 a** att välja [Henric Fröberg](../../personer/Henric%20Fröberg.md) till sammankallande ledamot och
 > [Hanna Modin](../../personer/Hanna%20Modin.md), [Samuel Tylstedt](../../personer/Samuel%20Tylstedt.md), [[Torbjörn Diderholm Korell]],
-> [[Viktor Johansson]] och [[Petter Blomberg]] till ledamöter i
+> [[Viktor Johansson]] och [Petter Blomberg](../../personer/Petter%20Blomberg.md) till ledamöter i
 > valberedningen
 
 >[!yrkande]
@@ -583,3 +580,6 @@ Ideell: [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
 12. Budget för Förbundet Unga Forskare 2005.
 
 13. Beslutsunderlag för Riksstämman 2005
+
+>[!warning]
+> Källan innehåller bara protokollet, inga bilagor. Bilagenumren i protokollets text (bilaga 3–16) stämmer inte med bilagelistan ovan (bilaga 1–13). De motsvarar i stället numreringen i RS 2004:s protokoll. Till exempel hänvisar §10a till verksamhetsberättelsen som bilaga 3, men i listan är den bilaga 2. §12 anger avregistreringen som bilaga 10 och 11, men i listan är den bilaga 9. Budgeten i §16 är bilaga 16 i texten men bilaga 12 i listan. Numren står som i källan.

@@ -18,12 +18,12 @@ Berättelsen hade åtta kapitel: Ordförande har ordet, Verksamhet, Arrangemang,
 * AB SKF
 * A&M Ax:son Johnsons Stiftelse
 * Atlas Copco AB
-* [[Anders Walls Stiftelser]]
-* [[Bertil Wollerts Stipendiefond]]
+* [Anders Walls Stiftelser](../../organisationer/Anders%20Walls%20stiftelse.md)
+* [Bertil Wollerts Stipendiefond](../../organisationer/Bertil%20Wollerts%20stipendiefond.md)
 * Craafordska stiftelsen
 * Gertrud och Ivar Philipsons Stiftelse
 * Knut och Alice Wallenbergs stiftelse
-* [[MISTRA|Mistra]]
+* [Mistra](../../organisationer/MISTRA.md)
 * Pharmacia
 * Stiftelsen för strategisk forskning
 * AB Marabou

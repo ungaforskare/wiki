@@ -4,25 +4,25 @@ end: 2013-12-01
 mötesordförande:
   - "[Johannes Zeltner Wolff](../../personer/Johannes%20Zeltner%20Wolff.md)"
 mötessekreterare:
-  - "[[Emil Kling]]"
+  - "[Emil Kling](../../personer/Emil%20Kling.md)"
 platser:
   - "[[Västanviks folkhögskola]]"
 orter:
   - "[[Leksand]]"
 justerare:
   - "[[Anders Lundkvist]]"
-  - "[[Yi-Hua Zhang]]"
+  - "[Yi-Hua Zhang](../../personer/Yi-Hua%20Zhang.md)"
 rösträknare:
   - "[[Anders Lundkvist]]"
-  - "[[Yi-Hua Zhang]]"
+  - "[Yi-Hua Zhang](../../personer/Yi-Hua%20Zhang.md)"
 inflytandepunktsansvariga:
-  - "[[Tove Ladberg]]"
+  - "[Tove Ladberg](../../personer/Tove%20Ladberg.md)"
   - "[[Anna Kain Wyatt]]"
   - "[[Josefine Andersson]]"
   - "[[Åsa Björk]]"
 redaktionsutskott:
   - "[Johannes Zeltner Wolff](../../personer/Johannes%20Zeltner%20Wolff.md)"
-  - "[[Emil Kling]]"
+  - "[Emil Kling](../../personer/Emil%20Kling.md)"
   - "[[Marcus Gidekull]]"
 kategorier:
   - "[[RS (Riksstämman)|Riksstämman]]"
@@ -33,7 +33,7 @@ kategorier:
 
 ## §1 Riksstämmans öppnande
 
-> Förbundsordförande [[Sanna Holm]] förklarar mötet öppnat.
+> Förbundsordförande [Sanna Holm](../../personer/Sanna%20Holm.md) förklarar mötet öppnat.
 >
 > 2013-11-29 klockan 22.23
 
@@ -46,14 +46,14 @@ kategorier:
 >
 > att välja [Johannes Zeltner Wolff](../../personer/Johannes%20Zeltner%20Wolff.md) till mötesordförande
 >
-> att välja [[Emil Kling]] till mötessekreterare
+> att välja [Emil Kling](../../personer/Emil%20Kling.md) till mötessekreterare
 
 ### §2b Val av två protokolljusterare tillika rösträknare
 
 >[!beslut]
 > RS beslutar
 >
-> att välja [[Anders Lundkvist]] och [[Yi-Hua Zhang]] till protokolljusterare tillika rösträknare
+> att välja [[Anders Lundkvist]] och [Yi-Hua Zhang](../../personer/Yi-Hua%20Zhang.md) till protokolljusterare tillika rösträknare
 
 ### §2c Beslut om mötets stadgeenliga utlysande
 
@@ -83,7 +83,7 @@ kategorier:
 >[!beslut]
 > RS beslutar
 >
-> att utse [[Daniel Kempe]], [[Gustav Johansson]], [[Thomas Gustavsson]] samt [[Alexander Forsman]] till valutskott med uppdrag att bereda förslag på ny valberedning. Valutskottet presenterar sitt förslag senast söndag 2013-12-01 kl 09.00
+> att utse [[Daniel Kempe]], [Gustav Johansson](../../personer/Gustav%20Johansson.md), [[Thomas Gustavsson]] samt [[Alexander Forsman]] till valutskott med uppdrag att bereda förslag på ny valberedning. Valutskottet presenterar sitt förslag senast söndag 2013-12-01 kl 09.00
 >
 > att ajournera riksstämman till lördag 2013-11-30 klockan 10.00
 
@@ -137,9 +137,9 @@ kategorier:
 >[!beslut]
 > RS beslutar
 >
-> att välja [[Tove Ladberg]], [[Anna Kain Wyatt]], [[Josefine Andersson]] samt [[Åsa Björk]] till inflytandepunktansvariga för respektive punkt
+> att välja [Tove Ladberg](../../personer/Tove%20Ladberg.md), [[Anna Kain Wyatt]], [[Josefine Andersson]] samt [[Åsa Björk]] till inflytandepunktansvariga för respektive punkt
 >
-> att välja [Johannes Z. Wolff](../../personer/Johannes%20Zeltner%20Wolff.md), [[Emil Kling]] samt [[Marcus Gidekull]] till redaktionsutskott
+> att välja [Johannes Z. Wolff](../../personer/Johannes%20Zeltner%20Wolff.md), [Emil Kling](../../personer/Emil%20Kling.md) samt [[Marcus Gidekull]] till redaktionsutskott
 >
 > att tillämpa yrkandesstopp kl 17:40 2013-11-30
 >
@@ -163,7 +163,7 @@ kategorier:
 >
 > att lägga Bilaga 4a. Rapport till riksstämman – strategigranskningen till handlingarna
 
-> [Förbundsstyrelsen](../../verksamheter/FS%20(Förbundsstyrelsen).md) jämkar sig med [[Nils Anlind]]s, [[David Andersson]]s och [[Anna Asratian]]s förslag på beslut (att-sats 1).
+> [Förbundsstyrelsen](../../verksamheter/FS%20(Förbundsstyrelsen).md) jämkar sig med [Nils Anlind](../../personer/Nils%20Anlind.md)s, [David Andersson](../../personer/David%20Andersson.md)s och [[Anna Asratian]]s förslag på beslut (att-sats 1).
 
 <!-- Källan saknar raden "Riksstämman beslutar" före att-satsen; tolkad som beslut. -->
 
@@ -313,7 +313,7 @@ kategorier:
 >[!beslut]
 > RS beslutar
 >
-> att välja [[Diana Diez]] till förbundsordförande
+> att välja [Diana Diez](../../personer/Diana%20Diez.md) till förbundsordförande
 
 ### §10b Fastställande av styrelsens storlek
 
@@ -332,12 +332,12 @@ kategorier:
 > att välja
 >
 > - [[Aleksandra Ivchenkovas]]
-> - [[Caroline Schagerholm]]
+> - [Caroline Schagerholm](../../personer/Caroline%20Schagerholm.md)
 > - [[Caspian Berggren]]
-> - [[David Andersson]]
-> - [[Jenny Sedhed]]
-> - [[Tove Verner-Carlsson]]
-> - [[Olle Nordesjö]]
+> - [David Andersson](../../personer/David%20Andersson.md)
+> - [Jenny Sedhed](../../personer/Jenny%20Sedhed.md)
+> - [Tove Verner-Carlsson](../../personer/Tove%20Verner-Carlsson.md)
+> - [Olle Nordesjö](../../personer/Olle%20Nordesjö.md)
 >
 > till förbundsstyrelseledamöter
 
@@ -346,14 +346,14 @@ kategorier:
 >[!beslut]
 > RS beslutar
 >
-> att välja [[Jenny Insulander]] (auktoriserad) och [[Yi-Hua Zhang]] (ideell) till ordinarie revisorer, samt [Sune Johnson](../../personer/Sune%20Johnson.md) (auktoriserad) och [Andreas Svensson](../../personer/Andreas%20Svensson.md) (ideell) till revisorsuppleanter
+> att välja [[Jenny Insulander]] (auktoriserad) och [Yi-Hua Zhang](../../personer/Yi-Hua%20Zhang.md) (ideell) till ordinarie revisorer, samt [Sune Johnson](../../personer/Sune%20Johnson.md) (auktoriserad) och [Andreas Svensson](../../personer/Andreas%20Svensson.md) (ideell) till revisorsuppleanter
 
 ### §10e Val av valberedning
 
 >[!beslut]
 > RS beslutar
 >
-> att välja [[Marika Mourujärvi]], [[Ludwig Ridderstolpe]], [[Malin Petersson]] samt [[Daniel Kempe]] till [valberedning](../../verksamheter/Valberedningen.md)
+> att välja [Marika Mourujärvi](../../personer/Marika%20Mourujärvi.md), [[Ludwig Ridderstolpe]], [Malin Petersson](../../personer/Malin%20Petersson.md) samt [[Daniel Kempe]] till [valberedning](../../verksamheter/Valberedningen.md)
 >
 > att mötet ajourneras till 2013-12-01 klockan 13.00
 
@@ -372,7 +372,7 @@ kategorier:
 
 <!-- I källan står "förbundsordförande" ensamt på en egen rad efter namnet; tolkat som en rest av en signaturrad och utelämnat. -->
 
-> Den nyvalda förbundsordföranden [[Diana Diez]] avslutar Riksstämman 2013 klockan 14.17.
+> Den nyvalda förbundsordföranden [Diana Diez](../../personer/Diana%20Diez.md) avslutar Riksstämman 2013 klockan 14.17.
 
 ## BILAGOR TILL PROTOKOLLET
 

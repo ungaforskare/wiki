@@ -13,7 +13,7 @@ Föreningar för avregistrering under Riksstämman 2013.
 
 - [[Elektronikföreningen]] (25)
 - [[Naturens Vänner]] (278)
-- [[Naturvetenskapliga Föreningen]] (327)
+- [Naturvetenskapliga Föreningen](../../föreningar/Naturvetenskapliga%20Föreningen.md) (327)
 - [[Forskare utan framsteg]] (381)
 - [[Föreningen Uppsala Naturvetare]] (384)
 - [[Bordläggarsällskapet]] (396)

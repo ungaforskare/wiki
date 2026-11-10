@@ -23,9 +23,9 @@ Den hotande ingenjörsbristen, samhällets behov av nya läkemedel och material 
 
 Förbundet hade inte kunna göra det här utan alla er som engagerar sig för förbundets sak. Tack för att ni gör skillnad! Det hade inte heller varit möjligt utan alla samarbetspartners som stödjer oss. Stort tack!
 
-[[David Ebbevi]], Ordförande, Förb. Unga Forskare
+[David Ebbevi](../../personer/David%20Ebbevi.md), Ordförande, Förb. Unga Forskare
 
-[[Daniel Madhani]], Generalsekreterare, Förb. Unga Forskare
+[Daniel Madhani](../../personer/Daniel%20Madhani.md), Generalsekreterare, Förb. Unga Forskare
 
 ## Unga Forskare på 1 minut
 
@@ -58,7 +58,7 @@ Ideella projektledare för elva olika ämnen inom naturvetenskap och teknik rekr
 
 ### David Ebbevi tar över rodret
 
-[[David Ebbevi]], 21, medicinstuderande från Borensberg, tar över som ordförande efter [Guncha Welsapar](../../personer/Guncha%20Welsapar.md).
+[David Ebbevi](../../personer/David%20Ebbevi.md), 21, medicinstuderande från Borensberg, tar över som ordförande efter [Guncha Welsapar](../../personer/Guncha%20Welsapar.md).
 
 ### TEND 2.0 på KTH
 
@@ -86,11 +86,11 @@ Deltagarna på Riksstämman blev naturligtvis också bjudna på kväveglass och 
 
 ### Ny experimenthandbok
 
-Med inspiration från den flera år gamla Aktivitetshandboken har den nya Experimenthandboken tagits fram med experimentbeskrivningar inom fysik, kemi och teknik. Boken innehåller förutom själva "recepten" även teoretiska förklaringar, materialtips och säkerhetsanvisningar. Den har mötts av positiva reaktioner från flera lärare. Författare är [Johanna Rogvall](../../personer/Johanna%20Rogvall.md) och [[David Andersson]].
+Med inspiration från den flera år gamla Aktivitetshandboken har den nya Experimenthandboken tagits fram med experimentbeskrivningar inom fysik, kemi och teknik. Boken innehåller förutom själva "recepten" även teoretiska förklaringar, materialtips och säkerhetsanvisningar. Den har mötts av positiva reaktioner från flera lärare. Författare är [Johanna Rogvall](../../personer/Johanna%20Rogvall.md) och [David Andersson](../../personer/David%20Andersson.md).
 
 ### Ny webbplats
 
-Vår webbplats har under året fått ett fantastiskt lyft med ett helt nytt utseende och layout tack vare vår [it-grupp](../../verksamheter/IT-gruppen.md). Vår projektledare i kommunikation [[Nils Anlind]] ledde arbetet med att introducera ett nytt diskussionsforum och wiki på webbplatsen.
+Vår webbplats har under året fått ett fantastiskt lyft med ett helt nytt utseende och layout tack vare vår [it-grupp](../../verksamheter/IT-gruppen.md). Vår projektledare i kommunikation [Nils Anlind](../../personer/Nils%20Anlind.md) ledde arbetet med att introducera ett nytt diskussionsforum och wiki på webbplatsen.
 
 ### Ökat medlemsantal ställer krav på registret
 
@@ -98,7 +98,7 @@ Vår webbplats har under året fått ett fantastiskt lyft med ett helt nytt utse
 
 ### Nya värderingar för likabehandlingsplan
 
-Förbundsstyrelseledamot [[Sanna Holm]] arbetade tillsammans med medlemmarna [[Anna Asratian]], [[Nils Anlind]] och [David Borg](../../personer/David%20Borg.md) för att ta fram nya värderingar för likabehandling. Bland annat slår deras utredning fast att alla i Unga Forskare oavsett kön, sexuell läggning, etnicitet, trosuppfattning, boendeort och ämnesintresse ska ha lika möjligheter i organisationen.
+Förbundsstyrelseledamot [Sanna Holm](../../personer/Sanna%20Holm.md) arbetade tillsammans med medlemmarna [[Anna Asratian]], [Nils Anlind](../../personer/Nils%20Anlind.md) och [David Borg](../../personer/David%20Borg.md) för att ta fram nya värderingar för likabehandling. Bland annat slår deras utredning fast att alla i Unga Forskare oavsett kön, sexuell läggning, etnicitet, trosuppfattning, boendeort och ämnesintresse ska ha lika möjligheter i organisationen.
 
 ### Uppdaterad policy
 
@@ -130,11 +130,11 @@ Stockholmsdistriktet har vuxit rejält under året. Fem föreningar har sökt oc
 
 Ref: [Unga Forskare Bergslagen](../../distrikt/UFB%20(Unga%20Forskare%20Bergslagen).md)
 
-Bergslagendistriktet har sakta men säkert växt och utökat sin verksamhet under året. Bland annat hölls en mycket uppskattad kurs i robotik, inkl tävlingsmoment och prisutdelning, på [[Mälardalens högskola]], som lockade många besökare. Lyckat projekt!
+Bergslagendistriktet har sakta men säkert växt och utökat sin verksamhet under året. Bland annat hölls en mycket uppskattad kurs i robotik, inkl tävlingsmoment och prisutdelning, på [Mälardalens högskola](../../skolor/Mälardalens%20universitet.md), som lockade många besökare. Lyckat projekt!
 
 ### Östra Götaland satsar på skolan
 
-Ref: [[Unga Forskare Östra Götaland]]
+Ref: [Unga Forskare Östra Götaland](../../distrikt/UFÖS%20(Unga%20Forskare%20Östergötland%20Småland).md)
 
 Östra Götaland har under året satsat på skolbesök i Norrköping och Vimmerby. Distriktet arrangerade också en sommarforskarskola i [Linköping](../../platser/orter/Linköping.md). Ett samarbete med Utställningen Unga Forskare har lett till nya externa kontakter.
 
@@ -160,7 +160,7 @@ Distriktet höll sin traditionsenliga show för allmänheten under Uppsalas kult
 
 Ref: [Projektbanken](../../verksamheter/Projektbanken.md)
 
-Under våren 2011 var Projektbanken med på en turné som [[Skolverket]] ordnade. Projektbanken höll föreläsningar om hur man som lärare kan hjälpa elever att komma på egna projekt med hjälp av "idégeneratorn" som finns på förbundets webbplats. Sammanlagt besökte Projektbanken fyra olika städer och nådde över 400 lärare i Sverige med sin information.
+Under våren 2011 var Projektbanken med på en turné som [Skolverket](../../organisationer/Skolverket.md) ordnade. Projektbanken höll föreläsningar om hur man som lärare kan hjälpa elever att komma på egna projekt med hjälp av "idégeneratorn" som finns på förbundets webbplats. Sammanlagt besökte Projektbanken fyra olika städer och nådde över 400 lärare i Sverige med sin information.
 
 Ett samarbete med Skolverket inleddes även under våren. Samarbetet innebar att Förbundet Unga Forskare skulle ordna lärardagar med sponsring av Skolverket, under våren 2012 runt om i Sverige.
 
@@ -193,14 +193,14 @@ Utställningen Unga Forskare anordnades i år i 6 städer runtom i Sverige. [[Fr
 - [Intel International Science and Engineering Fair](../../organisationer/Intel%20ISEF.md) (världens största tävling för tekniskt och naturvetenskapligt intresserade ungdomar som i år hålls i Los Angeles): [[Daniel Nordqvist]] och [[Sanne Johansson]]
 - [[RSI (Research Science Institute)|Research Science Institute]] (sex veckors forskarläger på Massachusetts Insitute of Technology): [[Johannes Orstadius]] och [[Dennis Alp]]
 - [EU-Contest](../../organisationer/EU%20Contest.md) (en veckas utställning i Helsingfors): [[Henrik Nylander]], [[Johan Danielsson]], [[Victoria Welander]] och [[Anna Welsapar]]
-- [[London International Youth Science Forum]] (två veckors forskningsforum i London): [[Frida Ulander]], [[Louise Dahlin]] och [[Sanna Renius]]
+- [London International Youth Science Forum](../../organisationer/London%20International%20Youth%20Science%20Forum.md) (två veckors forskningsforum i London): [[Frida Ulander]], [[Louise Dahlin]] och [[Sanna Renius]]
 - [[CASTIC (China Adolescents Science and Technology Innovation Contest)|China Adolescents Science and Technology Innovation Contest]] (en nationell tävling och expedition i Kina): [[Josefin Jansson Edqvist]] och [[Hjalmar Ekberg Skog]]
 
 ## Sjudande aktiviteter i förbundets föreningar och projektgrupper
 
 [[Uppsala naturvetenskapliga förening|Uppsala Naturvetenskapliga Förening]] förmedlar samarbeten mellan industri och akademi. Föreningens syfte är att ge studenter möjlighet att praktiskt tillämpa sina teoretiska kunskaper genom främst biotekniska eller bioinformatiska forskningsprojekt som bedrivs tillsammans med universitet och företag.
 
-Stockholmsföreningen [[KYSS]] på [[Kungsholmens gymnasium]] har kommit igång ordentligt under året. De har anordnat en rubiks kub-tävling, hållit studiecirklar för elever på skolan och har dessutom instiftat ett stipendium som delas ut till naturvetenskapliga projektarbeten. Medlemmarna har också varit på studiebesök på [[Stockholms universitet]].
+Stockholmsföreningen [KYSS](../../föreningar/KYSS%20(Kungsholmens%20Young%20Scientists'%20Society).md) på [[Kungsholmens gymnasium]] har kommit igång ordentligt under året. De har anordnat en rubiks kub-tävling, hållit studiecirklar för elever på skolan och har dessutom instiftat ett stipendium som delas ut till naturvetenskapliga projektarbeten. Medlemmarna har också varit på studiebesök på [Stockholms universitet](../../skolor/Stockholms%20universitet.md).
 
 [[Umeå Hackerspace]] består av teknikintresserade kompisar som bland annat byggt en egen 3D-printer, så kallad reprap. Det var medlemmar ur denna förening som under året bestämde sig för att starta upp förbundets vilande distrikt i Övre Norrland.
 
@@ -262,46 +262,46 @@ I diagrammet nedan visas hur många föreningar och projektgrupper som finns i v
 
 Ref: [FS (Förbundsstyrelsen)](../../verksamheter/FS%20(Förbundsstyrelsen).md)
 
-- [[David Ebbevi]], ordförande
-- [[Sanna Holm]], vice ordförande
+- [David Ebbevi](../../personer/David%20Ebbevi.md), ordförande
+- [Sanna Holm](../../personer/Sanna%20Holm.md), vice ordförande
 - [Andreas Svensson](../../personer/Andreas%20Svensson.md), kassör
-- [[Robert Piehl-Fridqvist]], näringslivschef
-- [[Diana Diez]], ledamot
-- [[Yi-Hua Zhang]], ledamot
-- [[David Andersson]], ledamot
+- [Robert Piehl-Fridqvist](../../personer/Robert%20Piehl-Fridqvist.md), näringslivschef
+- [Diana Diez](../../personer/Diana%20Diez.md), ledamot
+- [Yi-Hua Zhang](../../personer/Yi-Hua%20Zhang.md), ledamot
+- [David Andersson](../../personer/David%20Andersson.md), ledamot
 - [Karl Larsson](../../personer/Karl%20Larsson.md), ledamot
 
 ## Distriktsordföranden 2011
 
 <!-- Sidrubriken lyder "DISTRIKTSORDFÖRENADE 2011" och avsnittsrubriken "DISTRIKTSORDFÖRANDEN 2011"; den senare används. -->
 
-- [Unga Forskare Stockholm](../../distrikt/UFS%20(Unga%20Forskare%20Stockholm).md): [[Tove Verner-Carlsson]]
+- [Unga Forskare Stockholm](../../distrikt/UFS%20(Unga%20Forskare%20Stockholm).md): [Tove Verner-Carlsson](../../personer/Tove%20Verner-Carlsson.md)
 - [Unga Forskare Uppsala-Gävleborg](../../distrikt/UFCX%20(Unga%20Forskare%20Uppsala%20Gävleborg).md): [Martin Norlin](../../personer/Martin%20Norlin.md)
 - [Unga Forskare Bergslagen](../../distrikt/UFB%20(Unga%20Forskare%20Bergslagen).md): [[Johnny Berlin]]
-- [[Unga Forskare Östra Götaland]]: [[Elin Kalén]]
+- [Unga Forskare Östra Götaland](../../distrikt/UFÖS%20(Unga%20Forskare%20Östergötland%20Småland).md): [Elin Kalén](../../personer/Elin%20Kalén.md)
 - [Unga Forskare Skåne](../../distrikt/UFSk%20(Unga%20Forskare%20Skåne).md): [[Viktor Curovic]]
 - [Unga Forskare Väst](../../distrikt/UFV%20(Unga%20Forskare%20Väst).md): [[Filippa Hallqvist]]
 - [Unga Forskare Övre Norrland](../../distrikt/UFÖN%20(Unga%20Forskare%20Övre%20Norrland).md): [[Mikael Nordfeldth]]
 
 ## Personalen 2011
 
-- [[Theresia Silander Hagström]], generalsekreterare fram till juli
-- [[Daniel Madhani]], generalsekreterare från juli
-- [[Tove Ladberg]], distrikts- och medlemsstödsutvecklare
-- [[Sandra van Hunen]], förbundsadministratör
+- [Theresia Silander Hagström](../../personer/Theresia%20Silander%20Hagström.md), generalsekreterare fram till juli
+- [Daniel Madhani](../../personer/Daniel%20Madhani.md), generalsekreterare från juli
+- [Tove Ladberg](../../personer/Tove%20Ladberg.md), distrikts- och medlemsstödsutvecklare
+- [Sandra van Hunen](../../personer/Sandra%20van%20Hunen.md), förbundsadministratör
 - [[Nils Gustafsson]], projektledare TEND
 
 ## Projektledare 2011
 
 - [Louise Wallin](../../personer/Louise%20Wallin.md), Utställningen Unga Forskare
-- [[Gustav Johansson]], Projektbanken
+- [Gustav Johansson](../../personer/Gustav%20Johansson.md), Projektbanken
 - [Harald Carlstrand](../../personer/Harald%20Carlstrand.md), SIYSS
 - [[Nils Gustafsson]], TEND
-- [[Diana Diez]], Riksstämman
+- [Diana Diez](../../personer/Diana%20Diez.md), Riksstämman
 - [Karl Larsson](../../personer/Karl%20Larsson.md), [[Unga Forskare i Finland]], fram till maj
 - [[Mikaela Hedström]], Unga Forskare i Finland, från maj
 - [[Egzona Vitija]], utbildningshelgen
-- [[Nils Anlind]], kommunikation
+- [Nils Anlind](../../personer/Nils%20Anlind.md), kommunikation
 - [Johannes Z Wolff](../../personer/Johannes%20Zeltner%20Wolff.md), ämnesprojektledare Astronomi
 - [Rikard Ahrgren](../../personer/Rikard%20Ahgren.md), ämnesprojektledare Biologi & Geologi, Hälsa & Medicin
 - [[Sanne Johansson]], ämnesprojektledare Bioteknik & Biokemi
@@ -316,46 +316,46 @@ Ref: [FS (Förbundsstyrelsen)](../../verksamheter/FS%20(Förbundsstyrelsen).md)
 
 <!-- Listan står i källan med versaler; här med normal skrivning. -->
 
-- [[AstraZeneca|Astra Zeneca]]
-- [[Bertil Wollerts stipendiefond|Bertil Wollerts stiftelse]]
+- [Astra Zeneca](../../organisationer/AstraZeneca.md)
+- [Bertil Wollerts stiftelse](../../organisationer/Bertil%20Wollerts%20stipendiefond.md)
 - [[Billerud AB]]
-- [[Blekinge Tekniska Högskola]]
-- [[Chalmers tekniska högskola|Chalmers Tekniska Högskola]]
+- [Blekinge Tekniska Högskola](../../skolor/Blekinge%20Tekniska%20Högskola.md)
+- [Chalmers Tekniska Högskola](../../skolor/Chalmers%20tekniska%20högskola.md)
 - [[Formas]]
-- [[Göteborgs universitet|Göteborgs Universitet]]
+- [Göteborgs Universitet](../../skolor/Göteborgs%20universitet.md)
 - [[Helge Axson Johnsons stiftelse]]
 - [[Hersby gymnasium|Hersby Gymnasium]]
-- [[Hertz]]
+- [Hertz](../../organisationer/Hertz.md)
 - [[Högskolan i Skövde]]
 - [[ICA Kvantum Värtan]]
-- [[Intel|Intel Sweden AB]]
+- [Intel Sweden AB](../../organisationer/Intel.md)
 - [[Kjell och Märta Beijers Stiftelse|Kjell och Märta Beijer stiftelse]]
 - [Kungliga Tekniska Högskolan](../../skolor/KTH%20(Kungliga%20Tekniska%20Högskolan).md)
 - [Kungliga Vetenskapsakademien](../../organisationer/KVA%20(Kungliga%20Vetenskapsakademien).md)
 - [Linköping universitet](../../skolor/LiU%20(Linköpings%20Universitet).md)
-- [[Luleå tekniska universitet|Luleå Tekniska Universitet]]
+- [Luleå Tekniska Universitet](../../skolor/Luleå%20tekniska%20universitet.md)
 - [[Nationalencyklopedin]]
-- [[Göteborgs universitet|Naturvetenskapliga fakulteten vid Göteborgs universitet]]
+- [Naturvetenskapliga fakulteten vid Göteborgs universitet](../../skolor/Göteborgs%20universitet.md)
 - [[Nordväxt]]
-- [[Oscar och Maria Ekmans Donationsfond]]
+- [Oscar och Maria Ekmans Donationsfond](../../organisationer/Oscar%20och%20Maria%20Ekmans%20Donationsfond.md)
 - [[Plast- och Kemiföretagen]]
 - [[Ragnar Söderbergs stiftelse]]
 - [[Rejlers Ingenjörer AB]]
 - [[Riksutställningar]]
 - [[Secotools|Seco Tools AB]]
-- [[Skolverket]]
+- [Skolverket](../../organisationer/Skolverket.md)
 - [[Stena Metall AB]]
-- [[Stiftelsen Chelha]]
+- [Stiftelsen Chelha](../../organisationer/Stiftelsen%20Chelha.md)
 - [Stiftelsen Gundel Cornelia - Babs stipendiefond](../../verksamheter/GCB%20(Gundel%20Cornelia%20Babs%20stipendiefond).md)
 - [Studiefrämjandet](../../organisationer/SFR%20(Studiefrämjandet).md)
 - [[Svenska Akademien]]
-- [[Sveriges lantbruksuniversitet|Sveriges Lantbruksuniversitet]]
+- [Sveriges Lantbruksuniversitet](../../skolor/SLU%20(Sveriges%20lantbruksuniversitet).md)
 - [Tekniska Museet](../../organisationer/Tekniska%20Museet.md)
 - [[Terumo Sweden AB]]
 - [[Tyréns]]
-- [[Uppsala universitet|Uppsala Universitet]]
-- [[Wenner-Gren Stiftelserna]]
-- [[Åke Wibergs stiftelse|Åke-Wiberg stiftelse]]
+- [Uppsala Universitet](../../skolor/Uppsala%20universitet.md)
+- [Wenner-Gren Stiftelserna](../../organisationer/Wenner-Gren%20Stiftelserna.md)
+- [Åke-Wiberg stiftelse](../../organisationer/Åke%20Wibergs%20stiftelse.md)
 - [[Örebro universitet|Örebro Universitet]]
 
 ## Måluppfyllelse

@@ -1,18 +1,18 @@
 ---
 motionärer:
-  - "[[Emanuel Enberg]]"
+  - "[Emanuel Enberg](../../personer/Emanuel%20Enberg.md)"
   - "[[Dina Lerjevik]]"
   - "[[Johanna Lidholm]]"
-  - "[[Jonna Halonen]]"
+  - "[Jonna Halonen](../../personer/Jonna%20Halonen.md)"
   - "[[Wisanu Sae-Wang]]"
   - "[[Malin Fuhrman]]"
   - "[[Khairat Al-Massri]]"
   - "[[Eleonora Svanberg]]"
-  - "[[Stella Axelsson]]"
+  - "[Stella Axelsson](../../personer/Stella%20Axelsson.md)"
   - "[[Amanda Geld]]"
-  - "[[Jonathan Jilg]]"
+  - "[Jonathan Jilg](../../personer/Jonathan%20Jilg.md)"
   - "[[Erik Hartman]]"
-  - "[[Marina Peltonen]]"
+  - "[Marina Peltonen](../../personer/Marina%20Peltonen.md)"
 kategorier:
   - motion
 år: 2019
@@ -43,7 +43,7 @@ En möjlighet att koppla upp sig till WIFI i övernattningslägenheten skulle in
 >
 > att (2) Upprätta en snabbare WIFI-uppkoppling i Unga Forskares kansli med avsikt att nedladdnings- och uppladdningshastigheten ska vara minst 100 mbit/s.
 
-[[Emanuel Enberg]], IT-ansvarig - Utställningsgruppen 2020
+[Emanuel Enberg](../../personer/Emanuel%20Enberg.md), IT-ansvarig - Utställningsgruppen 2020
 
 Göteborg, 27 september 2019
 
@@ -55,7 +55,7 @@ Stockholm, 27 september 2019
 
 Lund, 27 september 2019
 
-[[Jonna Halonen]], Projektledare - Utställningsgruppen 2020
+[Jonna Halonen](../../personer/Jonna%20Halonen.md), Projektledare - Utställningsgruppen 2020
 
 27 september 2019
 
@@ -75,7 +75,7 @@ Göteborg, 27 september 2019
 
 Stockholm, 27 september 2019
 
-[[Stella Axelsson]], Huvuduttagningsansvarig - Utställningsgruppen 2020
+[Stella Axelsson](../../personer/Stella%20Axelsson.md), Huvuduttagningsansvarig - Utställningsgruppen 2020
 
 Stockholm, 27 september 2019
 
@@ -83,7 +83,7 @@ Stockholm, 27 september 2019
 
 Göteborg, 27 september 2019
 
-[[Jonathan Jilg]], Styrelseledamot i [[Alumniföreningen Utställningen Unga Forskare]]
+[Jonathan Jilg](../../personer/Jonathan%20Jilg.md), Styrelseledamot i [Alumniföreningen Utställningen Unga Forskare](../../föreningar/Alumniföreningen%20Utställningen%20Unga%20Forskare.md)
 
 Zürich, 27 september 2019
 
@@ -91,7 +91,7 @@ Zürich, 27 september 2019
 
 27 september 2019
 
-[[Marina Peltonen]], Kommunikationsansvarigt - Utställningsgruppen 2020
+[Marina Peltonen](../../personer/Marina%20Peltonen.md), Kommunikationsansvarigt - Utställningsgruppen 2020
 
 27 september 2019
 

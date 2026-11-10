@@ -4,7 +4,7 @@ end: 2011-04-10
 mötesordförande:
   - "[Hanna Modin](../../personer/Hanna%20Modin.md)"
 mötessekreterare:
-  - "[[Beatrice Bergström]]"
+  - "[Beatrice Bergström](../../personer/Beatrice%20Bergström.md)"
 platser:
   - "[[Hersby gymnasium]]"
 orter:
@@ -16,13 +16,13 @@ rösträknare:
   - "[[Anders Lundkvist]]"
   - "[Harald Carlstrand](../../personer/Harald%20Carlstrand.md)"
 inflytandepunktsansvariga:
-  - "[[Sandra van Hunen]]"
+  - "[Sandra van Hunen](../../personer/Sandra%20van%20Hunen.md)"
   - "[Hanna Modin](../../personer/Hanna%20Modin.md)"
-  - "[[Tove Ladberg]]"
-  - "[[Theresia Silander Hagström]]"
+  - "[Tove Ladberg](../../personer/Tove%20Ladberg.md)"
+  - "[Theresia Silander Hagström](../../personer/Theresia%20Silander%20Hagström.md)"
 redaktionsutskott:
   - "[Hanna Modin](../../personer/Hanna%20Modin.md)"
-  - "[[Beatrice Bergström]]"
+  - "[Beatrice Bergström](../../personer/Beatrice%20Bergström.md)"
   - "[Johannes Zeltner Wolff](../../personer/Johannes%20Zeltner%20Wolff.md)"
 kategorier:
   - "[[RS (Riksstämman)|Riksstämman]]"
@@ -42,7 +42,7 @@ kategorier:
 >
 > att välja [Hanna Modin](../../personer/Hanna%20Modin.md) till mötesordförande
 >
-> att välja [[Beatrice Bergström]] till mötessekreterare
+> att välja [Beatrice Bergström](../../personer/Beatrice%20Bergström.md) till mötessekreterare
 
 ### §2b Val av två protokolljusterare tillika rösträknare
 
@@ -103,7 +103,7 @@ kategorier:
 >
 > att välja följande inflytandepunkter och respektive inflytandepunktsansvariga:
 
-- Året som gick: [[Sandra van Hunen]]
+- Året som gick: [Sandra van Hunen](../../personer/Sandra%20van%20Hunen.md)
   - Verksamhetsberättelse
   - Bokslut
   - Revisionsberättelse
@@ -115,13 +115,13 @@ kategorier:
   - Valberedningens förslag
   - Valberedningens arbetsordning
 
-- Propositioner del I:* [[Tove Ladberg]]
+- Propositioner del I:* [Tove Ladberg](../../personer/Tove%20Ladberg.md)
   - Nytt syfte
   - Stadgerevision
   - Pengar till megaföreningar
   - Ämnesföreningar
 
-- Propositioner del II och övriga frågor: [[Theresia Silander Hagström]]
+- Propositioner del II och övriga frågor: [Theresia Silander Hagström](../../personer/Theresia%20Silander%20Hagström.md)
   - Vision
   - Åsiktsprofil
   - Göra en strategi
@@ -130,7 +130,7 @@ kategorier:
 >[!beslut]
 > RS beslutar
 >
-> att utse [Hanna Modin](../../personer/Hanna%20Modin.md), [[Beatrice Bergström]] och [Johannes Z Wolff](../../personer/Johannes%20Zeltner%20Wolff.md) till redaktionsutskott
+> att utse [Hanna Modin](../../personer/Hanna%20Modin.md), [Beatrice Bergström](../../personer/Beatrice%20Bergström.md) och [Johannes Z Wolff](../../personer/Johannes%20Zeltner%20Wolff.md) till redaktionsutskott
 >
 > att Riksstämman ajourneras till söndag 2011-04-10 kl. 10.00
 
@@ -312,7 +312,7 @@ kategorier:
 >
 > att lyfta [Tobias Nilsson](../../personer/Tobias%20Nilsson.md)s ändringsyrkande till åsiktsprofilspropositionen över strecket
 
-> [Tobias Nilsson](../../personer/Tobias%20Nilsson.md) ändrade sitt yrkande genom att lägga till åsikten som föreslås i [[Elin Kalén]] med fleras ändringsyrkande till åsiktsprofilspropositionen.
+> [Tobias Nilsson](../../personer/Tobias%20Nilsson.md) ändrade sitt yrkande genom att lägga till åsikten som föreslås i [Elin Kalén](../../personer/Elin%20Kalén.md) med fleras ändringsyrkande till åsiktsprofilspropositionen.
 
 >[!beslut]
 > RS beslutar
@@ -336,11 +336,11 @@ kategorier:
 >[!beslut]
 > RS beslutar
 >
-> att lyfta [[David Andersson]]s ändringsyrkande till syftesändringspropositionen över strecket
+> att lyfta [David Andersson](../../personer/David%20Andersson.md)s ändringsyrkande till syftesändringspropositionen över strecket
 >
-> att lyfta [[Nils Anlind]]s ändringsyrkande till syftesändringspropositionen över strecket
+> att lyfta [Nils Anlind](../../personer/Nils%20Anlind.md)s ändringsyrkande till syftesändringspropositionen över strecket
 
-> Genom kontrapropositionsvotering ställdes förbundsstyrelsens förslag på syftesändring (kallad 32FS efter att-satsen i beslutsunderlaget), [Karl Larsson](../../personer/Karl%20Larsson.md)s ändringsyrkande (33KL), [[David Andersson]]s två ändringsyrkanden (35DA respektive 36DA) och [[Nils Anlind]]s ändringsyrkande (39NA) mot varandra med utfall enligt schemat nedan.
+> Genom kontrapropositionsvotering ställdes förbundsstyrelsens förslag på syftesändring (kallad 32FS efter att-satsen i beslutsunderlaget), [Karl Larsson](../../personer/Karl%20Larsson.md)s ändringsyrkande (33KL), [David Andersson](../../personer/David%20Andersson.md)s två ändringsyrkanden (35DA respektive 36DA) och [Nils Anlind](../../personer/Nils%20Anlind.md)s ändringsyrkande (39NA) mot varandra med utfall enligt schemat nedan.
 
 >[!warning]
 > Här finns i originalet ett schema över voteringens utfall. OCR-texten återger bara fragmenten "33KL", "[=]" och "[ae]", så schemat behöver återskapas från originalhandlingen.
@@ -400,7 +400,7 @@ kategorier:
 >[!beslut]
 > RS beslutar
 >
-> att välja [[David Ebbevi]] till förbundsordförande
+> att välja [David Ebbevi](../../personer/David%20Ebbevi.md) till förbundsordförande
 
 ### §10b Fastställande av styrelsens storlek
 
@@ -414,7 +414,7 @@ kategorier:
 >[!beslut]
 > RS beslutar
 >
-> att välja [Andreas Svensson](../../personer/Andreas%20Svensson.md), [[David Andersson]], [[Diana Diez]], [Karl Larsson](../../personer/Karl%20Larsson.md), [[Robert Piehl-Fridqvist]], [[Sanna Holm]] och [[Yi-Hua Zhang]] till förbundsstyrelseledamöter
+> att välja [Andreas Svensson](../../personer/Andreas%20Svensson.md), [David Andersson](../../personer/David%20Andersson.md), [Diana Diez](../../personer/Diana%20Diez.md), [Karl Larsson](../../personer/Karl%20Larsson.md), [Robert Piehl-Fridqvist](../../personer/Robert%20Piehl-Fridqvist.md), [Sanna Holm](../../personer/Sanna%20Holm.md) och [Yi-Hua Zhang](../../personer/Yi-Hua%20Zhang.md) till förbundsstyrelseledamöter
 
 ### §10d Val av två revisorer samt två revisorssuppleanter
 
@@ -430,7 +430,7 @@ kategorier:
 >[!beslut]
 > RS beslutar
 >
-> att utse [[Therese de Haan]] till sammankallande för [valberedningen](../../verksamheter/Valberedningen.md) verksamhetsåret 2011-2012
+> att utse [Therese de Haan](../../personer/Therese%20de%20Haan.md) till sammankallande för [valberedningen](../../verksamheter/Valberedningen.md) verksamhetsåret 2011-2012
 >
 > att utse [[Johan Billman]], [[Micaela Maurin]] och [[Leonard Voltaire]] till ledamöter i valberedningen verksamhetsåret 2011-2012
 
@@ -474,7 +474,7 @@ kategorier:
 
 ## §12 Stämmans avslutande
 
-> Nyvalde förbundsordförande [[David Ebbevi]] avslutade Riksstämman 2011.
+> Nyvalde förbundsordförande [David Ebbevi](../../personer/David%20Ebbevi.md) avslutade Riksstämman 2011.
 
 ## BILAGOR TILL PROTOKOLLET
 

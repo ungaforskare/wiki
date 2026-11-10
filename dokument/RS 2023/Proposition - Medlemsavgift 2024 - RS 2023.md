@@ -7,7 +7,7 @@ namn: Medlemsavgift 2024
 
 <!-- Bilaga 15 till RS 2023 (Proposition — Medlemsavgift 2024, dokumentansvarig Max Vinger, 2023-10-08, rev "Slutgiltig"). OCR: "O kr"; rättat till "0 kr". -->
 
-Dokumentansvarig: [[Max Vinger]], 2023-10-08
+Dokumentansvarig: [Max Vinger](../../personer/Max%20Vinger.md), 2023-10-08
 
 ## Proposition — Medlemsavgift 2024
 

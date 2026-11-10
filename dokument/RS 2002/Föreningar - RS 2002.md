@@ -1,35 +1,47 @@
+---
+år: 2002
+kategorier:
+  - "[[RS (Riksstämman)|Riksstämman]]"
+  - "[[föreningsförteckning]]"
+---
+
 ## Förteckning över distrikt och föreningar
+
+<!-- Förteckningen ligger i källan efter stiftelsens revisionsberättelse och finns inte med i protokollets bilagelista. Föreningsnamnen står som i källan; handskrivna anteckningar i marginalen (oläsliga i OCR) är borttagna. -->
 
 ### UFB; Unga Forskare Bergslagsregionen
 
+Ref: [UFB](../../distrikt/UFB%20(Unga%20Forskare%20Bergslagen).md)
+
 - [[Föreningen Ludvika Unga Forskare]]
-- [[Arvika Unga Forskare]]
-- [[Elementa]] (Orebro)
+- [Arvika Unga Forskare](../../föreningar/Arvika%20UF.md)
+- [[Elementa]] (Örebro)
 - [[Naturvetenskapliga Föreningen Dum Spiro Spero]] (Sala)
 - [[Creutz]] (Falun)
 - [[Lasius Flavus]] (Nyköping)
-- [[Lillän Unga Forskare Förening]] (Örebro)
+- [[Lillån Unga Forskare Förening]] (Örebro)
 - [[Borlänge Intelligence Group]]
 - [[Organization of Zivilization 42]] (Karlstad)
 - [[Ak Pak Unga Forskare]] (Örebro)
 - [[Creutz, Lugnetgymnasiet]] (Falun)
 - verksam: [[Katrineholms Data & IT Förening]]
 - verksam: [[Munketorps Testpiloter]]
-- verksam: [[Föreningen Newtons Lärjungar]] (Strängnäs)
+- verksam: [Föreningen Newtons Lärjungar](../../föreningar/Föreningen%20Newtons%20Lärljungar.md) (Strängnäs)
 
 ### UFCX; Unga Forskare Uppsala Gävleborg
 
+Ref: [UFCX](../../distrikt/UFCX%20(Unga%20Forskare%20Uppsala%20Gävleborg).md)
+
 - [[Skrapans Naturvetenskapliga Förening]] (Uppsala)
 - [[Matematisk- Naturvetenskapliga Föreningen]] (Uppsala)
-- [[Celsius Naturvetenskapliga Förening]] (Uppsala)
+- [Celsius Naturvetenskapliga Förening](../../föreningar/Celsius%20Naturvetenskapliga%20Förening.md) (Uppsala)
 - [[Uppsala Amatörastronomer]]
 - verksam: [[Föreningen för Astronomi och Astronautik]] (Gävle)
 - [[Polhems Underground Technical Association]] (Gävle)
 - [[Vasaskolans Dataförening]] (Gävle)
-- verksam: [[Naturvetenskapliga Föreningen]] (Gävle)
+- verksam: [Naturvetenskapliga Föreningen](../../föreningar/Naturvetenskapliga%20Föreningen.md) (Gävle)
 - verksam: [[Fotografiska Föreningen vid Vasaskolan]] (Gävle)
-- [[Random Eternal Life]]
-- [[Acceler Central Soc]] (Uppsala)
+- [[Random Eternal Life Acceler Central Soc]] (Uppsala) <!-- Så i källan; namnet ser avhugget ut. -->
 - [[Naturvetenskapliga Föreningen vid Bessemergymnasiet]]
 - [[Silvertryck]] (Uppsala)
 - [[Fyrisskolan Local Area Network]] (Uppsala)
@@ -37,22 +49,25 @@
 - [[MacUp Föreningen för Användarvänliga Datorer]] (Uppsala)
 - [[Katedralskolans Fotoförening]] (Uppsala)
 - verksam: [[Ars Scientiae Naturae]] (Uppsala)
-- [[Chemistry in Action]] (Gävle) [[Hudiksvalls Unga Forskare]]
+- [[Chemistry in Action]] (Gävle)
+- [[Hudiksvalls Unga Forskare]]
 - [[Datorföreningen DelNet]] (Hudiksvall)
-- [[Orbyhus- Dannemora Charmkvarkar]] (Tierp)
-- verksam [[Amiga Computor Group Gävleborg]] (Gävle)
-- verksam: [[Star Wars Föreningen]] (Uppsala) ejrapportiaradimm.edleoeguo.ci
-- verksam: [[Utarmade Rollspelare fràn Atomkraftens Narnia]] (Norrtälje)
+- [[Örbyhus-Dannemora Charmkvarkar]] (Tierp)
+- verksam: [[Amiga Computer Group - Gävleborg|Amiga Computor Group Gävleborg]] (Gävle)
+- verksam: [[Star Wars Föreningen]] (Uppsala)
+- verksam: [Utarmade Rollspelare från Atomkraftens Narnia](../../föreningar/Utarmade%20Rollspelare%20frän%20Atomkraftens%20Narnia.md) (Norrtälje)
 
 ### UFV; Unga Forskare Västsvenska
 
+Ref: [UFV](../../distrikt/UFV%20(Unga%20Forskare%20Väst).md)
+
 - [[Galaktiska institutet]] (Uddevalla)
-- [[Den Naturvetenskapliga Föreningen Hjärnverket]] (Boràs)
+- [[Den Naturvetenskapliga Föreningen Hjärnverket]] (Borås)
 - [[Bore]] (Skara)
 - [[CPU 2.0]] (Skövde)
 - [[Porthälla Unga Forskares Förening]] (Partille)
 - [[Rattmuff]] (Göteborg)
-- verksam: [[Fuffens]] (Trollhättan)
+- verksam: [Fuffens](../../föreningar/FUFFENS.md) (Trollhättan)
 - [[Schyssta Klubben Unga Forskare]] (Vänersborg)
 - [[Masslösa Bosonerna]] (Göteborg)
 - [[Haj-Tekk]] (Göteborg)
@@ -62,18 +77,22 @@
 - [[Föreningen för Invärtes Beundran]] (Lilla Edet)
 - [[Hvitfeldska Akademien]] (Göteborg)
 - [[Skövde Data Förening]]
-- verksam: [[Blandade Unga Forskares Förening Frölunda]]
+- verksam: [Blandade Unga Forskares Förening Frölunda](../../föreningar/Blandade%20Unga%20Forskares%20Förening%20Frölunda.md)
 - [[Antika Helgalna Akademiker]] (Göteborg)
 
 ### UfnN; Unga Forskare nedre Norrland
 
+Ref: [UfnN](../../distrikt/UFNN%20(Unga%20Forskare%20Nedre%20Norrland).md)
+
 - [[Sundsvalls Commsoft]]
-- [[Omikron 42]] (Ostersund)
+- [[Omikron 42]] (Östersund)
 - [[Computor Union]] (Härnösand)
 - [[Millenium- Sundsvalls IT Förening]]
 - [[Krang Organization]] (Sunsvall)
 
 ### UFS; Unga Forskare Stockholm
+
+Ref: [UFS](../../distrikt/UFS%20(Unga%20Forskare%20Stockholm).md)
 
 - [[Stockholms Audio-Elektronik-Förening]]
 - verksam: [[Stockholms Herpeutologiska Förening]]
@@ -81,51 +100,56 @@
 - [[Sollentuna Audio-Elektronik Förening]]
 - [[Föreningen för Botanik och Zoologi]] (Stockholm)
 - [[Farsta Unga Forskare]] (Stockholm)
-- [[Stockholms Amatörastronomer]]
+- [Stockholms Amatörastronomer](../../föreningar/Föreningen%20Stockholms%20Amatörastronomer.md)
 - [[Jakobsbergs Unga Forskareförening]] (Järfälla)
 - [[Danderyds Unga Forskare]]
 - [[Stockholms Unga Naturvetare]]
 - [[Upplands Väsbys Herpetologiska]] (Sollentuna)
 - [[Sofiaskolans Unga Forskare]] (Stockholm)
-- [[Unga Forskare pa Matteusskolan]] (Stockholm)
-- [[Radio Unga Forskare Stockholm]]
-- [[POFF Organiserad Forskar- Förening Spänga Unga Forskare]] (Stockholm)
-- [[Matematikföreningen Alef Noll]] (Danderyd)
-- verksam: [[Kungsholmens Young Scientists' Society]]
+- [[Unga Forskare på Matteusskolan]] (Stockholm)
+- [Radio Unga Forskare Stockholm](../../föreningar/Radio%20UFS.md)
+- [[POFF Organiserad Forskar- Förening]]
+- [[Spånga Unga Forskare]] (Stockholm)
+- [Matematikföreningen Alef Noll](../../föreningar/Alef%20Noll.md) (Danderyd)
+- verksam: [Kungsholmens Young Scientists' Society](../../föreningar/KYSS%20(Kungsholmens%20Young%20Scientists'%20Society).md)
 
-### UFSk; Unga Forskare Skáne
+### UFSk; Unga Forskare Skåne
+
+Ref: [UFSk](../../distrikt/UFSk%20(Unga%20Forskare%20Skåne).md)
 
 - [[Karlskrona Astronomiförening]]
 - [[Malmö Astronomi- & Rymdfartssällskap]]
-- [[Skänes Geologiska Sällskap]] (Malmö)
+- [[Skånes Geologiska Sällskap]] (Malmö)
 - [[Sapientia]] (Malmö)
 - [[D-Klubben]] (Lund)
 - [[Progressiva Unga Forskares Förening]] (Karlskrona)
 - [[Flogiston]] (Helsingborg)
 - [[Societas Scientiae Naturae]] (Ängelholm)
 - [[Eureka]] (Landskrona)
-- verksam: [[Malmö Academica Förening]]
+- verksam: [Malmö Academica Förening](../../föreningar/Malmös%20Akademiska%20Förening.md)
 - [[Bergagymnasiets Unga Forskare]] (Eslöv)
 - [[Carlshamns unga Forskare]] (Karlshamn)
-- [[Syntax Society]] (Landskrona)
+- [Syntax Society](../../föreningar/Syntax%20Society.md) (Landskrona)
 
 ### UFÖS; Unga Forskare Östra Götaland
 
-- [[Datorföreningen Lysator]] (Linköping)
-- [[Naturvetenskapliga Sällskapet]] (Linköping)
+Ref: [UFÖS](../../distrikt/UFÖS%20(Unga%20Forskare%20Östergötland%20Småland).md)
+
+- [Datorföreningen Lysator](../../föreningar/Lysator.md) (Linköping)
+- verksam: [Naturvetenskapliga Sällskapet](../../föreningar/Naturvetenskapliga%20Sällskapet.md) (Linköping)
 - [[EDEF- Teknikerservice]] (Jönköping)
-- [[ATARAXI]] (Nässjö)
+- verksam: [ATARAXI](../../föreningar/Ataraxi.md) (Nässjö)
 - [[Gislaveds Unga Forskare]]
 - [[Gamleby Astronomiska Förening]] (Västervik)
 - [[Atari St User Group]] (Linköping)
 - [[Phoenix Unga Forskare]] (Jönköping)
-- [[Kalmar Dator Klubb]]
-- [[Westerviks Ortens Ugna Forskare Förening]]
+- verksam: [[Kalmar Dator Klubb]]
+- verksam: [[Westerviks Ortens Ugna Forskare Förening]]
 - [[Fossilia]] (Gislaved)
 - [[Hagas unga Forskare]] (Norrköping)
 - [[Unigor]] (Eksjö)
 - [[Utopia Unga Forskare]] (Jönköping)
-- [[Elektronikföreningen Admittansen]] (Linköping)
+- [Elektronikföreningen Admittansen](../../föreningar/Elektronikföreningen%20Admittansen.md) (Linköping)
 - [[Linköpings Naturvetare-förening]]
 - [[Vitastjerna]] (Visby)
 - [[Gotlands unga Forskare]] (Visby)
@@ -137,69 +161,49 @@
 - verksam: [[Frasse 45]] (Linköping)
 - [[Puh]] (Norrköping)
 - [[Klintes Intelligenta Forskar Förening]] (Klintehamn)
-- verksam: [[Unga Forskar Föreningen Pirog i Tranas]]
-- [[Teknik För Alla]] (Linköping)
-- [[In Science We Trust]] (Tingsryd)
+- verksam: [Unga Forskar Föreningen Pirog i Tranås](../../föreningar/Unga%20Forskare%20Föreningen%20Pirog%20i%20Tranås.md)
+- [Teknik För Alla](../../föreningar/Teknik%20För%20Alla.md) (Linköping)
+- [[In science we trust|In Science We Trust]] (Tingsryd)
 - verksam: [[Salamandra]] (Vimmerby)
 
-## UföN; Unga Forskare övre Norrland
+### UföN; Unga Forskare övre Norrland
 
-- [[Alvsby Dataklubb]]
-- [[Pitea Young Scientists]]
+Ref: [UföN](../../distrikt/UFÖN%20(Unga%20Forskare%20Övre%20Norrland).md)
+
+- [[Älvsby Dataklubb]]
+- [[Piteå Young Scientists]]
 - [[Dataklubben Orion]] (Boden)
-- verksam: [[Rigel Computor Club]] (Overtorneă)
-- [[Dead Deckers Society]] (Pitea)
-- [[Datorföreningen Cygnus]] (Luleä)
+- [[Rigel Computor Club]] (Övertorneå)
+- verksam: [[Dead Deckers Society]] (Piteå)
+- [[Datorföreningen Cygnus]] (Luleå)
 - verksam: [[Föreningen för Kinesiska studier & Forskning i Luleå]]
 - [[Legend]] (Älvsbyn)
-- [[Galivares Unga Datorförening]]
+- [[Gällivares Unga Datorförening]]
 
 ## Förteckning över antagna och avregistrerade föreningar 2001
 
 ### Antagna
 
-#### UFV; Unga Forskare Västsvenska
+#### UFV: Unga Forskare Västsvenska
 
-- [[Göteborgs VetenskapsIntresserade Studenter]] (GVIS), 2001-05-23
+Ref: [UFV](../../distrikt/UFV%20(Unga%20Forskare%20Väst).md)
+
+- [Göteborgs VetenskapsIntresserade Studenter](../../föreningar/Göteborgs%20Vetenskapsintresserade%20Studenter.md) (GVIS), 2001-05-23
 - [[Västsveriges Unga Naturvetare]] (VUN), 2001-12-31
 - [[KringLAN]] (Kringl), 2001-12-31
 
-#### UFS; Unga Forskare Stockholm
+#### UFS: Unga Forskare Stockholm
 
-- [[Kungsholmens Young Scientists Society]] (KYSS), 2001-05-19
+Ref: [UFS](../../distrikt/UFS%20(Unga%20Forskare%20Stockholm).md)
 
-#### UFÖN; Unga Forskare övre Norrland
+- [Kungsholmens Young Scientists' Society](../../föreningar/KYSS%20(Kungsholmens%20Young%20Scientists'%20Society).md) (KYSS), 2001-05-19
+
+#### UFöN: Unga Forskare övre Norrland
+
+Ref: [UFöN](../../distrikt/UFÖN%20(Unga%20Forskare%20Övre%20Norrland).md)
 
 - [[Proxima Datorförening]] (DFPROX), 2001-12-31
 
 ### Avregistrerade
 
-#### UFB; Unga Forskare Bergslagsregionen
-
-- [[Rinmans Unga Forskare]] (RUF)
-
-#### UFCX; Unga Forskare Uppsala Gävleborg
-
-- [[Nypon]] (NYPON)
-- [[Knivsta Nätverksförening]] (KNF)
-
-#### UFV; Unga Forskare Västsvenska
-
-- [[Den Ideella Föreningen Equus Tremis Artys]] (ETA)
-- [[Samskolans Fria Radikaler]] (SFR)
-
-#### UfnN; Unga Forskare nedre Norrland
-
-- [[Adalskolans Naturvetenskapliga Förening]] (ẢNF)
-- [[Sundsvall AnvändarGrupp för Amiga]] (SAGA)
-
-#### UFS; Unga Forskare Stockholm
-
-- [[Unga Forskare pa Aland]] (UFÄ)
-- [[Vampyrerna]] (VAMP)
-
-#### UFSk; Unga Forskare Skane
-
-- [[Out of Sync Dataförening]] (OOSDF)
-- [[Karlskrona Datorförening]]
-- [[Yoshi Data Club]] (YDC)
+Se [Föreningar för avregistrering - RS 2002](Föreningar%20för%20avregistrering%20-%20RS%202002.md).
