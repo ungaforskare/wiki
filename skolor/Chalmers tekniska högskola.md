@@ -1,0 +1,4 @@
+---
+kategorier:
+  - skolor
+---
