@@ -18,8 +18,8 @@ Föreningar för avregistrering under Riksstämman 2012.
 ### Ingen årsrapport 2010 eller 2011
 
 - [[MOFUS]] (465)
-- [[Malmös Akademiska Förening]] (778)
-- [[Pi]] (794)
+- [Malmös Akademiska Förening](../../föreningar/Malmös%20Akademiska%20Förening.md) (778)
+- [Pi](../../föreningar/Pi.md) (794)
 - [[Föreningen för Kinesiska Forskare och Studenter i Luleå]] (921)
 - [[Komputer And Science Society]] (1402)
 - [[Föreningen Arkitektur och Teknikstudenterna]] (1431)

@@ -10,7 +10,7 @@ namn: Fokustema 2020
 >[!warning]
 > Riksstämman antog version A, "Stärka sammanhållningen, kommunikationen och kunskapsutbytet inom Unga Forskare", som fokustema för 2020 (se §8a i [protokollet](Protokoll%20-%20RS%202019.md)). Propositionen nämner bara version A–D. Version E i bilaga 13 tillkom under påverkanstorget, enligt protokollet. Bilaga 13 är daterad efter stämman.
 
-Dokumentansvarig: [[Max Vinger]], 2019-09-16
+Dokumentansvarig: [Max Vinger](../../personer/Max%20Vinger.md), 2019-09-16
 
 ## Fokustema för Unga Forskares föreningar, aktiviteter och verksamheter 2020
 

@@ -52,7 +52,7 @@ En pott på 150 000 kr avsattes för distrikten att söka till innovativ verksam
 
 Ref: [IK (Introduktionskurserna)](../../verksamheter/IK%20(Introduktionskurserna).md)
 
-[Introduktionskurserna](../../verksamheter/IK%20(Introduktionskurserna).md) genomfördes 2007 på fyra platser i landet: [[Göteborg]], [[Lund]], [[Uppsala]] och [[Norrköping]]. Arrangemangen hölls av distrikten och totalt deltog drygt 200 ungdomar. För året hade kurserna en ny inriktning som var att visa på vad som händer efter gymnasiet, genom att visa exempel på yrken och utbildningar man kan gå vidare till.
+[Introduktionskurserna](../../verksamheter/IK%20(Introduktionskurserna).md) genomfördes 2007 på fyra platser i landet: [Göteborg](../../platser/orter/Göteborg.md), [Lund](../../platser/orter/Lund.md), [[Uppsala]] och [[Norrköping]]. Arrangemangen hölls av distrikten och totalt deltog drygt 200 ungdomar. För året hade kurserna en ny inriktning som var att visa på vad som händer efter gymnasiet, genom att visa exempel på yrken och utbildningar man kan gå vidare till.
 
 ## Projektbanken
 
@@ -62,13 +62,13 @@ Under året har [[Projektbanken]] utökat sin verksamhet genom att fler universi
 
 Ref: [Unga Forskares Linnépris](../../verksamheter/Unga%20Forskares%20Linnépris.md)
 
-Under [[Vetenskapsforum]] i [[Göteborg]] utdelades för första gången [Unga Forskares Linnépris](../../verksamheter/Unga%20Forskares%20Linnépris.md). Pristagare blev [[Mikael Molander]] med "Skalbaggar i skånska sand- och grustäkter". Priset delades ut av juryns ordförande, tillika vice vd för [[Svenskt Näringsliv]], [[Signhild Arnegård Hansen]], och i samband med prisutdelningen visades filmen Expedition Linné.
+Under [[Vetenskapsforum]] i [Göteborg](../../platser/orter/Göteborg.md) utdelades för första gången [Unga Forskares Linnépris](../../verksamheter/Unga%20Forskares%20Linnépris.md). Pristagare blev [[Mikael Molander]] med "Skalbaggar i skånska sand- och grustäkter". Priset delades ut av juryns ordförande, tillika vice vd för [[Svenskt Näringsliv]], [[Signhild Arnegård Hansen]], och i samband med prisutdelningen visades filmen Expedition Linné.
 
 ## Utställningen Unga Forskare (UUF)
 
 Ref: [UUF (Utställningen Unga Forskare)](../../verksamheter/UUF%20(Utställningen%20Unga%20Forskare).md)
 
-Arrangemanget gick av stapeln den 14-18 april 2007 och 53 projekt av 99 deltagare ställdes ut i utställningshallen. Antalet anmälda projekt till årets utställning var högt och en gallring gjordes för att utse de hundra ungdomarna som fick delta. I år startades tre nya regionala utställningar utöver de som finns i [[Karlshamn]] och [[Härnösand]]: [[Göteborg]], [Linköping](../../platser/orter/Linköping.md) och Stockholm.
+Arrangemanget gick av stapeln den 14-18 april 2007 och 53 projekt av 99 deltagare ställdes ut i utställningshallen. Antalet anmälda projekt till årets utställning var högt och en gallring gjordes för att utse de hundra ungdomarna som fick delta. I år startades tre nya regionala utställningar utöver de som finns i [[Karlshamn]] och [[Härnösand]]: [Göteborg](../../platser/orter/Göteborg.md), [Linköping](../../platser/orter/Linköping.md) och Stockholm.
 
 ## SIYSS
 
@@ -78,11 +78,11 @@ Under Nobelveckan arrangerades återigen [Stockholm International Youth Science 
 
 ## Dynamitdagarna
 
-Under Nobelveckan samlades även knappt 50 svenska ungdomar för att lära sig mer inom naturvetenskapliga och tekniska ämnen, lära känna varandra och utbyta erfarenheter. Man besökte bland annat [[AstraZeneca]]s forskningsanläggning i [[Södertälje]], [[Vattenfall]]s kontor utanför Stockholm och fick en guidad tur på [[Nobelmuseet]].
+Under Nobelveckan samlades även knappt 50 svenska ungdomar för att lära sig mer inom naturvetenskapliga och tekniska ämnen, lära känna varandra och utbyta erfarenheter. Man besökte bland annat [AstraZeneca](../../organisationer/AstraZeneca.md)s forskningsanläggning i [Södertälje](../../platser/orter/Södertälje.md), [Vattenfall](../../organisationer/Vattenfall.md)s kontor utanför Stockholm och fick en guidad tur på [[Nobelmuseet]].
 
 ## Stipendier
 
-Under verksamhetsåret 2007 har FUF:s medlemmar kunnat söka resestipendier till naturvetenskapliga evenemang utanför Sverige genom FUF-stipendier. I år sände FUF en stipendiat till [[International Summer Science Camp]] 2007 i [[Darmstadt]], [Tyskland](../../platser/länder/Tyskland.md). Två stipendiater har fått åka till [[National Youth Science Forum]] 2008 i [[Canberra]], [Australien](../../platser/länder/Australien.md). Utöver resestipendierna har FUF även utlyst och föreslagit stipendiater till [[Anders Wall]]s stipendium för naturvetenskaplig forskning 2008. Stipendiet, som består av en summa pengar som kan uppgå till 100 000 Skr, utdelas av [[Anders Walls Stiftelse]] den 10 mars 2008.
+Under verksamhetsåret 2007 har FUF:s medlemmar kunnat söka resestipendier till naturvetenskapliga evenemang utanför Sverige genom FUF-stipendier. I år sände FUF en stipendiat till [[International Summer Science Camp]] 2007 i [[Darmstadt]], [Tyskland](../../platser/länder/Tyskland.md). Två stipendiater har fått åka till [[National Youth Science Forum]] 2008 i [[Canberra]], [Australien](../../platser/länder/Australien.md). Utöver resestipendierna har FUF även utlyst och föreslagit stipendiater till [[Anders Wall]]s stipendium för naturvetenskaplig forskning 2008. Stipendiet, som består av en summa pengar som kan uppgå till 100 000 Skr, utdelas av [Anders Walls Stiftelse](../../organisationer/Anders%20Walls%20stiftelse.md) den 10 mars 2008.
 
 ## Lärarprojektet
 

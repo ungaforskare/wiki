@@ -25,6 +25,6 @@ kategorier:
 
 Valberedningen
 
-[[Bahar Safari]], [[Lukas Lundgren]], [[Hugo Backlund]]
+[Bahar Safari](../../personer/Bahar%20Safari.md), [Lukas Lundgren](../../personer/Lukas%20Lundgren.md), [Hugo Backlund](../../personer/Hugo%20Backlund.md)
 
 Stockholm, den 26 september 2024

@@ -4,26 +4,26 @@ end: 2018-11-18
 mötesordförande:
   - "[Tobias Nilsson](../../personer/Tobias%20Nilsson.md)"
 mötessekreterare:
-  - "[[Moa Larsson]]"
+  - "[Moa Larsson](../../personer/Moa%20Larsson.md)"
 platser:
-  - "[[Polhemskolan]]"
+  - "[Polhemskolan](../../skolor/Polhemskolan.md)"
 orter:
-  - "[[Lund]]"
+  - "[Lund](../../platser/orter/Lund.md)"
 justerare:
-  - "[[Emma Petersson]]"
+  - "[Emma Petersson](../../personer/Emma%20Petersson.md)"
   - "[[Eleonora Svanberg]]"
 rösträknare:
-  - "[[Emma Petersson]]"
+  - "[Emma Petersson](../../personer/Emma%20Petersson.md)"
   - "[[Eleonora Svanberg]]"
 inflytandepunktsansvariga:
-  - "[[Mats Hallström]]"
-  - "[[Linnea Suomenniemi]]"
-  - "[[Anna Hedlund]]"
-  - "[[Neda Farhand]]"
-  - "[[Ellinor Lindqvist]]"
+  - "[Mats Hallström](../../personer/Mats%20Hallström.md)"
+  - "[Linnea Suomenniemi](../../personer/Linnea%20Suomenniemi.md)"
+  - "[Anna Hedlund](../../personer/Anna%20Hedlund.md)"
+  - "[Neda Farhand](../../personer/Neda%20Farhand.md)"
+  - "[Ellinor Lindqvist](../../personer/Ellinor%20Lindqvist.md)"
 redaktionsutskott:
   - "[Tobias Nilsson](../../personer/Tobias%20Nilsson.md)"
-  - "[[Moa Larsson]]"
+  - "[Moa Larsson](../../personer/Moa%20Larsson.md)"
 kategorier:
   - "[[RS (Riksstämman)|Riksstämman]]"
   - "[[protokoll]]"
@@ -72,31 +72,31 @@ kategorier:
 
 ## §1 Riksstämmans öppnande (Linnea Suomenniemi)
 
-> Förbundsordförande [[Linnea Suomenniemi]] förklarar mötet öppnat 2018-11-16 kl. 19.05.
+> Förbundsordförande [Linnea Suomenniemi](../../personer/Linnea%20Suomenniemi.md) förklarar mötet öppnat 2018-11-16 kl. 19.05.
 
 ## §2 Mötesformalia
 
 ### §2a Val av mötesordförande och mötessekreterare (Linnea Suomenniemi)
 
-> Kansliet föreslår Riksstämman välja [Tobias Nilsson](../../personer/Tobias%20Nilsson.md) till mötesordföranden, samt [[Moa Larsson]] till mötessekreterare.
+> Kansliet föreslår Riksstämman välja [Tobias Nilsson](../../personer/Tobias%20Nilsson.md) till mötesordföranden, samt [Moa Larsson](../../personer/Moa%20Larsson.md) till mötessekreterare.
 
 >[!beslut]
 > RS beslutar
 >
 > att 1 välja [Tobias Nilsson](../../personer/Tobias%20Nilsson.md) till mötesordföranden samt,
 >
-> att 2 välja [[Moa Larsson]] till mötessekreterare
+> att 2 välja [Moa Larsson](../../personer/Moa%20Larsson.md) till mötessekreterare
 
 ### §2b Val av två protokolljusterare tillika rösträknare (Mötesordförande)
 
-> Mötet föreslår Riksstämman välja [[Emma Petersson]] och [[Eleonora Svanberg]] till protokolljusterare tillika rösträknare.
+> Mötet föreslår Riksstämman välja [Emma Petersson](../../personer/Emma%20Petersson.md) och [[Eleonora Svanberg]] till protokolljusterare tillika rösträknare.
 
 <!-- Beslutet saknar "att" och nummer i källan; lämnat som det står. -->
 
 >[!beslut]
 > RS beslutar
 >
-> välja [[Emma Petersson]] och [[Eleonora Svanberg]] till protokolljusterare tillika rösträknare.
+> välja [Emma Petersson](../../personer/Emma%20Petersson.md) och [[Eleonora Svanberg]] till protokolljusterare tillika rösträknare.
 
 ### §2c Beslut om mötets stadgeenliga utlysande (Mötesordförande)
 
@@ -228,19 +228,19 @@ Förslag till uppdelning av ärenden i inflytandepunkter:
 >
 > att 9 välja inflytandepunktansvariga för respektive punkt enligt nedan
 >
-> - Proposition - Fastställande av ny arbetsstruktur inom styrelsen - [[Mats Hallström]]
-> - Proposition - Fastställande av ny åsiktsprofil - [[Linnea Suomenniemi]]
-> - Proposition - Fokustema - [[Linnea Suomenniemi]]
-> - Det gångna året - [[Anna Hedlund]]
-> - Fastställande av medlemsavgift - [[Neda Farhand]]
-> - Avregistrering av föreningar - [[Neda Farhand]]
-> - Valberedningens förslag - [[Ellinor Lindqvist]]
+> - Proposition - Fastställande av ny arbetsstruktur inom styrelsen - [Mats Hallström](../../personer/Mats%20Hallström.md)
+> - Proposition - Fastställande av ny åsiktsprofil - [Linnea Suomenniemi](../../personer/Linnea%20Suomenniemi.md)
+> - Proposition - Fokustema - [Linnea Suomenniemi](../../personer/Linnea%20Suomenniemi.md)
+> - Det gångna året - [Anna Hedlund](../../personer/Anna%20Hedlund.md)
+> - Fastställande av medlemsavgift - [Neda Farhand](../../personer/Neda%20Farhand.md)
+> - Avregistrering av föreningar - [Neda Farhand](../../personer/Neda%20Farhand.md)
+> - Valberedningens förslag - [Ellinor Lindqvist](../../personer/Ellinor%20Lindqvist.md)
 >
 > att 10 utse Mötesordförande samt Sekreterare till redaktionsutskott.
 >
 > att 11 yrkandestopp infaller lördag 2018-11-17 kl. 11:10.
 >
-> att 12 utse ett valutskott bestående av [[Julia Reinius]] och [[Moa Nowakowski]] med uppdrag att presentera ett förslag på [valberedning](../../verksamheter/Valberedningen.md) för 2019-2020.
+> att 12 utse ett valutskott bestående av [Julia Reinius](../../personer/Julia%20Reinius.md) och [[Moa Nowakowski]] med uppdrag att presentera ett förslag på [valberedning](../../verksamheter/Valberedningen.md) för 2019-2020.
 >
 > att 13 Riksstämman ajourneras till söndag 2018-11-18 kl. 09.00.
 
@@ -444,7 +444,7 @@ Bilaga 14. Fokustema 2019 - förslag
 >[!beslut]
 > RS beslutar
 >
-> att 31 välja [[Julia Reinius]], [[David Andersson]] och [[Alma Dannäs]] till [valberedning](../../verksamheter/Valberedningen.md) för 2019-2020.
+> att 31 välja [Julia Reinius](../../personer/Julia%20Reinius.md), [David Andersson](../../personer/David%20Andersson.md) och [Alma Dannäs](../../personer/Alma%20Dannäs.md) till [valberedning](../../verksamheter/Valberedningen.md) för 2019-2020.
 
 ### §9b Fyllnadsval till styrelsen (Valberedningen)
 
@@ -453,7 +453,7 @@ Bilaga 14. Fokustema 2019 - förslag
 >
 > att 32 fastställa [förbundsstyrelsens](../../verksamheter/FS%20(Förbundsstyrelsen).md) storlek för verksamhetsåret 2019 till nio (9) personer inräknat ordförande.
 >
-> att 33 välja [[Max Robertsson]] till ledamot i Unga Forskares förbundsstyrelse
+> att 33 välja [Max Robertsson](../../personer/Max%20Robertsson.md) till ledamot i Unga Forskares förbundsstyrelse
 >
 > att 34 välja [[Therese de Neergaard]] till ledamot i Unga Forskares förbundsstyrelse
 >
@@ -468,7 +468,7 @@ Bilaga 14. Fokustema 2019 - förslag
 >[!beslut]
 > RS beslutar
 >
-> att 36 Fastslå [[Gunnar Tullberg]] och [[Jozephine-Pilgrim Gimling]] som ekonomiska revisorer samt [[Emma Petersson]] och [[Eleonora Svanberg]] som verksamhetsrevisor respektive verksamhetsrevisorssuppleant.
+> att 36 Fastslå [Gunnar Tullberg](../../personer/Gunnar%20Tullberg.md) och [[Jozephine-Pilgrim Gimling]] som ekonomiska revisorer samt [Emma Petersson](../../personer/Emma%20Petersson.md) och [[Eleonora Svanberg]] som verksamhetsrevisor respektive verksamhetsrevisorssuppleant.
 
 ## §10 Övriga frågor
 
@@ -476,7 +476,7 @@ Bilaga 14. Fokustema 2019 - förslag
 
 ## §11 Stämmans avslutande (Linnea Suomenniemi)
 
-> [[Linnea Suomenniemi]] avslutar Riksstämman 2018-11-18 kl. 11.16.
+> [Linnea Suomenniemi](../../personer/Linnea%20Suomenniemi.md) avslutar Riksstämman 2018-11-18 kl. 11.16.
 
 ## BILAGOR TILL PROTOKOLLET
 

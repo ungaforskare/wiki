@@ -10,7 +10,7 @@ namn: Åsiktsprofil 2024
 >[!warning]
 > Dokumentet heter "Unga Forskares åsiktsprofil" i sidhuvudet och "Proposition: Åsiktsprofil 2024" i bilagelistan. Riksstämman beslutade enligt propositionen, men att-satsen i protokollet säger "åsiktsprofil för 2023" (se §6b i [protokollet](Protokoll%20-%20RS%202023.md)).
 
-Dokumentansvarig: [[Marina Peltonen]], 2023-09-19
+Dokumentansvarig: [Marina Peltonen](../../personer/Marina%20Peltonen.md), 2023-09-19
 
 ## Unga Forskares åsiktsprofil
 

@@ -21,13 +21,13 @@ Att tillhöra ett socialt sammanhang där STEM är naturligt och spännande gör
 
 Det är just i sådana sammanhang som Unga Forskares uppdrag blir tydligt, genom vårt arbete med att ge unga plats att utforska STEM via fritidsklubbar, läger och tävlingar. Sedan 1977, med rötter som sträcker sig över hundra år tillbaka i våra medlemsföreningar, har Unga Forskare främjat ungas intresse för STEM genom att skapa dessa viktiga sociala mötesplatser. Redan 1963 startades [Utställningen Unga Forskare](../../verksamheter/UUF%20(Utställningen%20Unga%20Forskare).md), Sveriges största vetenskapsmässa för unga – bara några år efter att konceptet etablerades i USA. Under 80-talet anordnade vi programmeringsläger för tjejer, och [SIYSS](../../verksamheter/SIYSS%20(Stockholm%20International%20Youth%20Science%20Seminar).md) har i över 45 år varit ett av världens mest prestigefyllda vetenskapsevenemang för unga forskare. Jag stöter ofta på alumner som berättar hur deras deltagande i en Unga Forskare-klubb eller ett forskningsläger under grundskolan var avgörande för deras framtida utbildning och karriärval.
 
-År 2024 har varit ett utvecklande år för Unga Forskare. Vi ansluter årligen nya föreningar och kan stolt säga att vi under året hade cirka 7500 medlemmar i över 50 föreningar. Vi antog en ny fyraårig strategi som ska hjälpa oss nå fler unga, öka medlemsnyttan och stärka vår röst i samhällsdebatten. För att bättre stödja våra medlemmar lanserade vi nya digitala plattformar, bland annat TikTok och Discord, som skapar inkluderande och levande mötesplatser. Vi är också stolta över att [[Cybersecurity Academy]] (CSA) når 200.000 elever varje år – ett bevis på vårt ökade genomslag inom viktiga områden. Under året tog vi farväl av vår generalsekreterare [[Anna Hedlund]] efter nästan tio års tjänst, och verksamheten leds under första halvan av 2025 av tillförordnad generalsekreterare [[Tove Ladberg]], som redan bidrar starkt till Unga Forskare.
+År 2024 har varit ett utvecklande år för Unga Forskare. Vi ansluter årligen nya föreningar och kan stolt säga att vi under året hade cirka 7500 medlemmar i över 50 föreningar. Vi antog en ny fyraårig strategi som ska hjälpa oss nå fler unga, öka medlemsnyttan och stärka vår röst i samhällsdebatten. För att bättre stödja våra medlemmar lanserade vi nya digitala plattformar, bland annat TikTok och Discord, som skapar inkluderande och levande mötesplatser. Vi är också stolta över att [Cybersecurity Academy](../../verksamheter/Cybersecurity%20Academy.md) (CSA) når 200.000 elever varje år – ett bevis på vårt ökade genomslag inom viktiga områden. Under året tog vi farväl av vår generalsekreterare [Anna Hedlund](../../personer/Anna%20Hedlund.md) efter nästan tio års tjänst, och verksamheten leds under första halvan av 2025 av tillförordnad generalsekreterare [Tove Ladberg](../../personer/Tove%20Ladberg.md), som redan bidrar starkt till Unga Forskare.
 
 År 2025 markerar förbundsstyrelsens och mitt andra år i mandatperioden – ett år där vi hoppas skapa ännu bättre förutsättningar för barn och unga att utveckla intresse för STEM och utrymme att påverka samhällsutvecklingen. Det är dagens unga som ska lösa framtidens utmaningar, och satsningar på STEM är avgörande för att göra det möjligt.
 
 Då som nu är Unga Forskares arbete avgörande för att samla och främja unga forskare över hela landet. Tack vare våra engagerade medlemmar, partners, ideellt aktiva, förtroendevalda och anställda har vi legat i framkant sedan starten – och det kommer vi fortsätta göra även i framtiden.
 
-[[Julia Qiu]], Förbundsordförande
+[Julia Qiu](../../personer/Julia%20Qiu.md), Förbundsordförande
 
 ## Om oss
 
@@ -94,7 +94,7 @@ Vi kunde under 2024 dela ut totalt 595 060 kr i bidrag till föreningarna.
 - Aktivitetsbank
 - Stöd och deltagande i påverkansarbete lokalt, regionalt och nationellt
 - Möjlighet att nominera till uppdrag hos [LSU](../../organisationer/LSU%20(Landsrådet%20för%20Sveriges%20Ungdomsorganisationer).md)
-- Rabatt på tidningen [[Forskning & Framsteg]]
+- Rabatt på tidningen [Forskning & Framsteg](../../organisationer/Forskning%20&%20Framsteg.md)
 - Rabatt på resor hos [[SJ]]
 - Möjlighet att ta del av stipendier
 - Boken Medlemsmodellen
@@ -104,60 +104,60 @@ Vi kunde under 2024 dela ut totalt 595 060 kr i bidrag till föreningarna.
 <!-- Listan har 56 föreningar, som texten anger. Den står i två spalter i källan (sid 49); här vänster spalt först. "Code@LTH" står som "CodeOLTH" i OCR-texten (snabel-a). Curt Nicolin Gymnasiets Tekniska Förening finns inte i listorna för 2022–2023, och CNG Science Club (Curt Nicolin Gymnasiet, Finspång), som finns i de listorna, saknas här. Det kan vara samma förening med nytt namn, men det är inte bekräftat; därför har de skilda länkmål. -->
 
 - [Alef Noll](../../föreningar/Alef%20Noll.md)
-- [[Alumniföreningen Utställningen Unga Forskare]]
+- [Alumniföreningen Utställningen Unga Forskare](../../föreningar/Alumniföreningen%20Utställningen%20Unga%20Forskare.md)
 - [[Arkimedes]]
 - [[Berzience Club]]
-- [[Biologiska Ämnesrådet]]
-- [[Calmare Naturvetenskapliga Studentförening]]
+- [Biologiska Ämnesrådet](../../föreningar/Biologiska%20Ämnesrådet.md)
+- [Calmare Naturvetenskapliga Studentförening](../../föreningar/Calmare%20Naturvetenskapliga%20Studentförening.md)
 - [[Cathedralis Scientia]]
-- [[Chalmers Autonomous Systems and Electronics]]
-- [[Chalmers Coding Club]]
-- [[Chalmers Robotförening]]
-- [[Code@LTH]]
+- [Chalmers Autonomous Systems and Electronics](../../föreningar/CASE%20(Chalmers%20Autonomous%20Systems%20and%20Electronics).md)
+- [Chalmers Coding Club](../../föreningar/Chalmers%20Coding%20Club.md)
+- [Chalmers Robotförening](../../föreningar/Chalmers%20Robotförening.md)
+- [Code@LTH](../../föreningar/Code@LTH.md)
 - [[Consensum Science Club]]
 - [[Curt Nicolin Gymnasiets Tekniska Förening]]
-- [[Elektronikföreningen Admittansen]]
+- [Elektronikföreningen Admittansen](../../föreningar/Elektronikföreningen%20Admittansen.md)
 - [[Engineering Students Exploring Research]]
-- [[Europaskolan för vetenskap|Europaskolan för Vetenskap]]
-- [[Franklins Science Club]]
+- [Europaskolan för Vetenskap](../../föreningar/Europaskolan%20för%20vetenskap.md)
+- [Franklins Science Club](../../föreningar/Franklins%20Science%20Club.md)
 - [[Freja LTH]]
-- [[F-sektionen inom TLTH]]
-- [[Fysikums Kamratförening]]
-- [[FET (Föreningen Energisystemteknologerna)|Föreningen Energisystemteknologerna]]
+- [F-sektionen inom TLTH](../../föreningar/F-sektionen%20inom%20TLTH.md)
+- [Fysikums Kamratförening](../../föreningar/Fysikums%20Kamratförening.md)
+- [Föreningen Energisystemteknologerna](../../föreningar/FET%20(Föreningen%20Energisystemteknologerna).md)
 - [[FIA (Föreningen för intelligenta autonoma system)|Föreningen för Intelligenta Autonoma System]]
-- [[Föreningen Stockholms Amatörastronomer]]
-- [[Geovetenskapliga Rådet för Uppsala Studenter]]
-- [[Girls in STEM]]
-- [[Hjernverket Science Club]]
-- [[Hållbart Universitet]] - Lund Students for Sustainability
-- [[iGEM Chalmers Gothenburg|IGEM Chalmers Gothenburg association]]
-- [[iGEM Uppsala]]
+- [Föreningen Stockholms Amatörastronomer](../../föreningar/Föreningen%20Stockholms%20Amatörastronomer.md)
+- [Geovetenskapliga Rådet för Uppsala Studenter](../../föreningar/GRUS%20(Geovetenskapliga%20Rådet%20för%20Uppsala%20Studenter).md)
+- [Girls in STEM](../../föreningar/Girls%20in%20STEM.md)
+- [Hjernverket Science Club](../../föreningar/Hjernverket%20Science%20Club.md)
+- [Hållbart Universitet](../../föreningar/Hållbart%20Universitet.md) - Lund Students for Sustainability
+- [IGEM Chalmers Gothenburg association](../../föreningar/iGEM%20Chalmers%20Gothenburg.md)
+- [iGEM Uppsala](../../föreningar/iGEM%20Uppsala.md)
 - [[Innovatoriet]]
-- [[Intresseföreningen Uppsala Akademiska Kemister]]
-- [[IYPT Sweden|IYPT SWEDEN]]
-- [[Kristianstads Science organization|Kristanstads Science organization]]
-- [[KYSS|Kungsholmen's Young Scientists' Society]]
-- [[Lindholmens Makerspace]]
-- [[LiU IGEM|LiU iGEM]]
-- [[Malmös Akademiska Förening]]
-- [[Maskinsektionen inom TLTH]]
-- [[Molekulföreningen]]
-- [[Naturvetenskapliga Sällskapet]]
+- [Intresseföreningen Uppsala Akademiska Kemister](../../föreningar/Intresseföreningen%20Uppsala%20Akademiska%20Kemister.md)
+- [IYPT SWEDEN](../../föreningar/IYPT%20Sweden.md)
+- [Kristanstads Science organization](../../föreningar/Kristianstads%20Science%20organization.md)
+- [Kungsholmen's Young Scientists' Society](../../föreningar/KYSS%20(Kungsholmens%20Young%20Scientists'%20Society).md)
+- [Lindholmens Makerspace](../../föreningar/Lindholmens%20Makerspace.md)
+- [LiU iGEM](../../föreningar/LiU%20IGEM.md)
+- [Malmös Akademiska Förening](../../föreningar/Malmös%20Akademiska%20Förening.md)
+- [Maskinsektionen inom TLTH](../../föreningar/Maskinsektionen%20inom%20TLTH.md)
+- [Molekulföreningen](../../föreningar/Molekulföreningen.md)
+- [Naturvetenskapliga Sällskapet](../../föreningar/Naturvetenskapliga%20Sällskapet.md)
 - [[Pangea matematikförening]]
-- [[Research Academy for Young Scientists]]
+- [Research Academy for Young Scientists](../../föreningar/RAYS%20(Research%20Academy%20for%20Young%20Scientists).md)
 - [[Science Club JGNK]]
 - [[Science Club Lysekil]]
-- [[TBI-sektionen|Sektionen för Teknisk Biologi]]
+- [Sektionen för Teknisk Biologi](../../föreningar/TBI-sektionen.md)
 - [[Sicklas Naturvetenskapliga Förening]]
 - [[St Eskil's young scientists|St Eskil's Young Scientists]]
 - [[Stockholm Genetically Engineered Machines]]
-- [[SIYSS-föreningen|Stockholm International Youth Science Seminar]]
-- [[THS - Kemisektionen|THS Kemisektionen]]
+- [Stockholm International Youth Science Seminar](../../föreningar/SIYSS-föreningen.md)
+- [THS Kemisektionen](../../föreningar/THS%20-%20Kemisektionen.md)
 - [[Ung DataTjej]]
 - [[Unga Forskare Per Brahe]]
 - [[Unga Forskare Värmland]]
-- [[We Are W-Engineers]]
-- [[W-sektionen inom Teknologkåren vid Lunds Tekniska Högskola|W-sektionen inom TLTH]]
+- [We Are W-Engineers](../../föreningar/WAWE%20(We%20Are%20W-Engineers).md)
+- [W-sektionen inom TLTH](../../föreningar/W-sektionen%20inom%20Teknologkåren%20vid%20Lunds%20Tekniska%20Högskola.md)
 - [[Östra Real Science Club]]
 
 Nedan är några exempel på alla de roliga, spännande och lärorika saker som våra föreningar har genomfört under det gångna året.
@@ -165,7 +165,7 @@ Nedan är några exempel på alla de roliga, spännande och lärorika saker som 
 <!-- Listan står i två spalter i källan (sid 50); här vänster spalt först. -->
 
 - Arrangerat matematiktävling för medlemmar
-- Studiebesök vid partikelacceleratorn [[MAX IV]] i [[Lund]]
+- Studiebesök vid partikelacceleratorn [[MAX IV]] i [Lund](../../platser/orter/Lund.md)
 - Delat ut stipendier vid Utställningen Unga Forskares nio semifinaler
 - Utfört experiment och mindre labbar, som att testa blodtyper och göra skummaskar
 - Hållit tävling och stånd på skolans trivselvecka
@@ -180,7 +180,7 @@ Nedan är några exempel på alla de roliga, spännande och lärorika saker som 
 - Hållit i en monter på "Rädda Ägget", en teknikutmaning där femteklassare får prova på ingenjörsyrket
 - Julkortsworkshop där medlemmarna fick designa ett eget julkort i form av ett kretskort
 - Utbildningar inom PCB design, 3D-printing, laser-cutting/engraving och labbsäkerhet
-- Arrangerat Chalmers Challenge, den andra deltävlingen i serien med programmeringstävlingar känd som "[[Swedish Coding Cup]]"
+- Arrangerat Chalmers Challenge, den andra deltävlingen i serien med programmeringstävlingar känd som "[Swedish Coding Cup](../../organisationer/Swedish%20Coding%20Cup.md)"
 - Arrangerat "Chalmers Golfmästerskap" där deltagarna skulle skriva en korrekt lösning till en programmeringsuppgift med så kort kod som möjligt
 - Arrangerat en bootcamp med föreläsningar och en massa rolig algoritmisk problemlösning
 - Hållit i en "site" för den regionala deltävlingen i den nordiska programmeringstävlingen NCPC där två lag kvalificerade sig till den efterföljande tävlingen NWERC
@@ -201,15 +201,15 @@ Nedan är några exempel på alla de roliga, spännande och lärorika saker som 
 - Workshops om "sustainable cleaning" och "microgreen planting"
 - Arrangerat ett samtal om hållbar och jämlik menstrual hälsa under internationella kvinnodagen
 - Forskarföreläsning
-- Studiebesök på [[Universeum]]
-- Deltagande på paneler i [[Almedalen]]
+- Studiebesök på [Universeum](../../organisationer/Universeum.md)
+- Deltagande på paneler i [Almedalen](../../organisationer/Almedalen.md)
 - Möte med utbildningsministern om vikten av ungas organisering inom STEM
 - Egen föreningstidning
 - Teleskopvisningar
 - Besök på gymnasieskola för att föreläsa om syntetisk biologi
 - Försäljning av labbrockar
 - Arrangerat IYPTs svenska uttagning
-- Arrangerat sommarskola på [[Vetenskapens Hus]]
+- Arrangerat sommarskola på [Vetenskapens Hus](../../organisationer/Vetenskapens%20Hus.md)
 - Hållit höstläger i fysik på två orter
 - Tävling i konstruktion med att bygga spaghettibroar
 - Föreläsning om datorns historia
@@ -231,17 +231,17 @@ Nedan är några exempel på alla de roliga, spännande och lärorika saker som 
 
 ## Vi sänker trösklarna till forskning och vetenskap
 
-Ref: [[AstraZenecas Sommarforskarskola]]
+Ref: [AstraZenecas Sommarforskarskola](../../verksamheter/AstraZenecas%20Sommarforskarskola.md)
 
 Vi har fortsatt brist i Sverige på flera yrkesgrupper inom STEM, och genomströmningen av studenter på ingenjörsutbildningar är för låg. Vi behöver därför ta gemensamma krafttag för att både inspirera fler unga och stötta och komplettera skolan så att fler klarar utbildningen.
 
 En viktig förutsättning för ungas intresse för naturvetenskap, teknik och matematik är att de tidigt får möjlighet att stifta bekantskap med ämnena, kunna ta del av praktiska resurser som labb och annan utrustning, och att få ha roligt med andra på ett elevstyrt och kravlöst sätt bortom prestationskrav och betyg. Vi vill bidra till en positiv utveckling och verklighet där unga har samma förutsättningar oberoende av vilken skola man går på, var man bor eller familjens ekonomiska förutsättningar.
 
-Ett exempel på hur vi arbetar är våra Sommarforskarskolor som vi arrangerar varje sommar i [[Stockholm]] och [[Göteborg]] tillsammans med [[AstraZeneca]] och [[Borealis]] och lokala lärosäten. Under totalt 3 veckor deltog 101 högstadieelever och fick lära sig laborera och experimentera inom flera naturvetenskapliga och tekniska discipliner. Vi utgår alltid från elevernas egen nyfikenhet och upptäckarglädje vilket är en förutsättning för ett långsiktigt och hållbart intresse.
+Ett exempel på hur vi arbetar är våra Sommarforskarskolor som vi arrangerar varje sommar i [Stockholm](../../platser/orter/Stockholm.md) och [Göteborg](../../platser/orter/Göteborg.md) tillsammans med [AstraZeneca](../../organisationer/AstraZeneca.md) och [Borealis](../../organisationer/Borealis.md) och lokala lärosäten. Under totalt 3 veckor deltog 101 högstadieelever och fick lära sig laborera och experimentera inom flera naturvetenskapliga och tekniska discipliner. Vi utgår alltid från elevernas egen nyfikenhet och upptäckarglädje vilket är en förutsättning för ett långsiktigt och hållbart intresse.
 
-I sommarforskarskolorna finns inga betyg utan syftet är att väcka en känsla av att naturvetenskap är spännande och roligt samt att ge perspektiv på ämnenas betydelse i samhället. Vi visar på hur vi kan knyta an till de verkliga och stora utmaningarna i vårt globala samhälle och på hur unga kan vara med och påverka vår framtid genom vetenskap. Vi erbjuder deltagarna en gemenskap och lyfter fram unga förebilder genom de unga engagerade handledarna som själva studerar på universitetsnivå. Veckan hade sin utgångspunkt i temat Nobelpris, utifrån detta tema planerades övningar, laborationer och föreläsningar med koppling till olika Nobelpris genom historien. Temat löper som en röd tråd genom laboratorier och uppgifter på ett roligt och engagerande sätt. Sommarforskarna fick bland annat lära sig om gener och gendrivare, fick experimentera med magnetism genom att bygga svävande tåg, lära sig om transistorer och hur de fungerar. I Stockholm så genomfördes en labb på [[Vetenskapens Hus]] och i Göteborg så genomfördes studiebesök hos AstraZeneca och [[Universeum]]. I snitt säger 85 procent av deltagarna i våra sommarforskarskolor att deltagandet har bidragit till ett ökat intresse för vidare studier inom STEM.
+I sommarforskarskolorna finns inga betyg utan syftet är att väcka en känsla av att naturvetenskap är spännande och roligt samt att ge perspektiv på ämnenas betydelse i samhället. Vi visar på hur vi kan knyta an till de verkliga och stora utmaningarna i vårt globala samhälle och på hur unga kan vara med och påverka vår framtid genom vetenskap. Vi erbjuder deltagarna en gemenskap och lyfter fram unga förebilder genom de unga engagerade handledarna som själva studerar på universitetsnivå. Veckan hade sin utgångspunkt i temat Nobelpris, utifrån detta tema planerades övningar, laborationer och föreläsningar med koppling till olika Nobelpris genom historien. Temat löper som en röd tråd genom laboratorier och uppgifter på ett roligt och engagerande sätt. Sommarforskarna fick bland annat lära sig om gener och gendrivare, fick experimentera med magnetism genom att bygga svävande tåg, lära sig om transistorer och hur de fungerar. I Stockholm så genomfördes en labb på [Vetenskapens Hus](../../organisationer/Vetenskapens%20Hus.md) och i Göteborg så genomfördes studiebesök hos AstraZeneca och [Universeum](../../organisationer/Universeum.md). I snitt säger 85 procent av deltagarna i våra sommarforskarskolor att deltagandet har bidragit till ett ökat intresse för vidare studier inom STEM.
 
-Vi har förmånen att nominera stipendiater till [[Anders Walls stiftelse|Anders Walls stiftelses]] stipendium inom naturvetenskaplig forskning och teknik. Den eller de sökande som får stipendiet erhåller 200 000 kr ämnat att stödja fortsatt forskning och personlig utveckling. Stipendiet tilldelades [[Erik Hartman]]. Erik doktorerar på laboratoriet för infektionsmedicinsk proteomik i Lund. Under sin studietid har han byggt upp en portfölj av programvara och kompetens inom maskininlärning och bioformatik, vilket han nu applicerar inom flera olika projekt.
+Vi har förmånen att nominera stipendiater till [Anders Walls stiftelses](../../organisationer/Anders%20Walls%20stiftelse.md) stipendium inom naturvetenskaplig forskning och teknik. Den eller de sökande som får stipendiet erhåller 200 000 kr ämnat att stödja fortsatt forskning och personlig utveckling. Stipendiet tilldelades [[Erik Hartman]]. Erik doktorerar på laboratoriet för infektionsmedicinsk proteomik i Lund. Under sin studietid har han byggt upp en portfölj av programvara och kompetens inom maskininlärning och bioformatik, vilket han nu applicerar inom flera olika projekt.
 
 <!-- Stycket om Anders Walls stiftelse står i en ruta överst på sid 53, före stycket om Utställningen. -->
 
@@ -253,7 +253,7 @@ Ett annat exempel på hur vi arbetar med målmedvetna och engagerade ungdomar p�
 
 725 ungdomar deltog i den första uttagningen, och från de åtta semifinalerna kvalificerades 89 till final. Finalen hölls på temat Internationella forskningssamarbeten. Deltagarna medverkade i digitala workshops, studiebesök, juryintervjuer och andra aktiviteter. I vår digitala finalutställning presenterade finalisterna sina arbeten genom videopresentationer, abstracts, rapporter, postrar och bilder. Digitala besökare fick rösta fram Publikens pris, ställa frågor och lära sig mer om olika ämnen. Givetvis tog vi också emot fysiska besökare.
 
-Vi välkomnade [[Vahid Zohali]], VD för [[IBM]] Sverige, som årets prisutdelare. Dessutom medverkade representanter från våra sponsorer, [[Beijerstiftelsen]], [[Ericsson]], [[Scania]], [[AstraZeneca]] och [[Xylem]]. Vinnare utsågs i elva kategorier och för många dem har det inneburit starten på nya, internationella äventyr i vetenskapens tecken. Samtidigt fortsätter finalisterna att inspirera fler via vår digitala finalutställning som ligger uppe under hela året och når över 10 000 elever varje år.
+Vi välkomnade [[Vahid Zohali]], VD för [IBM](../../organisationer/IBM.md) Sverige, som årets prisutdelare. Dessutom medverkade representanter från våra sponsorer, [Beijerstiftelsen](../../organisationer/Beijerstiftelsen.md), [Ericsson](../../organisationer/Ericsson.md), [Scania](../../organisationer/Scania.md), [AstraZeneca](../../organisationer/AstraZeneca.md) och [Xylem](../../organisationer/Xylem.md). Vinnare utsågs i elva kategorier och för många dem har det inneburit starten på nya, internationella äventyr i vetenskapens tecken. Samtidigt fortsätter finalisterna att inspirera fler via vår digitala finalutställning som ligger uppe under hela året och når över 10 000 elever varje år.
 
 Utställningen är mer än en tävling - det är en språngbräda för nästa generations forskare, specialister och problemlösare!
 
@@ -269,15 +269,15 @@ Vi kunde även streama dagen och erbjuda ungdomar som inte kunde ta sig till Sto
 
 ### Cybersecurity Academy
 
-Ref: [[Cybersecurity Academy]]
+Ref: [Cybersecurity Academy](../../verksamheter/Cybersecurity%20Academy.md)
 
-Våra samhällsfunktioner blir allt mer digitala, och vi lever idag stor del av sitt liv online från tidig ålder. Då blir det allt viktigare att ungdomar lär sig tidigt om säkerhet, hur vi ska skydda oss själva online, både som individer och som samhälle. Sedan 2019 driver vi tillsammans med [[IBM]] den rikstäckande verksamheten Cyber Security Academy. Verksamheten syftar till att utbilda och engagera unga från lågstadiet upp till gymnasiet i frågor som rör IT-säkerhet och skapa trygga vanor på internet ur ett tekniskt perspektiv. Målet är både att unga ska kunna skapa sig säkra vanor på nätet och förstå hur tekniken fungerar, men även att bredda bilden av teknik och öka intresset bland unga för teknik, genom att koppla tekniken tydligt till de olika utmaningar vi ser i samhället idag.
+Våra samhällsfunktioner blir allt mer digitala, och vi lever idag stor del av sitt liv online från tidig ålder. Då blir det allt viktigare att ungdomar lär sig tidigt om säkerhet, hur vi ska skydda oss själva online, både som individer och som samhälle. Sedan 2019 driver vi tillsammans med [IBM](../../organisationer/IBM.md) den rikstäckande verksamheten Cyber Security Academy. Verksamheten syftar till att utbilda och engagera unga från lågstadiet upp till gymnasiet i frågor som rör IT-säkerhet och skapa trygga vanor på internet ur ett tekniskt perspektiv. Målet är både att unga ska kunna skapa sig säkra vanor på nätet och förstå hur tekniken fungerar, men även att bredda bilden av teknik och öka intresset bland unga för teknik, genom att koppla tekniken tydligt till de olika utmaningar vi ser i samhället idag.
 
 2024 blev året då vi slog rekord i antal föreläsningar och samtidigt tog nästa kliv i att möta unga även utanför skoltiden. Vi har anställt ett stort antal visstidsanställda för att kunna öka vårt fokus i att möta fler unga, digitalt och face to face. Med stöd från [[MSB]] utvecklade vi ett nytt workshopkoncept – CyberCamps – som riktar sig till barn och unga på fritiden. Totalt utbildade vi över 25 it-studenter som nu håller i workshops och föreläsningar runtom i landet. Det nya konceptet pilotades under hösten, och vi arrangerade flera fysiska workshops och evenemang med mycket positiv respons.
 
 Intresset för föreläsningar har varit stort. Genom riktade utskick till skolor, och med hjälp av våra studentföreläsare, har vi lyckats möta en våg av bokningar från lärare som ville lyfta IT-säkerhet i klassrummet. Totalt deltog över 4000 elever i våra föreläsningar under året. På våra CyberCamps har deltagarna fått prova på allt från programmering och kryptering till källkritik och AI – och inte minst utveckla sin digitala kompetens på ett roligt och interaktivt sätt.
 
-För att inspirera fler och bredda bilden av cybersäkerhetsyrken tog vi även fram nya filmer. I dem får vi följa bland andra en cyberbrottsutredare hos [[Polisen]] och en etisk hackare i sitt vardagsarbete. Genom att komplettera vårt befintliga undervisningsmaterial med dessa berättelser hoppas vi kunna väcka nyfikenhet, visa nya vägar och sänka trösklarna in till en bransch där det verkligen behövs fler unga.
+För att inspirera fler och bredda bilden av cybersäkerhetsyrken tog vi även fram nya filmer. I dem får vi följa bland andra en cyberbrottsutredare hos [Polisen](../../organisationer/Polisen.md) och en etisk hackare i sitt vardagsarbete. Genom att komplettera vårt befintliga undervisningsmaterial med dessa berättelser hoppas vi kunna väcka nyfikenhet, visa nya vägar och sänka trösklarna in till en bransch där det verkligen behövs fler unga.
 
 Samtidigt märktes det tydligt att behovet av läromedel för yngre åldrar fortfarande är stort. Under året beställdes drygt 22000 exemplar av vårt material för låg-, mellan- och högstadiet – ett tydligt kvitto på att cybersäkerhet fortsatt är ett ämne som engagerar både lärare och elever.
 
@@ -285,7 +285,7 @@ Samtidigt märktes det tydligt att behovet av läromedel för yngre åldrar fort
 
 För oss är det självklart att skolundervisningen ska vara stimulerande för elever i alla åldrar, ge utrymme för ungas eget intresse och samtidigt ge unga en gedigen kunskapsbas inför högskolan. Alla unga ska ha möjlighet att klara skolarbetet och utveckla sitt intresse för STEM, både inom och utanför skoltid. Det ska inte spela någon roll var man bor, vilken skola man går på eller vilka föräldrar man har. Idag är verkligheten en annan - vi ser idag en kraftig snedrekrytering utifrån faktorer som geografisk hemvist, skola och föräldrarnas utbildningsnivå. Detta är både ett demokratiskt problem och ett hinder för kompetensförsörjningen. Skolan har ett kompensatoriskt uppdrag, som vi både vill och kan stödja. Därför fortsätter vi satsningar på stöd till skolan, till hela klasser och till enskilda elever.
 
-Unga Forskare erbjuder en heltäckande modell för hur gymnasieskolan kan arbeta med forskning och vetenskaplig metod på ett systematiskt sätt genom alla tre gymnasieår. Modellen innebär ett arbetssätt och en verktygslåda för läraren och erbjuder en progression där eleven går från fokus på inspiration i åk 1 till träning i åk 2 och till att slutligen i åk 3 vara redo för högskolan. Skolor som implementerar modellen i sin helhet kan bli certifierad partnerskola till Unga Forskare. Under 2024 certifierades vår fjärde skola, [[Minervagymnasium]] i [[Umeå]]. Sedan tidigare är även [[Franklins gymnasium]] i [[Mölndal]], [[Curt Nicolin Gymnasiet]] i [[Finspång]] och [[Consensum gymnasium]] i [[Lund]] certifierade. Genom partnerskolorna når vi över 1 000 elever på daglig basis, i och utanför skoltid.
+Unga Forskare erbjuder en heltäckande modell för hur gymnasieskolan kan arbeta med forskning och vetenskaplig metod på ett systematiskt sätt genom alla tre gymnasieår. Modellen innebär ett arbetssätt och en verktygslåda för läraren och erbjuder en progression där eleven går från fokus på inspiration i åk 1 till träning i åk 2 och till att slutligen i åk 3 vara redo för högskolan. Skolor som implementerar modellen i sin helhet kan bli certifierad partnerskola till Unga Forskare. Under 2024 certifierades vår fjärde skola, [[Minervagymnasium]] i [[Umeå]]. Sedan tidigare är även [Franklins gymnasium](../../skolor/Franklins%20gymnasium.md) i [[Mölndal]], [Curt Nicolin Gymnasiet](../../skolor/Curt%20Nicolin%20Gymnasiet.md) i [[Finspång]] och [[Consensum gymnasium]] i [Lund](../../platser/orter/Lund.md) certifierade. Genom partnerskolorna når vi över 1 000 elever på daglig basis, i och utanför skoltid.
 
 Vi erbjuder också kostnadsfritt skolmaterial för hela grundskolan och gymnasiet för att stötta lärare och elever. Materialet är framtaget tillsammans med näringsliv, organisationer och forskare och erbjuder aktuella och inspirerande exempel från forskningsprojekt inom och utanför Sverige.
 
@@ -293,11 +293,11 @@ Allt vårt skolmaterial finns att nå via <https://skolmaterial.ungaforskare.se/
 
 ## Sveriges Unga Forskningslandslag
 
-Ref: [[Sveriges Unga Forskningslandslag]]
+Ref: [Sveriges Unga Forskningslandslag](../../verksamheter/Sveriges%20Unga%20Forskningslandslag.md)
 
-Sveriges Unga Forskningslandslag består av våra vinnare som får tävla vidare under året i flera av världens största vetenskapstävlingar för unga. Landslaget representerar Sverige internationellt och bidrar till bilden av Sverige som forskningsnation både nu och i framtiden - och de spelar också en viktig roll som ambassadörer för andra ungdomar. Under 2024 representerade landslaget Sverige i VM, [Regeneron ISEF](../../organisationer/Intel%20ISEF.md), i USA, EM, [EU Contest for Young Scientists](../../organisationer/EU%20Contest.md) i Polen, och i VM i vattenfrågor, [[Stockholm Junior Water Prize]] i augusti.
+Sveriges Unga Forskningslandslag består av våra vinnare som får tävla vidare under året i flera av världens största vetenskapstävlingar för unga. Landslaget representerar Sverige internationellt och bidrar till bilden av Sverige som forskningsnation både nu och i framtiden - och de spelar också en viktig roll som ambassadörer för andra ungdomar. Under 2024 representerade landslaget Sverige i VM, [Regeneron ISEF](../../organisationer/Intel%20ISEF.md), i USA, EM, [EU Contest for Young Scientists](../../organisationer/EU%20Contest.md) i Polen, och i VM i vattenfrågor, [Stockholm Junior Water Prize](../../organisationer/Stockholm%20Junior%20Water%20Prize.md) i augusti.
 
-Vi vill rikta ett stort tack till våra landslagssponsorer: [[Beijerstiftelsen]], [[Ericsson]], [[Scania]] och [[AstraZeneca]] som möjliggör våra landslagsaktiviteter både inom och utom Sverige. Stort tack också till [[Xylem]], som är sponsor för [[Stockholm Junior Water Prize|Stockholm Junior Water Prize Sweden]] som också ingår i landslagets tävlingar.
+Vi vill rikta ett stort tack till våra landslagssponsorer: [Beijerstiftelsen](../../organisationer/Beijerstiftelsen.md), [Ericsson](../../organisationer/Ericsson.md), [Scania](../../organisationer/Scania.md) och [AstraZeneca](../../organisationer/AstraZeneca.md) som möjliggör våra landslagsaktiviteter både inom och utom Sverige. Stort tack också till [Xylem](../../organisationer/Xylem.md), som är sponsor för [Stockholm Junior Water Prize Sweden](../../organisationer/Stockholm%20Junior%20Water%20Prize.md) som också ingår i landslagets tävlingar.
 
 ## Vi lyfter ungas röster - Media och påverkansarbete
 
@@ -305,9 +305,9 @@ Vi ser det som en central del av vårt uppdrag att möjliggöra för unga att dr
 
 Vi arbetar därför på individ-, skol- och policynivåerna parallellt för att stödja en sådan utveckling. Alla verksamheter och insatser vi gör ska stärka varandra och skapa synergier. På policynivån arbetar vi med flera olika strategier: att lyfta unga förebilder som kan visa vägen för andra unga, ta död på myter och stereotyper, och visa på mångfalden av möjligheter som finns inom STEM. Att etablera goda och varaktiga relationer med makthavare och beslutsfattare. Att agera remissinstans, skriva debattartiklar och medverka i relevanta branschforum. Vi strävar också efter att i största möjliga mån kroka arm med andra aktörer som delar vår målbild.
 
-Att ungdomar får synas och ta plats i media är viktigt. Då synliggör vi unga förebilder och ungdomar får möjlighet att lyfta de frågor som är viktiga för dem. Under 2024 medverkade vi, våra medlemmar och deltagare i [[Nyhetsmorgon]], [[Efter fem]], [[P1]], [[Expressen]], [[Forskning & Framsteg]] och [[SVT]] samt ett stort antal lokalmedia. Totalt fick vi 86 mediaträffar under året.
+Att ungdomar får synas och ta plats i media är viktigt. Då synliggör vi unga förebilder och ungdomar får möjlighet att lyfta de frågor som är viktiga för dem. Under 2024 medverkade vi, våra medlemmar och deltagare i [[Nyhetsmorgon]], [[Efter fem]], [[P1]], [[Expressen]], [Forskning & Framsteg](../../organisationer/Forskning%20&%20Framsteg.md) och [[SVT]] samt ett stort antal lokalmedia. Totalt fick vi 86 mediaträffar under året.
 
-Vi arbetar också aktivt med påverkansarbete och för att nå genomslag i debatten med våra frågor. Vi medverkade under året bl a med debattartiklar i [[Dagens Industri]], [[Aftonbladet]] och [[Altinget]], rundabordssamtal i Utbildningsutskottet, två paneler med [[Uppsala universitet]] och [[Energimyndigheten]] i [[Almedalen]], på flera Nobeltillställningar, SETT-mässan, [IVA](../../organisationer/IVA%20(Kungliga%20Ingenjörsakademien).md):s årshögtid, Scania Techday, representation i [[VA (Vetenskap & Allmänhet)|Vetenskap & Allmänhets]] styrelse samt flera andra politiska arenor och branschforum. Vi bidrog även med ett skriftligt inspel till regeringens nya, nationella STEM-strategi och hade flera personliga möten med både utbildningsminister [[Mats Persson]] och utbildningsdepartementets statssekreterare tillsammans med föreningarna [[Kodsport Sverige|Kodsport]] och [[Ung Vetenskapssport]], för att lyfta fram betydelsen av ungas egen organisering för att gynna ett ökat intresse för STEM.
+Vi arbetar också aktivt med påverkansarbete och för att nå genomslag i debatten med våra frågor. Vi medverkade under året bl a med debattartiklar i [[Dagens Industri]], [[Aftonbladet]] och [[Altinget]], rundabordssamtal i Utbildningsutskottet, två paneler med [Uppsala universitet](../../skolor/Uppsala%20universitet.md) och [[Energimyndigheten]] i [Almedalen](../../organisationer/Almedalen.md), på flera Nobeltillställningar, SETT-mässan, [IVA](../../organisationer/IVA%20(Kungliga%20Ingenjörsakademien).md):s årshögtid, Scania Techday, representation i [Vetenskap & Allmänhets](../../organisationer/VA%20(Vetenskap%20&%20Allmänhet).md) styrelse samt flera andra politiska arenor och branschforum. Vi bidrog även med ett skriftligt inspel till regeringens nya, nationella STEM-strategi och hade flera personliga möten med både utbildningsminister [[Mats Persson]] och utbildningsdepartementets statssekreterare tillsammans med föreningarna [Kodsport](../../föreningar/Kodsport%20Sverige.md) och [Ung Vetenskapssport](../../föreningar/Ung%20Vetenskapssport.md), för att lyfta fram betydelsen av ungas egen organisering för att gynna ett ökat intresse för STEM.
 
 - Alla unga som är intresserade av naturvetenskap, teknik och matematik ska kunna ägna sig åt sina intressen på fritiden, oavsett var i landet man bor, vilken skola man går på eller familjens ekonomiska förutsättningar
 - Elever ska få stöd från skolan för att driva skolföreningar inom naturvetenskap, teknik och matematik
@@ -323,27 +323,27 @@ Unga Forskare leds av en förbundsstyrelse som väljs på Riksstämman på två�
 
 Ref: [FS (Förbundsstyrelsen)](../../verksamheter/FS%20(Förbundsstyrelsen).md)
 
-- [[Julia Qiu]], Ordförande (mandatperiod 2024-2025)
-- [[Brendan R. Joseph]], Vice ordförande (2024-2025)
+- [Julia Qiu](../../personer/Julia%20Qiu.md), Ordförande (mandatperiod 2024-2025)
+- [Brendan R. Joseph](../../personer/Brendan%20R.%20Joseph.md), Vice ordförande (2024-2025)
 - [[Adam Granquist]] (2024-2025)
-- [[Jonathan Jilg]] (2024-2025)
-- [[Aleksander Berger]] (2024-2025)
-- [[Marina Peltonen]] (2024-2025)
-- [[Simon Åstrand]] (2024-2025)
+- [Jonathan Jilg](../../personer/Jonathan%20Jilg.md) (2024-2025)
+- [Aleksander Berger](../../personer/Aleksander%20Berger.md) (2024-2025)
+- [Marina Peltonen](../../personer/Marina%20Peltonen.md) (2024-2025)
+- [Simon Åstrand](../../personer/Simon%20Åstrand.md) (2024-2025)
 
 ### Valberedningen (mandatperiod)
 
 Ref: [Valberedningen](../../verksamheter/Valberedningen.md)
 
-- [[Lukas Lundgren]] (mandatperiod 2025-2026)
+- [Lukas Lundgren](../../personer/Lukas%20Lundgren.md) (mandatperiod 2025-2026)
 - [[Oskar Hallensjö]] (2025-2026)
 - [[Amanda-Linn Bodin]] (2025-2026)
-- [[Emanuel Enberg]] (2025-2026)
+- [Emanuel Enberg](../../personer/Emanuel%20Enberg.md) (2025-2026)
 
 ### Verksamhetsrevisor (mandatperiod)
 
 - [[Patrick Edelman]] (mandatperiod 2025-2026)
-- [[Linnea Suomenniemi]], Personlig suppleant (2025-2026)
+- [Linnea Suomenniemi](../../personer/Linnea%20Suomenniemi.md), Personlig suppleant (2025-2026)
 
 För att vi ska kunna driva våra stora verksamheter behöver vi många ideella krafter. Våra verksamhetsgrupper arbetar med stöd av kontorets personal och utgör en bärande del i [Stockholm International Youth Science Seminar](../../verksamheter/SIYSS%20(Stockholm%20International%20Youth%20Science%20Seminar).md) och [Utställningen Unga Forskare](../../verksamheter/UUF%20(Utställningen%20Unga%20Forskare).md). Som ideellt aktiv får man möjlighet att utvecklas inom projektledning samtidigt som man är med och skapar möjligheter för andra unga att upptäcka och utforska naturvetenskap, teknik och matematik på ett roligt och meningsfullt sätt både på fritiden och i skolan.
 
@@ -365,15 +365,15 @@ För att vi ska kunna driva våra stora verksamheter behöver vi många ideella 
 - [[Hafsha Afrin]], Innehållsansvarig
 - [[Ghadah Al-Saadi]], Digital marknadsföringsansvarig
 - [[Agnes Andersson]], Finansieringsansvarig
-- [[Andreas Törnkvist]], It-ansvarig
-- [[Humaira Afrin|Humaria Afrin]], It-utvecklare
+- [Andreas Törnkvist](../../personer/Andreas%20Törnkvist.md), It-ansvarig
+- [Humaria Afrin](../../personer/Humaira%20Afrin.md), It-utvecklare
 - [[Julius Lyreborn]], It-utvecklare
 
 Skolambassadörer: [[Simon Younan]], [[Houda Oraham]], [[Liv Nilsson Rapping]].
 
-Finalfaddrar: [[Albert Isaksson]], [[Andreas Törnkvist]], [[Erik Lindgren]], [[Erik Nydahl]], [[Felix Karlberg]], [[Filip Jädersten]], [[Johanna Björk Wallius]], [[Mikaela Nicklasson]], [[Norah Malm]], [[Nora Wemmel Ahlstedt]], [[Tim Erixon]], [[William Hellander]]
+Finalfaddrar: [[Albert Isaksson]], [Andreas Törnkvist](../../personer/Andreas%20Törnkvist.md), [[Erik Lindgren]], [[Erik Nydahl]], [[Felix Karlberg]], [Filip Jädersten](../../personer/Filip%20Jädersten.md), [[Johanna Björk Wallius]], [[Mikaela Nicklasson]], [[Norah Malm]], [[Nora Wemmel Ahlstedt]], [Tim Erixon](../../personer/Tim%20Erixon.md), [[William Hellander]]
 
-Semifinalsfunktionärer: [[Khabib Mohammadi]], [[Mathilda Lindell]], [[William Spetz]], [[Julia Mårtensson]], [[Nora Wemmel Ahlstedt]], [[Alexandra Arnmark]], [[Albert Isaksson]], [[Lykke Dyfverman|Lycke Dyfverman]], [[Emilia Pazur]], [[Tove Berglund]]
+Semifinalsfunktionärer: [[Khabib Mohammadi]], [Mathilda Lindell](../../personer/Mathilda%20Lindell.md), [[William Spetz]], [Julia Mårtensson](../../personer/Julia%20Mårtensson.md), [[Nora Wemmel Ahlstedt]], [[Alexandra Arnmark]], [[Albert Isaksson]], [[Lykke Dyfverman|Lycke Dyfverman]], [[Emilia Pazur]], [Tove Berglund](../../personer/Tove%20Berglund.md)
 
 ### Arrangörsgruppen (AG) 2024
 
@@ -383,7 +383,7 @@ Semifinalsfunktionärer: [[Khabib Mohammadi]], [[Mathilda Lindell]], [[William S
 - [[Dani Zuhair]], Eventkoordinator Mat/Dryck
 - [[Karin Byskata]], Seminariekoordinator
 - [[Kristina Kazandjian]], Kommunikationsansvarig
-- [[Linnea Suomenniemi]], Internationell Koordinator
+- [Linnea Suomenniemi](../../personer/Linnea%20Suomenniemi.md), Internationell Koordinator
 - [[Saga Widström]], Seminariekoordinator
 - [[Sofia Fredin]], Grafisk Designer
 - [[Therese Widmalm]], Eventansvarig
@@ -392,21 +392,21 @@ Semifinalsfunktionärer: [[Khabib Mohammadi]], [[Mathilda Lindell]], [[William S
 
 Personalen arbetar med att utveckla, samordna och driva verksamhet på uppdrag av Riksstämman och förbundsstyrelsen.
 
-- [[Anna Hedlund]], Generalsekreterare
-- [[Tove Ladberg]], Verksamhetsutvecklare
-- [[Paula Langöe|Paula Langöe Eliasson]], Projektutvecklare
-- [[Judith Maiers]], Projektutvecklare
-- [[Mia-Lie Nylund]], Projektkoordinator
-- [[Johanna Stjärnfeldt]], Projektkoordinator
-- [[Maria Österlund]], Projektledare
+- [Anna Hedlund](../../personer/Anna%20Hedlund.md), Generalsekreterare
+- [Tove Ladberg](../../personer/Tove%20Ladberg.md), Verksamhetsutvecklare
+- [Paula Langöe Eliasson](../../personer/Paula%20Langöe.md), Projektutvecklare
+- [Judith Maiers](../../personer/Judith%20Maiers.md), Projektutvecklare
+- [Mia-Lie Nylund](../../personer/Mia-Lie%20Nylund.md), Projektkoordinator
+- [Johanna Stjärnfeldt](../../personer/Johanna%20Stjärnfeldt.md), Projektkoordinator
+- [Maria Österlund](../../personer/Maria%20Österlund.md), Projektledare
 - [[Oscar Agestam]], Projektkoordinator
 - [[Tobias Edlund]], Kommunikatör
-- [[Max Vinger]], Projektkoordinator, Handledare
+- [Max Vinger](../../personer/Max%20Vinger.md), Projektkoordinator, Handledare
 
 <!-- Listan nedan står i två spalter i källan (sid 62); här vänster spalt först. Patrik Neuhofer står två gånger i källan, som workshopledare och som handledare. -->
 
 - [[Casper Lundberg]], Föreläsare
-- [[Andreas Törnkvist]], Föreläsare
+- [Andreas Törnkvist](../../personer/Andreas%20Törnkvist.md), Föreläsare
 - [[Natali Allahak]], Föreläsare, Workshopledare
 - [[Hanna Moberg Andersson]], Föreläsare, Workshopledare
 - [[Audae Almlehan]], Föreläsare, Workshopledare
@@ -445,87 +445,87 @@ Unga Forskare samarbetar med många olika organisationer, företag och stiftelse
 
 ### Svenska universitet och högskolor
 
-- [[Blekinge Tekniska Högskola]]
-- [[Chalmers tekniska högskola]]
-- [[Göteborgs universitet]]
-- [[Högskolan Dalarna]]
-- [[Karlstads universitet]]
+- [Blekinge Tekniska Högskola](../../skolor/Blekinge%20Tekniska%20Högskola.md)
+- [Chalmers tekniska högskola](../../skolor/Chalmers%20tekniska%20högskola.md)
+- [Göteborgs universitet](../../skolor/Göteborgs%20universitet.md)
+- [Högskolan Dalarna](../../skolor/Högskolan%20Dalarna.md)
+- [Karlstads universitet](../../skolor/Karlstads%20universitet.md)
 - [KTH](../../skolor/KTH%20(Kungliga%20Tekniska%20Högskolan).md)
-- [[Luleå tekniska universitet]]
-- [[Lunds universitet]]
-- [[Malmö universitet]]
-- [[Mälardalens universitet]]
-- [[SLU]]
-- [[Stockholms universitet]]
+- [Luleå tekniska universitet](../../skolor/Luleå%20tekniska%20universitet.md)
+- [Lunds universitet](../../skolor/Lunds%20universitet.md)
+- [Malmö universitet](../../skolor/Malmö%20universitet.md)
+- [Mälardalens universitet](../../skolor/Mälardalens%20universitet.md)
+- [SLU](../../skolor/SLU%20(Sveriges%20lantbruksuniversitet).md)
+- [Stockholms universitet](../../skolor/Stockholms%20universitet.md)
 - [[Södertörns högskola]]
-- [[Umeå universitet]]
+- [Umeå universitet](../../skolor/Umeå%20universitet.md)
 
 ### Stiftelser
 
-- [[Beijerstiftelsen]]
+- [Beijerstiftelsen](../../organisationer/Beijerstiftelsen.md)
 - [[Carl Tryggers Stiftelse]]
 - [Gundel Cornelia Babs stipendiefond](../../verksamheter/GCB%20(Gundel%20Cornelia%20Babs%20stipendiefond).md)
 - [[Idéer för Livet]]
 - [[Jacob Wallenbergs Stiftelse]]
-- [[Jenny och Anders Lindgrens Stiftelse för Unga Forskare]]
-- [[Kungliga Patriotiska Sällskapet]]
+- [Jenny och Anders Lindgrens Stiftelse för Unga Forskare](../../organisationer/Jenny%20och%20Anders%20Lindgrens%20Stiftelse%20för%20Unga%20Forskare.md)
+- [Kungliga Patriotiska Sällskapet](../../organisationer/Kungliga%20Patriotiska%20Sällskapet.md)
 - [[Magnus Bergvalls Stiftelse]]
-- [[Oscar och Maria Ekmans Donationsfond]]
-- [[Prins Carl Gustafs Stiftelse|Prins Carl Gustafs stiftelse]]
+- [Oscar och Maria Ekmans Donationsfond](../../organisationer/Oscar%20och%20Maria%20Ekmans%20Donationsfond.md)
+- [Prins Carl Gustafs stiftelse](../../organisationer/Prins%20Carl%20Gustafs%20Stiftelse.md)
 - [[Sparbanken i Karlshamn]]
 - [[Stiftelsen Oscar Hirschs Minne]]
-- [[Bertil Wollerts stipendiefond|Stiftelsen Bertil Wollerts stipendiefond]]
+- [Stiftelsen Bertil Wollerts stipendiefond](../../organisationer/Bertil%20Wollerts%20stipendiefond.md)
 - [[Swedbanks Ägarstiftelse Skåne]]
-- [[Wenner-Gren Stiftelserna]]
-- [[Åke Wibergs stiftelse]]
+- [Wenner-Gren Stiftelserna](../../organisationer/Wenner-Gren%20Stiftelserna.md)
+- [Åke Wibergs stiftelse](../../organisationer/Åke%20Wibergs%20stiftelse.md)
 
 ### Övriga sponsorer och samarbetspartners
 
 - [[Advania]]
-- [[AstraZeneca]]
-- [[Borealis]]
+- [AstraZeneca](../../organisationer/AstraZeneca.md)
+- [Borealis](../../organisationer/Borealis.md)
 - [[Curiosum]]
-- [[Ericsson]]
+- [Ericsson](../../organisationer/Ericsson.md)
 - [[ESS]]
-- [[Four PR]]
+- [Four PR](../../organisationer/Four%20PR.md)
 - [[HÜBNER Photonics]]
-- [[IBM]]
+- [IBM](../../organisationer/IBM.md)
 - [[Jordbruksverket]]
-- [[Kreativum Science Center]]
-- [[Lindskog och Malmström|Lindskog Malmström]]
-- [[Lunds kommun]]
+- [Kreativum Science Center](../../organisationer/Kreativum%20Science%20Center.md)
+- [Lindskog Malmström](../../organisationer/Lindskog%20och%20Malmström.md)
+- [Lunds kommun](../../organisationer/Lunds%20kommun.md)
 - [[MSB]]
-- [[Naturhistoriska Riksmuseet|Naturhistoriska riksmuseet]]
-- [[Orange Cyberdefense]]
-- [[Rotary Kungsporten]]
-- [[Scania]]
-- [[Skandia]]
-- [[Skolverket]]
+- [Naturhistoriska riksmuseet](../../organisationer/Naturhistoriska%20Riksmuseet.md)
+- [Orange Cyberdefense](../../organisationer/Orange%20Cyberdefense.md)
+- [Rotary Kungsporten](../../organisationer/Rotary%20Kungsporten.md)
+- [Scania](../../organisationer/Scania.md)
+- [Skandia](../../organisationer/Skandia.md)
+- [Skolverket](../../organisationer/Skolverket.md)
 - [[Stadium]]
 - [Stockholm International Water Institute - SIWI](../../organisationer/SIWI%20(Stockholm%20International%20Water%20Institute).md)
-- [[Stockholm Junior Water Prize]]
+- [Stockholm Junior Water Prize](../../organisationer/Stockholm%20Junior%20Water%20Prize.md)
 - [[Stöldskyddsföreningen]]
-- [[Södertälje Science Park]]
-- [[Teknikerjakten]]
+- [Södertälje Science Park](../../organisationer/Södertälje%20Science%20Park.md)
+- [Teknikerjakten](../../organisationer/Teknikerjakten.md)
 - [Tom Tits Experiment](../../organisationer/Tom%20Tits%20Experiment.md)
-- [[Tutus]]
-- [[Vattenhallen Science Center]]
-- [[Vetenskapens Hus]]
+- [Tutus](../../organisationer/Tutus.md)
+- [Vattenhallen Science Center](../../organisationer/Vattenhallen%20Science%20Center.md)
+- [Vetenskapens Hus](../../organisationer/Vetenskapens%20Hus.md)
 - [[With-secure|WithSecure]]
-- [[Xylem]]
+- [Xylem](../../organisationer/Xylem.md)
 
 ### Internationella samarbeten
 
 - [European Union Contest for Young Scientists](../../organisationer/EU%20Contest.md)
-- [[Hungarian Association for Innovation]]
-- [[KAIST (Korea Advanced Institute of Science and Technology)|Korea Advanced Institute of Science and Technology]]
-- [[London International Youth Science Forum]]
-- [[RED Nacional de Actividades Juveniles en Ciencia y Tecnologia]]
-- [[Society for Science & the Public|Society for Science]] ([Regeneron International Science and Engineering Fair](../../organisationer/Intel%20ISEF.md)), USA
-- [[Stiftung Jugend forscht|Stiftung Jugend forscht e.V.]]
-- [[Schweizer Jugend forscht]]
-- [[Ungdommens Naturvidenskabelige Forening|The Danish Youth Association of Science]]
-- [[University of Cambridge]]
-- [[University of Melbourne]]
-- [[World Scientific Publishing Company|World Scientific Publishing Company Pte Ltd]]
+- [Hungarian Association for Innovation](../../organisationer/Hungarian%20Association%20for%20Innovation.md)
+- [Korea Advanced Institute of Science and Technology](../../skolor/KAIST%20(Korea%20Advanced%20Institute%20of%20Science%20and%20Technology).md)
+- [London International Youth Science Forum](../../organisationer/London%20International%20Youth%20Science%20Forum.md)
+- [RED Nacional de Actividades Juveniles en Ciencia y Tecnologia](../../organisationer/RED%20Nacional%20de%20Actividades%20Juveniles%20en%20Ciencia%20y%20Tecnologia.md)
+- [Society for Science](../../organisationer/Society%20for%20Science%20&%20the%20Public.md) ([Regeneron International Science and Engineering Fair](../../organisationer/Intel%20ISEF.md)), USA
+- [Stiftung Jugend forscht e.V.](../../organisationer/Stiftung%20Jugend%20forscht.md)
+- [Schweizer Jugend forscht](../../organisationer/Schweizer%20Jugend%20forscht.md)
+- [The Danish Youth Association of Science](../../organisationer/UNF%20(Ungdommens%20Naturvidenskabelige%20Forening).md)
+- [University of Cambridge](../../skolor/University%20of%20Cambridge.md)
+- [University of Melbourne](../../skolor/University%20of%20Melbourne.md)
+- [World Scientific Publishing Company Pte Ltd](../../organisationer/World%20Scientific%20Publishing%20Company.md)
 - [[Youth Science Canada]]

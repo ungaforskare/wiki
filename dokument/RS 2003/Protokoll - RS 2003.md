@@ -191,7 +191,7 @@ Nyval:
 - [Johan Andréasson](../../personer/Johan%20Andréasson.md)
 - [Azra Habibovic](../../personer/Azra%20Habibovic.md) <!-- OCR: "Azra Habibovig"; stavas "Habibovic" i RS 2002. -->
 
-> Mötet ajourneras från 10.29 till 10.41 för information från [[UNF (Ungdommens Naturvidenskabelige Forening)|UNF]] i Danmark.
+> Mötet ajourneras från 10.29 till 10.41 för information från [UNF](../../organisationer/UNF%20(Ungdommens%20Naturvidenskabelige%20Forening).md) i Danmark.
 
 ## §9 Presentation av verksamhetsplan
 
@@ -571,12 +571,12 @@ Nyval:
 >
 > 25a
 >
-> att till revisorer välja [Sune Johnson](../../personer/Sune%20Johnson.md), [Öhrlings PricewaterhouseCoopers](../../organisationer/Öhrlings%20PricewaterhouseCoopers.md) och [Sune Hilstad](../../personer/Sune%20Hilstad.md), [Ingenjörssamfundet](../../organisationer/Ingenjörssamfundet.md).
+> att till revisorer välja [Sune Johnson](../../personer/Sune%20Johnson.md), [Öhrlings PricewaterhouseCoopers](../../organisationer/PWC%20(PricewaterhouseCoopers).md) och [Sune Hilstad](../../personer/Sune%20Hilstad.md), [Ingenjörssamfundet](../../organisationer/Ingenjörssamfundet.md).
 
 >[!yrkande]
 > 25b
 >
-> att till revisorsuppleanter välja [[Anders Winqvist]], [Öhrlings PricewaterhouseCoopers](../../organisationer/Öhrlings%20PricewaterhouseCoopers.md) och [Kristofer Hallén](../../personer/Kristofer%20Hallén.md).
+> att till revisorsuppleanter välja [Anders Winqvist](../../personer/Anders%20Winqvist.md), [Öhrlings PricewaterhouseCoopers](../../organisationer/PWC%20(PricewaterhouseCoopers).md) och [Kristofer Hallén](../../personer/Kristofer%20Hallén.md).
 
 >[!beslut]
 > RS beslutar

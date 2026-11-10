@@ -8,7 +8,7 @@ mötessekreterare:
 platser:
   - "[[KTH (Kungliga Tekniska Högskolan)]]"
 orter:
-  - "[[Stockholm]]"
+  - "[Stockholm](../../platser/orter/Stockholm.md)"
 justerare:
   - "[[Elin Einarson]]"
   - "[Robert Jacobsson](../../personer/Robert%20Jacobsson.md)"
@@ -198,13 +198,13 @@ Inflytandepunktsansvariga presenterar sig kort.
 
 *Förslag på revisorer:*
 
-Auktoriserad: [Sune Johnsson](../../personer/Sune%20Johnson.md), [Öhrlings PricewaterhouseCoopers](../../organisationer/Öhrlings%20PricewaterhouseCoopers.md)
+Auktoriserad: [Sune Johnsson](../../personer/Sune%20Johnson.md), [Öhrlings PricewaterhouseCoopers](../../organisationer/PWC%20(PricewaterhouseCoopers).md)
 
 Ideell: [Sune Hilstad](../../personer/Sune%20Hilstad.md), [Ingenjörssamfundet](../../organisationer/Ingenjörssamfundet.md).
 
 *Förslag på revisorssuppleanter:*
 
-Auktoriserad: [Magnus Backlund](../../personer/Magnus%20Backlund.md), [Öhrlings PricewaterhouseCoopers](../../organisationer/Öhrlings%20PricewaterhouseCoopers.md)
+Auktoriserad: [Magnus Backlund](../../personer/Magnus%20Backlund.md), [Öhrlings PricewaterhouseCoopers](../../organisationer/PWC%20(PricewaterhouseCoopers).md)
 
 Ideell: [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
 

@@ -10,7 +10,7 @@ kategorier:
 >[!warning]
 > Riksstämman lade bilagan till handlingarna med en ändring i stycket "Ny ordförande i valberedningen" (att 21, se §5b i [protokollet](Protokoll%20-%20RS%202024.md)). Bilagan verkar vara uppdaterad efter Riksstämman: stycket stämmer ordagrant med den ändrade lydelsen.
 
-Dokumentansvariga: [[Marina Peltonen]], [[Julia Qiu]], 2024-10-06
+Dokumentansvariga: [Marina Peltonen](../../personer/Marina%20Peltonen.md), [Julia Qiu](../../personer/Julia%20Qiu.md), 2024-10-06
 
 # Beslutsuppföljning — Fokustema 2024
 

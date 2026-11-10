@@ -4,11 +4,11 @@ end: 2017-05-13
 mötesordförande:
   - "[Karl Larsson](../../personer/Karl%20Larsson.md)"
 mötessekreterare:
-  - "[[Yi-Hua Zhang]]"
+  - "[Yi-Hua Zhang](../../personer/Yi-Hua%20Zhang.md)"
 platser:
-  - "[[Stockholms universitet]]"
+  - "[Stockholms universitet](../../skolor/Stockholms%20universitet.md)"
 orter:
-  - "[[Stockholm]]"
+  - "[Stockholm](../../platser/orter/Stockholm.md)"
 justerare:
   - "[[Klara Carlström]]"
   - "[[Hugo Kvanta]]"
@@ -59,13 +59,13 @@ kategorier:
 
 ## §1 Öppnande av extrainsatt årsmöte
 
-> Förbundsordförande [[Mikael Ingemyr]] förklarar mötet öppnat.
+> Förbundsordförande [Mikael Ingemyr](../../personer/Mikael%20Ingemyr.md) förklarar mötet öppnat.
 
 ## §2 Mötesformalia 20 min
 
 ### §2a Val av mötesordförande och mötessekreterare (Mikael Ingemyr)
 
-> [Valberedningen](../../verksamheter/Valberedningen.md) föreslår det extrainsatta årsmötet välja [Karl Larsson](../../personer/Karl%20Larsson.md) till mötesordförande, samt [[Yi-Hua Zhang]] till mötessekreterare.
+> [Valberedningen](../../verksamheter/Valberedningen.md) föreslår det extrainsatta årsmötet välja [Karl Larsson](../../personer/Karl%20Larsson.md) till mötesordförande, samt [Yi-Hua Zhang](../../personer/Yi-Hua%20Zhang.md) till mötessekreterare.
 
 <!-- OCR: "att I"; rättat till "att 1". -->
 
@@ -74,7 +74,7 @@ kategorier:
 >
 > att 1 välja [Karl Larsson](../../personer/Karl%20Larsson.md) till mötesordföranden
 >
-> att 2 välja [[Yi-Hua Zhang]] till mötessekreterare.
+> att 2 välja [Yi-Hua Zhang](../../personer/Yi-Hua%20Zhang.md) till mötessekreterare.
 
 ### §2b Val av två protokolljusterare tillika rösträknare (Karl Larsson)
 
@@ -130,12 +130,12 @@ kategorier:
 Avslagna yrkanden:
 
 >[!yrkande]
-> Ändringsyrkande ([[Jacob Lagerros]]):
+> Ändringsyrkande ([Jacob Lagerros](../../personer/Jacob%20Lagerros.md)):
 >
 > att ändra punkt 11 i arbetsordningen till "Förbjud subjektiv smutskastning och tillåt endast objektivt verifierbara yttranden."
 
 >[!yrkande]
-> Ändringsyrkande ([[Jacob Lagerros]]):
+> Ändringsyrkande ([Jacob Lagerros](../../personer/Jacob%20Lagerros.md)):
 >
 > att ta bort punkt 11 i arbetsordningen.
 
@@ -150,7 +150,7 @@ Avslagna yrkanden:
 >[!beslut]
 > RS beslutar
 >
-> att 8 välja [[Mikaela Wikström]], [[Anna Hedlund]], [[Tove Ladberg]], [[Sinan Akdag]] till mingelobservatörer.
+> att 8 välja [[Mikaela Wikström]], [Anna Hedlund](../../personer/Anna%20Hedlund.md), [Tove Ladberg](../../personer/Tove%20Ladberg.md), [[Sinan Akdag]] till mingelobservatörer.
 
 >[!warning]
 > Förslaget gällde tre mingelobservatörer, men beslutet anger fyra namn.
@@ -211,7 +211,7 @@ Bilaga 4. Valberedningens förslag för förtroendeposter
 >[!beslut]
 > RS beslutar
 >
-> att 12 välja [[Mikael Ingemyr]] till förbundsordförande resterande del av mandatperioden.
+> att 12 välja [Mikael Ingemyr](../../personer/Mikael%20Ingemyr.md) till förbundsordförande resterande del av mandatperioden.
 
 ### §5c Justering av röstlängden (Karl Larsson)
 
@@ -245,7 +245,7 @@ Avslagna yrkanden:
 
 ### §5e Val styrelseledamöter (Karl Larsson)
 
-> [[Sofia Svensson]], [[Jacob Lagerros]], [[Ylvali Busch]], [[Viktor Bengtsson]], [[Niki Shams]], [[Love Länn]], [[Signe Savén]], [[Mikael Ingemyr]] och [[Carolina Olsson]] drar tillbaka sina kandidaturer till Styrelseledamot
+> [[Sofia Svensson]], [Jacob Lagerros](../../personer/Jacob%20Lagerros.md), [[Ylvali Busch]], [[Viktor Bengtsson]], [[Niki Shams]], [[Love Länn]], [[Signe Savén]], [Mikael Ingemyr](../../personer/Mikael%20Ingemyr.md) och [[Carolina Olsson]] drar tillbaka sina kandidaturer till Styrelseledamot
 
 Bilaga 4. Valberedningens förslag för förtroendeposter
 
@@ -256,12 +256,12 @@ Bilaga 4. Valberedningens förslag för förtroendeposter
 >
 > att 14 Välja
 >
-> - [[Caroline Schagerholm]]
-> - [[Emil Kling]]
-> - [[Linnea Suomenniemi]]
-> - [[Mats Hallström]]
-> - [[Neda Farhand]]
-> - [[Serhat Aktay]]
+> - [Caroline Schagerholm](../../personer/Caroline%20Schagerholm.md)
+> - [Emil Kling](../../personer/Emil%20Kling.md)
+> - [Linnea Suomenniemi](../../personer/Linnea%20Suomenniemi.md)
+> - [Mats Hallström](../../personer/Mats%20Hallström.md)
+> - [Neda Farhand](../../personer/Neda%20Farhand.md)
+> - [Serhat Aktay](../../personer/Serhat%20Aktay.md)
 > - [[Mustafa Al-Janabi]]
 >
 > till styrelseledamöter resterande del av mandatperioden 2017.
@@ -279,7 +279,7 @@ Bilaga 4. Valberedningens förslag för förtroendeposter
 
 ## §6 Mötets avslutande (Mikael Ingemyr)
 
-> [[Mikael Ingemyr]] avslutar det extrainsatta årsmötet.
+> [Mikael Ingemyr](../../personer/Mikael%20Ingemyr.md) avslutar det extrainsatta årsmötet.
 
 ## BILAGOR TILL PROTOKOLLET
 

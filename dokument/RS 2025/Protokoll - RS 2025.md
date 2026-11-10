@@ -6,7 +6,7 @@ mötesordförande:
 mötessekreterare:
   - "[[Emily Yao]]"
 platser:
-  - "[[Katedralskolan Linköping]]"
+  - "[Katedralskolan Linköping](../../skolor/Katedralskolan%20Linköping.md)"
 orter:
   - "[[Linköping]]"
 justerare:
@@ -19,7 +19,7 @@ inflytandepunktsansvariga:
 redaktionsutskott:
   - "[[Ambjörn Joki]]"
   - "[[Emily Yao]]"
-  - "[[Julia Qiu]]"
+  - "[Julia Qiu](../../personer/Julia%20Qiu.md)"
 kategorier:
   - "[[RS (Riksstämman)|Riksstämman]]"
   - "[[protokoll]]"
@@ -78,7 +78,7 @@ kategorier:
 
 ## §1 Riksstämmans öppnande
 
-> Unga Forskares förbundsordförande [[Julia Qiu]] förklarar mötet öppnat 2025-11-08, kl. 12:14.
+> Unga Forskares förbundsordförande [Julia Qiu](../../personer/Julia%20Qiu.md) förklarar mötet öppnat 2025-11-08, kl. 12:14.
 
 ## §2 Mötesformalia
 
@@ -542,7 +542,7 @@ Bilaga F2. Kandidaturer 1
 >[!beslut]
 > RS beslutar
 >
-> att 42 välja [[Julia Qiu]] till förbundsordförande för verksamhetsåren 2026 och 2027
+> att 42 välja [Julia Qiu](../../personer/Julia%20Qiu.md) till förbundsordförande för verksamhetsåren 2026 och 2027
 
 ### §8b Val av vice förbundsordförande 2026-2027 (Valberedningen)
 
@@ -557,7 +557,7 @@ Bilaga F2. Kandidaturer 1
 >
 > att 43 fastställa antalet vice ordförande till en person under verksamhetsåren 2026-2027
 >
-> att 44 välja [[Jonathan Jilg]] till vice förbundsordförande för verksamhetsåren 2026 och 2027
+> att 44 välja [Jonathan Jilg](../../personer/Jonathan%20Jilg.md) till vice förbundsordförande för verksamhetsåren 2026 och 2027
 
 ### §8c Val av förbundsstyrelse 2026-2027 (Valberedningen)
 
@@ -584,7 +584,7 @@ Bilaga F4. Kandidaturer 2 (inkom under påverkanstorget)
 >
 > att 47 Fastställa röstlängden enligt Bilaga A2. Röstlängd
 >
-> att 48 välja följande [[Marina Peltonen]], [[Selma Hodzic]], [[Lovisa Sigfridsson]], [[Emelie Bergvall]] och [[Alfred Livsson]] till ledamöter i förbundsstyrelsen för verksamhetsåren 2026 och 2027
+> att 48 välja följande [Marina Peltonen](../../personer/Marina%20Peltonen.md), [[Selma Hodzic]], [[Lovisa Sigfridsson]], [[Emelie Bergvall]] och [[Alfred Livsson]] till ledamöter i förbundsstyrelsen för verksamhetsåren 2026 och 2027
 
 <!-- Källan stavar "Maria Peltonen" i att 48; rättat till "Marina Peltonen", som namnet stavas i valberedningens förslag (bilaga F3) och i tidigare protokoll. -->
 
@@ -639,13 +639,13 @@ Bilaga E2. Motion: Mer och tydligare information till föreningar (inkom under p
 
 > Unga Forskare delar varje år ut utmärkelsen årets förening. Eventuella hedersmedlemskap delas också ut. Dessa förs till protokollet under den här punkten.
 >
-> Årets förening: [[Chalmers Coding Club]]
+> Årets förening: [Chalmers Coding Club](../../föreningar/Chalmers%20Coding%20Club.md)
 >
-> Hedersmedlem: [[Max Vinger]]
+> Hedersmedlem: [Max Vinger](../../personer/Max%20Vinger.md)
 
 ## §11 Riksstämmans avslutande
 
-> Unga Forskares omvalda förbundsordförande [[Julia Qiu]] avslutar Riksstämman 2025, kl.14:52.
+> Unga Forskares omvalda förbundsordförande [Julia Qiu](../../personer/Julia%20Qiu.md) avslutar Riksstämman 2025, kl.14:52.
 
 ## BILAGOR TILL PROTOKOLLET
 

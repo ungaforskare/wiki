@@ -36,7 +36,7 @@
 
 18. [[Samuel Z Wolff]] ([[Forskare utan Framsteg]])
 
-19. [[Anna Berg]] ([[KYSS]])
+19. [[Anna Berg]] ([KYSS](../../föreningar/KYSS%20(Kungsholmens%20Young%20Scientists'%20Society).md))
 
 20. [Sara Magnusson](../../personer/Sara%20Magnusson.md) ([[Astrogruppen RAGGE]])
 

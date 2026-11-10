@@ -2,22 +2,22 @@
 start: 2023-11-11
 end: 2023-11-12
 mötesordförande:
-  - "[[David Andersson]]"
+  - "[David Andersson](../../personer/David%20Andersson.md)"
 mötessekreterare:
   - "[[Alexander Simko]]"
 platser:
-  - "[[Katedralskolan Linköping]]"
+  - "[Katedralskolan Linköping](../../skolor/Katedralskolan%20Linköping.md)"
 orter:
   - "[[Linköping]]"
 justerare:
-  - "[[Christine Der Danielian]]"
+  - "[Christine Der Danielian](../../personer/Christine%20Der%20Danielian.md)"
   - "[[Lycke Dyfverman]]"
 rösträknare:
-  - "[[Christine Der Danielian]]"
+  - "[Christine Der Danielian](../../personer/Christine%20Der%20Danielian.md)"
   - "[[Lycke Dyfverman]]"
 inflytandepunktsansvariga:
 redaktionsutskott:
-  - "[[David Andersson]]"
+  - "[David Andersson](../../personer/David%20Andersson.md)"
   - "[[Alexander Simko]]"
 kategorier:
   - "[[RS (Riksstämman)|Riksstämman]]"
@@ -87,7 +87,7 @@ Bilaga 1. Valberedningens förslag till mötespresidium
 >[!beslut]
 > RS beslutar
 >
-> att 1 välja [[David Andersson]] till mötesordförande
+> att 1 välja [David Andersson](../../personer/David%20Andersson.md) till mötesordförande
 >
 > att 2 välja [[Alexander Simko]] till mötessekreterare
 
@@ -98,7 +98,7 @@ Bilaga 1. Valberedningens förslag till mötespresidium
 >[!beslut]
 > RS beslutar
 >
-> att 3 välja [[Christine Der Danielian]] och [[Lycke Dyfverman]] till protokolljusterare tillika rösträknare
+> att 3 välja [Christine Der Danielian](../../personer/Christine%20Der%20Danielian.md) och [[Lycke Dyfverman]] till protokolljusterare tillika rösträknare
 
 ### §2c Beslut om mötets stadgeenliga utlysande (Förbundsstyrelsen)
 
@@ -490,7 +490,7 @@ Bilaga 29. Kandidaturer till förbundsstyrelsen
 >[!beslut]
 > RS beslutar
 >
-> att 37 enhälligt välja [[Julia Qiu]] till förbundsordförande för verksamhetsåren 2024 och 2025
+> att 37 enhälligt välja [Julia Qiu](../../personer/Julia%20Qiu.md) till förbundsordförande för verksamhetsåren 2024 och 2025
 
 ### §8b Val av vice förbundsordförande 2024 - 2025 (Valberedningen)
 
@@ -503,7 +503,7 @@ Bilaga 29. Kandidaturer till förbundsstyrelsen
 >[!beslut]
 > RS beslutar
 >
-> att 38 enhälligt välja [[Brendan R. Joseph]] till vice förbundsordförande för verksamhetsåren 2024 och 2025
+> att 38 enhälligt välja [Brendan R. Joseph](../../personer/Brendan%20R.%20Joseph.md) till vice förbundsordförande för verksamhetsåren 2024 och 2025
 
 ### §8c Val av förbundsstyrelse 2024 - 2025 (Valberedningen)
 
@@ -522,7 +522,7 @@ Bilaga 29. Kandidaturer till förbundsstyrelsen
 >
 > att 39 fastställa förbundsstyrelsens storlek åtta (8) personer under verksamhetsåren 2024 och 2025
 >
-> att 40 enhälligt välja följande sex (6) ledamöter till förbundsstyrelsen under verksamhetsåren 2024 och 2025: [[Jonathan Jilg]], [[Marina Peltonen]], [[Simon Åstrand]], [[Adam Granquist]], [[Aleksander Berger]] och [[Amanda Christianson]]
+> att 40 enhälligt välja följande sex (6) ledamöter till förbundsstyrelsen under verksamhetsåren 2024 och 2025: [Jonathan Jilg](../../personer/Jonathan%20Jilg.md), [Marina Peltonen](../../personer/Marina%20Peltonen.md), [Simon Åstrand](../../personer/Simon%20Åstrand.md), [[Adam Granquist]], [Aleksander Berger](../../personer/Aleksander%20Berger.md) och [[Amanda Christianson]]
 
 >[!warning]
 > Valberedningens förslag (bilaga 28) var en styrelse på sju personer med fem ledamöter: Jonathan Jilg, Alice Evertsson, Marina Peltonen, Simon Åstrand och Adam Granquist. Riksstämman beslutade i stället om åtta personer och valde sex ledamöter, bland dem Aleksander Berger och Amanda Christianson men inte Alice Evertsson.
@@ -531,12 +531,12 @@ Bilaga 29. Kandidaturer till förbundsstyrelsen
 
 <!-- Källan stavar "Kasper Morawiec" här (kontrollerat mot pdf:en); rättat till "Kacper Morawiec", som i valberedningens förslag och i protokollet från RS 2022. -->
 
-> Eftersom [[Kacper Morawiec]] avsagt sig sitt uppdrag inom [valberedningen](../../verksamheter/Valberedningen.md) har valberedningen öppnat för fyllnadsval.
+> Eftersom [Kacper Morawiec](../../personer/Kacper%20Morawiec.md) avsagt sig sitt uppdrag inom [valberedningen](../../verksamheter/Valberedningen.md) har valberedningen öppnat för fyllnadsval.
 
 >[!beslut]
 > RS beslutar
 >
-> att 41 fyllnadsvälja [[Lukas Lundgren]] till valberedningen verksamhetsåret 2024
+> att 41 fyllnadsvälja [Lukas Lundgren](../../personer/Lukas%20Lundgren.md) till valberedningen verksamhetsåret 2024
 
 ## §9 Övriga frågor
 
@@ -591,13 +591,13 @@ Bilaga 21. Motionssvar: Ordförande i den nationella valberedningen
 
 > Unga Forskare delar varje år ut utmärkelsen årets förening. Eventuella hedersmedlemskap delas också ut.
 >
-> Årets förening: [[Hjernverket Science Club]]
+> Årets förening: [Hjernverket Science Club](../../föreningar/Hjernverket%20Science%20Club.md)
 >
 > Hedersmedlemmar: [[Jenny Lindgren]] och [[Anders Lindgren]]
 
 ## §11 Riksstämmans avslutande
 
-> Unga Forskares nyvalda förbundsordförande [[Julia Qiu]] avslutar Riksstämman 2023.
+> Unga Forskares nyvalda förbundsordförande [Julia Qiu](../../personer/Julia%20Qiu.md) avslutar Riksstämman 2023.
 
 ## BILAGOR TILL PROTOKOLLET
 

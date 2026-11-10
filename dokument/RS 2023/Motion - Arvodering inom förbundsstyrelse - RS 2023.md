@@ -1,6 +1,6 @@
 ---
 motionärer:
-  - "[[Brendan R. Joseph]]"
+  - "[Brendan R. Joseph](../../personer/Brendan%20R.%20Joseph.md)"
 kategorier:
   - motion
 år: 2023
@@ -37,7 +37,7 @@ Uppsala, den 28 september 2023
 
 ## Motionssvar
 
-Dokumentansvarig: [[Max Robertsson]], 2023-10-10
+Dokumentansvarig: [Max Robertsson](../../personer/Max%20Robertsson.md), 2023-10-10
 
 Förbundsstyrelsen har mottagit en motion angående arvodering inom förbundsstyrelsen. Motionen är ägnad att uppdra förbundsstyrelsen att utreda behovet av en arvodering inom sig själv, samt att om så är fallet, upprätta ett förslag på en sådan struktur som ordinarie Riksstämma får besluta om.
 

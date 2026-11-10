@@ -45,7 +45,7 @@ Uppsala, 26 september 2015
 
 ## Motionssvar
 
-Dokumentansvarig: [[David Andersson]], 2015-10-13
+Dokumentansvarig: [David Andersson](../../personer/David%20Andersson.md), 2015-10-13
 
 ### Motionssvar: Gör vegetariskt till FUF-norm
 

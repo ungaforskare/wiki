@@ -2,11 +2,11 @@
 start: 2012-11-23
 end: 2012-11-25
 mötesordförande:
-  - "[[Theresia Silander Hagström]]"
+  - "[Theresia Silander Hagström](../../personer/Theresia%20Silander%20Hagström.md)"
 mötessekreterare:
   - "[[Anders Törnkvist]]"
 platser:
-  - "[[Katedralskolan Linköping]]"
+  - "[Katedralskolan Linköping](../../skolor/Katedralskolan%20Linköping.md)"
 orter:
   - "[[Linköping]]"
 justerare:
@@ -18,12 +18,12 @@ rösträknare:
 inflytandepunktsansvariga:
   - "[Johannes Zeltner Wolff](../../personer/Johannes%20Zeltner%20Wolff.md)"
   - "[[Josefine Andersson]]"
-  - "[[Sandra van Hunen]]"
-  - "[[Tove Ladberg]]"
+  - "[Sandra van Hunen](../../personer/Sandra%20van%20Hunen.md)"
+  - "[Tove Ladberg](../../personer/Tove%20Ladberg.md)"
 redaktionsutskott:
   - "[[Anders Törnkvist]]"
   - "[Andreas Svensson](../../personer/Andreas%20Svensson.md)"
-  - "[[Theresia Silander Hagström]]"
+  - "[Theresia Silander Hagström](../../personer/Theresia%20Silander%20Hagström.md)"
 kategorier:
   - "[[RS (Riksstämman)|Riksstämman]]"
   - "[[protokoll]]"
@@ -33,7 +33,7 @@ kategorier:
 
 ## §1 Riksstämmans öppnande
 
-> Förbundsordförande [[David Ebbevi]] förklarar mötet öppnat.
+> Förbundsordförande [David Ebbevi](../../personer/David%20Ebbevi.md) förklarar mötet öppnat.
 
 ## §2 Mötesformalia
 
@@ -42,7 +42,7 @@ kategorier:
 >[!beslut]
 > RS beslutar
 >
-> att I välja [[Theresia Silander Hagström]] till mötesordförande
+> att I välja [Theresia Silander Hagström](../../personer/Theresia%20Silander%20Hagström.md) till mötesordförande
 >
 > att II välja [[Anders Törnkvist]] till mötessekreterare
 
@@ -88,7 +88,7 @@ kategorier:
 >[!beslut]
 > RS beslutar
 >
-> att VIII utse [[Therese de Haan]], [Martin Norlin](../../personer/Martin%20Norlin.md), [[Philip Frick]] och [Rikard Ahrgren](../../personer/Rikard%20Ahgren.md) till valutskott med uppdrag att bereda förslag på ny [valberedning](../../verksamheter/Valberedningen.md) och presentera förslaget senast söndag 2012-11-25 kl. 8.00
+> att VIII utse [Therese de Haan](../../personer/Therese%20de%20Haan.md), [Martin Norlin](../../personer/Martin%20Norlin.md), [[Philip Frick]] och [Rikard Ahrgren](../../personer/Rikard%20Ahgren.md) till valutskott med uppdrag att bereda förslag på ny [valberedning](../../verksamheter/Valberedningen.md) och presentera förslaget senast söndag 2012-11-25 kl. 8.00
 >
 > att IX Riksstämman ajourneras till lördag 2012-11-24 kl. 10.00
 
@@ -137,9 +137,9 @@ kategorier:
 >[!beslut]
 > RS beslutar
 >
-> att XII välja [Johannes Zeltner Wolff](../../personer/Johannes%20Zeltner%20Wolff.md), [[Josefine Andersson]], [[Sandra van Hunen]] och [[Tove Ladberg]] till inflytandepunktansvariga
+> att XII välja [Johannes Zeltner Wolff](../../personer/Johannes%20Zeltner%20Wolff.md), [[Josefine Andersson]], [Sandra van Hunen](../../personer/Sandra%20van%20Hunen.md) och [Tove Ladberg](../../personer/Tove%20Ladberg.md) till inflytandepunktansvariga
 >
-> att XIII utse [[Anders Törnkvist]], [Andreas Svensson](../../personer/Andreas%20Svensson.md) och [[Theresia Silander Hagström]] till redaktionsutskott
+> att XIII utse [[Anders Törnkvist]], [Andreas Svensson](../../personer/Andreas%20Svensson.md) och [Theresia Silander Hagström](../../personer/Theresia%20Silander%20Hagström.md) till redaktionsutskott
 >
 > att XIV yrkandestopp infaller lördagen 2012-11-24 kl. 17:40
 >
@@ -156,7 +156,7 @@ kategorier:
 
 ### §4a Beslutsuppföljning från Riksstämman 2011
 
-> [[Moa Larsson]] lyfter att-satserna 16, 17 och 18 ovanför strecket.
+> [Moa Larsson](../../personer/Moa%20Larsson.md) lyfter att-satserna 16, 17 och 18 ovanför strecket.
 
 >[!beslut]
 > RS beslutar
@@ -204,7 +204,7 @@ kategorier:
 ## §6 Avregistrering av föreningar
 
 >[!yrkande]
-> [[Gustav Johansson]] yrkar
+> [Gustav Johansson](../../personer/Gustav%20Johansson.md) yrkar
 >
 > att yrkandestoppet rivs upp för denna fråga
 
@@ -214,14 +214,14 @@ kategorier:
 > att XXVII riva upp yrkandestoppet för denna fråga
 
 >[!yrkande]
-> [[Gustav Johansson]] yrkar
+> [Gustav Johansson](../../personer/Gustav%20Johansson.md) yrkar
 >
-> att [[Naturvetenskapliga Föreningen|Naturvetenskapliga föreningen]] (föreningsnummer 327) tas bort från Bilaga 9. Föreningar för avregistrering
+> att [Naturvetenskapliga föreningen](../../föreningar/Naturvetenskapliga%20Föreningen.md) (föreningsnummer 327) tas bort från Bilaga 9. Föreningar för avregistrering
 
 >[!beslut]
 > RS beslutar
 >
-> att XXVIII ta bort [[Naturvetenskapliga Föreningen|Naturvetenskapliga föreningen]] (föreningsnummer 327) från Bilaga 9. Föreningar för avregistrering
+> att XXVIII ta bort [Naturvetenskapliga föreningen](../../föreningar/Naturvetenskapliga%20Föreningen.md) (föreningsnummer 327) från Bilaga 9. Föreningar för avregistrering
 >
 > att XXIX avregistrera föreningar enligt Bilaga 9. Föreningar för avregistrering
 
@@ -256,7 +256,7 @@ kategorier:
 
 ### §8c Syftesändring
 
-> [[Mikael Ingemyr]] lyfter att-satserna 33, 34 och 35 ovanför strecket.
+> [Mikael Ingemyr](../../personer/Mikael%20Ingemyr.md) lyfter att-satserna 33, 34 och 35 ovanför strecket.
 
 >[!beslut]
 > RS beslutar
@@ -289,19 +289,19 @@ kategorier:
 
 <!-- Källan: "Ilion Häggmark" i yrkandet nedan; rättat till Ilian Häggmark, som är stavningen under §10e, i närvarolistan och i andra års protokoll. -->
 
-> [[Moa Larsson]] lyfter att-satsen 39 över strecket.
+> [Moa Larsson](../../personer/Moa%20Larsson.md) lyfter att-satsen 39 över strecket.
 >
-> [[Therese de Haan]] m.fl. ändringsyrkande (att-satsen 37) dras tillbaka.
+> [Therese de Haan](../../personer/Therese%20de%20Haan.md) m.fl. ändringsyrkande (att-satsen 37) dras tillbaka.
 
 >[!yrkande]
-> [Martin Norlin](../../personer/Martin%20Norlin.md), [[Anna Asratian]], [[Emma Lorentsson]], [[Moa Larsson]], [Rikard Ahrgren](../../personer/Rikard%20Ahgren.md), [[Frida Johansson]], [[Ilian Häggmark]], [[Johan Boström]] och [[Rickard Allreke Wählhammar]] yrkar att Riksstämman beslutar
+> [Martin Norlin](../../personer/Martin%20Norlin.md), [[Anna Asratian]], [[Emma Lorentsson]], [Moa Larsson](../../personer/Moa%20Larsson.md), [Rikard Ahrgren](../../personer/Rikard%20Ahgren.md), [[Frida Johansson]], [[Ilian Häggmark]], [Johan Boström](../../personer/Johan%20Boström.md) och [[Rickard Allreke Wählhammar]] yrkar att Riksstämman beslutar
 >
 > att tillsätta en grupp med en representant från föreningar, distrikt, nationella verksamheter och förbundsstyrelsen som till nästa Riksstämma får i uppdrag att utreda de långsiktiga konsekvenserna av strategin med fokus på distrikt och föreningar
 
 >[!yrkande]
 > Martin Norlin m.fl. yrkar att Riksstämman beslutar
 >
-> att välja Martin Norlin, [[David Andersson]], [[Johan Boström]] och [[Linda Rosendahl]] till gruppen
+> att välja Martin Norlin, [David Andersson](../../personer/David%20Andersson.md), [Johan Boström](../../personer/Johan%20Boström.md) och [[Linda Rosendahl]] till gruppen
 
 >[!yrkande]
 > [[Jens Aronsson]] yrkar att Riksstämman beslutar
@@ -315,7 +315,7 @@ kategorier:
 >
 > att XL tillsätta en grupp med en representant från föreningar, distrikt, nationella verksamheter och förbundsstyrelsen som till nästa Riksstämma får i uppdrag att utreda syftet med strategin och de långsiktiga konsekvenserna av strategin med fokus på distrikt och föreningar
 >
-> att XLI välja [Martin Norlin](../../personer/Martin%20Norlin.md), [[David Andersson]], [[Johan Boström]] och [[Linda Rosendahl]] till gruppen
+> att XLI välja [Martin Norlin](../../personer/Martin%20Norlin.md), [David Andersson](../../personer/David%20Andersson.md), [Johan Boström](../../personer/Johan%20Boström.md) och [[Linda Rosendahl]] till gruppen
 >
 > att XLII ändra "För att starta nya projekt inom organisationen krävs en struktur som utvecklar tankar till verksamhet." till "För att starta nya projekt inom organisationen krävs en struktur som utvecklar idéer från tankar till verksamhet." i Bilaga 13
 >
@@ -369,7 +369,7 @@ kategorier:
 >[!beslut]
 > RS beslutar
 >
-> att LI välja [[Sanna Holm]] till förbundsordförande för verksamhetsåret 2013
+> att LI välja [Sanna Holm](../../personer/Sanna%20Holm.md) till förbundsordförande för verksamhetsåret 2013
 
 ### §10b Fastställande av styrelsens storlek
 
@@ -383,14 +383,14 @@ kategorier:
 >[!beslut]
 > RS beslutar
 >
-> att LIII välja [[David Andersson]], [[Diana Diez]], [[Gustav Johansson]], [Karl Larsson](../../personer/Karl%20Larsson.md), [[Marcus Gidekull]] och [[Nils Anlind]] till förbundsstyrelseledamöter för verksamhetsåret 2013
+> att LIII välja [David Andersson](../../personer/David%20Andersson.md), [Diana Diez](../../personer/Diana%20Diez.md), [Gustav Johansson](../../personer/Gustav%20Johansson.md), [Karl Larsson](../../personer/Karl%20Larsson.md), [[Marcus Gidekull]] och [Nils Anlind](../../personer/Nils%20Anlind.md) till förbundsstyrelseledamöter för verksamhetsåret 2013
 
 ### §10d Val av två revisorer samt två revisorssuppleanter
 
 >[!beslut]
 > RS beslutar
 >
-> att LIV välja [[Jesper Fagerberg]] (kvalificerad) och [[Yi-Hua Zhang]] (ideell) till ordinarie revisorer samt [Sune Johnson](../../personer/Sune%20Johnson.md) (kvalificerad) och [Johannes Z Wolff](../../personer/Johannes%20Zeltner%20Wolff.md) (ideell) till revisorssuppleanter för verksamhetsåret 2013
+> att LIV välja [[Jesper Fagerberg]] (kvalificerad) och [Yi-Hua Zhang](../../personer/Yi-Hua%20Zhang.md) (ideell) till ordinarie revisorer samt [Sune Johnson](../../personer/Sune%20Johnson.md) (kvalificerad) och [Johannes Z Wolff](../../personer/Johannes%20Zeltner%20Wolff.md) (ideell) till revisorssuppleanter för verksamhetsåret 2013
 
 ### §10e Val av valberedning
 
@@ -399,7 +399,7 @@ kategorier:
 >
 > att LV fastställa [valberedningens](../../verksamheter/Valberedningen.md) storlek till fyra (4) ledamöter verksamhetsåret 2013
 >
-> att LVI välja [[Ilian Häggmark]] (sammankallande), [[Sophia Bergkvist]], [Andreas Svensson](../../personer/Andreas%20Svensson.md) och [[Elin Kalén]] till valberedning för verksamhetsåret 2013
+> att LVI välja [[Ilian Häggmark]] (sammankallande), [[Sophia Bergkvist]], [Andreas Svensson](../../personer/Andreas%20Svensson.md) och [Elin Kalén](../../personer/Elin%20Kalén.md) till valberedning för verksamhetsåret 2013
 
 ## §11 Övriga frågor
 
@@ -408,7 +408,7 @@ kategorier:
 <!-- Källan: yrkandestoppet rivs upp på yrkande av Johan Boström, men det är Maja Boström som drar tillbaka "sina ursprungliga yrkanden". Båda finns i närvarolistan (Bilaga 19). Återgivet som i källan. -->
 
 >[!yrkande]
-> [[Johan Boström]] yrkar
+> [Johan Boström](../../personer/Johan%20Boström.md) yrkar
 >
 > att yrkandestoppet rivs upp för denna fråga
 
@@ -429,7 +429,7 @@ kategorier:
 
 ## §12 Stämmans avslutande
 
-> Den nyvalda förbundsordföranden [[Sanna Holm]] avslutar Riksstämman 2012 kl. 14.20.
+> Den nyvalda förbundsordföranden [Sanna Holm](../../personer/Sanna%20Holm.md) avslutar Riksstämman 2012 kl. 14.20.
 
 ## BILAGOR TILL PROTOKOLLET
 

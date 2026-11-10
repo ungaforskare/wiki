@@ -12,7 +12,7 @@ kategorier:
 >
 > Källan numrerar framgångsfaktor 5 som "9." och mål 7.2 som "1.2."; numren har rättats utifrån ordningen.
 
-Dokumentansvariga: [[Max Vinger]], [[Max Robertsson]], 2023-10-08
+Dokumentansvariga: [Max Vinger](../../personer/Max%20Vinger.md), [Max Robertsson](../../personer/Max%20Robertsson.md), 2023-10-08
 
 # Beslutsuppföljning — Strategi 2024
 
@@ -35,9 +35,9 @@ Det har nu gått två och ett halvt år sen strategi 2024 började gälla och vi
 
 ## 1. Ökat intresse för naturvetenskap, teknik och matematik bland unga
 
-De senast åren har vi ställt om många av våra verksamheter för att nå fler unga, bland annat genom digitala satsningar. Projektet [[Cybersecurity Academy]] (CSA) har också lett till att vi har kunnat nå många unga som vi tidigare inte nått. Här har skolmaterialet vi ger ut med våra partners i verksamheten varit av centralt för verksamhetens framgång.
+De senast åren har vi ställt om många av våra verksamheter för att nå fler unga, bland annat genom digitala satsningar. Projektet [Cybersecurity Academy](../../verksamheter/Cybersecurity%20Academy.md) (CSA) har också lett till att vi har kunnat nå många unga som vi tidigare inte nått. Här har skolmaterialet vi ger ut med våra partners i verksamheten varit av centralt för verksamhetens framgång.
 
-En sak som har varit viktig för oss är att vi fortsatt kan erbjuda en kompromisslös kvalitet på det material och den verksamhet vi når ut med. Detta var en särskild utmaning under pandemin. Vi har i år återgått till att arrangera [[AstraZenecas Sommarforskarskola|AstraZenecas sommarforskarskola]] (AZ SFS), [[Borealis Science Week]] (BSW), [Utställningen Unga Forskare](../../verksamheter/UUF%20(Utställningen%20Unga%20Forskare).md) (UUF) och [Stockholm International Youth Science Seminar](../../verksamheter/SIYSS%20(Stockholm%20International%20Youth%20Science%20Seminar).md) (SIYSS) fysiskt. Vi tror att det är det bästa sättet att främja ungas intresse på djupet och låta unga inspirera unga. Samtidigt tar vi med oss många lärdomar som vi tror kommer hjälpa våra verksamheter att nå fler genom digitala inslag där de gör störst nytta.
+En sak som har varit viktig för oss är att vi fortsatt kan erbjuda en kompromisslös kvalitet på det material och den verksamhet vi når ut med. Detta var en särskild utmaning under pandemin. Vi har i år återgått till att arrangera [AstraZenecas sommarforskarskola](../../verksamheter/AstraZenecas%20Sommarforskarskola.md) (AZ SFS), [[Borealis Science Week]] (BSW), [Utställningen Unga Forskare](../../verksamheter/UUF%20(Utställningen%20Unga%20Forskare).md) (UUF) och [Stockholm International Youth Science Seminar](../../verksamheter/SIYSS%20(Stockholm%20International%20Youth%20Science%20Seminar).md) (SIYSS) fysiskt. Vi tror att det är det bästa sättet att främja ungas intresse på djupet och låta unga inspirera unga. Samtidigt tar vi med oss många lärdomar som vi tror kommer hjälpa våra verksamheter att nå fler genom digitala inslag där de gör störst nytta.
 
 ### 1.1. Minst 25 000 unga är medlemmar eller tar på andra sätt del av Unga Forskares verksamhet varje år
 
@@ -145,7 +145,7 @@ Att det de senaste tre åren varit en viss minskning av andelen föreningar som 
 
 <!-- OCR: "salsa mer på Riksstämma Ny Samtsmamer"; rättat till "satsa mer på Riksstämman, samt små mer" efter pdf:en. -->
 
-Under 2021 återinförde vi [[Kongressen]] som ett separat event från Riksstämman för första gången sen 2016, dock i digitalt format. 2022 genomförde vi eventet igen under det nya namnet medlemsdagen för att bättre reflektera syftet att skapa en ytterligare nationell mötesplats för våra medlemsföreningar. Styrelsens bedömning är dock att detta event kostar mer än det ger nytta i sitt digitala format. Inför 2023 fattades därför beslutet att tillfälligt avveckla medlemsdagen och i stället satsa mer på Riksstämman, samt små mer informella träffar under året.
+Under 2021 återinförde vi [Kongressen](../../verksamheter/Kongressen.md) som ett separat event från Riksstämman för första gången sen 2016, dock i digitalt format. 2022 genomförde vi eventet igen under det nya namnet medlemsdagen för att bättre reflektera syftet att skapa en ytterligare nationell mötesplats för våra medlemsföreningar. Styrelsens bedömning är dock att detta event kostar mer än det ger nytta i sitt digitala format. Inför 2023 fattades därför beslutet att tillfälligt avveckla medlemsdagen och i stället satsa mer på Riksstämman, samt små mer informella träffar under året.
 
 >[!figur]
 > Figur 12: Resultat av strategimål 2.4.
@@ -210,7 +210,7 @@ Den här punkten har varit svår att mäta och även känts överflödig i kombi
 
 ## 6. Större medial genomslagskraft
 
-Medial genomslagskraft är en av punkterna som varit utmanande under pandemin. Att få media att uppmärksamma digitala event var svårt. Den mediala genomslagskraften har dock fått ett rejält uppsving under 2022 och 2023. Särskilt har utvecklingen av [[Sveriges Unga Forskningslandslag]] fortsatt varit något som ger stora möjligheter till mediebevakning.
+Medial genomslagskraft är en av punkterna som varit utmanande under pandemin. Att få media att uppmärksamma digitala event var svårt. Den mediala genomslagskraften har dock fått ett rejält uppsving under 2022 och 2023. Särskilt har utvecklingen av [Sveriges Unga Forskningslandslag](../../verksamheter/Sveriges%20Unga%20Forskningslandslag.md) fortsatt varit något som ger stora möjligheter till mediebevakning.
 
 ### 6.1. Unga Forskare omnämns i media minst 150 gånger per år
 

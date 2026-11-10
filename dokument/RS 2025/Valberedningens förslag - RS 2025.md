@@ -14,13 +14,13 @@ kategorier:
 
 ### Förslag till förbundsordförande och vice förbundsordförande för mandatperioden 2026 - 2027
 
-[Valberedningen](../../verksamheter/Valberedningen.md) har efter många intervjuer med många duktiga kandidater valt att föreslå [[Julia Qiu]] till förbundsordförande och [[Jonathan Jilg]] till vice förbundsordförande.
+[Valberedningen](../../verksamheter/Valberedningen.md) har efter många intervjuer med många duktiga kandidater valt att föreslå [Julia Qiu](../../personer/Julia%20Qiu.md) till förbundsordförande och [Jonathan Jilg](../../personer/Jonathan%20Jilg.md) till vice förbundsordförande.
 
 #### Julia Qiu
 
 Julia har under den gångna mandatperioden varit förbundsordförande i Unga Forskare. Hon har dessförinnan ett flerårigt engagemang i Unga Forskare bakom sig. Hon har varit aktiv i roller på olika nivåer i organisationen och varit en del av förbundet i många år.
 
-Till vardags är Julia doktorandstudent vid [[Uppsala universitet]] och har dessförinnan studerat nationalekonomi på [[Handelshögskolan i Stockholm]].
+Till vardags är Julia doktorandstudent vid [Uppsala universitet](../../skolor/Uppsala%20universitet.md) och har dessförinnan studerat nationalekonomi på [[Handelshögskolan i Stockholm]].
 
 Under Julias tid som förbundsordförande har Unga Forskare tagit stora steg framåt både organisatoriskt och i påverkansarbete. Förbundet har en starkare närvaro i civilsamhället, och är god närvaro i samhällsdebatten. Vi bedömer att förbundet idag står bättre rustade för att samarbete med övriga delar av civilsamhälle och påverka samhället i stort. Internt bedömer vi att Julia bidragit till ett inkluderande och engagerande styrelseklimat, och hon har genomfört rekryteringen av förbundets nya generalsekreterare.
 
@@ -30,7 +30,7 @@ Vi bedömer att Julia har både erfarenheten och ledarskapsförmågan att leda f
 
 #### Jonathan Jilg
 
-Jonathan har varit aktiv i Unga Forskare sedan 2016 och suttit i [förbundsstyrelsen](../../verksamheter/FS%20(Förbundsstyrelsen).md) sedan 2020, varav en mandatperiod som vice ordförande. Han har även varit aktiv i Utställningsgruppen och i [[Alumniföreningen Utställningen Unga Forskare|AUUF]], samt haft ansvar för riksstämman och flera utredningar.
+Jonathan har varit aktiv i Unga Forskare sedan 2016 och suttit i [förbundsstyrelsen](../../verksamheter/FS%20(Förbundsstyrelsen).md) sedan 2020, varav en mandatperiod som vice ordförande. Han har även varit aktiv i Utställningsgruppen och i [AUUF](../../föreningar/Alumniföreningen%20Utställningen%20Unga%20Forskare.md), samt haft ansvar för riksstämman och flera utredningar.
 
 Till vardags jobbar Jonathan som avdelningschef i försäkringsbranschen, där han leder ett team på fem personer. Han har en examen i teknisk fysik från [KTH](../../skolor/KTH%20(Kungliga%20Tekniska%20Högskolan).md) och lång erfarenhet av att kombinera ideellt engagemang med arbetslivsansvar.
 
@@ -62,7 +62,7 @@ Valberedningen har tyvärr inte lyckats färdigställa sitt arbete i tid för at
 
 Valberedningen
 
-[[Lukas Lundgren]], [[Emanuel Enberg]], [[Oskar Hallensjö]], [[Amanda-Linn Bodin]]
+[Lukas Lundgren](../../personer/Lukas%20Lundgren.md), [Emanuel Enberg](../../personer/Emanuel%20Enberg.md), [[Oskar Hallensjö]], [[Amanda-Linn Bodin]]
 
 Stockholm, den 27 oktober 2025
 
@@ -75,7 +75,7 @@ Stockholm, den 27 oktober 2025
 >
 > att 1 fastställa förbundsstyrelsens storlek till 7 st ledamöter, varav en ordförande och en vice ordförande
 >
-> att 2 välja [[Marina Peltonen]], [[Selma Hodzic]], [[Lovisa Sigfridsson]], [[Emelie Bergvall]], och [[Alfred Livsson]] till ledamöter i förbundsstyrelsen verksamhetsåren 2026-2027
+> att 2 välja [Marina Peltonen](../../personer/Marina%20Peltonen.md), [[Selma Hodzic]], [[Lovisa Sigfridsson]], [[Emelie Bergvall]], och [[Alfred Livsson]] till ledamöter i förbundsstyrelsen verksamhetsåren 2026-2027
 
 Valberdningen
 

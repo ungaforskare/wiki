@@ -3,11 +3,11 @@ start: 2016-11-18
 end: 2016-11-20
 mötesordförande:
   - "[Karl Larsson](../../personer/Karl%20Larsson.md)"
-  - "[[Yi-Hua Zhang]]"
+  - "[Yi-Hua Zhang](../../personer/Yi-Hua%20Zhang.md)"
 mötessekreterare:
-  - "[[Linnea Suomenniemi]]"
+  - "[Linnea Suomenniemi](../../personer/Linnea%20Suomenniemi.md)"
 platser:
-  - "[[Katedralskolan Linköping]]"
+  - "[Katedralskolan Linköping](../../skolor/Katedralskolan%20Linköping.md)"
 orter:
   - "[[Linköping]]"
 justerare:
@@ -18,11 +18,11 @@ rösträknare:
   - "[[Linda-Maria Badéa]]"
 inflytandepunktsansvariga:
   - "[[Sinan Akdag]]"
-  - "[[Paula Langöe]]"
-  - "[[Katarina Ericsson]]"
+  - "[Paula Langöe](../../personer/Paula%20Langöe.md)"
+  - "[Katarina Ericsson](../../personer/Katarina%20Ericsson.md)"
 redaktionsutskott:
   - "[Karl Larsson](../../personer/Karl%20Larsson.md)"
-  - "[[Linnea Suomenniemi]]"
+  - "[Linnea Suomenniemi](../../personer/Linnea%20Suomenniemi.md)"
 kategorier:
   - "[[RS (Riksstämman)|Riksstämman]]"
   - "[[protokoll]]"
@@ -77,13 +77,13 @@ kategorier:
 
 ## §1 Riksstämmans öppnande (Mikael Ingemyr)
 
-> Förbundsordförande [[Mikael Ingemyr]] förklarar mötet öppnat.
+> Förbundsordförande [Mikael Ingemyr](../../personer/Mikael%20Ingemyr.md) förklarar mötet öppnat.
 
 ## §2 Mötesformalia
 
 ### §2a Val av mötesordförande och mötessekreterare (Mikael Ingemyr)
 
-> [Valberedningen](../../verksamheter/Valberedningen.md) föreslår Riksstämman välja [Karl Larsson](../../personer/Karl%20Larsson.md) till mötesordföranden, samt [[Linnea Suomenniemi]] till mötessekreterare.
+> [Valberedningen](../../verksamheter/Valberedningen.md) föreslår Riksstämman välja [Karl Larsson](../../personer/Karl%20Larsson.md) till mötesordföranden, samt [Linnea Suomenniemi](../../personer/Linnea%20Suomenniemi.md) till mötessekreterare.
 
 Bilaga 1. Mötesfunktionärer.
 
@@ -92,9 +92,9 @@ Bilaga 1. Mötesfunktionärer.
 >
 > att 1 välja [Karl Larsson](../../personer/Karl%20Larsson.md) till mötesordförande
 >
-> att 2 välja [[Linnea Suomenniemi]] till mötessekreterare
+> att 2 välja [Linnea Suomenniemi](../../personer/Linnea%20Suomenniemi.md) till mötessekreterare
 >
-> att 3 välja [[Yi-Hua Zhang]] till mötesordförande-suppleant
+> att 3 välja [Yi-Hua Zhang](../../personer/Yi-Hua%20Zhang.md) till mötesordförande-suppleant
 
 ### §2b Val av två protokolljusterare tillika rösträknare (Mötesordförande)
 
@@ -211,7 +211,7 @@ Bilaga 2. Röstlängd.
 >[!beslut]
 > RS beslutar
 >
-> att 8 utse [[Neda Farhand]], [[Max Vinger]], [[Elias Waagaard]], [[Klara Carlström]] till valutskott med uppdrag att bereda förslag på fyllnadsval till valberedning samt utredningsgrupp för två-åriga mandatperioder, valutskottet presenterar sitt förslag för mötespresidiet senast söndag 2016-11-20 kl. 09.00.
+> att 8 utse [Neda Farhand](../../personer/Neda%20Farhand.md), [Max Vinger](../../personer/Max%20Vinger.md), [[Elias Waagaard]], [[Klara Carlström]] till valutskott med uppdrag att bereda förslag på fyllnadsval till valberedning samt utredningsgrupp för två-åriga mandatperioder, valutskottet presenterar sitt förslag för mötespresidiet senast söndag 2016-11-20 kl. 09.00.
 >
 > att 9 ajournera mötet till lördag 2016-11-19 klockan 09:15.
 
@@ -258,7 +258,7 @@ Förslag till uppdelning av ärenden i inflytandepunkter:
 >
 > att 11 fastslå följande inflytandepunkter: året som gått samt propositioner I och II enligt ovan.
 >
-> att 12 välja [[Sinan Akdag]], [[Paula Langöe]] och [[Katarina Ericsson]] till inflytandepunktansvariga för respektive punkt.
+> att 12 välja [[Sinan Akdag]], [Paula Langöe](../../personer/Paula%20Langöe.md) och [Katarina Ericsson](../../personer/Katarina%20Ericsson.md) till inflytandepunktansvariga för respektive punkt.
 >
 > att 13 Utse mötesordförande och mötessekreterare till redaktionsutskott.
 >
@@ -440,12 +440,12 @@ Bilaga 15. Strategi 2017-2020
 
 ### §9c Tilläggsyrkande: Förbundets riktning (David Andersson)
 
-[[David Andersson]]:
+[David Andersson](../../personer/David%20Andersson.md):
 
 > Unga Forskares strategi är en deklaration över vad organisationen skall satsa på och arbeta med de kommande åren. Verksamheterna är en naturlig del av Unga Forskare och det är därför olyckligt att de inte explicit benämns i strategin som den ligger. Detta vill jag åtgärda med följande att-sats:
 
 >[!yrkande]
-> [[David Andersson]] yrkar:
+> [David Andersson](../../personer/David%20Andersson.md) yrkar:
 >
 > att 33 till förbundsstyrelsens förslag om strategi lägga:
 >
@@ -457,7 +457,7 @@ Bilaga 15. Strategi 2017-2020
 
 ### §9d Ändringsyrkande: Förbundets riktning (lyftes) (David Andersson)
 
-[[David Andersson]]:
+[David Andersson](../../personer/David%20Andersson.md):
 
 > Ett syfte beskriver en organisations kall. Det är anledningen att vi åker på riksstämman, det anledningen att vi har en utställning och anledningen att vi söker pengar från finansiärer. Det syfte som nu ligger på förslag från styrelsen är:
 >
@@ -472,7 +472,7 @@ Bilaga 15. Strategi 2017-2020
 <!-- OCR: "Avslogs efter votering)" utan inledande parentes. -->
 
 >[!yrkande]
-> [[David Andersson]] yrkar:
+> [David Andersson](../../personer/David%20Andersson.md) yrkar:
 >
 > att 34 ändra förbundets syfte till: "Unga Forskares syfte är att främja ungas intresse för naturvetenskap, matematik och teknik".
 
@@ -510,9 +510,9 @@ Bilaga 16. Proposition: Riksstämmans riktning
 
 > Beslutades inte
 
-Kommentar ([[Yi-Hua Zhang]]):
+Kommentar ([Yi-Hua Zhang](../../personer/Yi-Hua%20Zhang.md)):
 
-> Dessa ändringar kan av [[MUCF (Myndigheten för ungdoms- och civilsamhällesfrågor)|Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF)]] tolkas som en alltför stor inskränkning av medlemmarnas möjligheter att ta ställning till organisationens verksamhet och ekonomi, och därmed medföra risk för att Förbundet Unga Forskare ej har möjlighet att få statsbidrag MUCF.
+> Dessa ändringar kan av [Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF)](../../organisationer/MUCF%20(Myndigheten%20för%20ungdoms-%20och%20civilsamhällesfrågor).md) tolkas som en alltför stor inskränkning av medlemmarnas möjligheter att ta ställning till organisationens verksamhet och ekonomi, och därmed medföra risk för att Förbundet Unga Forskare ej har möjlighet att få statsbidrag MUCF.
 >
 > Jag har pratat med vår handläggare hos MUCF och de lämnade inget klart besked om de tilltänkta ändringarna medför en sådan risk, utan de avsåg att göra den bedömningen vid ansökan av statsbidrag.
 >
@@ -582,7 +582,7 @@ Kommentar (Anonym):
 > - Informationen inte lättillgänglig
 > - Vilka får delta?
 >
-> Varför går majoriteten av platserna till personer som är anknutna till exempelvis [[AstraZeneca]]?
+> Varför går majoriteten av platserna till personer som är anknutna till exempelvis [AstraZeneca](../../organisationer/AstraZeneca.md)?
 >
 > - "Unga Forskare ska vara öppet och inkluderande för alla som delar vår värdegrund, oavsett könsidentitet, /.../, eller andra ovidkommande faktorer.
 
@@ -597,8 +597,8 @@ Bilaga 18. Valberedningens förslag till förtroendeposter
 >
 > att 41 välja
 >
-> - [[Linnea Suomenniemi]]
-> - [[Serhat Aktay]]
+> - [Linnea Suomenniemi](../../personer/Linnea%20Suomenniemi.md)
+> - [Serhat Aktay](../../personer/Serhat%20Aktay.md)
 >
 > till förbundsstyrelseledamöter under verksamhetsåret 2017
 
@@ -613,16 +613,16 @@ Bilaga 18. Valberedningens förslag till förtroendeposter
 >[!beslut]
 > RS beslutar
 >
-> att 42 Fastslå [[PwC|PWC]] som Förbundet Unga Forskares revisorsbyrå, samt [[Gunnar Tullberg]] till auktoriserad revisor och [[Cecilia Luther]] till auktoriserad revisorssuppleant.
+> att 42 Fastslå [PWC](../../organisationer/PWC%20(PricewaterhouseCoopers).md) som Förbundet Unga Forskares revisorsbyrå, samt [Gunnar Tullberg](../../personer/Gunnar%20Tullberg.md) till auktoriserad revisor och [[Cecilia Luther]] till auktoriserad revisorssuppleant.
 >
-> att 43 Välja [[David Andersson]] till ideell revisor.
+> att 43 Välja [David Andersson](../../personer/David%20Andersson.md) till ideell revisor.
 
 ### §12c Tilläggsyrkande: Val av två revisorer samt två revisorssuppleanter (Yi-Hua Zhang)
 
 >[!beslut]
 > RS beslutar
 >
-> att 44 Välja [[Yi-Hua Zhang]] till ideell revisorssuppleant
+> att 44 Välja [Yi-Hua Zhang](../../personer/Yi-Hua%20Zhang.md) till ideell revisorssuppleant
 
 ### §12d Fyllnadsval av valberedning (Valutskottet)
 
@@ -638,9 +638,9 @@ Bilaga 18. Valberedningens förslag till förtroendeposter
 >
 > att 46 välja
 >
-> - [[Paula Langöe]]
+> - [Paula Langöe](../../personer/Paula%20Langöe.md)
 > - [[Linda-Maria Badéa]]
-> - [[Max Vinger]]
+> - [Max Vinger](../../personer/Max%20Vinger.md)
 >
 > till medlemmar i utredningsgruppen för två-åriga mandatperioder.
 
@@ -650,7 +650,7 @@ Bilaga 18. Valberedningens förslag till förtroendeposter
 
 ## §14 Stämmans avslutande
 
-> [[Mikael Ingemyr]] avslutade Riksstämman 2016.
+> [Mikael Ingemyr](../../personer/Mikael%20Ingemyr.md) avslutade Riksstämman 2016.
 
 ## BILAGOR TILL PROTOKOLLET
 

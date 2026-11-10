@@ -39,7 +39,7 @@ Ref: [UFCX](../../distrikt/UFCX%20(Unga%20Forskare%20Uppsala%20Gävleborg).md)
 - verksam: [[Föreningen för Astronomi och Astronautik]] (Gävle)
 - [[Polhems Underground Technical Association]] (Gävle)
 - [[Vasaskolans Dataförening]] (Gävle)
-- verksam: [[Naturvetenskapliga Föreningen]] (Gävle)
+- verksam: [Naturvetenskapliga Föreningen](../../föreningar/Naturvetenskapliga%20Föreningen.md) (Gävle)
 - verksam: [[Fotografiska Föreningen vid Vasaskolan]] (Gävle)
 - [[Random Eternal Life Acceler Central Soc]] (Uppsala) <!-- Så i källan; namnet ser avhugget ut. -->
 - [[Naturvetenskapliga Föreningen vid Bessemergymnasiet]]
@@ -100,7 +100,7 @@ Ref: [UFS](../../distrikt/UFS%20(Unga%20Forskare%20Stockholm).md)
 - [[Sollentuna Audio-Elektronik Förening]]
 - [[Föreningen för Botanik och Zoologi]] (Stockholm)
 - [[Farsta Unga Forskare]] (Stockholm)
-- [[Stockholms Amatörastronomer]]
+- [Stockholms Amatörastronomer](../../föreningar/Föreningen%20Stockholms%20Amatörastronomer.md)
 - [[Jakobsbergs Unga Forskareförening]] (Järfälla)
 - [[Danderyds Unga Forskare]]
 - [[Stockholms Unga Naturvetare]]
@@ -111,7 +111,7 @@ Ref: [UFS](../../distrikt/UFS%20(Unga%20Forskare%20Stockholm).md)
 - [[POFF Organiserad Forskar- Förening]]
 - [[Spånga Unga Forskare]] (Stockholm)
 - [Matematikföreningen Alef Noll](../../föreningar/Alef%20Noll.md) (Danderyd)
-- verksam: [[Kungsholmens Young Scientists' Society]]
+- verksam: [Kungsholmens Young Scientists' Society](../../föreningar/KYSS%20(Kungsholmens%20Young%20Scientists'%20Society).md)
 
 ### UFSk; Unga Forskare Skåne
 
@@ -126,7 +126,7 @@ Ref: [UFSk](../../distrikt/UFSk%20(Unga%20Forskare%20Skåne).md)
 - [[Flogiston]] (Helsingborg)
 - [[Societas Scientiae Naturae]] (Ängelholm)
 - [[Eureka]] (Landskrona)
-- verksam: [[Malmö Academica Förening]]
+- verksam: [Malmö Academica Förening](../../föreningar/Malmös%20Akademiska%20Förening.md)
 - [[Bergagymnasiets Unga Forskare]] (Eslöv)
 - [[Carlshamns unga Forskare]] (Karlshamn)
 - [Syntax Society](../../föreningar/Syntax%20Society.md) (Landskrona)
@@ -136,7 +136,7 @@ Ref: [UFSk](../../distrikt/UFSk%20(Unga%20Forskare%20Skåne).md)
 Ref: [UFÖS](../../distrikt/UFÖS%20(Unga%20Forskare%20Östergötland%20Småland).md)
 
 - [Datorföreningen Lysator](../../föreningar/Lysator.md) (Linköping)
-- verksam: [[Naturvetenskapliga Sällskapet]] (Linköping)
+- verksam: [Naturvetenskapliga Sällskapet](../../föreningar/Naturvetenskapliga%20Sällskapet.md) (Linköping)
 - [[EDEF- Teknikerservice]] (Jönköping)
 - verksam: [ATARAXI](../../föreningar/Ataraxi.md) (Nässjö)
 - [[Gislaveds Unga Forskare]]
@@ -149,7 +149,7 @@ Ref: [UFÖS](../../distrikt/UFÖS%20(Unga%20Forskare%20Östergötland%20Småland
 - [[Hagas unga Forskare]] (Norrköping)
 - [[Unigor]] (Eksjö)
 - [[Utopia Unga Forskare]] (Jönköping)
-- [[Elektronikföreningen Admittansen]] (Linköping)
+- [Elektronikföreningen Admittansen](../../föreningar/Elektronikföreningen%20Admittansen.md) (Linköping)
 - [[Linköpings Naturvetare-förening]]
 - [[Vitastjerna]] (Visby)
 - [[Gotlands unga Forskare]] (Visby)
@@ -196,7 +196,7 @@ Ref: [UFV](../../distrikt/UFV%20(Unga%20Forskare%20Väst).md)
 
 Ref: [UFS](../../distrikt/UFS%20(Unga%20Forskare%20Stockholm).md)
 
-- [[Kungsholmens Young Scientists' Society]] (KYSS), 2001-05-19
+- [Kungsholmens Young Scientists' Society](../../föreningar/KYSS%20(Kungsholmens%20Young%20Scientists'%20Society).md) (KYSS), 2001-05-19
 
 #### UFöN: Unga Forskare övre Norrland
 

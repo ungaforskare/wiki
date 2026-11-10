@@ -180,12 +180,12 @@ Nyval:
 
 Förslag på revisorer:
 
-- [Sune Johnson](../../personer/Sune%20Johnson.md), [Öhrlings PricewaterhouseCoopers](../../organisationer/Öhrlings%20PricewaterhouseCoopers.md) <!-- Källan stavar "Sune Johnsson". -->
+- [Sune Johnson](../../personer/Sune%20Johnson.md), [Öhrlings PricewaterhouseCoopers](../../organisationer/PWC%20(PricewaterhouseCoopers).md) <!-- Källan stavar "Sune Johnsson". -->
 - [Sune Hilstad](../../personer/Sune%20Hilstad.md), [Ingenjörssamfundet](../../organisationer/Ingenjörssamfundet.md).
 
 Förslag på revisorssuppleanter:
 
-- [Magnus Backlund](../../personer/Magnus%20Backlund.md), [Öhrlings PricewaterhouseCoopers](../../organisationer/Öhrlings%20PricewaterhouseCoopers.md)
+- [Magnus Backlund](../../personer/Magnus%20Backlund.md), [Öhrlings PricewaterhouseCoopers](../../organisationer/PWC%20(PricewaterhouseCoopers).md)
 - [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
 
 > [Anna Alfredsson](../../personer/Anna%20Alfredsson.md) föreslår de närvarande föreslagna presenterar sig själva kort.

@@ -7,7 +7,7 @@ kategorier:
 
 <!-- Bilaga 4 till RS 2012, "Beslutsuppföljning från Riksstämman 2011", dokumentansvarig Sanna Holm, 2012-10-22. Bilagan består av beslutsuppföljningen och fyra underdokument: Utredning om diskriminering i Förbundet Unga Forskare (egen fil), Värderingar för likabehandling (2012-10-22), Förbundsstyrelsens öppenhet 2011 (dokumentansvarig Diana Diez, 2012-10-05) och Rapport till Riksstämman 2012 om medlemsregistret (dokumentansvarig David Andersson, 2012-09-14, rev "Slutgiltig"). -->
 
-Dokumentansvarig: [[Sanna Holm]], 2012-10-22
+Dokumentansvarig: [Sanna Holm](../../personer/Sanna%20Holm.md), 2012-10-22
 
 ## Beslutsuppföljning från Riksstämman 2011
 
@@ -62,7 +62,7 @@ Ingen medlem i Förbundet Unga Forskare ska behöva utsättas för kränkningar,
 
 ## Förbundsstyrelsens öppenhet
 
-Dokumentansvarig: [[Diana Diez]], 2012-10-05
+Dokumentansvarig: [Diana Diez](../../personer/Diana%20Diez.md), 2012-10-05
 
 Riksstämman 2011 gav förbundsstyrelsen i uppdrag att se över hur man kunde skapa en större öppenhet kring styrelsens möten. Under den här mandatperioden har man jobbat med följande för att göra det lätt att ta del av styrelsens arbete.
 
@@ -74,7 +74,7 @@ Utöver detta har förbundsstyrelsen under året tillsatt två löpande arbetsgr
 
 ## Rapport till Riksstämman 2012 om medlemsregistret
 
-Dokumentansvarig: [[David Andersson]], 2012-09-14
+Dokumentansvarig: [David Andersson](../../personer/David%20Andersson.md), 2012-09-14
 
 ### Ett förbättrat medlemsregister
 

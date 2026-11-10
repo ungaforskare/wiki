@@ -15,11 +15,11 @@ kategorier:
 
 Valberedningen har efter många intervjuer med många duktiga kandidater beslutat att förbundsstyrelsens storlek ska väljas till åtta personer.
 
-Valberedningen föreslår att välja [[Max Vinger]] som ordförande och [[Jonathan Jilg]] som vice ordförande – ett ordförandepar som vi tror kommer att kunna ha ett gott samarbete. Som ledamöter föreslår valberedningen [[Astha Kaul]], [[Eleonora Svanberg]], [[Erik Hartman]], [[Julia Reinius]], [[Linnea Suomenniemi]], [[Max Robertsson]]. Med varierande erfarenheter och perspektiv tror vi att dessa individer tillsammans har goda förutsättningar för att komma med nya idéer och initiativ för förbundets utveckling.
+Valberedningen föreslår att välja [Max Vinger](../../personer/Max%20Vinger.md) som ordförande och [Jonathan Jilg](../../personer/Jonathan%20Jilg.md) som vice ordförande – ett ordförandepar som vi tror kommer att kunna ha ett gott samarbete. Som ledamöter föreslår valberedningen [[Astha Kaul]], [[Eleonora Svanberg]], [[Erik Hartman]], [Julia Reinius](../../personer/Julia%20Reinius.md), [Linnea Suomenniemi](../../personer/Linnea%20Suomenniemi.md), [Max Robertsson](../../personer/Max%20Robertsson.md). Med varierande erfarenheter och perspektiv tror vi att dessa individer tillsammans har goda förutsättningar för att komma med nya idéer och initiativ för förbundets utveckling.
 
 ### Revisor
 
-Valberedningen föreslår att välja [[Emma Petersson]] som ordinarie verksamhetsrevisor och [[David Andersson]] som hennes suppleant.
+Valberedningen föreslår att välja [Emma Petersson](../../personer/Emma%20Petersson.md) som ordinarie verksamhetsrevisor och [David Andersson](../../personer/David%20Andersson.md) som hennes suppleant.
 
 >[!yrkande]
 > Därför föreslår vi/jag Riksstämman besluta
@@ -40,7 +40,7 @@ Valberedningen föreslår att välja [[Emma Petersson]] som ordinarie verksamhet
 
 Valberedningen
 
-[[Alexandra Polyakova]], [[David Andersson]], [[Simon Ljus]]
+[[Alexandra Polyakova]], [David Andersson](../../personer/David%20Andersson.md), [Simon Ljus](../../personer/Simon%20Ljus.md)
 
 Stockholm, den 14 september 2019
 
@@ -48,7 +48,7 @@ Stockholm, den 14 september 2019
 
 Valberedningen bereder varje år på förslag på mötespresidium bestående av en ordförande samt en sekreterare.
 
-[[Tove Verner-Carlsson|Tove Verner Carlsson]] var med i Unga Forskares styrelse 2013-2015.
+[Tove Verner Carlsson](../../personer/Tove%20Verner-Carlsson.md) var med i Unga Forskares styrelse 2013-2015.
 
 Alexandra Polyakova är med i årets valberedning.
 

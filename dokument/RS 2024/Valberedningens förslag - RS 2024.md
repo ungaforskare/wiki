@@ -14,7 +14,7 @@ kategorier:
 
 [[Patrick Edelman]] läser företagsekonomi och är skribent i [[Partikular]] vetenskaplig ungdomstidning.
 
-[[Linnea Suomenniemi]] har länge varit engagerad i Unga Forskare på många fronter, bland annat som styrelsemedlem och verksamhetsrevisor under perioden 2023-2024.
+[Linnea Suomenniemi](../../personer/Linnea%20Suomenniemi.md) har länge varit engagerad i Unga Forskare på många fronter, bland annat som styrelsemedlem och verksamhetsrevisor under perioden 2023-2024.
 
 >[!yrkande]
 > Därför föreslår vi Riksstämman besluta
@@ -29,13 +29,13 @@ kategorier:
 
 [Valberedningen](../../verksamheter/Valberedningen.md)
 
-[[Bahar Safari]], [[Lukas Lundgren]], [[Hugo Backlund]]
+[Bahar Safari](../../personer/Bahar%20Safari.md), [Lukas Lundgren](../../personer/Lukas%20Lundgren.md), [Hugo Backlund](../../personer/Hugo%20Backlund.md)
 
 Stockholm, den 26 september 2024
 
 ## Valberedningens förslag till mötespresidium
 
-[[David Andersson]] har länge varit engagerad i Unga Forskare på många fronter, bland annat som styrelsemedlem 2011-2015 och även mötesordförande för tidigare riksstämmor.
+[David Andersson](../../personer/David%20Andersson.md) har länge varit engagerad i Unga Forskare på många fronter, bland annat som styrelsemedlem 2011-2015 och även mötesordförande för tidigare riksstämmor.
 
 [[Emily Yao]] har tidigare haft uppdrag i bland annat [Utställningen Unga Forskare](../../verksamheter/UUF%20(Utställningen%20Unga%20Forskare).md).
 

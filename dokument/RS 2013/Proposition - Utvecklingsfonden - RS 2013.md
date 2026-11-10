@@ -5,7 +5,7 @@ kategorier:
 namn: Utvecklingsfonden
 ---
 
-Dokumentansvarig: [[Gustav Johansson]], 2013-09-30
+Dokumentansvarig: [Gustav Johansson](../../personer/Gustav%20Johansson.md), 2013-09-30
 
 Unga Forskare har sedan några år tillbaka en [[Utvecklingsfonden|Utvecklingsfond]] som finns för medlemmarna för att utveckla förbundets syfte. [Förbundsstyrelsen](../../verksamheter/FS%20(Förbundsstyrelsen).md) har emellertid märkt att vissa ändringar av upplägget av Utvecklingsfonden är nödvändiga för att den ska nå sin fulla potential.
 

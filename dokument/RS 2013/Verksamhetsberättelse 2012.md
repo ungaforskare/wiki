@@ -12,9 +12,9 @@ Vi står idag inför en viktig förändring i vår organisation. Vi ska växa ge
 
 Tack för att ni valt att stödja oss!
 
-[[Sanna Holm]], Förbundsordförande
+[Sanna Holm](../../personer/Sanna%20Holm.md), Förbundsordförande
 
-[[Daniel Madhani]], Generalsekreterare
+[Daniel Madhani](../../personer/Daniel%20Madhani.md), Generalsekreterare
 
 ## Förbundet
 
@@ -56,11 +56,11 @@ Projektledare för olika verksamheter i förbundet åkte på en Projektledarhelg
 
 ### Föreläsningar på Observatoriemuseet
 
-Vid tre olika tillfällen höll tre unga forskare varsin föreläsning inom sitt fördjupningsområde på [[Observatoriemuseet]] i Stockholm. [Johanna Rogvall](../../personer/Johanna%20Rogvall.md) föreläste om kemi, [[Johannes Orstadius]] om geologi och [[Mikael Ingemyr]] om rymden. Till föreläsningarna bjöds gymnasieklasser runt om i Stockholm in för att få ett smakprov på fördjupning inom de olika ämnena.
+Vid tre olika tillfällen höll tre unga forskare varsin föreläsning inom sitt fördjupningsområde på [[Observatoriemuseet]] i Stockholm. [Johanna Rogvall](../../personer/Johanna%20Rogvall.md) föreläste om kemi, [[Johannes Orstadius]] om geologi och [Mikael Ingemyr](../../personer/Mikael%20Ingemyr.md) om rymden. Till föreläsningarna bjöds gymnasieklasser runt om i Stockholm in för att få ett smakprov på fördjupning inom de olika ämnena.
 
 ### Skoldagarna
 
-[[Gustav Johansson]] drev under våren projektet Skoldagarna med medel från [[Skolverket]]. Skoldagarna hölls i Göteborg på [[Geovetarcentrum]] och i Stockholm på [[Värmdö gymnasium]] och hade det mycket aktuella temat: Gymnasiearbetet. Till Skoldagarna bjöds lärare från hela Sverige in till att delta i diskussioner kring den nya kursen samt vilket stöd de vill ha från oss i Unga Forskare.
+[Gustav Johansson](../../personer/Gustav%20Johansson.md) drev under våren projektet Skoldagarna med medel från [Skolverket](../../organisationer/Skolverket.md). Skoldagarna hölls i Göteborg på [[Geovetarcentrum]] och i Stockholm på [[Värmdö gymnasium]] och hade det mycket aktuella temat: Gymnasiearbetet. Till Skoldagarna bjöds lärare från hela Sverige in till att delta i diskussioner kring den nya kursen samt vilket stöd de vill ha från oss i Unga Forskare.
 
 ### Teknik och naturvetenskap för dig
 
@@ -72,7 +72,7 @@ Ref: [Projekt TEND](../../verksamheter/Projekt%20TEND%20-%20Teknik%20och%20Natur
 
 <!-- Rubriken är delvis oläslig i OCR ("… örbundet Unga Forskare på / … oskorredg"); tolkad utifrån brödtexten. -->
 
-I september hölls ForskarFredag på flera olika platser i landet. Vi fanns på plats på Medborgarplatsen i Stockholm där [[Julia Andersson]] och [[Caroline Schagerholm]] gjorde slime och minglade med besökande gymnasieelever.
+I september hölls ForskarFredag på flera olika platser i landet. Vi fanns på plats på Medborgarplatsen i Stockholm där [[Julia Andersson]] och [Caroline Schagerholm](../../personer/Caroline%20Schagerholm.md) gjorde slime och minglade med besökande gymnasieelever.
 
 ### Tekniklärarnätverk
 
@@ -92,7 +92,7 @@ Tillsammans med [[Observatoriemuseet]] ordnade förbundet två klimatdagar där 
 
 Ref: [Riksstämman](../../verksamheter/RS%20(Riksstämman).md)
 
-Förbundets årliga riksstämma hölls på [[Katedralskolan i Linköping|Katedralskolan]] i [Linköping](../../platser/orter/Linköping.md). Det var en lyckad helg där det togs många nya beslut som kommer att påverka förbundets framtid. Intresset från media var stort och [SVT](../../organisationer/SVT.md) Östnytt var på plats och det blev både en intervju med styrelsemedlemmarna [[Sanna Holm]] och [Andreas Svensson](../../personer/Andreas%20Svensson.md) i tv samt ett besök av tidningen [[Corren]]. Förbundsordförande [[David Ebbevi]] och Distrikts- och medlemsstödutvecklaren [[Tove Ladberg]] intervjuades till en artikel i Corren.
+Förbundets årliga riksstämma hölls på [Katedralskolan](../../skolor/Katedralskolan%20Linköping.md) i [Linköping](../../platser/orter/Linköping.md). Det var en lyckad helg där det togs många nya beslut som kommer att påverka förbundets framtid. Intresset från media var stort och [SVT](../../organisationer/SVT.md) Östnytt var på plats och det blev både en intervju med styrelsemedlemmarna [Sanna Holm](../../personer/Sanna%20Holm.md) och [Andreas Svensson](../../personer/Andreas%20Svensson.md) i tv samt ett besök av tidningen [[Corren]]. Förbundsordförande [David Ebbevi](../../personer/David%20Ebbevi.md) och Distrikts- och medlemsstödutvecklaren [Tove Ladberg](../../personer/Tove%20Ladberg.md) intervjuades till en artikel i Corren.
 
 Då förbundet på föregående riksstämma beslutade att flytta årsmötet, som tidigare låg på våren, till november är det samma styrelse som suttit sedan våren 2011 till november 2012.
 
@@ -168,14 +168,14 @@ På [Intel International Science and Engineering Fair](../../organisationer/Inte
 
 <!-- Rubrik saknas i OCR-texten; tillagd. -->
 
-- [[Johan Boström]], Projektledare Utställningen
+- [Johan Boström](../../personer/Johan%20Boström.md), Projektledare Utställningen
 - [[Cissi Liu]], Projektledare Projektbanken
 - [[Daniel Gharanfoli]], Projektledare SIYSS
 - [Harald Carlstrand](../../personer/Harald%20Carlstrand.md), Projektledare TEND
 - [Martin Norlin](../../personer/Martin%20Norlin.md), Projektledare [IT-gruppen](../../verksamheter/IT-gruppen.md)
 - [[Lina Nilsson]], Ämnesprojektledare Astronomi
 - [[Lottie Phillips]], Ämnesprojektledare Biologi & Geologi
-- [[Caroline Schagerholm]], Ämnesprojektledare Bioteknik & Biokemi samt Kemi
+- [Caroline Schagerholm](../../personer/Caroline%20Schagerholm.md), Ämnesprojektledare Bioteknik & Biokemi samt Kemi
 - [[Sebastian Sahlin]], Ämnesprojektledare Data & Programmering
 - [[Andreas Sundström]], Ämnesprojektledare Fysik
 - [[Emma Lorentsson]], Ämnesprojektledare Hälsa & Medicin
@@ -328,9 +328,9 @@ Vi ser att intressefördelningen över de olika ämnesområdena är i stort sett
 
 ## Personal
 
-- [[Daniel Madhani]], Generalsekreterare
-- [[Sandra van Hunen]], Förbundsadministratör
-- [[Tove Ladberg]], Distrikt- och medlemsstödsutvecklare
+- [Daniel Madhani](../../personer/Daniel%20Madhani.md), Generalsekreterare
+- [Sandra van Hunen](../../personer/Sandra%20van%20Hunen.md), Förbundsadministratör
+- [Tove Ladberg](../../personer/Tove%20Ladberg.md), Distrikt- och medlemsstödsutvecklare
 - [[Josefine Andersson]], Skolsamordnare
 - [Harald Carlstrand](../../personer/Harald%20Carlstrand.md), Projektledare TEND, juni – september
 
@@ -339,9 +339,9 @@ Vi ser att intressefördelningen över de olika ämnesområdena är i stort sett
 <!-- Listan anger en person per distrikt utan att rollen framgår (troligen distriktsordförande eller ambassadör). -->
 
 - [[Gloria Onwuneme]], [Unga Forskare Skåne](../../distrikt/UFSk%20(Unga%20Forskare%20Skåne).md)
-- [[Anna Asratian]], [[Unga Forskare Östra Götaland]]
+- [[Anna Asratian]], [Unga Forskare Östra Götaland](../../distrikt/UFÖS%20(Unga%20Forskare%20Östergötland%20Småland).md)
 - [[Chenjing Fan]], [Unga Forskare Bergslagen](../../distrikt/UFB%20(Unga%20Forskare%20Bergslagen).md)
-- [[Therese de Haan]], [Unga Forskare Uppsala-Gävleborg](../../distrikt/UFCX%20(Unga%20Forskare%20Uppsala%20Gävleborg).md)
+- [Therese de Haan](../../personer/Therese%20de%20Haan.md), [Unga Forskare Uppsala-Gävleborg](../../distrikt/UFCX%20(Unga%20Forskare%20Uppsala%20Gävleborg).md)
 - [[Mikael Nordfeldth]], [Unga Forskare Övre Norrland](../../distrikt/UFÖN%20(Unga%20Forskare%20Övre%20Norrland).md)
 - [[Patrik Roos]], [Unga Forskare Stockholm](../../distrikt/UFS%20(Unga%20Forskare%20Stockholm).md)
 - [[Mikaela Hedström]], [Unga Forskare Väst](../../distrikt/UFV%20(Unga%20Forskare%20Väst).md)

@@ -1,6 +1,6 @@
 ---
 motionärer:
-  - "[[Julia Mårtensson]]"
+  - "[Julia Mårtensson](../../personer/Julia%20Mårtensson.md)"
 kategorier:
   - motion
 år: 2025
@@ -25,6 +25,6 @@ En marknadsföringsmanual (som exempelvis skulle kunna publiceras på Unga Forsk
 >
 > att 1 skapa en marknadsföringsmanual som blir tillgänglig för medlemsföreningar på Unga Forskares hemsida
 
-[[Julia Mårtensson]], ombud för [[Research Academy for Young Scientists]]
+[Julia Mårtensson](../../personer/Julia%20Mårtensson.md), ombud för [Research Academy for Young Scientists](../../föreningar/RAYS%20(Research%20Academy%20for%20Young%20Scientists).md)
 
 [Linköping](../../platser/orter/Linköping.md), 8 november 2025

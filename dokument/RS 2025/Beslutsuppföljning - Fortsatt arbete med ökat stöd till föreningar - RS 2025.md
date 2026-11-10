@@ -18,7 +18,7 @@ Dokumentansvarig: [Förbundsstyrelsen](../../verksamheter/FS%20(Förbundsstyrels
 
 Riksstämman 2023 beslutade att förbundsstyrelsen skulle tillsätta en arbetsgrupp för att utreda frågan om ökat medlemsstöd. Bakgrunden var att flera medlemsföreningar uttryckt behov av stärkt ekonomiskt stöd, enklare processer och tydligare kommunikation kring de förmåner som finns.
 
-Arbetsgruppen bestod av [[Aleksander Berger]], [[Adam Granquist]], [[Jonathan Jilg]] (sammankallande) och [[Simon Åstrand]] och genomförde 2024 en utredning med intervjuer, enkäter och omvärldsanalys av andra ungdomsorganisationer. Utredningen presenterades till Riksstämman 2024 med följande rekommendationer:
+Arbetsgruppen bestod av [Aleksander Berger](../../personer/Aleksander%20Berger.md), [[Adam Granquist]], [Jonathan Jilg](../../personer/Jonathan%20Jilg.md) (sammankallande) och [Simon Åstrand](../../personer/Simon%20Åstrand.md) och genomförde 2024 en utredning med intervjuer, enkäter och omvärldsanalys av andra ungdomsorganisationer. Utredningen presenterades till Riksstämman 2024 med följande rekommendationer:
 
 - Projektbidraget bör prioriteras framför höjt föreningsbidrag, och fastställas till minst 50 000 kr per år.
 - Bidraget bör delas ut i två ansökningsomgångar årligen, där FS beslutar och kansliet administrerar.

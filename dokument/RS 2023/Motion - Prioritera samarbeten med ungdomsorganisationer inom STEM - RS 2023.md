@@ -25,13 +25,13 @@ Att anta denna motion skickar en signal till denna typ av organisationer att Ung
 >
 > att (1) Unga Forskare ska prioritera utvecklingen av nya såväl som existerande samarbeten med andra ungdomsorganisationer aktiva inom naturvetenskap, teknik och/eller matematik, med företräde för ideella sådana.
 
-Benjamin Verbeek, vice-ordförande [[Ung Vetenskapssport]]
+Benjamin Verbeek, vice-ordförande [Ung Vetenskapssport](../../föreningar/Ung%20Vetenskapssport.md)
 
 Uppsala, den 29 september 2023
 
 ## Motionssvar
 
-Dokumentansvarig: [[Max Robertsson]], 2023-10-10
+Dokumentansvarig: [Max Robertsson](../../personer/Max%20Robertsson.md), 2023-10-10
 
 [Förbundsstyrelsen](../../verksamheter/FS%20(Förbundsstyrelsen).md) har mottagit en motion avseende att prioritera samarbeten med organisationer inom STEM (Science, Technology, Engineering and Mathematics). Förbundsstyrelsen är glada över att ha mottagit motionen och är positiva till att föra en dialog i ämnet. Motionen är inskickad av en företrädare för en medlemsorganisation som tillhör Unga Forskare.
 
@@ -59,7 +59,7 @@ Detta ändringsyrkande stödjer andemeningen av yrkandet med finner emellertid a
 >[!yrkande]
 > Därför föreslår Viktor Sundström & Benjamin Verbeek Riksstämman besluta
 >
-> att (1) inledningsvis ska detta ske genom att Unga Forskares Förbundsstyrelse kontaktar [[Astronomisk Ungdom]]s och [[Ung Vetenskapssport]]s förbundsstyrelser och se vilka möjligheter som finns inom samarbeten kring utredningar av policyändringar, gemensamma arrangemang samt övriga frågor. Detta ska kortfattat återrapporteras skriftligt och på något sätt göras tillgängligt för Unga Forskares medlemmar inom 6 månader från att riksstämmans protokoll justerats.
+> att (1) inledningsvis ska detta ske genom att Unga Forskares Förbundsstyrelse kontaktar [Astronomisk Ungdom](../../föreningar/Astronomisk%20Ungdom.md)s och [Ung Vetenskapssport](../../föreningar/Ung%20Vetenskapssport.md)s förbundsstyrelser och se vilka möjligheter som finns inom samarbeten kring utredningar av policyändringar, gemensamma arrangemang samt övriga frågor. Detta ska kortfattat återrapporteras skriftligt och på något sätt göras tillgängligt för Unga Forskares medlemmar inom 6 månader från att riksstämmans protokoll justerats.
 
 Viktor Sundström & Benjamin Verbeek,
 

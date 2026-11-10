@@ -17,7 +17,7 @@ Ref: [EU Contest](../../organisationer/EU%20Contest.md)
 
 Kontaktperson: [Anders Sahlman](../../personer/Anders%20Sahlman.md)
 
-Förbundet Unga Forskare har av EU-kommissionen blivit erbjudna värdskapet för EU Contest for Young Scientists (EU Contest) 2006 i samarbete med [Kungliga Vetenskapsakademien](../../organisationer/KVA%20(Kungliga%20Vetenskapsakademien).md) och [[Vetenskapsrådet]]. Den nationella delen av budgeten är täckt med hjälp av bidrag från [[AstraZeneca|Astra Zeneca]], [[KK-stiftelsen]], [[Stiftelsen för strategisk forskning]] samt Vetenskapsrådet. Målen under 2003 blir att underhålla kontakterna med sponsorer och samarbetspartner samt att fastställa formen för organisationen bakom arrangemanget tillsammans med Vetenskapsrådet och Kungliga Vetenskapsakademien. Årets EU Contest i [[Budapest]] ska besökas för att observera arrangemanget och för att skapa kontakter med övriga National Organizers samt personer på EU-kommissionen.
+Förbundet Unga Forskare har av EU-kommissionen blivit erbjudna värdskapet för EU Contest for Young Scientists (EU Contest) 2006 i samarbete med [Kungliga Vetenskapsakademien](../../organisationer/KVA%20(Kungliga%20Vetenskapsakademien).md) och [Vetenskapsrådet](../../organisationer/Vetenskapsrådet.md). Den nationella delen av budgeten är täckt med hjälp av bidrag från [Astra Zeneca](../../organisationer/AstraZeneca.md), [[KK-stiftelsen]], [[Stiftelsen för strategisk forskning]] samt Vetenskapsrådet. Målen under 2003 blir att underhålla kontakterna med sponsorer och samarbetspartner samt att fastställa formen för organisationen bakom arrangemanget tillsammans med Vetenskapsrådet och Kungliga Vetenskapsakademien. Årets EU Contest i [[Budapest]] ska besökas för att observera arrangemanget och för att skapa kontakter med övriga National Organizers samt personer på EU-kommissionen.
 
 ## Internationell verksamhet
 
@@ -43,7 +43,7 @@ Kontaktperson: [Erik Frick](../../personer/Erik%20Frick.md)
 
 Näringslivsgruppen kommer under kommande år att fortsätta att hålla kontakten med förbundets företagspartner. Detta sker framförallt genom nyhetsbrevet Dialog, men även genom personliga möten med våra kontaktpersoner på företagen.
 
-Vi kommer under året att fortsätta arbetet med att förlänga avtalen med de nuvarande partnerföretagen, samt försöka knyta ytterligare någon ny företagspartner till förbundet. Vi kommer också att arbeta för att få fler duktiga föreläsare från våra företagspartner att besöka våra arrangemang och medverka i exempelvis kurser. Tillsammans med [[AstraZeneca]] och [[Vattenfall]] verkar vi för att genomföra forskarskolor även i år.
+Vi kommer under året att fortsätta arbetet med att förlänga avtalen med de nuvarande partnerföretagen, samt försöka knyta ytterligare någon ny företagspartner till förbundet. Vi kommer också att arbeta för att få fler duktiga föreläsare från våra företagspartner att besöka våra arrangemang och medverka i exempelvis kurser. Tillsammans med [AstraZeneca](../../organisationer/AstraZeneca.md) och [Vattenfall](../../organisationer/Vattenfall.md) verkar vi för att genomföra forskarskolor även i år.
 
 ## Riksstämman (RS)
 
@@ -77,7 +77,7 @@ Målet är att till så många som möjligt av Utställningen Unga Forskares del
 
 Då det vid UUF 2003 ser ut att bli ett ovanligt stort deltagarantal hoppas vi kunna dela ut extra många stipendier, bland annat genom att låta fler personer delta vid de olika nordiska lägren, vilket även bidrar till att öka det nordiska utbytet. Vår förhoppning att kunna sända fler deltagare till dessa läger tillsammans med det faktum att några av stiftelserna dragit in sitt stöd, gör att vi i år måste satsa extra mycket på att söka sponsorer till stipendierna.
 
-Vi kommer inte att sända stipendiater till [[The Dr. Bessie F. Lawrence International Summer Science Institute]] i Israel i år på grund av situationen där. Däremot hoppas vi kunna skicka stipendiater till [Intel International Science and Engineering Fair](../../organisationer/Intel%20ISEF.md) i USA, [[Canada Wide Science Fair]], [[International Wildlife Research Week]] i Schweiz, [EU Contest](../../organisationer/EU%20Contest.md) i Ungern, [[London International Youth Science Forum|London Youth Science Forum]], [[Bio Med Camp]] i Norge, [[Space Camp]] i Norge, [[Cyber Camp]] i Norge, [[Bio Tech Camp]] i Danmark och [NORNA](../../verksamheter/NORNA%20(Nordiska%20naturvetenskapliga%20ungdomsveckan).md) i Sverige. Antalet platser vid dessa olika stipendieresor anpassas i förhållande till hur mycket pengar vi får in. Vi kommer också att dela ut olika sakstipendier som kan vara bokpaket, abonnemang på [[Nationalencyklopedin|Nationalencyklopedins]] internetupplaga och tidningsprenumerationer.
+Vi kommer inte att sända stipendiater till [[The Dr. Bessie F. Lawrence International Summer Science Institute]] i Israel i år på grund av situationen där. Däremot hoppas vi kunna skicka stipendiater till [Intel International Science and Engineering Fair](../../organisationer/Intel%20ISEF.md) i USA, [[Canada Wide Science Fair]], [[International Wildlife Research Week]] i Schweiz, [EU Contest](../../organisationer/EU%20Contest.md) i Ungern, [London Youth Science Forum](../../organisationer/London%20International%20Youth%20Science%20Forum.md), [[Bio Med Camp]] i Norge, [[Space Camp]] i Norge, [[Cyber Camp]] i Norge, [[Bio Tech Camp]] i Danmark och [NORNA](../../verksamheter/NORNA%20(Nordiska%20naturvetenskapliga%20ungdomsveckan).md) i Sverige. Antalet platser vid dessa olika stipendieresor anpassas i förhållande till hur mycket pengar vi får in. Vi kommer också att dela ut olika sakstipendier som kan vara bokpaket, abonnemang på [[Nationalencyklopedin|Nationalencyklopedins]] internetupplaga och tidningsprenumerationer.
 
 ## Stockholm International Youth Science Seminar (SIYSS)
 
@@ -93,7 +93,7 @@ SIYSS-gruppen avser att under 2003 fortsätta arbetet med fyra målsättningar s
 2. Att verka för ett hållbart externt ekonomiskt stöd för SIYSS, som kan ersätta en del av det stöd som tidigare tilldelats SIYSS från de "obundna medlen" från Förbundet Unga Forskare.
 3. Att verka för nya samarbeten med organisationer i utvecklingsländer.
 
-Gällande det sistnämnda har t.ex. ett samarbete med [[Stockholm Junior Water Prize|Junior Water Prize]] i Stockholm ([SIWI](../../organisationer/SIWI%20(Stockholm%20International%20Water%20Institute).md)) diskuterats. [Studiefrämjandets](../../organisationer/SFR%20(Studiefrämjandet).md) internationella kontaktnät fortskrider. I grunden skall deltagarna genom SIYSS få en ökad förståelse av det svenska samhället samt åka på intressanta studiebesök, som tidigare år. <!-- OCR: "SIWD". -->
+Gällande det sistnämnda har t.ex. ett samarbete med [Junior Water Prize](../../organisationer/Stockholm%20Junior%20Water%20Prize.md) i Stockholm ([SIWI](../../organisationer/SIWI%20(Stockholm%20International%20Water%20Institute).md)) diskuterats. [Studiefrämjandets](../../organisationer/SFR%20(Studiefrämjandet).md) internationella kontaktnät fortskrider. I grunden skall deltagarna genom SIYSS få en ökad förståelse av det svenska samhället samt åka på intressanta studiebesök, som tidigare år. <!-- OCR: "SIWD". -->
 
 ## Utbildning
 
@@ -117,7 +117,7 @@ För det andra skall arrangemangen kring utställningen få en upplyftning i kva
 
 ## Struktur
 
-Förbundet är organiserat i åtta [distrikt](../../om/Distrikt.md). Distrikten är fristående och bestämmer själva över sin verksamhet. Förbundet har inget centralt medlemskap, alla medlemmar finns i lokala föreningar. För att administrera medlemmar och verksamhet finns ett centralt kansli i [[Frescati]] i [[Stockholm]].
+Förbundet är organiserat i åtta [distrikt](../../om/Distrikt.md). Distrikten är fristående och bestämmer själva över sin verksamhet. Förbundet har inget centralt medlemskap, alla medlemmar finns i lokala föreningar. För att administrera medlemmar och verksamhet finns ett centralt kansli i [[Frescati]] i [Stockholm](../../platser/orter/Stockholm.md).
 
 ## Föreningar
 

@@ -12,7 +12,7 @@ kategorier:
 >
 > Källan numrerar både figuren för mål 1.1 och figuren för mål 1.2 som "Figur 2"; numren återges som i källan.
 
-Dokumentansvariga: [[Simon Åstrand]], [[Julia Qiu]], [[Brendan R. Joseph]], 2024-09-23
+Dokumentansvariga: [Simon Åstrand](../../personer/Simon%20Åstrand.md), [Julia Qiu](../../personer/Julia%20Qiu.md), [Brendan R. Joseph](../../personer/Brendan%20R.%20Joseph.md), 2024-09-23
 
 # Beslutsuppföljning — Strategi 2024
 
@@ -35,7 +35,7 @@ Utifrån nuläget går det att konstatera att sex mål som sattes upp 2020 har u
 
 ## 1. Ökat intresse för naturvetenskap, teknik och matematik bland unga
 
-Vad gäller verksamheterna har utvecklingen varit positiv det senaste året. Projektet [[Cybersecurity Academy|Cyber Security Academy]] (CSA) har utökats med möjlighet till kvalitativ utbildning under det senaste året. För tredje året i rad har [Utställningen Unga Forskare](../../verksamheter/UUF%20(Utställningen%20Unga%20Forskare).md) anordnats på [[Södertälje Science Park|Södertälje Science park]] efter att ha varit digital under en period. Under 2023 har även [Stockholm International Youth Science Seminar SIYSS](../../verksamheter/SIYSS%20(Stockholm%20International%20Youth%20Science%20Seminar).md) återgått till fysisk form. De hyrde en biosalong och lät forskare presentera sina projekt och bjöd in skolklasser. Under pandemin och 2022 skedde detta genom digitala inspelningar. Det var inte så stort intresse under 2022 med inspelningarna och därför beslutade man att ha det fysiskt 2023 vilket blev lyckat. Unga Forskare representerades under 2024 i Forsknings-EM, [EU Contest For Young Scientists](../../organisationer/EU%20Contest.md), i [[Katowice]], [[Polen]].
+Vad gäller verksamheterna har utvecklingen varit positiv det senaste året. Projektet [Cyber Security Academy](../../verksamheter/Cybersecurity%20Academy.md) (CSA) har utökats med möjlighet till kvalitativ utbildning under det senaste året. För tredje året i rad har [Utställningen Unga Forskare](../../verksamheter/UUF%20(Utställningen%20Unga%20Forskare).md) anordnats på [Södertälje Science park](../../organisationer/Södertälje%20Science%20Park.md) efter att ha varit digital under en period. Under 2023 har även [Stockholm International Youth Science Seminar SIYSS](../../verksamheter/SIYSS%20(Stockholm%20International%20Youth%20Science%20Seminar).md) återgått till fysisk form. De hyrde en biosalong och lät forskare presentera sina projekt och bjöd in skolklasser. Under pandemin och 2022 skedde detta genom digitala inspelningar. Det var inte så stort intresse under 2022 med inspelningarna och därför beslutade man att ha det fysiskt 2023 vilket blev lyckat. Unga Forskare representerades under 2024 i Forsknings-EM, [EU Contest For Young Scientists](../../organisationer/EU%20Contest.md), i [[Katowice]], [[Polen]].
 
 ### 1.1. Minst 25 000 unga är medlemmar eller tar på andra sätt del av Unga Forskares verksamhet varje år
 
@@ -91,7 +91,7 @@ Andelen medlemsföreningar som årsrapporterar använder vi som ett mått på st
 
 ### 2.4. Minst 50% av medlemsföreningarna skickar ombud till Unga Forskares rikstäckande medlemsevent
 
-De rikstäckande eventen har förändrats under de senaste fyra åren. Under 2021 hölls [[Kongressen]], ett rikstäckande event skilt från [riksstämman](../../verksamheter/RS%20(Riksstämman).md). 2022 genomfördes det under namnet medlemsdagen. 2023 avvecklades detta event och det enda rikstäckande eventet var då Riksstämman, vilket kan förklara tappet mellan 2022 och 2023. Inget rikstäckande event har ännu genomförts 2024, men förhoppningen är att vi ser en något högre nivå än föregående år. Att ha många medlemsföreningar representerade på de rikstäckande eventen är något vi anser är väldigt viktigt ur ett demokratiskt perspektiv, och vi ser därför att ett mer ambitiöst mål är relevant för kommande fyra år.
+De rikstäckande eventen har förändrats under de senaste fyra åren. Under 2021 hölls [Kongressen](../../verksamheter/Kongressen.md), ett rikstäckande event skilt från [riksstämman](../../verksamheter/RS%20(Riksstämman).md). 2022 genomfördes det under namnet medlemsdagen. 2023 avvecklades detta event och det enda rikstäckande eventet var då Riksstämman, vilket kan förklara tappet mellan 2022 och 2023. Inget rikstäckande event har ännu genomförts 2024, men förhoppningen är att vi ser en något högre nivå än föregående år. Att ha många medlemsföreningar representerade på de rikstäckande eventen är något vi anser är väldigt viktigt ur ett demokratiskt perspektiv, och vi ser därför att ett mer ambitiöst mål är relevant för kommande fyra år.
 
 >[!figur]
 > Figur 7: Resultat av strategimål 2.4
@@ -124,7 +124,7 @@ Strategimål 3.2 minskade mellan 2021 och 2022 men har ökat under 2023 och hitt
 
 ## 4. Ökad stabilitet och långsiktighet i samarbeten
 
-Ökad stabilitet och långsiktighet i samarbeten är en fråga som vi jobbat mycket med under många år. Det var även en av framgångsfaktorerna i den förra strategin. Vi har under strategiperioden tagit fram betydande förändringar vad gäller den interna processen vid arbete med samarbeten. Detta ser vi som en viktig del i arbetet att kunna garantera och säkerställa att vi ägnar oss åt högkvalitativa och hälsosamma samarbeten, som inte bara bidrar till utvecklingen av vår verksamhet, utan också en bättre värld. Nyheter under 2024 är att [[Scania]] blivit ny samarbetspartner för [[Sveriges Unga Forskningslandslag]], samt att [[Fuze]] är samarbetspartner för [[Cybersecurity Academy]]. Unga Forskare arbetar mycket med att våra samarbeten är långsiktiga och stabila, vilket vi tror vi har gynnat oss under pandemin samt ekonomiskt osäkra perioder av präglade av hög inflation och ekonomiska nedskärningar i civilsamhället.
+Ökad stabilitet och långsiktighet i samarbeten är en fråga som vi jobbat mycket med under många år. Det var även en av framgångsfaktorerna i den förra strategin. Vi har under strategiperioden tagit fram betydande förändringar vad gäller den interna processen vid arbete med samarbeten. Detta ser vi som en viktig del i arbetet att kunna garantera och säkerställa att vi ägnar oss åt högkvalitativa och hälsosamma samarbeten, som inte bara bidrar till utvecklingen av vår verksamhet, utan också en bättre värld. Nyheter under 2024 är att [Scania](../../organisationer/Scania.md) blivit ny samarbetspartner för [Sveriges Unga Forskningslandslag](../../verksamheter/Sveriges%20Unga%20Forskningslandslag.md), samt att [[Fuze]] är samarbetspartner för [Cybersecurity Academy](../../verksamheter/Cybersecurity%20Academy.md). Unga Forskare arbetar mycket med att våra samarbeten är långsiktiga och stabila, vilket vi tror vi har gynnat oss under pandemin samt ekonomiskt osäkra perioder av präglade av hög inflation och ekonomiska nedskärningar i civilsamhället.
 
 ### 4.1. Minst 80% av Unga Forskares samarbetspartners har varit det i mer än 1 år
 

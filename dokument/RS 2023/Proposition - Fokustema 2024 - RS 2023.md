@@ -10,7 +10,7 @@ namn: Fokustema 2024
 >[!warning]
 > Riksstämman antog version A, "Ge rätt förutsättningar till ideellt aktiva inom Unga Forskare", som fokustema för 2024 (se §6c i [protokollet](Protokoll%20-%20RS%202023.md)).
 
-Dokumentansvariga: [[Julia Qiu]], [[Esan Mowlér]], 2023-10-08
+Dokumentansvariga: [Julia Qiu](../../personer/Julia%20Qiu.md), [Esan Mowlér](../../personer/Esan%20Mowlér.md), 2023-10-08
 
 ## Proposition — Fokustema 2024
 

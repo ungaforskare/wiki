@@ -2,11 +2,11 @@
 start: 2021-11-13
 end: 2021-11-14
 mötesordförande:
-  - "[[David Andersson]]"
+  - "[David Andersson](../../personer/David%20Andersson.md)"
 mötessekreterare:
-  - "[[Simon Ljus]]"
+  - "[Simon Ljus](../../personer/Simon%20Ljus.md)"
 platser:
-  - "[[Katedralskolan Linköping]]"
+  - "[Katedralskolan Linköping](../../skolor/Katedralskolan%20Linköping.md)"
 orter:
   - "[[Linköping]]"
 justerare:
@@ -17,9 +17,9 @@ rösträknare:
   - "[[Atosa Daneshvar-Minabi]]"
 inflytandepunktsansvariga:
 redaktionsutskott:
-  - "[[Max Robertsson]]"
-  - "[[David Andersson]]"
-  - "[[Simon Ljus]]"
+  - "[Max Robertsson](../../personer/Max%20Robertsson.md)"
+  - "[David Andersson](../../personer/David%20Andersson.md)"
+  - "[Simon Ljus](../../personer/Simon%20Ljus.md)"
 kategorier:
   - "[[RS (Riksstämman)|Riksstämman]]"
   - "[[protokoll]]"
@@ -71,7 +71,7 @@ kategorier:
 
 ## §1 Riksstämmans öppnande (Max Vinger)
 
-> Förbundsordförande [[Max Vinger]] förklarar mötet öppnat.
+> Förbundsordförande [Max Vinger](../../personer/Max%20Vinger.md) förklarar mötet öppnat.
 >
 > lördag 2021-11-13 13:13
 
@@ -79,16 +79,16 @@ kategorier:
 
 ### §2a Val av mötespresidium (Valberedningen)
 
-> [Valberedningen](../../verksamheter/Valberedningen.md) föreslår Riksstämman välja [[David Andersson]] till mötesordförande och [[Simon Ljus]] till mötessekreterare.
+> [Valberedningen](../../verksamheter/Valberedningen.md) föreslår Riksstämman välja [David Andersson](../../personer/David%20Andersson.md) till mötesordförande och [Simon Ljus](../../personer/Simon%20Ljus.md) till mötessekreterare.
 
 Bilaga 2. Valberedningens förslag till mötespresidium.
 
 >[!beslut]
 > RS beslutar
 >
-> att 1 välja [[David Andersson]] till mötesordförande
+> att 1 välja [David Andersson](../../personer/David%20Andersson.md) till mötesordförande
 >
-> att 2 välja [[Simon Ljus]] till mötessekreterare
+> att 2 välja [Simon Ljus](../../personer/Simon%20Ljus.md) till mötessekreterare
 
 ### §2b Val av två protokolljusterare tillika rösträknare (Mötesordförande)
 
@@ -237,7 +237,7 @@ Förslag till uppdelning av ärenden i inflytandepunkter:
 > - Propositioner och motioner (Förbundsstyrelsen)
 > - Inval ([Valberedningen](../../verksamheter/Valberedningen.md))
 >
-> att 10 utse [[Max Robertsson]], mötesordförande och mötessekreterare till redaktionsutskott
+> att 10 utse [Max Robertsson](../../personer/Max%20Robertsson.md), mötesordförande och mötessekreterare till redaktionsutskott
 
 >[!warning]
 > Beslutet att 8 räknar upp inflytandepunkten "Det kommande året", men förslaget ovan och att 9 har i stället "Propositioner och motioner". Texten har behållits som i källan.
@@ -414,7 +414,7 @@ Bilaga 16. Kandidaturer bakom valberedningens förslag till förtroendeposter
 >[!beslut]
 > RS beslutar
 >
-> att 30 välja [[Stella Axelsson]] till förbundsordförande för mandatperioden 2022-2023
+> att 30 välja [Stella Axelsson](../../personer/Stella%20Axelsson.md) till förbundsordförande för mandatperioden 2022-2023
 
 ### §8b Val av vice förbundsordförande 2022-2023 (Valberedningen)
 
@@ -425,7 +425,7 @@ Bilaga 16. Kandidaturer bakom valberedningens förslag till förtroendeposter
 >[!beslut]
 > RS beslutar
 >
-> att 31 välja [[Max Robertsson]] till vice förbundsordförande för mandatperioden 2022-2023
+> att 31 välja [Max Robertsson](../../personer/Max%20Robertsson.md) till vice förbundsordförande för mandatperioden 2022-2023
 
 ### §8c Fastställande av förbundsstyrelsens storlek 2022-2023 (Valberedningen)
 
@@ -449,7 +449,7 @@ Bilaga 16. Kandidaturer bakom valberedningens förslag till förtroendeposter
 >[!beslut]
 > RS beslutar
 >
-> att 33 anta följande åtta (8) ledamöter: [[Esan Mowlér]], [[Jonathan Jilg]], [[Leon Ingman]], [[Marina Peltonen]], [[Mattias Akke]], [[Max Vinger]], [[Rebin Kamal]] och [[Tilak Das]] till ledamöter i [förbundsstyrelsen](../../verksamheter/FS%20(Förbundsstyrelsen).md) 2022-2023
+> att 33 anta följande åtta (8) ledamöter: [Esan Mowlér](../../personer/Esan%20Mowlér.md), [Jonathan Jilg](../../personer/Jonathan%20Jilg.md), [[Leon Ingman]], [Marina Peltonen](../../personer/Marina%20Peltonen.md), [Mattias Akke](../../personer/Mattias%20Akke.md), [Max Vinger](../../personer/Max%20Vinger.md), [Rebin Kamal](../../personer/Rebin%20Kamal.md) och [[Tilak Das]] till ledamöter i [förbundsstyrelsen](../../verksamheter/FS%20(Förbundsstyrelsen).md) 2022-2023
 
 >[!beslut]
 > RS beslutar
@@ -485,15 +485,15 @@ Kommentar ([[Lou Hellquist]]):
 
 ## §10 Utdelning av utmärkelser (Förbundsordförande)
 
-> Årets förening: [[KYSS|Kungsholmen Young Scientist Society]]
+> Årets förening: [Kungsholmen Young Scientist Society](../../föreningar/KYSS%20(Kungsholmens%20Young%20Scientists'%20Society).md)
 >
-> Årets medlem: [[Julia Mårtensson]]
+> Årets medlem: [Julia Mårtensson](../../personer/Julia%20Mårtensson.md)
 >
 > Hedersmedlem: [Karl Larsson](../../personer/Karl%20Larsson.md)
 
 ## §11 Riksstämmans avslutande
 
-> Den nytillträdda förbundsordföranden [[Stella Axelsson]] avslutar Riksstämman 2021 söndag 2021-11-14 13:12.
+> Den nytillträdda förbundsordföranden [Stella Axelsson](../../personer/Stella%20Axelsson.md) avslutar Riksstämman 2021 söndag 2021-11-14 13:12.
 
 ## BILAGOR TILL PROTOKOLLET
 

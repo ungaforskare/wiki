@@ -210,7 +210,7 @@ redaktionsutskottet.
 
 *Förslag på revisorer:*
 
-Auktoriserad: [Magnus Backlund](../../personer/Magnus%20Backlund.md), [Öhrlings PricewaterhouseCoopers](../../organisationer/Öhrlings%20PricewaterhouseCoopers.md)
+Auktoriserad: [Magnus Backlund](../../personer/Magnus%20Backlund.md), [Öhrlings PricewaterhouseCoopers](../../organisationer/PWC%20(PricewaterhouseCoopers).md)
 
 Ideell: [Sune Hilstad](../../personer/Sune%20Hilstad.md), [Ingenjörssamfundet](../../organisationer/Ingenjörssamfundet.md)
 

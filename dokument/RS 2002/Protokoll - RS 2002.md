@@ -366,13 +366,13 @@ Inflytandepunktens huvudyrkande angående verksamhetsplan för 2002:
 > "Förbundsstyrelsen ska se över förbundsstadgan. Översynen ska behandla följande frågor: Rösträtt för verksamhetsgrupperna, tolkning av stadgan, rösträtt för nyanslutna föreningar."
 
 >[!yrkande]
-> 21E att förbundsstyrelsen ska utreda möjligheten att i framtiden hålla i och samordna [[IYPT|International Young Physicists Tournament]] i Sverige.
+> 21E att förbundsstyrelsen ska utreda möjligheten att i framtiden hålla i och samordna [International Young Physicists Tournament](../../organisationer/IYPT%20(International%20Young%20Physicists'%20Tournament).md) i Sverige.
 
 >[!yrkande]
 > 21F att om möjligt tillsätta en ansvarig person.
 
 >[!yrkande]
-> 21G att om möjlighet finns vara med och arrangera [[IYPT]] år 2003 då Sverige är värdland.
+> 21G att om möjlighet finns vara med och arrangera [IYPT](../../organisationer/IYPT%20(International%20Young%20Physicists'%20Tournament).md) år 2003 då Sverige är värdland.
 
 >[!yrkande]
 > 21H att en informationspunkt vid namn "Informationsspridning" ska läggas till verksamhetsplanen med följande text:
@@ -504,7 +504,7 @@ Ordinarie:
 
 Suppleanter:
 
-- [[Anders Winqvist]] auktoriserad revisor.
+- [Anders Winqvist](../../personer/Anders%20Winqvist.md) auktoriserad revisor.
 - [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
 
 >[!beslut]

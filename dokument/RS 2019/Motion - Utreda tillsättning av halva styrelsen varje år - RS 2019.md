@@ -1,7 +1,7 @@
 ---
 motionärer:
-  - "[[Jonathan Jilg]]"
-  - "[[Emanuel Enberg]]"
+  - "[Jonathan Jilg](../../personer/Jonathan%20Jilg.md)"
+  - "[Emanuel Enberg](../../personer/Emanuel%20Enberg.md)"
   - "[[Dina Lerjevik]]"
   - "[[Johanna Lidholm]]"
 kategorier:
@@ -30,11 +30,11 @@ Vår avsikt med denna motion är att väcka frågan om att välja halva styrelse
 >
 > att (1) Att ge förbundsstyrelsen i uppdrag till riksstämman 2020 att utvärdera förslaget att välja halva styrelsen varje år och även ta fram en rekommendation.
 
-[[Jonathan Jilg]], Styrelseledamot i [[Alumniföreningen Utställningen Unga Forskare]]
+[Jonathan Jilg](../../personer/Jonathan%20Jilg.md), Styrelseledamot i [Alumniföreningen Utställningen Unga Forskare](../../föreningar/Alumniföreningen%20Utställningen%20Unga%20Forskare.md)
 
 Zürich, 27 september 2019
 
-[[Emanuel Enberg]], IT-ansvarig - Utställningsgruppen 2020
+[Emanuel Enberg](../../personer/Emanuel%20Enberg.md), IT-ansvarig - Utställningsgruppen 2020
 
 Göteborg, 27 september 2019
 

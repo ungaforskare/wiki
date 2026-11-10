@@ -36,7 +36,7 @@ Förbundet säljer varje år en almanacka med formelsamling till medlemmar och a
 
 Ref: [SAN](../../verksamheter/SAN%20(SpecialarbetsNätverket).md)
 
-År 1997 har varit händelserikt för Specialarbetsnätverket. Det mest avgörande var då en administrativ ansvarig kunde anställas i projektet i och med fördubblade anslag och förlängd kontraktsperiod med huvudbidragsgivaren [[MISTRA]].
+År 1997 har varit händelserikt för Specialarbetsnätverket. Det mest avgörande var då en administrativ ansvarig kunde anställas i projektet i och med fördubblade anslag och förlängd kontraktsperiod med huvudbidragsgivaren [MISTRA](../../organisationer/MISTRA.md).
 
 I och med ytterligare arbetskraft kunde utgivningen av ett nyhetsbrev inledas. Nätverket fick under våren sin första ideella medarbetare, som arbetat med det nya projektet specialarbetstävlingen. För tävlingen gäller i stort sett samma kriterier som vid [Utställningen Unga Forskare](../../verksamheter/UUF%20(Utställningen%20Unga%20Forskare).md). Tävlingens fem vinnare kommer att presenteras på riksstämman 1998 och deras arbeten publiceras i en antologi.
 
@@ -80,7 +80,7 @@ Under 1997 har Förbundet Unga Forskare delat ut följande större stipendier:
 * Fritt deltagande för två personer vid Young Europeans' Environmental Research i Leipzig, [Tyskland](../../platser/länder/Tyskland.md).
 * Fritt deltagande för en person vid International Wildlife Research Week i Zürich, Schweiz.
 
-Förbundet har även sedan 1983 på uppdrag av [[Anders Walls Stiftelser|Anders Walls Stiftelse]] nominerat en stipendiat inom området vetenskaplig forskning. Det stipendium som delades ut 1997 var på 75 000 kronor och tilldelades [[Per Kangru]].
+Förbundet har även sedan 1983 på uppdrag av [Anders Walls Stiftelse](../../organisationer/Anders%20Walls%20stiftelse.md) nominerat en stipendiat inom området vetenskaplig forskning. Det stipendium som delades ut 1997 var på 75 000 kronor och tilldelades [[Per Kangru]].
 
 ## Arrangemang
 
@@ -88,7 +88,7 @@ Förbundet har även sedan 1983 på uppdrag av [[Anders Walls Stiftelser|Anders 
 
 Ref: [UUF](../../verksamheter/UUF%20(Utställningen%20Unga%20Forskare).md)
 
-Utställningen 1997, 12:e till 15:e april, lockade 85 deltagare fördelade på 74 intressanta projekt. Utställarna utgjordes av gymnasieelever som arbetat med projekt eller specialarbeten. UUF-97 som var den 35:e sedan starten 1963, hölls på [[Naturhistoriska Riksmuseet]] i Stockholm. Projekten visades för allmänheten i pelarsalen där alla utställarna hade var sin monter. Projekten omfattade allt från datateknik och fysik till medicin och miljö.
+Utställningen 1997, 12:e till 15:e april, lockade 85 deltagare fördelade på 74 intressanta projekt. Utställarna utgjordes av gymnasieelever som arbetat med projekt eller specialarbeten. UUF-97 som var den 35:e sedan starten 1963, hölls på [Naturhistoriska Riksmuseet](../../organisationer/Naturhistoriska%20Riksmuseet.md) i Stockholm. Projekten visades för allmänheten i pelarsalen där alla utställarna hade var sin monter. Projekten omfattade allt från datateknik och fysik till medicin och miljö.
 
 Alla projekten belönades med stipendier som delades ut under den avslutande ceremonin. Stipendierna bestod av bland annat tidningsprenumerationer, bokpaket och fritt deltagande vid internationella utställningar eller forskarläger i bland annat Kanada, Tyskland, Storbritannien, Italien och Israel. Utöver projektpresentationen på Naturhistoriska Riksmuseet deltog utställarna i ett program bestående av studiebesök och föredrag.
 
@@ -222,7 +222,7 @@ Förbundsstyrelsen bestod 1997 av 11 ungdomar, jämngamla med eller något äldr
 
 ### Revisorer
 
-Förbundets revisorer har under året varit [Sune Johnson](../../personer/Sune%20Johnson.md), Öhrlings Coopers & Lybrand AB, och [Sune Hilstad](../../personer/Sune%20Hilstad.md), Ingenjörssamfundet. Revisorssuppleanter var [[Anders Wingvist]], Öhrlings Coopers & Lybrand AB, och [[Anna Grahn]].
+Förbundets revisorer har under året varit [Sune Johnson](../../personer/Sune%20Johnson.md), Öhrlings Coopers & Lybrand AB, och [Sune Hilstad](../../personer/Sune%20Hilstad.md), Ingenjörssamfundet. Revisorssuppleanter var [Anders Wingvist](../../personer/Anders%20Winqvist.md), Öhrlings Coopers & Lybrand AB, och [[Anna Grahn]].
 
 ### Förbundskansliet
 

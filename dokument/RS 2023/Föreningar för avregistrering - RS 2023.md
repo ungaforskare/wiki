@@ -35,7 +35,7 @@ Med bakgrund i detta föreslås det i år att avregistrera följande föreningar
 
 Samt utesluta följande föreningar
 
-- [[Naturvetenskapliga Föreningen]]
+- [Naturvetenskapliga Föreningen](../../föreningar/Naturvetenskapliga%20Föreningen.md)
 
 >[!yrkande]
 > Därför föreslår förbundsstyrelsen Riksstämman besluta

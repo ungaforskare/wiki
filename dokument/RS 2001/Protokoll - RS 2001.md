@@ -148,7 +148,7 @@ kategorier:
 > - 753 [[Sigma]]
 > - 763 [Cercatores](../../föreningar/Cercatores.md)
 > - 769 [[Internat Interactive Communication Society]]
-> - 773 [[Pi]] <!-- OCR: "173", rättat efter pdf:en. -->
+> - 773 [Pi](../../föreningar/Pi.md) <!-- OCR: "173", rättat efter pdf:en. -->
 > - 775 [[Latins Forskare]] <!-- OCR: "17175", rättat efter pdf:en. -->
 > - 858 [[Norrköpings Dator Förening]]
 > - 912 [Furuheds Ungdomar Laborerar](../../föreningar/Furuheds%20Ungdomar%20Laborerar.md)
@@ -262,9 +262,9 @@ kategorier:
 
 > [Valberedningen](../../verksamheter/Valberedningen.md) föreslår omval av revisorer och revisorsuppleanter. Inga ytterligare förslag presenteras.
 >
-> [Sune Johnson](../../personer/Sune%20Johnson.md), [Öhrlings PriceWaterHouse Coopers](../../organisationer/Öhrlings%20PricewaterhouseCoopers.md), samt [Sune Hilstad](../../personer/Sune%20Hilstad.md), [[Svenska Ingenjörssamfundet]], väljs till revisorer för Förbundet Unga Forskare år 2001.
+> [Sune Johnson](../../personer/Sune%20Johnson.md), [Öhrlings PriceWaterHouse Coopers](../../organisationer/PWC%20(PricewaterhouseCoopers).md), samt [Sune Hilstad](../../personer/Sune%20Hilstad.md), [[Svenska Ingenjörssamfundet]], väljs till revisorer för Förbundet Unga Forskare år 2001.
 >
-> [[Anders Winqvist]], [ÖhrlingsPriceWaterHouse Coopers](../../organisationer/Öhrlings%20PricewaterhouseCoopers.md), samt [Björn Sällström](../../personer/Björn%20Sällström.md) väljs till revisorssuppleanter för Förbundet Unga Forskare år 2001.
+> [Anders Winqvist](../../personer/Anders%20Winqvist.md), [ÖhrlingsPriceWaterHouse Coopers](../../organisationer/PWC%20(PricewaterhouseCoopers).md), samt [Björn Sällström](../../personer/Björn%20Sällström.md) väljs till revisorssuppleanter för Förbundet Unga Forskare år 2001.
 
 ## §25 Val av valberedning
 

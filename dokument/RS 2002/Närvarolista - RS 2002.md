@@ -27,7 +27,7 @@ kategorier:
 13. [[Gunilla Beckholmen]] ([Unga Forskare Uppsala Gävleborg](../../distrikt/UFCX%20(Unga%20Forskare%20Uppsala%20Gävleborg).md))
 14. [[Jonas Bengtsson]]
 15. [Tobias Bladini](../../personer/Tobias%20Bladini.md)
-16. [[Malin Blennow]] ([[Kungsholmens Young Scientists' Society|Kungsholmen Young Scientists' Society]])
+16. [[Malin Blennow]] ([Kungsholmen Young Scientists' Society](../../föreningar/KYSS%20(Kungsholmens%20Young%20Scientists'%20Society).md))
 17. [[Henrik Blosfeld]]
 18. [[Gabriel Cleverland]] ([[Ars Scientiae Naturae]])
 19. [[Erik Druid]] ([Unga Forskare Stockholm](../../distrikt/UFS%20(Unga%20Forskare%20Stockholm).md))

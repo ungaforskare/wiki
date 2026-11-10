@@ -72,7 +72,7 @@ Gruppen arbetade också med att tydliggöra samarbetet med våra företagspartne
 
 Ansvarig: [Magnus Viström](../../personer/Magnus%20Viström.md) (FUF), [[Cecilia Warrol]] ([IVA](../../organisationer/IVA%20(Kungliga%20Ingenjörsakademien).md)) <!-- OCR: "TIVA". -->
 
-Förbundet Unga Forskare och [Kungliga Ingenjörsvetenskapsakademien (IVA)](../../organisationer/IVA%20(Kungliga%20Ingenjörsakademien).md) påbörjade 1998 ett samarbete för att skapa förutsättningar för regionala Unga Forskare-utställningar i Sverige, enligt förebilder från bland annat [Tyskland](../../platser/länder/Tyskland.md) och [[USA]]. Projektet har haft en projektledare sedan hösten 1999. Våren 2000 genomfördes regionala utställningar i [Linköping](../../platser/orter/Linköping.md) ([Fenomenmagasinet](../../organisationer/Fenomenmagasinet.md)), [[Örnsköldsvik]] ([[Mitthögskolan]]) och [[Södertälje]] ([Tom Tits Experiment](../../organisationer/Tom%20Tits%20Experiment.md)). Sammanlagt deltog 29 elever.
+Förbundet Unga Forskare och [Kungliga Ingenjörsvetenskapsakademien (IVA)](../../organisationer/IVA%20(Kungliga%20Ingenjörsakademien).md) påbörjade 1998 ett samarbete för att skapa förutsättningar för regionala Unga Forskare-utställningar i Sverige, enligt förebilder från bland annat [Tyskland](../../platser/länder/Tyskland.md) och [[USA]]. Projektet har haft en projektledare sedan hösten 1999. Våren 2000 genomfördes regionala utställningar i [Linköping](../../platser/orter/Linköping.md) ([Fenomenmagasinet](../../organisationer/Fenomenmagasinet.md)), [[Örnsköldsvik]] ([[Mitthögskolan]]) och [Södertälje](../../platser/orter/Södertälje.md) ([Tom Tits Experiment](../../organisationer/Tom%20Tits%20Experiment.md)). Sammanlagt deltog 29 elever.
 
 Under året marknadsfördes konceptet mot potentiella utställningsarrangörer, som till största delen är science centers och högskolor. Under [UUF](../../verksamheter/UUF%20(Utställningen%20Unga%20Forskare).md) anordnades ett seminarium för möjliga arrangörer av regionala utställningar. Under detta diskuterades de genomförda utställningarna och projektets fortsättning.
 
@@ -140,7 +140,7 @@ UUF erbjuder ungdomar som gjort projekt inom naturvetenskap och teknik möjlighe
 
 Utställningen ägde rum den 15-18 april på [Tekniska Museet](../../organisationer/Tekniska%20Museet.md) i Stockholm och sågs av ca 2000 besökare. Sammanlagt ställde 81 ungdomar ut med 63 projekt och sågs av 2000 besökare. Ett flertal möten arrangerades mellan [Kungliga Ingenjörsvetenskapsakademien](../../organisationer/IVA%20(Kungliga%20Ingenjörsakademien).md) och UUF för att samordna de regionala utställningarna med den nationella.
 
-Förutom utställningen erbjöds deltagarna ett program med populärvetenskapliga föreläsningar och studiebesök vid [Kungliga Tekniska Högskolan](../../skolor/KTH%20(Kungliga%20Tekniska%20Högskolan).md), [Karolinska institutet](../../skolor/KI%20(Karolinska%20Institutet).md), [[Vasamuseet]] samt [[Scania]] i Södertälje. Några av de stipendier som delades ut var två platser till [Intel ISEF](../../organisationer/Intel%20ISEF.md) i USA, två platser till ett forskarläger i [[Israel]] samt resor till aktiviteter i [Kanada](../../platser/länder/Kanada.md), [Finland](../../platser/länder/Finland.md), [[London]] och [Amsterdam](../../platser/orter/Amsterdam.md). Utställningen uppmärksammades av bland annat [DN](../../organisationer/DN.md), [[SvD]] och [[Vetenskapsradion]] i P1.
+Förutom utställningen erbjöds deltagarna ett program med populärvetenskapliga föreläsningar och studiebesök vid [Kungliga Tekniska Högskolan](../../skolor/KTH%20(Kungliga%20Tekniska%20Högskolan).md), [Karolinska institutet](../../skolor/KI%20(Karolinska%20Institutet).md), [[Vasamuseet]] samt [Scania](../../organisationer/Scania.md) i Södertälje. Några av de stipendier som delades ut var två platser till [Intel ISEF](../../organisationer/Intel%20ISEF.md) i USA, två platser till ett forskarläger i [[Israel]] samt resor till aktiviteter i [Kanada](../../platser/länder/Kanada.md), [Finland](../../platser/länder/Finland.md), [[London]] och [Amsterdam](../../platser/orter/Amsterdam.md). Utställningen uppmärksammades av bland annat [DN](../../organisationer/DN.md), [[SvD]] och [[Vetenskapsradion]] i P1.
 
 <!-- Källan stavar "Annelie Jönsson" under Ansvariga ovan och "Anneli Jönsson" under Verksamhetsgrupper. -->
 
@@ -217,7 +217,7 @@ Det är glädjande att så många företag, högskolor, universitet, stiftelser 
 
 ## Revisorer
 
-Förbundets revisorer har under året varit [Sune Johnson](../../personer/Sune%20Johnson.md), [Öhrlings PriceWaterHouseCoopers](../../organisationer/Öhrlings%20PricewaterhouseCoopers.md), Stockholm och [Sune Hilstad](../../personer/Sune%20Hilstad.md), [[Svenska Ingenjörssamfundet]], Stockholm. Revisorssuppleanter var [[Ronnie Andersson]], Stockholm och [[Anders Winqvist]], Öhrlings PriceWaterHouseCoopers, Stockholm
+Förbundets revisorer har under året varit [Sune Johnson](../../personer/Sune%20Johnson.md), [Öhrlings PriceWaterHouseCoopers](../../organisationer/PWC%20(PricewaterhouseCoopers).md), Stockholm och [Sune Hilstad](../../personer/Sune%20Hilstad.md), [[Svenska Ingenjörssamfundet]], Stockholm. Revisorssuppleanter var [[Ronnie Andersson]], Stockholm och [Anders Winqvist](../../personer/Anders%20Winqvist.md), Öhrlings PriceWaterHouseCoopers, Stockholm
 
 ## GCB-fonden
 
@@ -264,9 +264,9 @@ Stockholm den 9 maj 2001
 
 ### Företagspartners
 
-- [[AstraZeneca]]
+- [AstraZeneca](../../organisationer/AstraZeneca.md)
 - [[Stora Enso|StoraEnso]]
-- [[Vattenfall|Vattenfall AB]]
+- [Vattenfall AB](../../organisationer/Vattenfall.md)
 - [[Jernkontoret]]
 - [[Fundia]]
 - [[Sandvik]]
@@ -299,41 +299,41 @@ Stockholm den 9 maj 2001
 #### NT-Scientium
 
 - [[CSN (Centrala studiestödsnämnden)|CSN]]
-- [[FRN (Forskningsrådsnämnden)|FRN]] ([[Vetenskapsrådet]])
+- [[FRN (Forskningsrådsnämnden)|FRN]] ([Vetenskapsrådet](../../organisationer/Vetenskapsrådet.md))
 - [[Teknisk Framsyn]]
 
 #### Specialarbetsnätverket
 
-- [[MISTRA]]
+- [MISTRA](../../organisationer/MISTRA.md)
 - [[Skogs- och jordbrukets forskningsråd|Skogs & Jordbruksforskningsrådet]]
 - [[FRN (Forskningsrådsnämnden)|Forskningsrådsnämnden]]
 - [[Medicinska forskningsrådet]]
 
 #### Utställningen Unga Forskare
 
-- [[Chalmers tekniska högskola|Chalmers Tekniska Högskola]]
+- [Chalmers Tekniska Högskola](../../skolor/Chalmers%20tekniska%20högskola.md)
 - [[Civilingenjörsförbundet]]
-- [[Göteborgs universitet|Göteborgs Universitet]]
-- [[Intel]]
+- [Göteborgs Universitet](../../skolor/Göteborgs%20universitet.md)
+- [Intel](../../organisationer/Intel.md)
 - [IVA](../../organisationer/IVA%20(Kungliga%20Ingenjörsakademien).md)
 - [Kungliga Tekniska Högskolan](../../skolor/KTH%20(Kungliga%20Tekniska%20Högskolan).md)
 - [Linköpings Universitet](../../skolor/LiU%20(Linköpings%20Universitet).md)
-- [[Luleå tekniska universitet|Luleå Tekniska Universitet]]
+- [Luleå Tekniska Universitet](../../skolor/Luleå%20tekniska%20universitet.md)
 - [[Lunds tekniska högskola|Lunds Tekniska Högskola]]
 - [[Ny Teknik]]
 - [[Saab]]
-- [[Scania]]
-- [[Stockholms universitet|Stockholms Universitet]]
-- [[Sveriges lantbruksuniversitet|Sveriges Lantbruksuniversitet]]
+- [Scania](../../organisationer/Scania.md)
+- [Stockholms Universitet](../../skolor/Stockholms%20universitet.md)
+- [Sveriges Lantbruksuniversitet](../../skolor/SLU%20(Sveriges%20lantbruksuniversitet).md)
 - [Tekniska Museet](../../organisationer/Tekniska%20Museet.md)
-- [[Uppsala universitet|Uppsala Universitet]]
+- [Uppsala Universitet](../../skolor/Uppsala%20universitet.md)
 
 ### Stipendier
 
-- [[Anders Walls stiftelse|Anders Walls stiftelser]]
+- [Anders Walls stiftelser](../../organisationer/Anders%20Walls%20stiftelse.md)
 - [[Biologilärarnas förening]]
-- [[Chalmers tekniska högskola|Chalmers Tekniska Högskola]]
-- [[Forskning och Framsteg|Forskning och framsteg]]
+- [Chalmers Tekniska Högskola](../../skolor/Chalmers%20tekniska%20högskola.md)
+- [Forskning och framsteg](../../organisationer/Forskning%20&%20Framsteg.md)
 - [[Gertrude och Ivar Philipsons stiftelse]]
 - [Gundel Cornelias Stipendiefond för Unga Forskare](../../verksamheter/GCB%20(Gundel%20Cornelia%20Babs%20stipendiefond).md)
 - [[IAR Systems]]

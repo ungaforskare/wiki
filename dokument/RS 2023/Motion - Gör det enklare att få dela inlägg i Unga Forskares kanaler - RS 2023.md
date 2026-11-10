@@ -23,13 +23,13 @@ Ett praktiskt förslag på hur detta kan göras är att ha en ansvarig kontaktpe
 >
 > att (1) En tydlig och enkel process ska tas fram för medlemsföreningarna och andra organisationer som verkar i linje med Unga Forskares syfte att kostnadsfritt få material delat i Unga Forskares sociala kanaler.
 
-Benjamin Verbeek, vice-ordförande [[Ung Vetenskapssport]]
+Benjamin Verbeek, vice-ordförande [Ung Vetenskapssport](../../föreningar/Ung%20Vetenskapssport.md)
 
 Uppsala, den 29 september 2023
 
 ## Motionssvar
 
-Dokumentansvariga: [[Max Vinger]], [[Marina Peltonen]], 2023-10-10
+Dokumentansvariga: [Max Vinger](../../personer/Max%20Vinger.md), [Marina Peltonen](../../personer/Marina%20Peltonen.md), 2023-10-10
 
 [Förbundsstyrelsen](../../verksamheter/FS%20(Förbundsstyrelsen).md) välkomnar intresset från medlemsföreningarna att sprida information om sina evenemang i Unga Forskares olika sociala kanaler. Medlemsföreningar kan idag få sina event inlagda i eventkalendern på Unga Forskares hemsida, vi har en stående inbjudan för medlemsföreningar att tipsa om saker i våra ordförandebrev, och har bjudit in till att skriva blogginlägg på hemsidan och gemensamma debattartiklar. Dessutom kan alla medlemsföreningar tipsa om saker Unga Forskare forum på Facebook, och vi ser över möjligheten att införa en Discord med liknande syfte. Förbundsstyrelsen har under många år försökt ha en öppen dialog med medlemsföreningarna om att de kan publicera i dessa sociala kanaler. Intresset för samtliga av dessa möjligheter har dock varit lågt.
 

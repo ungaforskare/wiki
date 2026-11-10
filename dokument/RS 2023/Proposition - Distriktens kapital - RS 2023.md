@@ -10,7 +10,7 @@ namn: Distriktens kapital
 >[!warning]
 > Riksstämman antog propositionen (att 33, se §6f i [protokollet](Protokoll%20-%20RS%202023.md)).
 
-Dokumentansvarig: [[Max Robertsson]], 2023-10-08
+Dokumentansvarig: [Max Robertsson](../../personer/Max%20Robertsson.md), 2023-10-08
 
 ## Proposition — Distriktens kapital
 

@@ -20,13 +20,13 @@ Jag kan med stolthet se tillbaka och glädjas över att vi ännu ett år jobbat 
 
 Att ni medlemmar och aktiva ägnar er åt att driva verksamheter inom naturvetenskap, teknik och matematik och ser till att sprida och öppna upp intresset samt ger möjlighet för att de som brinner för dessa ämnen ska kunna ägna sin fritid åt det de tycker allra mest om är så otroligt viktigt. Det är alla unga runt om i landet som är den bidragande faktorn till att Unga Forskare kan stå ut i mängden. Som vårt syfte anger jobbar vi verkligen unga för unga, och det är verkligen tack vare alla våra fantastiska engagerade ungdomar som vi kan fortsätta bedriva den verksamhet vi gör!
 
-[[Linnea Suomenniemi|Linnéa Suomenniemi]], Förbundsordförande
+[Linnéa Suomenniemi](../../personer/Linnea%20Suomenniemi.md), Förbundsordförande
 
 ## Unga Forskare
 
 Vi vill att nyfikenheten och intresset för naturvetenskap, teknik och matematik ska ha en självklar plats i ungas liv. Unga Forskare erbjuder en mängd plattformar som utvecklar, inspirerar och förenar ungdomar i Sverige och internationellt, sedan 1977.
 
-Under året har vi haft 45 anslutna medlemsföreningar och bedrivit fem nationella verksamheter. De totala verksamhetsintäkterna låg på 5 688 382 kr. Unga Forskare är en ideell förening som är demokratiskt styrd samt partipolitiskt och religiöst obunden. Organisationens högsta beslutande organ är Riksstämman som utser en förbundsstyrelse som ansvarar och arbetar med strategiska frågor för Unga Forskare. [Förbundsstyrelsen](../../verksamheter/FS%20(Förbundsstyrelsen).md) har bestått av sex ledamöter där förbundsordförande var [[Linnea Suomenniemi]]. Kansliet är den operativa enheten som driver och koordinerar organisationen i enlighet med framtagna riktlinjer och strategiska mål, senast antagna av Riksstämman 2016. Kansliet består av anställd personal och personalstyrkan kan under året variera från 5 upp till 16 anställda på sommaren då vi har våra sommarforskarskolor igång.
+Under året har vi haft 45 anslutna medlemsföreningar och bedrivit fem nationella verksamheter. De totala verksamhetsintäkterna låg på 5 688 382 kr. Unga Forskare är en ideell förening som är demokratiskt styrd samt partipolitiskt och religiöst obunden. Organisationens högsta beslutande organ är Riksstämman som utser en förbundsstyrelse som ansvarar och arbetar med strategiska frågor för Unga Forskare. [Förbundsstyrelsen](../../verksamheter/FS%20(Förbundsstyrelsen).md) har bestått av sex ledamöter där förbundsordförande var [Linnea Suomenniemi](../../personer/Linnea%20Suomenniemi.md). Kansliet är den operativa enheten som driver och koordinerar organisationen i enlighet med framtagna riktlinjer och strategiska mål, senast antagna av Riksstämman 2016. Kansliet består av anställd personal och personalstyrkan kan under året variera från 5 upp till 16 anställda på sommaren då vi har våra sommarforskarskolor igång.
 
 För att Unga Forskare ska kunna driva den organisation vi gör idag behöver vi engagerade medlemmar och andra frivilliga som hjälper oss att genomföra vår verksamhet. Det kan handla om engagemang i våra verksamhetsgrupper, jury i våra stipendiekommittéer eller i samband med Utställningen, göra skolbesök eller andra stödjande insatser som gör att vi kan nå unga i hela landet.
 
@@ -38,7 +38,7 @@ Ref: [RS (Riksstämman)](../../verksamheter/RS%20(Riksstämman).md)
 
 Riksstämman är Unga Forskares högsta beslutande organ. Alla föreningar som är anslutna till Unga Forskare har rösträtt vid Riksstämman och alla medlemmar är välkomna att delta.
 
-Ordinarie Riksstämman ägde rum i [[Lund]] 16-18 november med 23 ombud från 10 föreningar närvarade.
+Ordinarie Riksstämman ägde rum i [Lund](../../platser/orter/Lund.md) 16-18 november med 23 ombud från 10 föreningar närvarade.
 
 Riksstämman 2018 beslutade att fokustemat för 2019 skulle vara att arbeta för ökad psykisk hälsa bland unga.
 
@@ -59,7 +59,7 @@ Strategins tematiska områden:
 
 ### Kongressen
 
-Ref: [[Kongressen]]
+Ref: [Kongressen](../../verksamheter/Kongressen.md)
 
 Vid sidan av Riksstämman genomför vi den s.k. Kongressen som är ett utbildningstillfälle för våra medlemsföreningar. Kongressen sammanfaller i samband med Riksstämman för att göra det enklare för våra föreningar att kunna delta på båda evenemangen. Årets fokustema på Kongressen var inkludering och likabehandling. Utbildningsdagen gick under rubriken; "Inkludera – när olika människor trivs ihop!"
 
@@ -71,9 +71,9 @@ Utöver det stora engagemanget som finns inom våra medlemsföreningar är cirka
 
 Våra stora verksamheter [Utställningen Unga Forskare](../../verksamheter/UUF%20(Utställningen%20Unga%20Forskare).md) och [Stockholm International Youth Science Seminar](../../verksamheter/SIYSS%20(Stockholm%20International%20Youth%20Science%20Seminar).md), SIYSS, genomförs av projektgrupper med ideellt aktiva medlemmar från hela landet.
 
-Årets arrangörsgrupp av Utställningen (UG) bestod av 16 personer som jobbade under ledning av projektledare [[Jonathan Jilg]] och arrangörsgruppen (AG) för SIYSS bestod av 13 personer och leddes av projektledare [[Marika Mourujärvi]].
+Årets arrangörsgrupp av Utställningen (UG) bestod av 16 personer som jobbade under ledning av projektledare [Jonathan Jilg](../../personer/Jonathan%20Jilg.md) och arrangörsgruppen (AG) för SIYSS bestod av 13 personer och leddes av projektledare [Marika Mourujärvi](../../personer/Marika%20Mourujärvi.md).
 
-Vi når cirka 7000 unga årligen som lyssnar, deltar och inspireras genom våra olika aktiviteter så som skolbesök, mässor eller seminarium eller är med i en förening. Under året medverkade vi exempelvis på [Vetenskapsfestivalens](../../organisationer/Vetenskapsfestivalen.md) skolprogram i [[Göteborg]] där vi i samarbete med [[AstraZeneca]] gjorde en kemilabb med klasser i högstadiet. Vi ställde även ut på [[Skolforum]], [[Saco-mässan]] i [Malmö](../../platser/orter/Malmö.md), [[Berzeliusdagarna]], Sveriges största kemimöte för gymnasister.
+Vi når cirka 7000 unga årligen som lyssnar, deltar och inspireras genom våra olika aktiviteter så som skolbesök, mässor eller seminarium eller är med i en förening. Under året medverkade vi exempelvis på [Vetenskapsfestivalens](../../organisationer/Vetenskapsfestivalen.md) skolprogram i [Göteborg](../../platser/orter/Göteborg.md) där vi i samarbete med [AstraZeneca](../../organisationer/AstraZeneca.md) gjorde en kemilabb med klasser i högstadiet. Vi ställde även ut på [[Skolforum]], [[Saco-mässan]] i [Malmö](../../platser/orter/Malmö.md), [[Berzeliusdagarna]], Sveriges största kemimöte för gymnasister.
 
 ## Vi väcker och fördjupar intresse
 
@@ -83,13 +83,13 @@ Vår verksamhet är extra viktigt när vi idag kan läsa om att det kommer råda
 
 En ljusning är ändå att ingenjör toppar listor över svenskarnas drömjobb. Allra hetast är yrket bland unga under 29 år. En viktig del i Unga Forskares arbete är att väcka och fördjupa ungas intresse för ämnena.
 
-Vår verksamhet och arbete genomsyras av vår ambition att väcka och fördjupa intresset hos unga inom naturvetenskap, teknik och matematik. Vi vill bidra till en positiv utveckling av denna utmaning. Ett exempel på hur vi arbetar är våra Sommarforskarskolor som vi arrangerar varje sommar i [[Stockholm]] och [[Göteborg]] tillsammans med [[AstraZeneca]] och [[Borealis]], [KTH](../../skolor/KTH%20(Kungliga%20Tekniska%20Högskolan).md) och [[Göteborgs universitet]]. Under totalt 5 veckor deltar 130 elever från åk 8, 9 och 1 på gymnasiet och lär sig laborera och experimentera inom flera naturvetenskapliga och tekniska discipliner. Vi utgår alltid från elevernas egen nyfikenhet och upptäckarglädje vilket är en förutsättning för ett långsiktigt och hållbart intresse.
+Vår verksamhet och arbete genomsyras av vår ambition att väcka och fördjupa intresset hos unga inom naturvetenskap, teknik och matematik. Vi vill bidra till en positiv utveckling av denna utmaning. Ett exempel på hur vi arbetar är våra Sommarforskarskolor som vi arrangerar varje sommar i [Stockholm](../../platser/orter/Stockholm.md) och [Göteborg](../../platser/orter/Göteborg.md) tillsammans med [AstraZeneca](../../organisationer/AstraZeneca.md) och [Borealis](../../organisationer/Borealis.md), [KTH](../../skolor/KTH%20(Kungliga%20Tekniska%20Högskolan).md) och [Göteborgs universitet](../../skolor/Göteborgs%20universitet.md). Under totalt 5 veckor deltar 130 elever från åk 8, 9 och 1 på gymnasiet och lär sig laborera och experimentera inom flera naturvetenskapliga och tekniska discipliner. Vi utgår alltid från elevernas egen nyfikenhet och upptäckarglädje vilket är en förutsättning för ett långsiktigt och hållbart intresse.
 
 I Sommarforskarskolorna finns inga betyg utan syftet är att väcka en känsla av att naturvetenskap är spännande och roligt samt att ge perspektiv på ämnenas betydelse i samhället. Vi erbjuder deltagarna en gemenskap och lyfter fram unga förebilder genom de unga engagerade handledarna som själva studerar ämnena på universitetsnivå. Deltagarna får möjlighet att vistas i professionella labb med riktiga och samhällsnära case.
 
 Sommarforskarskolan visar på hur vi kan knyta an till de verkliga och stora utmaningarna i vårt globala samhälle och visa på hur unga kan vara med och påverka med hjälp av naturvetenskap och teknik. Våra sommarforskarskolor är en viktig plattform för unga att hitta en gemenskap och vidga sina nätverk bland andra med samma intresse.
 
-[[AstraZenecas Sommarforskarskola|AstraZeneca Sommarforskarskola]] hölls på KTH i Stockholm i juni och på Göteborgs universitet i augusti med totalt 104 elever. Temat var "Teknik och hälsa – idag och i morgon". [[Borealis-Unga Forskare Sommarforskarskola]] med 20 elever i åk 8 och 9 genomfördes på Göteborgs universitet på temat "Fantastiska upptäckter". Exempel på labbar som eleverna fick göra var bygga en pinnhålkamera, robotprogrammering och experimentella reaktioner.
+[AstraZeneca Sommarforskarskola](../../verksamheter/AstraZenecas%20Sommarforskarskola.md) hölls på KTH i Stockholm i juni och på Göteborgs universitet i augusti med totalt 104 elever. Temat var "Teknik och hälsa – idag och i morgon". [[Borealis-Unga Forskare Sommarforskarskola]] med 20 elever i åk 8 och 9 genomfördes på Göteborgs universitet på temat "Fantastiska upptäckter". Exempel på labbar som eleverna fick göra var bygga en pinnhålkamera, robotprogrammering och experimentella reaktioner.
 
 För att kunna erbjuda en extra utmaning för motiverade och kunniga elever finns även möjligheten att ansöka om en spetsplats. Det innebär att eleven deltar i årskursen över respektive är med på en extra avancerad laboration.
 
@@ -101,7 +101,7 @@ Förutom att väcka och fördjupa ungas intresse inom naturvetenskap, teknik och
 
 Unga Forskare har bland annat den unika möjligheten att dela ut två stipendier varje år till två gymnasister för deltagande i det internationella forskningsprogrammet [[RSI (Research Science Institute)|Research Science Institute – RSI]] i USA. Programmet omfattar sex veckors forskning på ett av världens mest prestigefulla universitet Massachusetts Institute of Technology, MIT. Årets stipendiater var [[Julia Berndtsson]] och [[Simon Thor]].
 
-Vi har även förmånen att nominera stipendiater till [[Anders Walls stiftelse|Anders Walls stiftelses]] stipendium inom naturvetenskaplig forskning och teknik. Den eller de sökande som får stipendiet erhåller var för sig 150 000 kr ämnat att stödja fortsatt forskning och personlig utveckling. 2018 års stipendiater var [[Mariam Andersson]] och [[Kei Landin]].
+Vi har även förmånen att nominera stipendiater till [Anders Walls stiftelses](../../organisationer/Anders%20Walls%20stiftelse.md) stipendium inom naturvetenskaplig forskning och teknik. Den eller de sökande som får stipendiet erhåller var för sig 150 000 kr ämnat att stödja fortsatt forskning och personlig utveckling. 2018 års stipendiater var [[Mariam Andersson]] och [[Kei Landin]].
 
 Ett annat exempel på hur vi arbetar gentemot talangfulla ungdomar som står på tröskeln till en framtid inom naturvetenskap är [Utställningen Unga Forskare](../../verksamheter/UUF%20(Utställningen%20Unga%20Forskare).md). Inom Utställningen tävlar gymnasieelever varje år sedan 1963 med sina gymnasiearbeten inom naturvetenskap, teknik och matematik. De tävlande ställer ut sina projekt, träffar likasinnade, blir bedömda och får respons från professionella forskare i juryn. 2018 tävlade 535 ungdomar i uttagningstävlingarna vilket är rekord i verksamhetens historia. Cirka 100 ungdomar går vidare från nio lokala semifinaler till final i Stockholm. Här får de ta del av studiebesök och föreläsningar samt information och inspiration om olika karriärbanor inom forskning. Erfarenheter från Utställningen följer deltagare genom hela livet och spelar ofta en avgörande roll för framtida val.
 
@@ -127,7 +127,7 @@ Sedan 1976 står vi som värd för ett av vetenskapsvärldens mest prestigefylld
 
 Alla deltagare har blivit utvalda för sin framstående forskning på internationella vetenskapstävlingar eller av topprankade universitet och detta året var 19 länder representerade vid SIYSS, inklusive en deltagare från Sverige som utsågs av [Kungliga Tekniska Högskolan (KTH)](../../skolor/KTH%20(Kungliga%20Tekniska%20Högskolan).md).
 
-De internationella deltagarna fick ta del av vetenskap i världsklass, träffa likasinnade ungdomar samt förmånen att delta vid flera av [Nobelstiftelsen](../../organisationer/Nobelstiftelsen.md) arrangemang, där ibland prisceremonin för Nobelpriset. Veckan präglas av både kulturellt och intellektuellt utbyte och programmet var i enlighet med SIYSS syfte även fokuserat på att presentera världsledande forskning och introducera deltagarna till svenskt näringsliv. Detta gjordes bland annat genom studiebesök på [[Xylem]] och diverse sociala aktiviteter.
+De internationella deltagarna fick ta del av vetenskap i världsklass, träffa likasinnade ungdomar samt förmånen att delta vid flera av [Nobelstiftelsen](../../organisationer/Nobelstiftelsen.md) arrangemang, där ibland prisceremonin för Nobelpriset. Veckan präglas av både kulturellt och intellektuellt utbyte och programmet var i enlighet med SIYSS syfte även fokuserat på att presentera världsledande forskning och introducera deltagarna till svenskt näringsliv. Detta gjordes bland annat genom studiebesök på [Xylem](../../organisationer/Xylem.md) och diverse sociala aktiviteter.
 
 Under SIYSS-veckan anordnar Unga Forskare SIYSS-seminariet (6 december), där de internationella deltagarna presenterar sina forskningsprojekt för cirka 1500 svenska gymnasieelever på plats på [[Cirkus]] i Stockholm. Seminariet pågår under en hel dag och här ger vi unga möjlighet att inspirera och inspireras av jämnåriga samt en möjlighet att på ett personligt plan träffas och utbyta tankar, idéer och nätverk.
 
@@ -135,7 +135,7 @@ Syftet är att inspirera och stärka elevernas intresse för naturvetenskaplig f
 
 Majoriteten av besökande elever var från Stockholmsområdet men vi ökade i år den geografiska spridningen med hjälp av live-streaming på webben för allmänheten och skolklasser att titta på vilket ökar möjligheten för unga att ta del av arrangemanget på distans och i efterhand.
 
-SIYSS Seminariet är en unik mötesplats för svenska skolungdomar och internationella unga forskare från hela världen. Forskningsprojekten presenteras på scen men även i monterform, vilket ger stort utrymme till både intellektuellt och kulturellt utbyte då besökande elever och skolklasser får möjlighet att prata med de internationella deltagarna. I syfte att engagera eleverna så mycket som möjligt hölls det även en interaktiv "Science Show" utav studenter från [[Stockholms universitet]] och guidade turer runt alla montrar. Utöver detta gav [[Ulf Danielsson]], professor i teoretisk fysik vid [[Uppsala universitet]] en fullbokad, och mycket uppskattad gästföreläsning. Många lärare ser positivt på att besöka eventet som komplement till den vanliga skolundervisningen och tar med sig frågeställningar och diskussioner från seminariet tillbaka till klassrummet.
+SIYSS Seminariet är en unik mötesplats för svenska skolungdomar och internationella unga forskare från hela världen. Forskningsprojekten presenteras på scen men även i monterform, vilket ger stort utrymme till både intellektuellt och kulturellt utbyte då besökande elever och skolklasser får möjlighet att prata med de internationella deltagarna. I syfte att engagera eleverna så mycket som möjligt hölls det även en interaktiv "Science Show" utav studenter från [Stockholms universitet](../../skolor/Stockholms%20universitet.md) och guidade turer runt alla montrar. Utöver detta gav [[Ulf Danielsson]], professor i teoretisk fysik vid [Uppsala universitet](../../skolor/Uppsala%20universitet.md) en fullbokad, och mycket uppskattad gästföreläsning. Många lärare ser positivt på att besöka eventet som komplement till den vanliga skolundervisningen och tar med sig frågeställningar och diskussioner från seminariet tillbaka till klassrummet.
 
 ## Vi är ett komplement och en del av skolan
 
@@ -145,7 +145,7 @@ För oss är det självklart att skolundervisningen ska vara stimulerande för e
 
 Vi tycker också att externa aktörer till skolan kan utgöra ett bra komplement till undervisningen inom naturvetenskap, teknik och matematik. Unga Forskare är genom många av våra verksamheter ett stöd till lärare och elever, som en integrerad del i undervisningen eller som ett närliggande verktyg till skolan. Vi samarbetar med lärare på grund- och gymnasieskolor runt om i Sverige och vi är oerhört glada och tacksamma för att de återkommande väljer att medverka med sina elever i våra olika aktiviteter och publika projekt. Ett exempel på en verksamhet vi har som använts framgångsrikt i skolan är [Gnistan - Unga idéer om energi](../../verksamheter/Gnistan.md).
 
-Gnistan riktar sig till åk 8 och 9 på högstadiet och genomförs tillsammans med [[Vattenfall]], [[Teknikens Hus]] i [[Luleå]], [[Innovatum Science Center|Innovatum Science center]] i [[Trollhättan]] samt [[Vattenhallen Science Center|Vattenhallen]] i [[Lund]]. I Gnistan deltar cirka 500 elever varje år på de tre orterna där uppdraget är att utveckla framtidsvisioner inom temat energi och hållbarhet.
+Gnistan riktar sig till åk 8 och 9 på högstadiet och genomförs tillsammans med [Vattenfall](../../organisationer/Vattenfall.md), [[Teknikens Hus]] i [[Luleå]], [[Innovatum Science Center|Innovatum Science center]] i [[Trollhättan]] samt [Vattenhallen](../../organisationer/Vattenhallen%20Science%20Center.md) i [Lund](../../platser/orter/Lund.md). I Gnistan deltar cirka 500 elever varje år på de tre orterna där uppdraget är att utveckla framtidsvisioner inom temat energi och hållbarhet.
 
 Syftet är att väcka intresse för naturvetenskap och teknik hos unga och ge dem en möjlighet att engagera sig i samhällsutvecklingen. Vi vill inspirera unga till att läsa vidare på naturvetenskapliga och tekniska program på gymnasiet. I mätningar kan vi se att elever som deltar i Gnistan har högre benägenhet att välja naturvetenskapliga eller tekniska program på gymnasiet än riksgenomsnittet. De skolor som deltar i projektet arbetar strukturerat under sex veckor, både ämnesintegrerat i skolan samt under gemensamma träffar och workshops på de tre Science Centers. Dessutom får de stöd och inspiration av mentorer från Unga Forskare lokalt på plats i klassrummet i sitt arbete mot nya idéer och koncept. Avslutningsvis ger en jury feedback på deltagarnas projekt och utser vinnare av bästa vision.
 
@@ -169,7 +169,7 @@ För att öka antalet besökande skolklasser till våra semifinaler i Utställni
 
 ## Sveriges Unga Forskningslandslag
 
-Ref: [[Sveriges Unga Forskningslandslag]]
+Ref: [Sveriges Unga Forskningslandslag](../../verksamheter/Sveriges%20Unga%20Forskningslandslag.md)
 
 Unga inspireras bäst av andra unga. Därför behöver unga förebilder inom naturvetenskap, teknik och matematik lyftas fram i samhället.
 
@@ -183,7 +183,7 @@ Under året representerade Forskningslandslaget Sverige i följande tävlingar:
 
   Intel ISEF är världens största utställning och tävling för tekniskt och naturvetenskapligt intresserade ungdomar. Tävlingen arrangeras i Pittsburgh, USA 13-18 maj. ISEF har 1,8 miljoner ungdomar i uttagningstävlingarna världen över.
 
-- [[Stockholm Junior Water Prize]]
+- [Stockholm Junior Water Prize](../../organisationer/Stockholm%20Junior%20Water%20Prize.md)
 
   Genomförs under World Water Week i augusti Stockholm, där ungdomar från runt 30 länder deltar.
 
@@ -216,14 +216,14 @@ China Adolescents Science & Technology Innovation Contest (CASTIC):
 ### Sveriges Unga Forskningslandslag 2018
 
 - [[Johanna Huhtasaari]], [[Midgårdsskolan]], Umeå
-- Nikita Zozoulenko, [[Katedralskolan Linköping|Katedralskolan]], Linköping
+- Nikita Zozoulenko, [Katedralskolan](../../skolor/Katedralskolan%20Linköping.md), Linköping
 - Erik Hartman, [[Katedralskolan Lund|Katedralskolan]], Lund
 - David Hambraeus, [[Lugnetgymnasiet]], Falun
 - Noa Vikman, [[Kungsholmens gymnasium]], Stockholm
 - [[Pontus Johansson]], [[Fredrika Bremergymnasiet]], Haninge
-- [[Alex Hamben]], [[Viktor Rydbergs gymnasium Odenplan|Viktor Rydberg gymnasium Odenplan]], Stockholm
-- [[Gustaf Sidén]], [[Viktor Rydbergs gymnasium Odenplan|Viktor Rydberg gymnasium Odenplan]], Stockholm
-- [[Marve Grönblad Veteranen]], [[Viktor Rydbergs gymnasium Odenplan|Viktor Rydberg gymnasium Odenplan]], Stockholm
+- [[Alex Hamben]], [Viktor Rydberg gymnasium Odenplan](../../skolor/Viktor%20Rydbergs%20gymnasium%20Odenplan.md), Stockholm
+- [[Gustaf Sidén]], [Viktor Rydberg gymnasium Odenplan](../../skolor/Viktor%20Rydbergs%20gymnasium%20Odenplan.md), Stockholm
+- [[Marve Grönblad Veteranen]], [Viktor Rydberg gymnasium Odenplan](../../skolor/Viktor%20Rydbergs%20gymnasium%20Odenplan.md), Stockholm
 
 ## Vi lyfter fram ungas röster - Unga Forskare i media
 
@@ -239,7 +239,7 @@ En viktig del av Unga Forskare arbete är att delta i olika forum för dialog so
 
 Några av de forum vi deltog i under året var:
 
-- [[Almedalen]] (deltagit som paneldeltagare i flera pass)
+- [Almedalen](../../organisationer/Almedalen.md) (deltagit som paneldeltagare i flera pass)
 - [[CETIS]]-konferens
 
 ## Ungas organisering
@@ -267,10 +267,10 @@ Information och inspirationsaktiviteter:
 Tävlingsverksamhet:
 
 - [[Programmeringsolympiaden]]
-- [[Swedish Coding Cup]]
+- [Swedish Coding Cup](../../organisationer/Swedish%20Coding%20Cup.md)
 - [[Robot SM]]
 - [[Högstadiets Matematiktävling]]
-- Deltagit i [[iGEM|iGem]] och [[IYPT]]
+- Deltagit i [[iGEM|iGem]] och [IYPT](../../organisationer/IYPT%20(International%20Young%20Physicists'%20Tournament).md)
 
 Lov-och helgverksamhet:
 
@@ -294,49 +294,49 @@ Lokala projekt kring:
 
 <!-- Listan står i två spalter i källan; ordningen här följer spalterna (vänster spalt först). -->
 
-- [[Naturvetenskapliga Föreningen]]
-- [[Calmare Naturvetenskapliga Studentförening]]
-- [[Code@LTH]] <!-- OCR: "CodeQLTH"; rättat till "Code@LTH" (kontrollerat mot pdf:en). -->
+- [Naturvetenskapliga Föreningen](../../föreningar/Naturvetenskapliga%20Föreningen.md)
+- [Calmare Naturvetenskapliga Studentförening](../../föreningar/Calmare%20Naturvetenskapliga%20Studentförening.md)
+- [Code@LTH](../../föreningar/Code@LTH.md) <!-- OCR: "CodeQLTH"; rättat till "Code@LTH" (kontrollerat mot pdf:en). -->
 - [[Ekosystemtekniksektionen inom TLTH]]
-- [[F-teknologsektionen inom TLTH]]
-- [[Hållbart Universitet]]
-- [[IYPT Sweden|IYPT SWEDEN]]
+- [F-teknologsektionen inom TLTH](../../föreningar/F-sektionen%20inom%20TLTH.md)
+- [Hållbart Universitet](../../föreningar/Hållbart%20Universitet.md)
+- [IYPT SWEDEN](../../föreningar/IYPT%20Sweden.md)
 - [[Lund Sustainable Engineers]]
-- [[Malmös Akademiska Förening]]
-- [[Maskinsektionen inom TLTH]]
+- [Malmös Akademiska Förening](../../föreningar/Malmös%20Akademiska%20Förening.md)
+- [Maskinsektionen inom TLTH](../../föreningar/Maskinsektionen%20inom%20TLTH.md)
 - [[Ung Vetenskapssport Lund]]
 - [[Unga Forskare Helsingborg]]
 - [Alef Noll](../../föreningar/Alef%20Noll.md)
-- [[Alumniföreningen Utställningen Unga Forskare]]
-- [[Kodsport Sverige]]
-- [[KYSS|Kungsholmen's Young Scientists' Society]]
+- [Alumniföreningen Utställningen Unga Forskare](../../föreningar/Alumniföreningen%20Utställningen%20Unga%20Forskare.md)
+- [Kodsport Sverige](../../föreningar/Kodsport%20Sverige.md)
+- [Kungsholmen's Young Scientists' Society](../../föreningar/KYSS%20(Kungsholmens%20Young%20Scientists'%20Society).md)
 - [[Naprapathögskolans Forskarsällskap]]
-- [[SIYSS-föreningen|Stockholm International Youth Science Seminar]]
-- [[THS - Kemisektionen]]
-- [[Ung Vetenskapssport]]
+- [Stockholm International Youth Science Seminar](../../föreningar/SIYSS-föreningen.md)
+- [THS - Kemisektionen](../../föreningar/THS%20-%20Kemisektionen.md)
+- [Ung Vetenskapssport](../../föreningar/Ung%20Vetenskapssport.md)
 - [[Unga Forskare - Stockholmsregionen]]
-- [[Europaskolan för vetenskap|Europaskolan för Vetenskap]]
-- [[FET (Föreningen Energisystemteknologerna)|Föreningen Energisystemteknologerna]]
-- [[Geovetenskapliga Rådet för Uppsala Studenter]]
-- [[iGEM Uppsala]]
-- [[Intresseföreningen Uppsala Akademiska Kemister]]
+- [Europaskolan för Vetenskap](../../föreningar/Europaskolan%20för%20vetenskap.md)
+- [Föreningen Energisystemteknologerna](../../föreningar/FET%20(Föreningen%20Energisystemteknologerna).md)
+- [Geovetenskapliga Rådet för Uppsala Studenter](../../föreningar/GRUS%20(Geovetenskapliga%20Rådet%20för%20Uppsala%20Studenter).md)
+- [iGEM Uppsala](../../föreningar/iGEM%20Uppsala.md)
+- [Intresseföreningen Uppsala Akademiska Kemister](../../föreningar/Intresseföreningen%20Uppsala%20Akademiska%20Kemister.md)
 - [[Matematiksällskapet]]
-- [[We Are W-Engineers]]
-- [[Chalmers Robotförening]]
+- [We Are W-Engineers](../../föreningar/WAWE%20(We%20Are%20W-Engineers).md)
+- [Chalmers Robotförening](../../föreningar/Chalmers%20Robotförening.md)
 - [[Intize Trollhättan]]
-- [[Molekulföreningen]]
-- [[Research Academy for Young Scientists]]
-- [[Elektronikföreningen Admittansen]]
-- [[Girls in STEM]]
-- [[Naturvetenskapliga Sällskapet]]
-- [[TBI-sektionen|Sektionen för Teknisk Biologi]]
-- [[ProCivitas Vetenskapsråd]]
+- [Molekulföreningen](../../föreningar/Molekulföreningen.md)
+- [Research Academy for Young Scientists](../../föreningar/RAYS%20(Research%20Academy%20for%20Young%20Scientists).md)
+- [Elektronikföreningen Admittansen](../../föreningar/Elektronikföreningen%20Admittansen.md)
+- [Girls in STEM](../../föreningar/Girls%20in%20STEM.md)
+- [Naturvetenskapliga Sällskapet](../../föreningar/Naturvetenskapliga%20Sällskapet.md)
+- [Sektionen för Teknisk Biologi](../../föreningar/TBI-sektionen.md)
+- [ProCivitas Vetenskapsråd](../../föreningar/ProCivitas%20Vetenskapsråd.md)
 - [[Vislandaskolan MISTER]]
-- [[Kemi- och biotekniksektionen inom TLTH|Kemi- och Biotekniksektionen inom TLTH]]
-- [[Kristianstads Science organization]]
+- [Kemi- och Biotekniksektionen inom TLTH](../../föreningar/Kemi-%20och%20biotekniksektionen%20inom%20TLTH.md)
+- [Kristianstads Science organization](../../föreningar/Kristianstads%20Science%20organization.md)
 - [[Unga Forskare - Malmö/Lund]]
-- [[AstraZenecas Sommarforskarskola]]
-- [[Föreningen Stockholms Amatörastronomer]]
+- [AstraZenecas Sommarforskarskola](../../verksamheter/AstraZenecas%20Sommarforskarskola.md)
+- [Föreningen Stockholms Amatörastronomer](../../föreningar/Föreningen%20Stockholms%20Amatörastronomer.md)
 - [[Östra Science club]]
 - [[Mendels ärtor]]
 
@@ -366,15 +366,15 @@ Ref: [FS (Förbundsstyrelsen)](../../verksamheter/FS%20(Förbundsstyrelsen).md)
 
 Unga Forskare leds av en förbundsstyrelse som väljs på Riksstämman på tvåårsmandatperioder. 2018 var första året på en ny mandatperiod.
 
-[[Linnea Suomenniemi]] (förbundsordförande), [[Mats Hallström]], [[Neda Farhand]], [[Max Vinger]], [[Ellinor Lindqvist]], [[Måns Holmberg]]. [[Jennifer Andersson]] (avgick februari)
+[Linnea Suomenniemi](../../personer/Linnea%20Suomenniemi.md) (förbundsordförande), [Mats Hallström](../../personer/Mats%20Hallström.md), [Neda Farhand](../../personer/Neda%20Farhand.md), [Max Vinger](../../personer/Max%20Vinger.md), [Ellinor Lindqvist](../../personer/Ellinor%20Lindqvist.md), [Måns Holmberg](../../personer/Måns%20Holmberg.md). [[Jennifer Andersson]] (avgick februari)
 
 ### Valberedning
 
 Ref: [Valberedningen](../../verksamheter/Valberedningen.md)
 
-- [[David Andersson]]
-- [[Julia Reinius]]
-- [[Alma Dannäs]]
+- [David Andersson](../../personer/David%20Andersson.md)
+- [Julia Reinius](../../personer/Julia%20Reinius.md)
+- [Alma Dannäs](../../personer/Alma%20Dannäs.md)
 
 ### Verksamhetsrevisorer
 
@@ -386,16 +386,16 @@ Kansliet arbetar med att utveckla och driva verksamhet framåt på uppdrag av Ri
 
 <!-- "Susanna Sundström": förnamnet är avhugget i vb-2019.txt ("a Sundström") men läsbart i RS2019.txt. -->
 
-- [[Anna Hedlund]], Generalsekreterare
-- [[Tove Ladberg]], Verksamhetsutvecklare
-- [[Paula Langöe|Paula Langöe Eliasson]], Projektutvecklare
+- [Anna Hedlund](../../personer/Anna%20Hedlund.md), Generalsekreterare
+- [Tove Ladberg](../../personer/Tove%20Ladberg.md), Verksamhetsutvecklare
+- [Paula Langöe Eliasson](../../personer/Paula%20Langöe.md), Projektutvecklare
 - [[Anna Wallgren]], vik. Verksamhetsutvecklare
-- [[Judith Maiers]], vik. Projektutvecklare (maj-)
+- [Judith Maiers](../../personer/Judith%20Maiers.md), vik. Projektutvecklare (maj-)
 - [[Amanda Raud]], Projektledare (jan- aug)
-- [[Maria Österlund]], Projektledare (juni-)
+- [Maria Österlund](../../personer/Maria%20Österlund.md), Projektledare (juni-)
 - [[Elin Luedtke]], Ringkontrollant (maj)
 - [[Susanna Sundström]], medlemsadministratör (mars-april)
-- [[Max Vinger]], vik. projektledare (dec-)
+- [Max Vinger](../../personer/Max%20Vinger.md), vik. projektledare (dec-)
 - [[Anna Nylén]], Koordinator sommarforskarskolor (feb-aug)
 - [[Jacob Clinton]], Handledare sommarforskarskolor (feb-aug)
 - [[Anna Dalgren]], Handledare sommarforskarskolor (feb-aug)
@@ -415,7 +415,7 @@ Våra nationella verksamhetsgrupper är:
 Andra nationella verksamheter och grupper:
 
 - Mentorer inom [Gnistan](../../verksamheter/Gnistan.md)
-- Nomineringskommitté för [[Anders Walls stiftelse|Anders Walls]] stipendium för unga forskare
+- Nomineringskommitté för [Anders Walls](../../organisationer/Anders%20Walls%20stiftelse.md) stipendium för unga forskare
 
 Övriga uppdrag under året:
 
@@ -431,17 +431,17 @@ Unga Forskare samarbetar med många olika organisationer, företag och stiftelse
 
 ### Svenska universitet och högskolor
 
-- [[Chalmers tekniska högskola]]
-- [[Göteborgs universitet]]
-- [[Göteborgs universitet]] naturvetenskapliga fakulteten
+- [Chalmers tekniska högskola](../../skolor/Chalmers%20tekniska%20högskola.md)
+- [Göteborgs universitet](../../skolor/Göteborgs%20universitet.md)
+- [Göteborgs universitet](../../skolor/Göteborgs%20universitet.md) naturvetenskapliga fakulteten
 - [Kungliga Tekniska Högskolan](../../skolor/KTH%20(Kungliga%20Tekniska%20Högskolan).md)
-- [[Lunds universitet]]
-- [[Mälardalens högskola]]
-- [[Stockholms universitet|Stockholms Universitet]]
-- [[Uppsala universitet]]
-- [[Högskolan Dalarna]]
+- [Lunds universitet](../../skolor/Lunds%20universitet.md)
+- [Mälardalens högskola](../../skolor/Mälardalens%20universitet.md)
+- [Stockholms Universitet](../../skolor/Stockholms%20universitet.md)
+- [Uppsala universitet](../../skolor/Uppsala%20universitet.md)
+- [Högskolan Dalarna](../../skolor/Högskolan%20Dalarna.md)
 - [Linköpings universitet](../../skolor/LiU%20(Linköpings%20Universitet).md)
-- [[Luleå tekniska universitet]]
+- [Luleå tekniska universitet](../../skolor/Luleå%20tekniska%20universitet.md)
 - [[Malmö högskola]]
 
 ### Internationella samarbeten
@@ -455,58 +455,58 @@ Unga Forskare samarbetar med många olika organisationer, företag och stiftelse
 - [[YoungQScience]], [[Davidson Institute]] at [[Weizmann Institute of Science]]
 - [[Research Council of Norway]]
 - [[Russian Youth Engineering Society]], [[Step into the Future]]
-- [[Schweizer Jugend forscht]]
+- [Schweizer Jugend forscht](../../organisationer/Schweizer%20Jugend%20forscht.md)
 - [[World Singapore Press]]
-- [[KAIST (Korea Advanced Institute of Science and Technology)|Korea Advanced Institute of Science and Technology]]
+- [Korea Advanced Institute of Science and Technology](../../skolor/KAIST%20(Korea%20Advanced%20Institute%20of%20Science%20and%20Technology).md)
 - [[Eskom Expo for Young Scientists]]: Derek Gray Memorial Award
-- [[Stiftung Jugend forscht|Stifung Jugend forscht]]
-- [[University of Cambridge]]
-- [[Hungarian Association for Innovation]]
+- [Stifung Jugend forscht](../../organisationer/Stiftung%20Jugend%20forscht.md)
+- [University of Cambridge](../../skolor/University%20of%20Cambridge.md)
+- [Hungarian Association for Innovation](../../organisationer/Hungarian%20Association%20for%20Innovation.md)
 - [[Japan Prize Foundation]]
-- [[Society for Science & the Public]] ([Intel International Science and Engineering Fair](../../organisationer/Intel%20ISEF.md))
+- [Society for Science & the Public](../../organisationer/Society%20for%20Science%20&%20the%20Public.md) ([Intel International Science and Engineering Fair](../../organisationer/Intel%20ISEF.md))
 - [[I-SWEEEP|International Sustainability World Energy Engineering Environment Project Olympiad]]
 - [[Swedish Council of America]]
 
 ### Stiftelser
 
-- [[Bertil Wollerts stipendiefond]]
+- [Bertil Wollerts stipendiefond](../../organisationer/Bertil%20Wollerts%20stipendiefond.md)
 - [Gundel Cornelias stipendiefond](../../verksamheter/GCB%20(Gundel%20Cornelia%20Babs%20stipendiefond).md)
 - [[Helge Ax:son Johnsons Stiftelse]]
 - [[Kjell och Märta Beijers Stiftelse]]
-- [[Wenner-Gren Stiftelserna]]
-- [[Stiftelsen Chelha]]
-- [[Kungliga Patriotiska Sällskapet]]
-- [[Oscar och Maria Ekmans Donationsfond]]
-- [[Prins Carl Gustafs Stiftelse]]
-- [[Åke Wibergs stiftelse]]
+- [Wenner-Gren Stiftelserna](../../organisationer/Wenner-Gren%20Stiftelserna.md)
+- [Stiftelsen Chelha](../../organisationer/Stiftelsen%20Chelha.md)
+- [Kungliga Patriotiska Sällskapet](../../organisationer/Kungliga%20Patriotiska%20Sällskapet.md)
+- [Oscar och Maria Ekmans Donationsfond](../../organisationer/Oscar%20och%20Maria%20Ekmans%20Donationsfond.md)
+- [Prins Carl Gustafs Stiftelse](../../organisationer/Prins%20Carl%20Gustafs%20Stiftelse.md)
+- [Åke Wibergs stiftelse](../../organisationer/Åke%20Wibergs%20stiftelse.md)
 
 ### Övriga sponsorer och samarbetspartners
 
 - [[AMO Tryck]]
-- [[AstraZeneca]]
-- [[Borealis]]
+- [AstraZeneca](../../organisationer/AstraZeneca.md)
+- [Borealis](../../organisationer/Borealis.md)
 - [[Göteborgs stad]]
-- [[Intel]]
+- [Intel](../../organisationer/Intel.md)
 - [[Innovatum Science Center]]
-- [[Hertz]]
-- [[Kreativum Science Center]]
+- [Hertz](../../organisationer/Hertz.md)
+- [Kreativum Science Center](../../organisationer/Kreativum%20Science%20Center.md)
 - [Kungliga Vetenskapsakademin (KVA)](../../organisationer/KVA%20(Kungliga%20Vetenskapsakademien).md)
-- [[Lindskog och Malmström]]
-- [[Naturhistoriska Riksmuseet]]
+- [Lindskog och Malmström](../../organisationer/Lindskog%20och%20Malmström.md)
+- [Naturhistoriska Riksmuseet](../../organisationer/Naturhistoriska%20Riksmuseet.md)
 - [[Podi]]
 - [Stockholm International Water Institute - SIWI](../../organisationer/SIWI%20(Stockholm%20International%20Water%20Institute).md)
 - [[SKR (Svenska kemiingenjörers riksförening)|SKR – Svenska kemiingenjörers riksförening]]
 - [[Sobi]]
 - [[Sveriges unga akademi]]
-- [[Stockholm Junior Water Prize]]
+- [Stockholm Junior Water Prize](../../organisationer/Stockholm%20Junior%20Water%20Prize.md)
 - [[Teknikens Hus]]
-- [[Teknikerjakten]]
+- [Teknikerjakten](../../organisationer/Teknikerjakten.md)
 - [Tekniska museet](../../organisationer/Tekniska%20Museet.md)
 - [[Tekniska museets vänner]]
-- [[Universeum]]
+- [Universeum](../../organisationer/Universeum.md)
 - [Vetenskapsfestivalen](../../organisationer/Vetenskapsfestivalen.md)
-- [[Vattenfall]]
-- [[Vattenhallen Science Center]]
-- [[Vetenskapens Hus]]
+- [Vattenfall](../../organisationer/Vattenfall.md)
+- [Vattenhallen Science Center](../../organisationer/Vattenhallen%20Science%20Center.md)
+- [Vetenskapens Hus](../../organisationer/Vetenskapens%20Hus.md)
 - [[Westin Buss]]
-- [[Xylem]]
+- [Xylem](../../organisationer/Xylem.md)
