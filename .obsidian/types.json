@@ -13,6 +13,7 @@
     "platser": "multitext",
     "källor": "multitext",
     "bilagor": "multitext",
-    "länkar": "multitext"
+    "länkar": "multitext",
+    "title": "text"
   }
 }

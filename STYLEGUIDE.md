@@ -19,6 +19,8 @@ Användning av förkortningar och unika namn
 
 För att `wikilinks` ska fungera så bra som möjligt är det viktigt att en fil inte har samma namn som en fil i en annan mapp. Exempel: `om/abc.md` `källor/abc.md`. Detta kan enklast lösas genom att filnamnet innehåller en del av mappnamnet och separera med bindesstreck `-` `om/abc-om.md`
 
+Undantaget är `index.md`, som finns i flera mappar (se [Mappar](#mappar)). Den länkas aldrig till med wikilänk, så namnet behöver inte vara unikt.
+
 #### Förkortningar
 
 Långa namn kan ofta ha en förkortning. För att man i filnamnet ska kunna läsa både förkortningen och namnet är det bra att förkortingen står först och namnet inom parentes `KORT (Fullständigt namn)`
@@ -27,6 +29,23 @@ Senare kan Obsidians [aliasfunktion](https://obsidian.md/help/aliases) användas
 ### Mappar
 
 Varje fil ska ligga i en mapp. Om en fil kan tillhöra flera mappar, låt den vara i den mapp där den passar bäst eller ändra innehållet så att filen kan delas i två.
+
+| Mapp | Innehåll | `kategorier` |
+|---|---|---|
+| `personer` | Personer som förekommer i källorna | `person` |
+| `föreningar` | Lokala medlemsföreningar i Unga Forskare | `förening` |
+| `distrikt` | Förbundets regionala distrikt | `distrikt` |
+| `verksamheter` | Verksamhet som förbundet självt har drivit: arrangemang, läger, verksamhetsgrupper, Riksstämman, Förbundsstyrelsen | `verksamheter` |
+| `organisationer` | Organisationer utanför förbundet: stiftelser, företag, myndigheter, andra föreningar och förbund | `extern` |
+| `skolor` | Skolor och högskolor | `skolor` |
+| `platser` | Platser, uppdelade i undermapparna `länder`, `landskap` och `orter` | `land`, `landskap`, `ort` |
+| `källor` | En not per historisk källa, som övriga noter hänvisar till | `källa` |
+| `dokument` | Källdokument avskrivna i sin helhet, en mapp per riksstämma (`RS ÅÅÅÅ`) | Se mallarna i `obsidian-mallar` |
+| `om` | Sidor om förbundet som helhet och om wikin | `om` |
+
+#### Mappens startsida
+
+Varje mapp har en `index.md` med en kort beskrivning av vad mappen innehåller, skriven för den som läser wikin. [Quartz](https://quartz.jzhao.xyz/) visar den överst på mappens sida, ovanför listan med noter. Rubriken sätts med `title` i frontmatter. Konventioner för hur noterna skrivs hör hemma i den här filen, inte i `index.md`.
 
 ### Mallar
 
@@ -156,6 +175,6 @@ För att snygga till texten automatiskt och upptäcka eventuella felaktigheter f
    1. Läs först filen `mise.toml` förstå vad den gör.
       1. Installerar hk och rumdl
       2. Konfigurerar git hooks för projektet med hk.
-   2. Kör `mise.trust` om du litar på vad som står i filen
+   2. Kör `mise trust` om du litar på vad som står i filen
    3. Kör sedan `mise install` så kommer alla verktyg som behövs installeras och konfigureras
 3. Vid en commit eller push kommer hk att köra rumdl för att validera filerna som har ändrats.
