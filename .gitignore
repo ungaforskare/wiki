@@ -25,3 +25,14 @@ Desktop.ini
 !.obsidian/types.json
 .trash/
 *.tmp
+
+# Lokala agentfiler (promptar, stilguider, skript, OCR, skärmdumpar) och agentkonfiguration
+.agent/
+.claude/
+CLAUDE.md
+CLAUDE.local.md
+AGENTS.md
+.mcp.json
+
+# Devcontainer (egen lokal konfiguration)
+.devcontainer/
